@@ -12423,7 +12423,7 @@
       "Violet McGraw": {
         "id": 2131391,
         "character": "Ella",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7r7Ukgg78GvHdLq1rzHoO0kjTKF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eUmM4LiDeduyNHIQ9SJJjEzuBKt.jpg"
       },
       "Sachin Bhatt": {
         "id": 1139163,
@@ -17487,7 +17487,7 @@
       "James Saito": {
         "id": 77155,
         "character": "Bob Lin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lA4woLg6MeSr7lK6hvBtY384kAU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2XiFPyvmJWUtaWHAJOhrMa6JJhQ.jpg"
       },
       "Rebecca Staab": {
         "id": 88168,
@@ -21396,7 +21396,7 @@
       "Ruth Jones": {
         "id": 192927,
         "character": "Farmer Beatie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5fMY8BX273q7QbvqyduyODrjZdB.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2ZflTqup7OJoZlo1aXcczGegDVS.jpg"
       },
       "Hugh Dennis": {
         "id": 151344,
@@ -29706,7 +29706,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
