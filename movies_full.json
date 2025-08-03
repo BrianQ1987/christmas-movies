@@ -10041,8 +10041,6 @@
     "imdb_score": "7.0/10",
     "rt_score": "51%",
     "meta_score": "52/100",
-    "platforms": "Amazon Prime Video",
-    "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
     "director": "Nancy Meyers",
     "cast": {
       "Cameron Diaz": {
@@ -12423,7 +12421,7 @@
       "Violet McGraw": {
         "id": 2131391,
         "character": "Ella",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eUmM4LiDeduyNHIQ9SJJjEzuBKt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7nCybrU5fYBQDxAktJUKA6DEJub.jpg"
       },
       "Sachin Bhatt": {
         "id": 1139163,
@@ -18182,7 +18180,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
