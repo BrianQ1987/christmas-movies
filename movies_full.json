@@ -5880,7 +5880,7 @@
       "Amy Sedaris": {
         "id": 12110,
         "character": "Deb",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7FX1yxq1SBFxxzgDPEdhrtgS1kk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iQClumvSfTHgysxSofFmcLXmkCc.jpg"
       },
       "Michael Lerner": {
         "id": 4250,
@@ -6238,7 +6238,7 @@
       "Lindsay Lohan": {
         "id": 49265,
         "character": "Sierra Belmont",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mw6Cb1CztwCt1wuxljnFtt8Giqh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ltBiDGrteROUr5OMf5NVlcAymwW.jpg"
       },
       "Chord Overstreet": {
         "id": 232501,
@@ -8232,7 +8232,7 @@
     "vote_average": "6",
     "overview": "Thomas de Frémont, a precocious child obsessed with action films, sets himself up for a terrifying Christmas Eve after he unwittingly makes contact with a deranged psychopath who claims he's Santa Claus.",
     "genres": ["Thriller", "Horror", "Action", "Adventure"],
-    "imdb_score": "8.1/10",
+    "imdb_score": "6.4/10",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "René Manzor",
@@ -9010,7 +9010,7 @@
       "Michael Rooker": {
         "id": 12132,
         "character": "Yondu",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ngOuHNIAGrKyY1O7F0f9C5Q9ONg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dq3xFKDWJsQjPffm1bmB3TbMilq.jpg"
       },
       "Kevin Bacon": {
         "id": 4724,
@@ -11762,7 +11762,7 @@
       "Rob Delaney": {
         "id": 1091324,
         "character": "Jeff McKenzie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xirfT1znRkkughLiPemKu3NhkKQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tbZAQZLhU1CDyaSBGfgBTTRLDQq.jpg"
       },
       "Archie Yates": {
         "id": 2089892,
@@ -13237,7 +13237,7 @@
     "overview": "Winnie's life is less than wonderful one year after saving her town from a psychotic killer on Christmas Eve. When she wishes she was never born, she finds herself magically transported to a nightmarish parallel universe. With the murderous maniac now back, she must team up with a misfit to identify the culprit and get back to her own reality.",
     "genres": ["Horror", "Comedy"],
     "imdb_score": "5.2/10",
-    "rt_score": "55%",
+    "rt_score": "56%",
     "meta_score": "52/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
@@ -15463,7 +15463,7 @@
       "Rob Delaney": {
         "id": 1091324,
         "character": "Theatre Director",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xirfT1znRkkughLiPemKu3NhkKQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tbZAQZLhU1CDyaSBGfgBTTRLDQq.jpg"
       },
       "Peter Serafinowicz": {
         "id": 11115,
@@ -16431,7 +16431,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Amy March",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v06H7af46ClPgPdTA8klaO0DpLi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nuRLGEBCfUVXTjq9guz9OlTGjtL.jpg"
       },
       "Eliza Scanlen": {
         "id": 1669125,
@@ -26334,8 +26334,8 @@
     "imdb_score": "8.0/10",
     "rt_score": "99%",
     "meta_score": "96/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Ernst Lubitsch",
     "cast": {
       "Margaret Sullavan": {
@@ -26503,7 +26503,7 @@
       "Lily-Rose Depp": {
         "id": 1459885,
         "character": "Sophie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fulxfCO2UjDTVX3lhy4mup4wXqM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kWSRS0M5uv0KlFJUvH6Rqm2g70B.jpg"
       },
       "Lucy Punch": {
         "id": 66446,
@@ -29284,7 +29284,7 @@
       "Meg Ryan": {
         "id": 5344,
         "character": "Willa",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/veFWqcGqFiKdYMJ6uqYdabK9Jma.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pxfTSfJ4yJWq52uomSWKzigngOa.jpg"
       },
       "David Duchovny": {
         "id": 12640,
