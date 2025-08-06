@@ -2375,8 +2375,8 @@
     "imdb_score": "7.2/10",
     "rt_score": "94%",
     "meta_score": "94/100",
-    "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Netflix", "Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Todd Haynes",
     "cast": {
       "Cate Blanchett": {
@@ -7565,7 +7565,7 @@
       "Rachel Weisz": {
         "id": 3293,
         "character": "Wanda Blinkowski",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/msTqKPA33ryVtcVNgOdeaJGYq16.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9tfHL5tholha1YF6bSKt422ETPM.jpg"
       },
       "Kathy Bates": {
         "id": 8534,
@@ -9015,7 +9015,7 @@
       "Michael Rooker": {
         "id": 12132,
         "character": "Yondu",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dq3xFKDWJsQjPffm1bmB3TbMilq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ngOuHNIAGrKyY1O7F0f9C5Q9ONg.jpg"
       },
       "Kevin Bacon": {
         "id": 4724,
@@ -10941,7 +10941,7 @@
       "Kieran Culkin": {
         "id": 18793,
         "character": "Fuller",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zfnZ41oxeWnXHlpFU62IR64h8w7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/b5EC4nziLhBRX4GOcYx2BdS3FTt.jpg"
       },
       "Senta Moses": {
         "id": 141434,
@@ -11263,7 +11263,7 @@
       "Kieran Culkin": {
         "id": 18793,
         "character": "Fuller",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zfnZ41oxeWnXHlpFU62IR64h8w7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/b5EC4nziLhBRX4GOcYx2BdS3FTt.jpg"
       },
       "Jedidiah Cohen": {
         "id": 11522,
@@ -12181,7 +12181,7 @@
       "Bryce Dallas Howard": {
         "id": 18997,
         "character": "Surprised Who",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qQX1rhQaJ1G8eMG2RknFKiXfNRc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/l9KTey4DqwazBkUgIEqfvMDCkaq.jpg"
       },
       "Lacey Kohl": {
         "id": 168415,
@@ -12426,7 +12426,7 @@
       "Violet McGraw": {
         "id": 2131391,
         "character": "Ella",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7nCybrU5fYBQDxAktJUKA6DEJub.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/AbMELuMi54zZ4djZp4fN78rN2cS.jpg"
       },
       "Sachin Bhatt": {
         "id": 1139163,
@@ -13034,7 +13034,7 @@
       "William H. Macy": {
         "id": 3905,
         "character": "Glenn",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/r8L4rJlEZXKo91nJjoMXaMHHt0P.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
       },
       "Whoopi Goldberg": {
         "id": 2395,
@@ -13995,7 +13995,7 @@
       "Arnold Schwarzenegger": {
         "id": 1100,
         "character": "Howard Langston",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dgCABuZp2HBehCT84O4WBp7KIoe.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2marNcjIfCUE5Z2HyrcEiJHPbsA.jpg"
       },
       "Sinbad": {
         "id": 57119,
@@ -15468,7 +15468,7 @@
       "Rob Delaney": {
         "id": 1091324,
         "character": "Theatre Director",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tbZAQZLhU1CDyaSBGfgBTTRLDQq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xirfT1znRkkughLiPemKu3NhkKQ.jpg"
       },
       "Peter Serafinowicz": {
         "id": 11115,
@@ -16436,7 +16436,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Amy March",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nuRLGEBCfUVXTjq9guz9OlTGjtL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/v06H7af46ClPgPdTA8klaO0DpLi.jpg"
       },
       "Eliza Scanlen": {
         "id": 1669125,
@@ -16446,7 +16446,7 @@
       "Laura Dern": {
         "id": 4784,
         "character": "Marmee March",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/61orYfnwHyGd64xcyBnwQMvBuua.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
       },
       "Timothée Chalamet": {
         "id": 1190668,
@@ -16883,7 +16883,7 @@
       "Andrew Lincoln": {
         "id": 7062,
         "character": "Mark",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/w4KHWtDeyzP2wWxCSQTy9YaYcmK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gR4RzQTDsMfVv8oEh2VRbO8LkFz.jpg"
       },
       "Keira Knightley": {
         "id": 116,
@@ -19980,7 +19980,7 @@
       "Uma Thurman": {
         "id": 139,
         "character": "Joy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sBgAZWi3o4FsnaTvnTNtK6jpQcF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lg04iEqT6TC40H1jz10Z99OFMXx.jpg"
       },
       "Paul Williams": {
         "id": 35040,
@@ -22802,7 +22802,7 @@
       "Tom Hanks": {
         "id": 31,
         "character": "Hero Boy / Father / Conductor / Hobo / Scrooge / Santa Claus",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eKF1sGJRrZJbfBG1KirPt1cfNd3.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
       },
       "Leslie Zemeckis": {
         "id": 42287,
