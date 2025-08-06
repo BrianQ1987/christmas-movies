@@ -374,6 +374,11 @@
         "id": 3801377,
         "character": "Lady",
         "profile_path": "https://image.tmdb.org/t/p/w1280/7VWXeJdYvqpWhM0NEjqumcscnA9.jpg"
+      },
+      "Cassidy Neal": {
+        "id": 1735643,
+        "character": "Best Man (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sAOTPWhZr7EVAUCgCyp35LtLpK1.jpg"
       }
     }
   },
@@ -10936,7 +10941,7 @@
       "Kieran Culkin": {
         "id": 18793,
         "character": "Fuller",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/b5EC4nziLhBRX4GOcYx2BdS3FTt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zfnZ41oxeWnXHlpFU62IR64h8w7.jpg"
       },
       "Senta Moses": {
         "id": 141434,
@@ -11762,7 +11767,7 @@
       "Rob Delaney": {
         "id": 1091324,
         "character": "Jeff McKenzie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tbZAQZLhU1CDyaSBGfgBTTRLDQq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xirfT1znRkkughLiPemKu3NhkKQ.jpg"
       },
       "Archie Yates": {
         "id": 2089892,
@@ -15438,7 +15443,7 @@
       "Patti LuPone": {
         "id": 5699,
         "character": "Joyce",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zesHRkKHL5AFnI4QkZD0dKnHxmk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mbNAKaSYSTGeigxeFwUQfvoUXW0.jpg"
       },
       "Calvin Demba": {
         "id": 1770735,
@@ -16802,6 +16807,11 @@
         "id": 5313115,
         "character": "Parisian Woman (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/zz1f92Z8NXWGDhCFRSvdmlrilbk.jpg"
+      },
+      "Cassidy Neal": {
+        "id": 1735643,
+        "character": "Beer Hall Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sAOTPWhZr7EVAUCgCyp35LtLpK1.jpg"
       }
     }
   },
@@ -18180,7 +18190,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
