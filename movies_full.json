@@ -689,8 +689,8 @@
     "imdb_score": "6.1/10",
     "rt_score": "77%",
     "meta_score": "63/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "John McPhail",
     "cast": {
       "Ella Hunt": {
@@ -6243,7 +6243,7 @@
       "Lindsay Lohan": {
         "id": 49265,
         "character": "Sierra Belmont",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ltBiDGrteROUr5OMf5NVlcAymwW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mw6Cb1CztwCt1wuxljnFtt8Giqh.jpg"
       },
       "Chord Overstreet": {
         "id": 232501,
@@ -16436,7 +16436,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Amy March",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v06H7af46ClPgPdTA8klaO0DpLi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg"
       },
       "Eliza Scanlen": {
         "id": 1669125,
@@ -16812,6 +16812,11 @@
         "id": 1735643,
         "character": "Beer Hall Patron (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/sAOTPWhZr7EVAUCgCyp35LtLpK1.jpg"
+      },
+      "Brian Tobin": {
+        "id": 2886475,
+        "character": "Parisian Ballroom Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5EQOBQl3K9JuDVDmJ9H3tak4NDy.jpg"
       }
     }
   },
@@ -18190,7 +18195,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
