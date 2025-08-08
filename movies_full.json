@@ -16451,7 +16451,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Amy March",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nuRLGEBCfUVXTjq9guz9OlTGjtL.jpg"
       },
       "Eliza Scanlen": {
         "id": 1669125,
@@ -23484,7 +23484,7 @@
     "released": "2024-10-31",
     "duration": 124,
     "imdb_id": "tt14948432",
-    "vote_average": "7",
+    "vote_average": "7.1",
     "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
     "genres": ["Action", "Comedy", "Fantasy"],
     "imdb_score": "6.3/10",
@@ -23852,6 +23852,11 @@
       "Rick Nehls": {
         "id": 3992082,
         "character": "Tactical Elf (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg"
+      },
+      "Vinnie Varon": {
+        "id": 570968,
+        "character": "Military Partygoer (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg"
       }
     }
@@ -29734,7 +29739,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
