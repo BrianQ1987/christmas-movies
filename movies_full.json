@@ -11157,6 +11157,21 @@
         "id": 57099,
         "character": "Girl at Airport (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/jg4QBgzn5YplbsbWwSnyBFf7G2C.jpg"
+      },
+      "Paula Newsome": {
+        "id": 17420,
+        "character": "Shopper in Supermarket (scenes deleted, uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7CdlpBKibe9Aya8QzKGU1sfktWA.jpg"
+      },
+      "Lionel Barrymore": {
+        "id": 17753,
+        "character": "Henry F. Potter (archive footage, uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ru11rLUzzLwKjR0ykTLkNIN9jcJ.jpg"
+      },
+      "Irene Columbus": {
+        "id": 1581388,
+        "character": "Woman with Baby on Flight to Paris (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg"
       }
     }
   },
@@ -29719,7 +29734,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
