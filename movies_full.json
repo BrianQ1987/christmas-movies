@@ -916,7 +916,7 @@
       "Jim Broadbent": {
         "id": 388,
         "character": "Santa (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/s7lXYfrsJoGA4vKmyv61SPgABmR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jTyvGwwR1NFpvgDhcmuWZCM241w.jpg"
       },
       "Imelda Staunton": {
         "id": 11356,
@@ -10256,7 +10256,7 @@
       "Lindsay Lohan": {
         "id": 49265,
         "character": "Lindsay Lohan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mw6Cb1CztwCt1wuxljnFtt8Giqh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ltBiDGrteROUr5OMf5NVlcAymwW.jpg"
       },
       "Dustin Hoffman": {
         "id": 4483,
@@ -18220,7 +18220,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -23494,7 +23494,7 @@
     "released": "2024-10-31",
     "duration": 124,
     "imdb_id": "tt14948432",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
     "genres": ["Action", "Comedy", "Fantasy"],
     "imdb_score": "6.3/10",
