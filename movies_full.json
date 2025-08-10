@@ -395,8 +395,8 @@
     "vote_average": "5.6",
     "overview": "Siblings Ethan and Hallie O'Fallon plot to get their divorced parents back together in time for Christmas.",
     "genres": ["Family", "Drama", "Comedy"],
-    "imdb_score": "5.9/10",
-    "rt_score": "7%",
+    "imdb_score": "6.4/10",
+    "rt_score": "63%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Rob Lieberman",
@@ -1705,9 +1705,9 @@
     "vote_average": "7.1",
     "overview": "An Episcopal Bishop, Henry Brougham, has been working for months on the plans for an elaborate new cathedral which he hopes will be paid for primarily by a wealthy, stubborn widow. He is losing sight of his family and of why he became a churchman in the first place. Enter Dudley, an angel sent to help him. Dudley does help everyone he meets, but not necessarily in the way they would have preferred. With the exception of Henry, everyone loves him, but Henry begins to believe that Dudley is there to replace him, both at work and in his family's affections, as Christmas approaches.",
     "genres": ["Comedy", "Fantasy", "Drama"],
-    "imdb_score": "7.6/10",
-    "rt_score": "85%",
-    "meta_score": "73/100",
+    "imdb_score": "4.4/10",
+    "rt_score": "40%",
+    "meta_score": "34/100",
     "platforms": "Amazon Prime Video",
     "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
     "director": "Henry Koster",
@@ -6243,7 +6243,7 @@
       "Lindsay Lohan": {
         "id": 49265,
         "character": "Sierra Belmont",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mw6Cb1CztwCt1wuxljnFtt8Giqh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ltBiDGrteROUr5OMf5NVlcAymwW.jpg"
       },
       "Chord Overstreet": {
         "id": 232501,
@@ -11600,9 +11600,9 @@
     "vote_average": "6.3",
     "overview": "After losing her job, making out with her soon-to-be former boss, and finding out that her daughter plans to spend Thanksgiving with her boyfriend, Claudia Larson faces spending the holiday with her unhinged family.",
     "genres": ["Comedy", "Drama", "Romance"],
-    "imdb_score": "6.6/10",
-    "rt_score": "63%",
-    "meta_score": "57/100",
+    "imdb_score": "6.9/10",
+    "rt_score": "35%",
+    "meta_score": "46/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Jodie Foster",
@@ -21506,9 +21506,8 @@
     "vote_average": "6.1",
     "overview": "In New York City for their annual tradition of Christmas Eve debauchery, three lifelong best friends set out to find the Holy Grail of Christmas parties since their yearly reunion might be coming to an end.",
     "genres": ["Comedy", "Adventure", "Fantasy"],
-    "imdb_score": "6.4/10",
-    "rt_score": "68%",
-    "meta_score": "58/100",
+    "imdb_score": "4.2/10",
+    "rt_score": "0%",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Jonathan Levine",
@@ -22384,6 +22383,11 @@
         "id": 5104846,
         "character": "Self - Dancer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg"
+      },
+      "Gavin Norberg": {
+        "id": 5617293,
+        "character": "Self",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg"
       }
     }
   },
@@ -22585,7 +22589,7 @@
       "Lindsay Lohan": {
         "id": 49265,
         "character": "Avery",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mw6Cb1CztwCt1wuxljnFtt8Giqh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ltBiDGrteROUr5OMf5NVlcAymwW.jpg"
       },
       "Ian Harding": {
         "id": 222089,
@@ -25822,9 +25826,9 @@
     "vote_average": "6.8",
     "overview": "On a cold Christmas Eve, selfish miser Ebenezer Scrooge has one night left to face his past — and change the future — before time runs out.",
     "genres": ["Animation", "Family", "Fantasy"],
-    "imdb_score": "6.2/10",
-    "rt_score": "40%",
-    "meta_score": "46/100",
+    "imdb_score": "7.5/10",
+    "rt_score": "74%",
+    "meta_score": "58/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Stephen Donnelly",
