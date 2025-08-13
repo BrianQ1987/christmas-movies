@@ -18220,7 +18220,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -28137,7 +28137,7 @@
         "character": "Ishida (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/73cpMM1uWJiiZ1u4BymUQmTb22j.jpg"
       },
-      "Seizô Katô": {
+      "Seizo Kato": {
         "id": 57735,
         "character": "Kaa-san (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/zM45YWPQp5HCXSt9nzcdu5c9s9.jpg"
