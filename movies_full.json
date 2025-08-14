@@ -11625,7 +11625,7 @@
       "Charles Durning": {
         "id": 1466,
         "character": "Henry Larson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bozKytaYVKoIbptxkMFWepK09U5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aULbVihOGVqWn8CDMGd8bmx2y9D.jpg"
       },
       "Dylan McDermott": {
         "id": 32597,
@@ -12191,7 +12191,7 @@
       "Clint Howard": {
         "id": 15661,
         "character": "Whobris",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6tugb8rz1hj8tYlSaSmUBD741fw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qC7AgKmcBFk76ojTYELeirw1viQ.jpg"
       },
       "Josh Ryan Evans": {
         "id": 167661,
@@ -17343,7 +17343,7 @@
       "Bill Moody": {
         "id": 67211,
         "character": "Natalie's Dad",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1c2WRhM2lm6U0ZAvxiwwEUUc3eB.jpg"
       },
       "Billy Campbell": {
         "id": 3840014,
@@ -18220,7 +18220,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -23499,7 +23499,7 @@
     "released": "2024-10-31",
     "duration": 124,
     "imdb_id": "tt14948432",
-    "vote_average": "7",
+    "vote_average": "7.1",
     "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
     "genres": ["Action", "Comedy", "Fantasy"],
     "imdb_score": "6.3/10",
@@ -29754,7 +29754,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
