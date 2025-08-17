@@ -6751,7 +6751,7 @@
       "Jordan Leftwich": {
         "id": 4404776,
         "character": "Ava",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xUJJXVugggonJ0hpWtj9Qsxode1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vRVhxoG064iSTs4eLbK110gxnCP.jpg"
       },
       "Theodore Sykes": {
         "id": 4405541,
@@ -11173,9 +11173,34 @@
         "character": "Woman with Baby on Flight to Paris (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg"
       },
+      "Raja Gosnell": {
+        "id": 1215,
+        "character": "Murphy's Answering Machine Voice (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dIovlHUjOfBEhqrUENBaRmGIAc0.jpg"
+      },
+      "Barbie Greiwe": {
+        "id": 5630249,
+        "character": "Airline Passenger (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg"
+      },
       "Gary Grott": {
         "id": 5614684,
-        "character": "Passenger (uncredited)",
+        "character": "Passenger at desk (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg"
+      },
+      "Dale Hawes": {
+        "id": 5630267,
+        "character": "Airport Traveler (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg"
+      },
+      "Percy Helton": {
+        "id": 2101,
+        "character": "Drunken Santa Claus (archive footage, uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4dGePXw3uVfMviRiyN0ufPAo7Zn.jpg"
+      },
+      "James Huffman": {
+        "id": 2458632,
+        "character": "Kid at Airport (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg"
       }
     }
@@ -18220,7 +18245,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -29754,7 +29779,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
