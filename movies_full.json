@@ -8985,7 +8985,7 @@
       "Bradley Cooper": {
         "id": 51329,
         "character": "Rocket (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/DPnessSsWqVXRbKm93PtMjB4Us.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg"
       },
       "Sean Gunn": {
         "id": 51663,
@@ -18245,7 +18245,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -21742,6 +21742,11 @@
         "id": 2572857,
         "character": "Tommy's Hot Girl (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/jF3i2q8VI61k4MvVQjnpamyy1NB.jpg"
+      },
+      "Oliver Solomon": {
+        "id": 1643675,
+        "character": "Karaoke Singer #1 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iLsMCWlNzGVyNYKIvbb0Gs98Sq4.jpg"
       }
     }
   },
@@ -29779,7 +29784,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
