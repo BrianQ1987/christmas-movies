@@ -16003,24 +16003,54 @@
         "character": "Doctor Bangs",
         "profile_path": "https://image.tmdb.org/t/p/w1280/uLpXtX6fYUsznth0kiUK3VCxPqq.jpg"
       },
-      "Bonita Granville": {
-        "id": 14870,
-        "character": "Amy's Classmate (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zmuD3sEz2xFIuPVmyQP5FATkBrs.jpg"
+      "Luke Cosgrave": {
+        "id": 1074127,
+        "character": "Old Man at Christian Commision (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fq7amodxU3RPUnHCg56k31bF0Ic.jpg"
+      },
+      "Harold Entwistle": {
+        "id": 1419560,
+        "character": "Laurence’s Butler (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6jbBsk4uDuSkO2Uxv5YxoPNmVVj.jpg"
+      },
+      "June Filmer": {
+        "id": 1033448,
+        "character": "Tina Kirke (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6jbBsk4uDuSkO2Uxv5YxoPNmVVj.jpg"
+      },
+      "Dorothy Gray": {
+        "id": 1329831,
+        "character": "Kitty Kirke (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6jbBsk4uDuSkO2Uxv5YxoPNmVVj.jpg"
+      },
+      "Don Harris": {
+        "id": 5640810,
+        "character": "Sleigh Driver (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6jbBsk4uDuSkO2Uxv5YxoPNmVVj.jpg"
       },
       "Olin Howland": {
         "id": 34209,
         "character": "Mr. Davis (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/bufCe2EXNF3ZVm3GPTY9LyIWn7y.jpg"
       },
+      "Tony Kales": {
+        "id": 5640803,
+        "character": "Jimmy Kirke (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6jbBsk4uDuSkO2Uxv5YxoPNmVVj.jpg"
+      },
       "Marilyn Knowlden": {
         "id": 121220,
-        "character": "Amy's Classmate (uncredited)",
+        "character": "Meg’s Charge (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/evdelp2vEjtP8Ugx1QuRjHKn7gO.jpg"
       },
-      "June Filmer": {
-        "id": 1033448,
-        "character": "Tina (uncredited)",
+      "Virginia Howell": {
+        "id": 951436,
+        "character": "Worker at Christian Commission (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ajgMnttR5OVlpf4ezopI9st1pvP.jpg"
+      },
+      "Shorty Wood": {
+        "id": 5640809,
+        "character": "Sleigh Driver (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/6jbBsk4uDuSkO2Uxv5YxoPNmVVj.jpg"
       }
     }
@@ -18245,7 +18275,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -23529,7 +23559,7 @@
     "released": "2024-10-31",
     "duration": 124,
     "imdb_id": "tt14948432",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
     "genres": ["Action", "Comedy", "Fantasy"],
     "imdb_score": "6.3/10",
