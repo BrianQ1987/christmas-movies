@@ -11892,7 +11892,7 @@
       "Esther Povitsky": {
         "id": 1505821,
         "character": "Daisy Breckin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v1J9P6H1PAcfWXOq203CuUvhPpa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fn4h3oysfvQTDvSPqrtiPWeotMA.jpg"
       },
       "Marty Adams": {
         "id": 51039,
@@ -16184,7 +16184,7 @@
       "Winona Ryder": {
         "id": 1920,
         "character": "Jo March",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uZaGuCvf18wKhaYL0IfYJv48yhE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dlffgYbqr1BllWacVLhAFw23nLl.jpg"
       },
       "Trini Alvarado": {
         "id": 17187,
@@ -16521,7 +16521,7 @@
       "Eliza Scanlen": {
         "id": 1669125,
         "character": "Beth March",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l5AaqeJ5Eh3Mdu0GScA8mWLBgj4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bxSr2EH0KLN2SqQBJiITUx35cF6.jpg"
       },
       "Laura Dern": {
         "id": 4784,
@@ -18275,7 +18275,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -23559,7 +23559,7 @@
     "released": "2024-10-31",
     "duration": 124,
     "imdb_id": "tt14948432",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
     "genres": ["Action", "Comedy", "Fantasy"],
     "imdb_score": "6.3/10",
@@ -25989,7 +25989,7 @@
       "Robert Mitchum": {
         "id": 10158,
         "character": "Preston Rhinelander",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l0It7MePd9cwgqHR3JQAYD6YMg9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rWmVOFxcOjGyOGpvRzSP0zbBLks.jpg"
       },
       "David Johansen": {
         "id": 57116,
@@ -29814,7 +29814,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
