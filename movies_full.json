@@ -374,11 +374,6 @@
         "id": 3801377,
         "character": "Lady",
         "profile_path": "https://image.tmdb.org/t/p/w1280/7VWXeJdYvqpWhM0NEjqumcscnA9.jpg"
-      },
-      "Cassidy Neal": {
-        "id": 1735643,
-        "character": "Best Man (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sAOTPWhZr7EVAUCgCyp35LtLpK1.jpg"
       }
     }
   },
@@ -2103,7 +2098,7 @@
       "Michelle Trachtenberg": {
         "id": 49961,
         "character": "Melissa Kitt",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bEGPyRINNJ6YkrLAaVguwkJXOfO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5jrc309hMc5QPaXyS2sT1Bjcf3Q.jpg"
       },
       "Oliver Hudson": {
         "id": 62692,
@@ -13032,7 +13027,7 @@
     "plex": true,
     "watched": 2022,
     "added": 2021,
-    "poster_path": "https://image.tmdb.org/t/p/w1280/j5O65ITSvFGalNI2wRHHAPymO5R.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/pofWoWAyN9YxC39oqBz5u06C24m.jpg",
     "title": "It's a Very Merry Muppet Christmas Movie",
     "released": "2002-11-29",
     "duration": 88,
@@ -13199,7 +13194,7 @@
       "Denise Cheshire": {
         "id": 97751,
         "character": "Additional Muppet Performer (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/j5O65ITSvFGalNI2wRHHAPymO5R.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pofWoWAyN9YxC39oqBz5u06C24m.jpg"
       },
       "Drew Massey": {
         "id": 135815,
@@ -13209,12 +13204,12 @@
       "Adam Behr": {
         "id": 228127,
         "character": "Additional Muppet Performer (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/j5O65ITSvFGalNI2wRHHAPymO5R.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pofWoWAyN9YxC39oqBz5u06C24m.jpg"
       },
       "Gord Robertson": {
         "id": 1234258,
         "character": "Additional Muppet Performer (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/j5O65ITSvFGalNI2wRHHAPymO5R.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pofWoWAyN9YxC39oqBz5u06C24m.jpg"
       },
       "Dawn Lewis": {
         "id": 86175,
@@ -13229,7 +13224,7 @@
       "Marci Dacus": {
         "id": 4379084,
         "character": "Fear Factor Contestant (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/j5O65ITSvFGalNI2wRHHAPymO5R.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pofWoWAyN9YxC39oqBz5u06C24m.jpg"
       },
       "Yee Jee Tso": {
         "id": 61541,
@@ -13254,7 +13249,7 @@
       "Darrell Lee-Izeard": {
         "id": 1489193,
         "character": "Thin Angel",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/j5O65ITSvFGalNI2wRHHAPymO5R.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pofWoWAyN9YxC39oqBz5u06C24m.jpg"
       },
       "Chantal Strand": {
         "id": 85431,
@@ -16499,8 +16494,8 @@
     "imdb_score": "7.8/10",
     "rt_score": "95%",
     "meta_score": "91/100",
-    "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Greta Gerwig",
     "cast": {
       "Saoirse Ronan": {
@@ -16877,26 +16872,6 @@
         "id": 3312731,
         "character": "Young Meg (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/yWyXeobYYjeowyZrPBZBh1eizwT.jpg"
-      },
-      "Liam Buckley": {
-        "id": 4627750,
-        "character": "Walt (Uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg"
-      },
-      "Laura Mazziotti": {
-        "id": 5313115,
-        "character": "Parisian Woman (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zz1f92Z8NXWGDhCFRSvdmlrilbk.jpg"
-      },
-      "Cassidy Neal": {
-        "id": 1735643,
-        "character": "Beer Hall Patron (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sAOTPWhZr7EVAUCgCyp35LtLpK1.jpg"
-      },
-      "Brian Tobin": {
-        "id": 2886475,
-        "character": "Parisian Ballroom Guest",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5EQOBQl3K9JuDVDmJ9H3tak4NDy.jpg"
       }
     }
   },
@@ -18275,7 +18250,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -29814,7 +29789,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
