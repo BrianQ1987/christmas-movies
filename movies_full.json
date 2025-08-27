@@ -13603,7 +13603,7 @@
       "Jimmy Hawkins": {
         "id": 117674,
         "character": "The Bailey Child - Tommy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/crfGFdEHKEqH5z5mopu1KjfBmZ6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg"
       },
       "Jean Acker": {
         "id": 1422125,
@@ -16494,8 +16494,8 @@
     "imdb_score": "7.8/10",
     "rt_score": "95%",
     "meta_score": "91/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Netflix", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Greta Gerwig",
     "cast": {
       "Saoirse Ronan": {
@@ -18250,7 +18250,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -19063,7 +19063,7 @@
       "Michele Marsh": {
         "id": 161806,
         "character": "News Anchor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wvas4169HW8dQCnEiYZthQLDE3E.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iUTPKkljdEjPlcPPYgbUz7APnHu.jpg"
       },
       "Susie Park": {
         "id": 1051811,
@@ -23847,7 +23847,7 @@
       "Jenna Kanell": {
         "id": 1303873,
         "character": "Krampus Guest",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xrWxxvNsZvBVHeeS3RIlhi8rGyA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/igUlD8gSD4Bbo1w5Zr2jgstaMH5.jpg"
       },
       "Octavia Grace": {
         "id": 4932462,
