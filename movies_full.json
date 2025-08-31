@@ -2367,7 +2367,7 @@
     "vote_average": "7.5",
     "overview": "In 1950s New York, a department-store clerk who dreams of a better life falls for an older, married woman.",
     "genres": ["Romance", "Drama"],
-    "imdb_score": "7.2/10",
+    "imdb_score": "7.3/10",
     "rt_score": "94%",
     "meta_score": "94/100",
     "platforms": ["Netflix", "Amazon Prime Video", "Plex"],
@@ -9162,7 +9162,7 @@
       "Alison Brie": {
         "id": 88029,
         "character": "Sloane",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uu16GiwYblS6IJV3o4qFSLWKXOC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wKDYTGhAjGfwQ4f5rjTUnCHKouD.jpg"
       },
       "Mary Holland": {
         "id": 1488952,
@@ -14100,7 +14100,7 @@
       "Richard Moll": {
         "id": 13591,
         "character": "Dementor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/p51OMBLWgsmf3qeprxszXHLmxKt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bDCcy2w8fZ5MAyxacGBW3qVzwwd.jpg"
       },
       "Daniel Riordan": {
         "id": 188377,
@@ -29789,7 +29789,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
