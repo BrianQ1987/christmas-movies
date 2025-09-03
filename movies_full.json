@@ -11158,11 +11158,6 @@
         "character": "Shopper in Supermarket (scenes deleted, uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/7CdlpBKibe9Aya8QzKGU1sfktWA.jpg"
       },
-      "Lionel Barrymore": {
-        "id": 17753,
-        "character": "Henry F. Potter (archive footage, uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ru11rLUzzLwKjR0ykTLkNIN9jcJ.jpg"
-      },
       "Irene Columbus": {
         "id": 1581388,
         "character": "Woman with Baby on Flight to Paris (uncredited)",
@@ -11187,11 +11182,6 @@
         "id": 5630267,
         "character": "Airport Traveler (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg"
-      },
-      "Percy Helton": {
-        "id": 2101,
-        "character": "Drunken Santa Claus (archive footage, uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4dGePXw3uVfMviRiyN0ufPAo7Zn.jpg"
       },
       "James Huffman": {
         "id": 2458632,
@@ -18250,7 +18240,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -23923,7 +23913,7 @@
     "imdb_id": "tt0032981",
     "vote_average": "7.3",
     "overview": "Unexpected love blossoms when an assistant district attorney agrees to take a recidivist shoplifter home so she doesn't have to spend Christmas alone in jail.",
-    "genres": ["Comedy", "Romance"],
+    "genres": ["Comedy", "Romance", "Drama"],
     "imdb_score": "7.6/10",
     "rt_score": "100%",
     "meta_score": "78/100",
@@ -29789,7 +29779,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
