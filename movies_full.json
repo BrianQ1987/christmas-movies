@@ -22328,7 +22328,7 @@
       "Tyla": {
         "id": 4535189,
         "character": "Self",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/amToz9TDdqCEQoGuRg3hvcXXlQH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1KsTQkrKYEaJOTKsq0J4NTNzvnp.jpg"
       },
       "Solomon Dorsey": {
         "id": 5104823,
@@ -26409,8 +26409,8 @@
     "imdb_score": "8.0/10",
     "rt_score": "99%",
     "meta_score": "96/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Ernst Lubitsch",
     "cast": {
       "Margaret Sullavan": {
@@ -29779,7 +29779,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
