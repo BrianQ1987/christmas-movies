@@ -6534,8 +6534,8 @@
     "genres": ["Comedy", "Fantasy", "Family"],
     "imdb_score": "5.7/10",
     "rt_score": "47%",
-    "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "McG",
     "cast": {
       "Jennifer Garner": {
@@ -12002,8 +12002,6 @@
     "imdb_score": "5.3/10",
     "rt_score": "76%",
     "meta_score": "50/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Jerry Ciccoritti",
     "cast": {
       "Lacey Chabert": {
@@ -17523,8 +17521,6 @@
     "imdb_score": "6.3/10",
     "rt_score": "53%",
     "meta_score": "42/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Hernán Jiménez",
     "cast": {
       "Nina Dobrev": {
@@ -17956,8 +17952,6 @@
     "genres": ["Romance", "Comedy"],
     "imdb_score": "5.5/10",
     "rt_score": "69%",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Rusty Cundieff",
     "cast": {
       "Christina Milian": {
@@ -23146,7 +23140,7 @@
       "Denzel Washington": {
         "id": 5292,
         "character": "Dudley",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/393wX9AGWpseVqojQDPLy3bTBia.jpg"
       },
       "Whitney Houston": {
         "id": 8851,
