@@ -18240,7 +18240,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20403,8 +20403,6 @@
     "genres": ["Comedy", "Family"],
     "imdb_score": "6.5/10",
     "rt_score": "48%",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Debbie Isitt",
     "cast": {
       "Martin Freeman": {
