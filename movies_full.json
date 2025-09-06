@@ -1596,8 +1596,6 @@
     "imdb_score": "4.4/10",
     "rt_score": "40%",
     "meta_score": "34/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Mary Lambert",
     "cast": {
       "Brandy Norwood": {
@@ -2597,8 +2595,6 @@
     "imdb_score": "5.6/10",
     "rt_score": "75%",
     "meta_score": "53/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Mary Lambert",
     "cast": {
       "Brooke Shields": {
@@ -4766,8 +4762,6 @@
     "imdb_score": "5.6/10",
     "rt_score": "65%",
     "meta_score": "39/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Gabriela Tagliavini",
     "cast": {
       "Aimee Garcia": {
@@ -4906,8 +4900,6 @@
     "overview": "To save his daughter's Christmas, Andrew goes on a road trip with Dev, his neighbour from hell, to buy an elusive Sparklehoof the Unicorn Princess.",
     "genres": ["Comedy", "TV Movie"],
     "imdb_score": "6.8/10",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Ben Palmer",
     "cast": {
       "Asim Chaudhry": {
@@ -6231,8 +6223,6 @@
     "imdb_score": "5.3/10",
     "rt_score": "62%",
     "meta_score": "40/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Janeen Damian",
     "cast": {
       "Lindsay Lohan": {
@@ -9834,8 +9824,6 @@
     "imdb_score": "6.2/10",
     "rt_score": "45%",
     "meta_score": "44/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "John Whitesell",
     "cast": {
       "Emma Roberts": {
@@ -12162,8 +12150,8 @@
     "imdb_score": "6.4/10",
     "rt_score": "49%",
     "meta_score": "46/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Ron Howard",
     "cast": {
       "Jim Carrey": {
@@ -12442,8 +12430,6 @@
     "overview": "Lisa thinks she's finally met the man of her dreams until she finds out he still believes in Santa Claus.",
     "genres": ["Romance", "Comedy"],
     "imdb_score": "4.6/10",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Alex Ranarivelo",
     "cast": {
       "Christina Moore": {
@@ -14503,8 +14489,6 @@
     "imdb_score": "6.4/10",
     "rt_score": "91%",
     "meta_score": "69/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "David E. Talbert",
     "cast": {
       "Forest Whitaker": {
@@ -15027,8 +15011,6 @@
     "imdb_score": "8.2/10",
     "rt_score": "95%",
     "meta_score": "65/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Sergio Pablos",
     "cast": {
       "Jason Schwartzman": {
@@ -16482,8 +16464,8 @@
     "imdb_score": "7.8/10",
     "rt_score": "95%",
     "meta_score": "91/100",
-    "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Greta Gerwig",
     "cast": {
       "Saoirse Ronan": {
@@ -18234,7 +18216,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -21955,8 +21937,6 @@
     "imdb_score": "6.2/10",
     "rt_score": "73%",
     "meta_score": "63/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Charles Shyer",
     "cast": {
       "Justin Hartley": {
@@ -22253,8 +22233,8 @@
     "genres": "Music",
     "imdb_score": "6.4/10",
     "rt_score": "100%",
-    "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Sam Wrench",
     "cast": {
       "Sabrina Carpenter": {
@@ -22600,8 +22580,6 @@
     "genres": ["Romance", "Comedy", "Drama"],
     "rt_score": "37%",
     "meta_score": "41/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Stephen Herek",
     "cast": {
       "Lindsay Lohan": {
@@ -25847,8 +25825,6 @@
     "imdb_score": "6.2/10",
     "rt_score": "40%",
     "meta_score": "46/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Stephen Donnelly",
     "cast": {
       "Luke Evans": {
@@ -26797,8 +26773,6 @@
     "imdb_score": "6.2/10",
     "rt_score": "70%",
     "meta_score": "49/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Michael Mayer",
     "cast": {
       "Michael Urie": {
