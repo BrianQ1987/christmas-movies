@@ -684,8 +684,8 @@
     "imdb_score": "6.1/10",
     "rt_score": "77%",
     "meta_score": "63/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "John McPhail",
     "cast": {
       "Ella Hunt": {
@@ -9557,7 +9557,7 @@
       "Conor O'Donnell": {
         "id": 3874278,
         "character": "Butcher",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qQFl8UBxGhLrPZDgFpPUKEWBsbP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tdaUfVNcMMl8ciyqByeZgEvxaH0.jpg"
       }
     }
   },
@@ -18216,7 +18216,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20140,7 +20140,7 @@
     "plex": false,
     "watched": 2023,
     "added": 2023,
-    "poster_path": "https://image.tmdb.org/t/p/w1280/eRyGZiEWGn9bADSI5CXWMStBhMD.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/mTVPbhYQzol8xzFUrRy9npLqpqB.jpg",
     "title": "My Favorite Wife",
     "released": "1940-05-17",
     "duration": 88,
@@ -20185,7 +20185,7 @@
       "Mary Lou Harrington": {
         "id": 1081179,
         "character": "Chinch Arden",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eRyGZiEWGn9bADSI5CXWMStBhMD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mTVPbhYQzol8xzFUrRy9npLqpqB.jpg"
       },
       "Donald MacBride": {
         "id": 34234,
@@ -20225,12 +20225,12 @@
       "Joe Cabrillas": {
         "id": 1675411,
         "character": "Phillip (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eRyGZiEWGn9bADSI5CXWMStBhMD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mTVPbhYQzol8xzFUrRy9npLqpqB.jpg"
       },
       "Bill Cartledge": {
         "id": 120216,
         "character": "Page Boy Paging Burkett (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eRyGZiEWGn9bADSI5CXWMStBhMD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mTVPbhYQzol8xzFUrRy9npLqpqB.jpg"
       },
       "Chester Clute": {
         "id": 30280,
@@ -20240,12 +20240,12 @@
       "Corky": {
         "id": 1198626,
         "character": "Corky the Dog (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eRyGZiEWGn9bADSI5CXWMStBhMD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mTVPbhYQzol8xzFUrRy9npLqpqB.jpg"
       },
       "Franco Corsaro": {
         "id": 157287,
         "character": "Waiter Bringing Wine (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eRyGZiEWGn9bADSI5CXWMStBhMD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mTVPbhYQzol8xzFUrRy9npLqpqB.jpg"
       },
       "Florence Dudley": {
         "id": 1078453,
@@ -20255,12 +20255,12 @@
       "Hal Gerard": {
         "id": 1675417,
         "character": "Assistant Court Clerk (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eRyGZiEWGn9bADSI5CXWMStBhMD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mTVPbhYQzol8xzFUrRy9npLqpqB.jpg"
       },
       "Roque Guinart": {
         "id": 1675418,
         "character": "Waiter (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eRyGZiEWGn9bADSI5CXWMStBhMD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mTVPbhYQzol8xzFUrRy9npLqpqB.jpg"
       },
       "Earle Hodgins": {
         "id": 89938,
@@ -20275,7 +20275,7 @@
       "Thelma Joel": {
         "id": 1421108,
         "character": "Miss Rosenthal (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eRyGZiEWGn9bADSI5CXWMStBhMD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mTVPbhYQzol8xzFUrRy9npLqpqB.jpg"
       },
       "Cy Kendall": {
         "id": 119258,
@@ -20285,12 +20285,12 @@
       "Ellen Lowe": {
         "id": 134819,
         "character": "Weissmuller Inquirer's Companion (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eRyGZiEWGn9bADSI5CXWMStBhMD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mTVPbhYQzol8xzFUrRy9npLqpqB.jpg"
       },
       "Margarita Martín": {
         "id": 2597335,
         "character": "Minor Role (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eRyGZiEWGn9bADSI5CXWMStBhMD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mTVPbhYQzol8xzFUrRy9npLqpqB.jpg"
       },
       "Horace McMahon": {
         "id": 78773,
@@ -20300,7 +20300,7 @@
       "Sue Moore": {
         "id": 1468691,
         "character": "Maid Drying Ellen's Clothes (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eRyGZiEWGn9bADSI5CXWMStBhMD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mTVPbhYQzol8xzFUrRy9npLqpqB.jpg"
       },
       "Bert Moorhouse": {
         "id": 122984,
@@ -20310,12 +20310,12 @@
       "Clive Morgan": {
         "id": 100800,
         "character": "Postponed Case Lawyer (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eRyGZiEWGn9bADSI5CXWMStBhMD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mTVPbhYQzol8xzFUrRy9npLqpqB.jpg"
       },
       "George Noisom": {
         "id": 1422117,
         "character": "Page Boy Bringing Steve's Robe (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eRyGZiEWGn9bADSI5CXWMStBhMD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mTVPbhYQzol8xzFUrRy9npLqpqB.jpg"
       },
       "Bob Reeves": {
         "id": 120200,
@@ -20335,7 +20335,7 @@
       "Eli Schmudkler": {
         "id": 1675420,
         "character": "Janitor (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eRyGZiEWGn9bADSI5CXWMStBhMD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mTVPbhYQzol8xzFUrRy9npLqpqB.jpg"
       },
       "Pat West": {
         "id": 30243,
@@ -20350,7 +20350,7 @@
       "Max Linder": {
         "id": 40519,
         "character": "Courtroom Spectator (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eRyGZiEWGn9bADSI5CXWMStBhMD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mTVPbhYQzol8xzFUrRy9npLqpqB.jpg"
       },
       "Cyril Ring": {
         "id": 34818,
@@ -22245,7 +22245,7 @@
       "Cara Delevingne": {
         "id": 1289968,
         "character": "Self",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wdB9B2VKJOt9pz7XnB8WFnBVlNE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/izZ8IbsIjNpjZ5S0HIYreVwVRzn.jpg"
       },
       "Chappell Roan": {
         "id": 4528424,
