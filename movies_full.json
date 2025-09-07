@@ -1596,6 +1596,8 @@
     "imdb_score": "4.4/10",
     "rt_score": "40%",
     "meta_score": "34/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Mary Lambert",
     "cast": {
       "Brandy Norwood": {
@@ -2595,6 +2597,8 @@
     "imdb_score": "5.6/10",
     "rt_score": "75%",
     "meta_score": "53/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Mary Lambert",
     "cast": {
       "Brooke Shields": {
@@ -4362,7 +4366,7 @@
       "Amanda Seyfried": {
         "id": 71070,
         "character": "Ruby",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/daiee2XgNOEqzgVm1o6JmtEg4zR.jpg"
       },
       "Alan Arkin": {
         "id": 1903,
@@ -4762,6 +4766,8 @@
     "imdb_score": "5.6/10",
     "rt_score": "65%",
     "meta_score": "39/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Gabriela Tagliavini",
     "cast": {
       "Aimee Garcia": {
@@ -6524,8 +6530,8 @@
     "genres": ["Comedy", "Fantasy", "Family"],
     "imdb_score": "5.7/10",
     "rt_score": "47%",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Netflix", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "McG",
     "cast": {
       "Jennifer Garner": {
@@ -12202,7 +12208,7 @@
       "Bryce Dallas Howard": {
         "id": 18997,
         "character": "Surprised Who",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l9KTey4DqwazBkUgIEqfvMDCkaq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fmXhf4rJOrzc3QWwxVbNd7kP8wy.jpg"
       },
       "Lacey Kohl": {
         "id": 168415,
@@ -12430,6 +12436,8 @@
     "overview": "Lisa thinks she's finally met the man of her dreams until she finds out he still believes in Santa Claus.",
     "genres": ["Romance", "Comedy"],
     "imdb_score": "4.6/10",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Alex Ranarivelo",
     "cast": {
       "Christina Moore": {
@@ -16464,8 +16472,8 @@
     "imdb_score": "7.8/10",
     "rt_score": "95%",
     "meta_score": "91/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Netflix", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Greta Gerwig",
     "cast": {
       "Saoirse Ronan": {
@@ -17503,6 +17511,8 @@
     "imdb_score": "6.3/10",
     "rt_score": "53%",
     "meta_score": "42/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Hernán Jiménez",
     "cast": {
       "Nina Dobrev": {
@@ -18216,7 +18226,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20379,6 +20389,8 @@
     "genres": ["Comedy", "Family"],
     "imdb_score": "6.5/10",
     "rt_score": "48%",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Debbie Isitt",
     "cast": {
       "Martin Freeman": {
@@ -26775,6 +26787,8 @@
     "imdb_score": "6.2/10",
     "rt_score": "70%",
     "meta_score": "49/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Michael Mayer",
     "cast": {
       "Michael Urie": {
