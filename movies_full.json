@@ -6228,7 +6228,7 @@
       "Lindsay Lohan": {
         "id": 49265,
         "character": "Sierra Belmont",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ltBiDGrteROUr5OMf5NVlcAymwW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mw6Cb1CztwCt1wuxljnFtt8Giqh.jpg"
       },
       "Chord Overstreet": {
         "id": 232501,
@@ -10239,7 +10239,7 @@
       "Lindsay Lohan": {
         "id": 49265,
         "character": "Lindsay Lohan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ltBiDGrteROUr5OMf5NVlcAymwW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mw6Cb1CztwCt1wuxljnFtt8Giqh.jpg"
       },
       "Dustin Hoffman": {
         "id": 4483,
@@ -18216,7 +18216,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -21937,6 +21937,8 @@
     "imdb_score": "6.2/10",
     "rt_score": "73%",
     "meta_score": "63/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Charles Shyer",
     "cast": {
       "Justin Hartley": {
@@ -22233,8 +22235,8 @@
     "genres": "Music",
     "imdb_score": "6.4/10",
     "rt_score": "100%",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Netflix", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Sam Wrench",
     "cast": {
       "Sabrina Carpenter": {
@@ -22585,7 +22587,7 @@
       "Lindsay Lohan": {
         "id": 49265,
         "character": "Avery",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ltBiDGrteROUr5OMf5NVlcAymwW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mw6Cb1CztwCt1wuxljnFtt8Giqh.jpg"
       },
       "Ian Harding": {
         "id": 222089,
@@ -29266,7 +29268,7 @@
       "Tristan Carlucci": {
         "id": 2473588,
         "character": "Lightstone Security",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/e8CpMgdyihz9Td7amQDqubPuzfN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3g2F03731uTZMgxy4VSIkJEhgaN.jpg"
       },
       "James Durham": {
         "id": 1131844,
@@ -29632,7 +29634,7 @@
       "Franklyn Farnum": {
         "id": 975597,
         "character": "Club Patron (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tE9xlvLgA04icdBTe7rjqgt8c2E.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/273KbcYjCmFpDMUcFtNKf7hNTRV.jpg"
       },
       "Bess Flowers": {
         "id": 121323,
