@@ -4366,7 +4366,7 @@
       "Amanda Seyfried": {
         "id": 71070,
         "character": "Ruby",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/daiee2XgNOEqzgVm1o6JmtEg4zR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
       },
       "Alan Arkin": {
         "id": 1903,
@@ -6229,6 +6229,8 @@
     "imdb_score": "5.3/10",
     "rt_score": "62%",
     "meta_score": "40/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Janeen Damian",
     "cast": {
       "Lindsay Lohan": {
@@ -9830,6 +9832,8 @@
     "imdb_score": "6.2/10",
     "rt_score": "45%",
     "meta_score": "44/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "John Whitesell",
     "cast": {
       "Emma Roberts": {
@@ -11996,6 +12000,8 @@
     "imdb_score": "5.3/10",
     "rt_score": "76%",
     "meta_score": "50/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Jerry Ciccoritti",
     "cast": {
       "Lacey Chabert": {
@@ -14497,6 +14503,8 @@
     "imdb_score": "6.4/10",
     "rt_score": "91%",
     "meta_score": "69/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "David E. Talbert",
     "cast": {
       "Forest Whitaker": {
@@ -15019,6 +15027,8 @@
     "imdb_score": "8.2/10",
     "rt_score": "95%",
     "meta_score": "65/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Sergio Pablos",
     "cast": {
       "Jason Schwartzman": {
@@ -17944,6 +17954,8 @@
     "genres": ["Romance", "Comedy"],
     "imdb_score": "5.5/10",
     "rt_score": "69%",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Rusty Cundieff",
     "cast": {
       "Christina Milian": {
@@ -22103,7 +22115,7 @@
       "Anna Kendrick": {
         "id": 84223,
         "character": "Noelle Kringle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/i2HIJQcBsUQ3o9HwEeDwou45D60.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yirl6fEmeXY5xcvJw3nTcCNq9Cw.jpg"
       },
       "Bill Hader": {
         "id": 19278,
@@ -22594,6 +22606,8 @@
     "genres": ["Romance", "Comedy", "Drama"],
     "rt_score": "37%",
     "meta_score": "41/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Stephen Herek",
     "cast": {
       "Lindsay Lohan": {
@@ -25839,6 +25853,8 @@
     "imdb_score": "6.2/10",
     "rt_score": "40%",
     "meta_score": "46/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Stephen Donnelly",
     "cast": {
       "Luke Evans": {
@@ -28855,6 +28871,8 @@
     "genres": ["Comedy", "Music", "TV Movie"],
     "imdb_score": "5.5/10",
     "rt_score": "68%",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Sofia Coppola",
     "cast": {
       "Bill Murray": {
