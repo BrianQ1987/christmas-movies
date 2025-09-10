@@ -4186,7 +4186,7 @@
     "imdb_id": "tt0099263",
     "vote_average": "6.7",
     "overview": "It's Christmas Eve and the playroom is alive with excitement for the new toys that will arrive the next day. Balthazar, the old and wise bear, explains to the other toys that they must welcome the newcomers even though each of them may be replaced as one of the children's new favorite toys.",
-    "genres": ["Family", "Comedy", "Fantasy", "Music"],
+    "genres": ["Family", "Comedy", "Fantasy", "Music", "TV Movie"],
     "imdb_score": "7.7/10",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
@@ -18187,7 +18187,7 @@
       "Wayne Allwine": {
         "id": 78076,
         "character": "Mickey - Bob Cratchit / Weasel Gravedigger / Begger Dog (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/flzMLsxCbDabCoDM1LWjxVfUSWK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6QH10DqZ0feBW2phvrtoLqT1s0k.jpg"
       },
       "Clarence Nash": {
         "id": 78077,
@@ -19840,11 +19840,11 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/f31HlNI9e2y9tSvUPcvXZLptr1l.jpg",
     "title": "A Muppet Family Christmas",
     "released": "1987-12-16",
-    "duration": 48,
+    "duration": 47,
     "imdb_id": "tt0251282",
     "vote_average": "7",
     "overview": "Fozzie Bear surprises his mother on Christmas Eve by bringing the entire Muppet gang to her farm to celebrate the holidays. Doc and his dog Sprocket, who had planned a quiet Christmas, end up joining the Muppets in their holiday activities and preparations. The Sesame Street and Fraggle Rock regulars join the festivities, but to Kermit's dismay, the only one missing is Miss Piggy, who has been caught in a snowstorm.",
-    "genres": ["Family", "Comedy", "Music"],
+    "genres": ["Family", "Comedy", "Music", "TV Movie"],
     "imdb_score": "8.1/10",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
@@ -22467,7 +22467,7 @@
       "Elias Koteas": {
         "id": 13550,
         "character": "Eddie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/luevjlGy0tYQbAbcz0mVxCYqegH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wCrzUtE1p4cbVfoA9xpWHYPUWuN.jpg"
       },
       "Robbie Magwood": {
         "id": 145526,
