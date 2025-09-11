@@ -16076,7 +16076,7 @@
       "Elizabeth Taylor": {
         "id": 3635,
         "character": "Amy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/luj6AJgWpwKtXJNwmAAT5PYHJx3.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rfVMrmImdouXr0DLQpSvBrF4QzS.jpg"
       },
       "Janet Leigh": {
         "id": 7302,
@@ -18238,7 +18238,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -18248,7 +18248,7 @@
       "Wayne Allwine": {
         "id": 78076,
         "character": "Mickey Mouse (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/flzMLsxCbDabCoDM1LWjxVfUSWK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/b6h6HwucncSxn06sMNROJ9apLC5.jpg"
       },
       "Russi Taylor": {
         "id": 6035,
@@ -29777,7 +29777,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
