@@ -1356,7 +1356,7 @@
     "overview": "A modern-day witch likes her neighbor but despises his fiancée, so she enchants him to love her instead... only to fall in love with him for real.",
     "genres": ["Comedy", "Fantasy", "Romance"],
     "imdb_score": "6.8/10",
-    "rt_score": "76%",
+    "rt_score": "81%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Richard Quine",
@@ -18238,7 +18238,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
