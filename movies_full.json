@@ -8339,7 +8339,7 @@
     "added": 2021,
     "poster_path": "https://image.tmdb.org/t/p/w1280/gKfhNgOyQZU62DYUpwRokpPL5rN.jpg",
     "title": "The Great Santa Claus Switch",
-    "released": "1970-12-05",
+    "released": "1970-12-20",
     "duration": 60,
     "imdb_id": "tt0445979",
     "vote_average": "6.3",
@@ -8928,6 +8928,11 @@
         "id": 86007,
         "character": "Additional Voices (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/7Um56ftGoxN6c5GxJSNckeARCDy.jpg"
+      },
+      "Laurent Lafitte": {
+        "id": 93532,
+        "character": "(voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lpF5sb1aEMEmxxfZT3u8PWGEipC.jpg"
       }
     }
   },
@@ -14458,7 +14463,7 @@
       "Yeardley Smith": {
         "id": 5586,
         "character": "Woman Who Flirts with Howie (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5NImadk7xeOckagCWFJ4pu1L6bw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg"
       },
       "Bobby Sussman": {
         "id": 2757472,
@@ -16494,7 +16499,7 @@
       "Saoirse Ronan": {
         "id": 36592,
         "character": "Jo March",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lVow9oXm454wjTfqOqTZeo1iwCd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9buDPdqKN9vbnQLLkHEinDtMrCG.jpg"
       },
       "Emma Watson": {
         "id": 10990,
@@ -18243,7 +18248,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
