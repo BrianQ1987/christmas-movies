@@ -678,7 +678,7 @@
     "released": "2018-11-30",
     "duration": 98,
     "imdb_id": "tt6433880",
-    "vote_average": "6",
+    "vote_average": "6.1",
     "overview": "A zombie apocalypse threatens the sleepy town of Little Haven – at Christmas – forcing Anna and her friends to fight, slash and sing their way to survival, facing the undead in a desperate race to reach their loved ones. But they soon discover that no one is safe in this new world, and with civilization falling apart around them, the only people they can truly rely on are each other.",
     "genres": ["Horror", "Comedy", "Fantasy"],
     "imdb_score": "6.1/10",
@@ -1352,7 +1352,7 @@
     "released": "1958-12-25",
     "duration": 106,
     "imdb_id": "tt0051406",
-    "vote_average": "6.4",
+    "vote_average": "6.5",
     "overview": "A modern-day witch likes her neighbor but despises his fiancée, so she enchants him to love her instead... only to fall in love with him for real.",
     "genres": ["Comedy", "Fantasy", "Romance"],
     "imdb_score": "6.8/10",
@@ -1697,7 +1697,7 @@
     "released": "1947-12-25",
     "duration": 109,
     "imdb_id": "tt0039190",
-    "vote_average": "7",
+    "vote_average": "7.1",
     "overview": "An Episcopal Bishop, Henry Brougham, has been working for months on the plans for an elaborate new cathedral which he hopes will be paid for primarily by a wealthy, stubborn widow. He is losing sight of his family and of why he became a churchman in the first place. Enter Dudley, an angel sent to help him. Dudley does help everyone he meets, but not necessarily in the way they would have preferred. With the exception of Henry, everyone loves him, but Henry begins to believe that Dudley is there to replace him, both at work and in his family's affections, as Christmas approaches.",
     "genres": ["Comedy", "Fantasy", "Drama"],
     "imdb_score": "7.6/10",
@@ -3071,7 +3071,7 @@
     "released": "1944-07-31",
     "duration": 93,
     "imdb_id": "tt0036711",
-    "vote_average": "6.3",
+    "vote_average": "6.4",
     "overview": "Don't be fooled by the title. Christmas Holiday is a far, far cry from It's a Wonderful Life. Told in flashback, the story begins as Abigail Martin marries Southern aristocrat Robert Monette. Unfortunately, Robert has inherited his family's streak of violence and instability, and soon drags Abigail into a life of misery.",
     "genres": ["Drama", "Romance", "Crime"],
     "imdb_score": "6.5/10",
@@ -12269,7 +12269,7 @@
       "David Costabile": {
         "id": 82167,
         "character": "Biker Who",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fuLmevsEd4v1HMJnJjY3wuFYyIU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jTouM1QK24TXy5Q3T40t4AhR8GH.jpg"
       },
       "Mary Stein": {
         "id": 45386,
@@ -18197,7 +18197,7 @@
       "Wayne Allwine": {
         "id": 78076,
         "character": "Mickey - Bob Cratchit / Weasel Gravedigger / Begger Dog (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6QH10DqZ0feBW2phvrtoLqT1s0k.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ggyRzgJ0ZO2tiZ7jPC323ivEKCM.jpg"
       },
       "Clarence Nash": {
         "id": 78077,
@@ -18248,7 +18248,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -18258,7 +18258,7 @@
       "Wayne Allwine": {
         "id": 78076,
         "character": "Mickey Mouse (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/b6h6HwucncSxn06sMNROJ9apLC5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ggyRzgJ0ZO2tiZ7jPC323ivEKCM.jpg"
       },
       "Russi Taylor": {
         "id": 6035,
@@ -22276,7 +22276,7 @@
       "Sabrina Carpenter": {
         "id": 1152083,
         "character": "Self",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nxaluMAWGemjhXbUL3dhl4xof1K.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/drTDxL4nw2dUWq0YDv1IvlHiqyC.jpg"
       },
       "Cara Delevingne": {
         "id": 1289968,
@@ -29787,7 +29787,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
