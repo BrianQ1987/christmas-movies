@@ -18248,7 +18248,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -21420,7 +21420,7 @@
     "released": "2018-11-23",
     "duration": 100,
     "imdb_id": "tt8094320",
-    "vote_average": "3.6",
+    "vote_average": "3.8",
     "overview": "The staff and students at St. Bernadette's Primary School audition for a coveted place in a spectacular rock musical competition.",
     "genres": ["Family", "Comedy"],
     "imdb_score": "4.2/10",
@@ -22276,7 +22276,7 @@
       "Sabrina Carpenter": {
         "id": 1152083,
         "character": "Self",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/drTDxL4nw2dUWq0YDv1IvlHiqyC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nxaluMAWGemjhXbUL3dhl4xof1K.jpg"
       },
       "Cara Delevingne": {
         "id": 1289968,
