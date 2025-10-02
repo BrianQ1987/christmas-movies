@@ -2760,7 +2760,7 @@
     "watched": 2024,
     "added": 2024,
     "poster_path": "https://image.tmdb.org/t/p/w1280/6DF3KVmu2ckanrAokGknfMac85x.jpg",
-    "title": "Christmas Eve in Miller’s Point",
+    "title": "Christmas Eve in Miller's Point",
     "released": "2024-11-08",
     "duration": 107,
     "imdb_id": "tt25052668",
@@ -2792,7 +2792,7 @@
       "Francesca Scorsese": {
         "id": 1674603,
         "character": "Michelle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iK4h8LzxQ1r43W4rEFJwGHuO0Ro.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/o7MhEoM6PLavRxHUVOiaAhlN61R.jpg"
       },
       "Elsie Fisher": {
         "id": 122851,
@@ -18253,7 +18253,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -29100,7 +29100,7 @@
     "released": "2022-11-30",
     "duration": 111,
     "imdb_id": "tt12003946",
-    "vote_average": "7.3",
+    "vote_average": "7.2",
     "overview": "When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn’t prepared for a surprise combatant: Santa Claus is on the grounds, and he’s about to show why this Nick is no saint.",
     "genres": ["Action", "Comedy", "Fantasy"],
     "imdb_score": "6.7/10",
