@@ -187,6 +187,11 @@ async function getMovies() {
         info_div.appendChild(overview);
 
         genre = document.createElement("div");
+        
+        if (!Array.isArray(data.genres)) {
+            data.genres = [data.genres];
+        }
+        
         if (data.genres.length > 1) {
             genre.innerHTML = "<h2>Genres</h2>";
         } else {
