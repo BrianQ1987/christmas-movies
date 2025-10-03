@@ -5219,7 +5219,7 @@
       "Matthew Broderick": {
         "id": 4756,
         "character": "Steve Finch",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/q3Qe6LODvoKF3AKElVAmxBFpTGd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2Pq8pwOX5ZFfT2p5pNLGfvUi9Pp.jpg"
       },
       "Kristin Davis": {
         "id": 38025,
@@ -5838,7 +5838,7 @@
       "Will Ferrell": {
         "id": 23659,
         "character": "Buddy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vL1QjMdMtuM2f8fQZzei6WAvicZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xYPM1OOLXZguj4FsgmOzTSUXaXd.jpg"
       },
       "James Caan": {
         "id": 3085,
@@ -12009,7 +12009,7 @@
     "released": "2024-11-12",
     "duration": 90,
     "imdb_id": "tt32359447",
-    "vote_average": "6",
+    "vote_average": "5.9",
     "overview": "When a young widow's magic scarf brings a dashing snowman to life, can he help her rediscover romance, laughter and holiday cheer before he melts away?",
     "genres": ["Romance", "Comedy"],
     "imdb_score": "5.3/10",
@@ -14043,7 +14043,7 @@
       "Arnold Schwarzenegger": {
         "id": 1100,
         "character": "Howard Langston",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2marNcjIfCUE5Z2HyrcEiJHPbsA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dgCABuZp2HBehCT84O4WBp7KIoe.jpg"
       },
       "Sinbad": {
         "id": 57119,
@@ -18253,7 +18253,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -19281,7 +19281,7 @@
       "Adam Sandler": {
         "id": 19292,
         "character": "Louie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gLkLCsQdwDDPabRhKPB25nGtKwS.jpg"
       },
       "Liev Schreiber": {
         "id": 23626,
@@ -26980,7 +26980,7 @@
       "Will Ferrell": {
         "id": 23659,
         "character": "Present",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vL1QjMdMtuM2f8fQZzei6WAvicZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xYPM1OOLXZguj4FsgmOzTSUXaXd.jpg"
       },
       "Ryan Reynolds": {
         "id": 10859,
@@ -29790,7 +29790,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
