@@ -6291,7 +6291,7 @@
       "Kate Rachesky": {
         "id": 1645312,
         "character": "Heather",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yEvZ2ozMg62iWlWyaACCbMFJgAo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7lPZ85xQErK3HfsVh1nJR52B4x3.jpg"
       },
       "Oscar Rudecindo": {
         "id": 3781705,
@@ -9033,7 +9033,7 @@
       "Maria Bakalova": {
         "id": 2408703,
         "character": "Cosmo the Dog (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sFW4NI7yGvrruzDVY4viSeUgYJh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vCz0ycZr1PgJVOAeS29fIiZE8pN.jpg"
       },
       "Kyra Sedgwick": {
         "id": 26467,
@@ -20416,8 +20416,8 @@
     "genres": ["Comedy", "Family"],
     "imdb_score": "6.5/10",
     "rt_score": "48%",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+    "platforms": ["BBC iPlayer", "Netflix"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
     "director": "Debbie Isitt",
     "cast": {
       "Martin Freeman": {
