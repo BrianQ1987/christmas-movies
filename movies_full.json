@@ -4371,7 +4371,7 @@
       "Amanda Seyfried": {
         "id": 71070,
         "character": "Ruby",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hRmYvKg1LLWd9kFjWlvEAMW9lbd.jpg"
       },
       "Alan Arkin": {
         "id": 1903,
@@ -4561,7 +4561,7 @@
       "Dan Aykroyd": {
         "id": 707,
         "character": "Vic Frohmeyer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iVMmeVJx8IpCEjlGBZWzIWvX5Qo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wyTicHEEceNui7myJpih5vtJZDN.jpg"
       },
       "M. Emmet Walsh": {
         "id": 588,
@@ -8892,7 +8892,7 @@
       "Laraine Newman": {
         "id": 35159,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/62i0sFf0IwmkQkBW9Osucgx8qGr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wlc9dpH0GdWiXBRDzGMuUQcoPKe.jpg"
       },
       "Dashiell Priestley": {
         "id": 2435010,
@@ -11807,6 +11807,11 @@
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Dan Mazer",
     "cast": {
+      "Archie Yates": {
+        "id": 2089892,
+        "character": "Max Mercer",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vDXqnToyRMjjvFK5eFaSmUOB0Te.jpg"
+      },
       "Ellie Kemper": {
         "id": 475512,
         "character": "Pam McKenzie",
@@ -11816,11 +11821,6 @@
         "id": 1091324,
         "character": "Jeff McKenzie",
         "profile_path": "https://image.tmdb.org/t/p/w1280/xirfT1znRkkughLiPemKu3NhkKQ.jpg"
-      },
-      "Archie Yates": {
-        "id": 2089892,
-        "character": "Max Mercer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vDXqnToyRMjjvFK5eFaSmUOB0Te.jpg"
       },
       "Aisling Bea": {
         "id": 1423098,
@@ -12474,7 +12474,7 @@
       "Violet McGraw": {
         "id": 2131391,
         "character": "Ella",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/AbMELuMi54zZ4djZp4fN78rN2cS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/d1KMeeKURTUED3zPfu9le4R1jlr.jpg"
       },
       "Sachin Bhatt": {
         "id": 1139163,
@@ -12655,7 +12655,7 @@
       "Liza Minnelli": {
         "id": 66776,
         "character": "Veronica and Andrew's Daughter (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6jwPCLoeJasBMOFfY3HdqlXclZF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oQ52qE02BJ0vCoAtMsxgWrcpRtQ.jpg"
       },
       "Howard M. Mitchell": {
         "id": 1005425,
@@ -14030,7 +14030,7 @@
     "released": "1996-11-21",
     "duration": 89,
     "imdb_id": "tt0116705",
-    "vote_average": "6",
+    "vote_average": "6.1",
     "overview": "Howard Langston, a salesman for a mattress company, is constantly kept busy at his job, disappointing his son. After he misses his son's karate exposition, Howard vows to make it up to him by buying an action figure of his son's favorite television hero for Christmas. Unfortunately for Howard, it is Christmas Eve, and every store is sold out of Turbo Man. Now, Howard must travel all over town and compete with everybody else to find a Turbo Man action figure.",
     "genres": ["Family", "Comedy", "Adventure"],
     "imdb_score": "5.8/10",
@@ -14088,7 +14088,7 @@
       "Laraine Newman": {
         "id": 35159,
         "character": "First Lady",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/62i0sFf0IwmkQkBW9Osucgx8qGr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wlc9dpH0GdWiXBRDzGMuUQcoPKe.jpg"
       },
       "Justin Chapman": {
         "id": 1410997,
@@ -16091,7 +16091,7 @@
       "Elizabeth Taylor": {
         "id": 3635,
         "character": "Amy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rfVMrmImdouXr0DLQpSvBrF4QzS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pIq0rsj0XHKFemnvMjq5q6nAseo.jpg"
       },
       "Janet Leigh": {
         "id": 7302,
@@ -16514,7 +16514,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Amy March",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nuRLGEBCfUVXTjq9guz9OlTGjtL.jpg"
       },
       "Eliza Scanlen": {
         "id": 1669125,
@@ -19420,7 +19420,7 @@
     "released": "1995-12-06",
     "duration": 30,
     "imdb_id": "tt0124013",
-    "vote_average": "5.9",
+    "vote_average": "5.8",
     "overview": "A single Christmas tree becomes the source of cheer for the people and animals living around Mr. Willowby's estate. Based on the children's book of the same name.",
     "genres": ["Comedy", "TV Movie", "Family"],
     "imdb_score": "6.1/10",
@@ -20192,7 +20192,7 @@
       "Irene Dunne": {
         "id": 77158,
         "character": "Ellen Wagstaff Arden",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5xqh4bMLt8C8w4glw4y95E1QUb0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/r44FIGxLUHw7PcALUycivFuTEvV.jpg"
       },
       "Cary Grant": {
         "id": 2638,
@@ -28223,7 +28223,7 @@
       "Dan Aykroyd": {
         "id": 707,
         "character": "Louis Winthorpe III",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iVMmeVJx8IpCEjlGBZWzIWvX5Qo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wyTicHEEceNui7myJpih5vtJZDN.jpg"
       },
       "Eddie Murphy": {
         "id": 776,
@@ -29790,7 +29790,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
