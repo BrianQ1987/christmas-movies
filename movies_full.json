@@ -5207,8 +5207,8 @@
     "imdb_score": "5.1/10",
     "rt_score": "6%",
     "meta_score": "28/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+    "platforms": ["Disney Plus", "Amazon Prime Video"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"],
     "director": "John Whitesell",
     "cast": {
       "Danny DeVito": {
@@ -15210,7 +15210,7 @@
     "imdb_id": "tt3268828",
     "vote_average": "5.8",
     "overview": "A Thanksgiving special starring Lady Gaga performing songs from her album “ARTPOP” alongside the Muppets and some very special guests.",
-    "genres": ["Music", "Comedy", "TV Movie", "Documentary"],
+    "genres": ["Music", "Comedy", "TV Movie"],
     "imdb_score": "5.2/10",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
@@ -18253,7 +18253,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -21366,7 +21366,7 @@
       "Adam Garcia": {
         "id": 28472,
         "character": "Bradley Finch",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kPw3QKgO56JgWx1JPnwlCxDE7wz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ekxoKXqJL6wyKv9TQG884rFvnca.jpg"
       },
       "Celia Imrie": {
         "id": 9139,
@@ -28901,7 +28901,7 @@
       "Michael Cera": {
         "id": 39995,
         "character": "Jackie the Talent Agent",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lFKyW2C7xj7X4nWpOEbVIDGOKrH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qjhNKsw0OLyZQgK4srhelBafcCf.jpg"
       },
       "George Clooney": {
         "id": 1461,
