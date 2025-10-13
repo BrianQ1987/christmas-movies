@@ -2802,7 +2802,7 @@
       "Michael Cera": {
         "id": 39995,
         "character": "Officer Gibson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qjhNKsw0OLyZQgK4srhelBafcCf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lFKyW2C7xj7X4nWpOEbVIDGOKrH.jpg"
       },
       "Gregg Turkington": {
         "id": 1224999,
@@ -18253,7 +18253,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -28901,7 +28901,7 @@
       "Michael Cera": {
         "id": 39995,
         "character": "Jackie the Talent Agent",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qjhNKsw0OLyZQgK4srhelBafcCf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lFKyW2C7xj7X4nWpOEbVIDGOKrH.jpg"
       },
       "George Clooney": {
         "id": 1461,
@@ -29790,7 +29790,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
@@ -29984,7 +29984,7 @@
     "overview": "They've swapped Christmas – again. Can Hayley and James' relationship survive another turbulent family Christmas or has their future together gone off-piste?!",
     "genres": ["Romance", "Comedy"],
     "imdb_score": "5.8/10",
-    "rt_score": "56%",
+    "rt_score": "50%",
     "platforms": "Amazon Prime Video",
     "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
     "director": "Jim O'Hanlon",
