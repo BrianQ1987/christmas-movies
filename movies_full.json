@@ -8732,7 +8732,7 @@
       "Benedict Cumberbatch": {
         "id": 71580,
         "character": "Grinch (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fJmHuBDkEGKGyFxv5wONIt5OoB3.jpg"
       },
       "Rashida Jones": {
         "id": 80591,
@@ -18253,7 +18253,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -29790,7 +29790,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
