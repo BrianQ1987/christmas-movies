@@ -7191,7 +7191,7 @@
       "Reese Witherspoon": {
         "id": 368,
         "character": "Kate",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/odkbrsn8I9m0zIVSntrDTl3hjUh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/o1z4UwW2137IViFIRk8AV8hWze1.jpg"
       },
       "Robert Duvall": {
         "id": 3087,
@@ -21552,7 +21552,7 @@
       "Seth Rogen": {
         "id": 19274,
         "character": "Isaac",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2dPFskUtoiG0xafsSEGl9Oz4teA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
       },
       "Anthony Mackie": {
         "id": 53650,
@@ -29790,7 +29790,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
