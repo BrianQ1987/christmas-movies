@@ -8505,7 +8505,7 @@
       "Judge Reinhold": {
         "id": 777,
         "character": "Gerald Hopkins",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/na6tSQlWybIfsuQV1LEGQXtG0OI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6R0vCxzSx1CaDAM9y9ZgmejUdiL.jpg"
       },
       "Edward Andrews": {
         "id": 29719,
@@ -18815,7 +18815,7 @@
       "Hiram Sherman": {
         "id": 219017,
         "character": "R. H. Macy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zHyJWC98ZdGiIqDtw45zNW2fyKT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ldY9TlE5kwQNUrcDoGB8Jufuswy.jpg"
       },
       "Susan Gordon": {
         "id": 100606,
@@ -25128,7 +25128,7 @@
       "Judge Reinhold": {
         "id": 777,
         "character": "Neil Miller",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/na6tSQlWybIfsuQV1LEGQXtG0OI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6R0vCxzSx1CaDAM9y9ZgmejUdiL.jpg"
       },
       "Wendy Crewson": {
         "id": 19957,
@@ -29790,7 +29790,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
