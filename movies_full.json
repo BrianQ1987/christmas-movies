@@ -4386,7 +4386,7 @@
       "Olivia Wilde": {
         "id": 59315,
         "character": "Eleanor Cooper",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uomIP0M8YSl2107rK8QEPkWqxBj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9O6qumSwb4eFZcOvwSqdEFAZOOj.jpg"
       },
       "Marisa Tomei": {
         "id": 3141,
@@ -6976,7 +6976,7 @@
       "Gunnar Björnstrand": {
         "id": 6649,
         "character": "Filip Landahl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vkEY3nex3G0PMMnJ11Kamt4yod.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vy5Y0c1ACGCI6d4rVjmTM6HOqNN.jpg"
       },
       "Stina Ekblad": {
         "id": 55887,
@@ -7778,7 +7778,7 @@
       "Burn Gorman": {
         "id": 39659,
         "character": "Elf",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nl5V2mpfTnp8YSShtVYjgNjnv4M.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/udgACYWqCSuu6nvtrSjmyU28B0V.jpg"
       },
       "Orlando Seale": {
         "id": 83405,
@@ -18253,7 +18253,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -29790,7 +29790,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
