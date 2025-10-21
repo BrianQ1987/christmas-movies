@@ -4371,7 +4371,7 @@
       "Amanda Seyfried": {
         "id": 71070,
         "character": "Ruby",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wcHYErlynY8xWe6X7RmqEqpMBGl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
       },
       "Alan Arkin": {
         "id": 1903,
@@ -4416,7 +4416,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Charlie Cooper",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Blake Baumgartner": {
         "id": 1931911,
@@ -9150,7 +9150,7 @@
       "Kristen Stewart": {
         "id": 37917,
         "character": "Abby",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ryhCjTGqS6G6OprbR0qUEH355lA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nhXjosx8LbjqWQTf3sFM8GojKVb.jpg"
       },
       "Mackenzie Davis": {
         "id": 1110405,
@@ -14011,7 +14011,7 @@
       "Charles C. Wilson": {
         "id": 30160,
         "character": "Charlie (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fnMy7U8FuGxSgwVGg2Qr9KNIhXk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/A6G7aPerIp3FbvXo3X4g1KwZztA.jpg"
       },
       "Finn Zirzow": {
         "id": 4513940,
@@ -16091,7 +16091,7 @@
       "Elizabeth Taylor": {
         "id": 3635,
         "character": "Amy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/e0sGChSJEyE8XTGI37P7Mwu4Lzk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pIq0rsj0XHKFemnvMjq5q6nAseo.jpg"
       },
       "Janet Leigh": {
         "id": 7302,
@@ -21331,7 +21331,7 @@
     "released": "2014-11-14",
     "duration": 109,
     "imdb_id": "tt3558642",
-    "vote_average": "4.4",
+    "vote_average": "4.5",
     "overview": "This Christmas the pupils of St Bernadette's and their much-loved, madcap teacher Mr. Poppy are back for their biggest adventure yet involving fantastic flashmobs, excitable elves, Christmas carols and of course Archie the donkey! When their new teacher Mr. Shepherd loses his memory and forgets all about Christmas, as well as his fiancée Sophie and the whereabouts of the beloved Archie, it's up to the pupils of St Bernadette's to save the day. Led by the ever enthusiastic Mr Poppy, they embark on a Christmas journey like never before - but time is against them if they are to help Mr Shepherd get to New York in time for his magical yuletide wedding!",
     "genres": ["Comedy", "Family"],
     "imdb_score": "3.6/10",
@@ -29363,8 +29363,8 @@
     "imdb_score": "4.8/10",
     "rt_score": "51%",
     "meta_score": "59/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Netflix", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Meg Ryan",
     "cast": {
       "Meg Ryan": {
@@ -30097,7 +30097,7 @@
       "Jane Levy": {
         "id": 530618,
         "character": "Zoey Clarke",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4tkkbO34BNjVf1sPwT7pmUNwzwT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7eGX3HbChmEn8G8nGzB7nvthlfI.jpg"
       },
       "Skylar Astin": {
         "id": 73128,
