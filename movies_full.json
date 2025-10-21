@@ -5491,7 +5491,7 @@
       "Bruce Willis": {
         "id": 62,
         "character": "John McClane",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2jbMZCksnFlEdCZhEvh6GmU4GQl.jpg"
       },
       "Alan Rickman": {
         "id": 4566,
@@ -11566,7 +11566,7 @@
       "Kate Hudson": {
         "id": 11661,
         "character": "Choir Singer (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/s79lH1QzEg2fkXULKBxRmU9aNr8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/etLphQpogWncXwq6CEYNsi9Qo27.jpg"
       },
       "Eric Ian": {
         "id": 1394344,
@@ -16529,7 +16529,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Laurie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Tracy Letts": {
         "id": 72638,
@@ -18253,7 +18253,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -25883,7 +25883,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Isabel Fezziwig (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jKhDQOMVQ1JP4gaUXCQg75gvsrm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sreHqDq6AAujGDf7VsDzYPdxVlM.jpg"
       },
       "Johnny Flynn": {
         "id": 137108,
@@ -29790,7 +29790,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
