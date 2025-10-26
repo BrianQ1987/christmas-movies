@@ -4349,7 +4349,7 @@
     "overview": "When four generations of the Cooper clan come together for their annual Christmas Eve celebration, a series of unexpected visitors and unlikely events turn the night upside down, leading them all toward a surprising rediscovery of family bonds and the spirit of the holiday.",
     "genres": ["Comedy", "Family", "Drama"],
     "imdb_score": "5.8/10",
-    "rt_score": "18%",
+    "rt_score": "19%",
     "meta_score": "31/100",
     "director": "Jessie Nelson",
     "cast": {
@@ -8933,11 +8933,6 @@
         "id": 86007,
         "character": "Additional Voices (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/7Um56ftGoxN6c5GxJSNckeARCDy.jpg"
-      },
-      "Laurent Lafitte": {
-        "id": 93532,
-        "character": "(voice) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lpF5sb1aEMEmxxfZT3u8PWGEipC.jpg"
       }
     }
   },
@@ -18253,7 +18248,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
