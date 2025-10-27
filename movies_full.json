@@ -12510,7 +12510,7 @@
       "Judy Garland": {
         "id": 9066,
         "character": "Veronica Fisher",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dkhMrLSfnqS3fmxWuXaEMwxN0Tf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vUsMDyRhHYUdayQosHhBF6knWGh.jpg"
       },
       "Van Johnson": {
         "id": 37446,
@@ -12650,7 +12650,7 @@
       "Liza Minnelli": {
         "id": 66776,
         "character": "Veronica and Andrew's Daughter (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oQ52qE02BJ0vCoAtMsxgWrcpRtQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9t7BfVwIY51fj3gjqCKrQXhMU4Q.jpg"
       },
       "Howard M. Mitchell": {
         "id": 1005425,
@@ -17720,7 +17720,7 @@
       "Judy Garland": {
         "id": 9066,
         "character": "Esther Smith",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dkhMrLSfnqS3fmxWuXaEMwxN0Tf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vUsMDyRhHYUdayQosHhBF6knWGh.jpg"
       },
       "Margaret O'Brien": {
         "id": 13991,
@@ -18248,7 +18248,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -29786,7 +29786,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
