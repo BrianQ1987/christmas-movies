@@ -2118,7 +2118,7 @@
       "Mary Elizabeth Winstead": {
         "id": 17628,
         "character": "Heather Fitzgerald",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/i1RjhPH8XypvR0W7zKCLrFxph4D.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lgLSrB5MAhnJeS7qfc18YxzTNnJ.jpg"
       },
       "Lacey Chabert": {
         "id": 22082,
@@ -4371,7 +4371,7 @@
       "Amanda Seyfried": {
         "id": 71070,
         "character": "Ruby",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fbsHXVZmuR4LuNkg6WWGKgWZQ4s.jpg"
       },
       "Alan Arkin": {
         "id": 1903,
@@ -10864,7 +10864,7 @@
       "Macaulay Culkin": {
         "id": 11510,
         "character": "Kevin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hVagDqi5o8lZ21b1kXAl45Sj9wt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5We9Y4zUJ5TUnRgfmkzWQx0mLIF.jpg"
       },
       "Joe Pesci": {
         "id": 4517,
@@ -11221,7 +11221,7 @@
       "Macaulay Culkin": {
         "id": 11510,
         "character": "Kevin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hVagDqi5o8lZ21b1kXAl45Sj9wt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5We9Y4zUJ5TUnRgfmkzWQx0mLIF.jpg"
       },
       "Joe Pesci": {
         "id": 4517,
@@ -18248,7 +18248,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -29786,7 +29786,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
