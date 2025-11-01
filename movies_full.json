@@ -7261,7 +7261,7 @@
       "Skyler Gisondo": {
         "id": 61263,
         "character": "Connor McVie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vyalCuJUUP7Ht1vMWZQzhOrscXV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lJ6Sh5duegwjpoKF0QmiFHbBDXr.jpg"
       },
       "Steve Wiebe": {
         "id": 76112,
@@ -7598,7 +7598,7 @@
       "Kevin Spacey": {
         "id": 1979,
         "character": "Clyde Archibald Northcutt",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nPrUZDEbGQe6jwpVbHKJCXsMd7r.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rwIMhGHMq0nh7CJY7EYjGJZBkVt.jpg"
       },
       "Rio Hackford": {
         "id": 62787,
@@ -8983,7 +8983,7 @@
       "Bradley Cooper": {
         "id": 51329,
         "character": "Rocket (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pLD2XvxqHueLWOuqXoFngJU3A5H.jpg"
       },
       "Sean Gunn": {
         "id": 51663,
@@ -16891,8 +16891,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "64%",
     "meta_score": "55/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Richard Curtis",
     "cast": {
       "Hugh Grant": {
