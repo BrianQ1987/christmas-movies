@@ -4371,7 +4371,7 @@
       "Amanda Seyfried": {
         "id": 71070,
         "character": "Ruby",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fbsHXVZmuR4LuNkg6WWGKgWZQ4s.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
       },
       "Alan Arkin": {
         "id": 1903,
@@ -4416,7 +4416,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Charlie Cooper",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wHbKraxnDaPiXrv1bg6izchdpww.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
       },
       "Blake Baumgartner": {
         "id": 1931911,
@@ -16526,7 +16526,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Laurie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wHbKraxnDaPiXrv1bg6izchdpww.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
       },
       "Tracy Letts": {
         "id": 72638,
@@ -18250,7 +18250,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
