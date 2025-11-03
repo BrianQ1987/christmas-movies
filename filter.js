@@ -649,7 +649,7 @@ filter_platform.onmouseover = function () {
     years_div.id = "platform-filters";
 
     platforms = ["Plex", "Amazon Prime Video", "Netflix", "ITVX", "Disney Plus", "Apple TV+", 
-        "Channel 4", "Paramount Plus", "BBC iPlayer", "My5", "Freevee"];
+        "Channel 4", "Paramount Plus", "BBC iPlayer", "My5"];
 
     platforms.push("Not available")
 
