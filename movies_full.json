@@ -12736,292 +12736,6 @@
       }
     }
   },
-  "It Happened on 5th Avenue": {
-    "id": 52844,
-    "plex": true,
-    "watched": [2022, 2024],
-    "added": 2022,
-    "poster_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg",
-    "title": "It Happened on Fifth Avenue",
-    "released": "1947-04-17",
-    "duration": 116,
-    "imdb_id": "tt0039502",
-    "vote_average": "7",
-    "overview": "A New Yorker hobo moves into a mansion and along the way he gathers friends to live in the house with him. Before he knows it, he is living with the actual home owners.",
-    "genres": ["Comedy", "Romance", "Music"],
-    "imdb_score": "7.6/10",
-    "meta_score": "66/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": "Roy Del Ruth",
-    "cast": {
-      "Don DeFore": {
-        "id": 96850,
-        "character": "Jim Bullock",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cJQYFdi3ZZoT1HLxNTFvh7oRGBy.jpg"
-      },
-      "Ann Harding": {
-        "id": 103441,
-        "character": "Mary O'Connor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dofROitTbPxHnvyswXt6nl1gChV.jpg"
-      },
-      "Charles Ruggles": {
-        "id": 2436,
-        "character": "Michael J. 'Mike' O'Connor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/auirQUnJ5kKBTl2p6kHtkJBNeo1.jpg"
-      },
-      "Victor Moore": {
-        "id": 125364,
-        "character": "Aloysius T. McKeever",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qDoKZ77Pmq1RebbJiQHEmwpUyia.jpg"
-      },
-      "Gale Storm": {
-        "id": 109721,
-        "character": "Trudy O'Connor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/blNLkw0c3DwQNSkSVLkVrrj5h0s.jpg"
-      },
-      "Grant Mitchell": {
-        "id": 30215,
-        "character": "Al Farrow",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aK0rpMG4ALS3B6sVqb9cvLsPtJS.jpg"
-      },
-      "Edward Brophy": {
-        "id": 32437,
-        "character": "Gates Patrolman Cecil Felton",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gxAnTjS7tnVOFdhUjkWYcsdXhWm.jpg"
-      },
-      "Alan Hale Jr.": {
-        "id": 35322,
-        "character": "Whitey Temple",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/13hyaSRqAe9LTkGTp4iEyZQO5Il.jpg"
-      },
-      "Dorothea Kent": {
-        "id": 148520,
-        "character": "Margie Temple",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/y5utXdRZ8MAjrDDgVJS5nyJp6uq.jpg"
-      },
-      "Edward Ryan": {
-        "id": 144549,
-        "character": "Hank",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aegY9sw6rS1iMv25Ukc9W2xnME6.jpg"
-      },
-      "Cathy Carter": {
-        "id": 138380,
-        "character": "Alice",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
-      },
-      "Charles Lane": {
-        "id": 29579,
-        "character": "Landlord (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ghyuQ8HoIY1ozRzbLGJNl2d1dz6.jpg"
-      },
-      "Arthur Hohl": {
-        "id": 25176,
-        "character": "Brady (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bkLPbxdjy5aRL8KkG0HY6H5sFo5.jpg"
-      },
-      "Edward Gargan": {
-        "id": 34294,
-        "character": "Policeman in Park (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gxufkPI5QRcZsMCWGaToCpcbNp0.jpg"
-      },
-      "James Flavin": {
-        "id": 3262,
-        "character": "First Policeman (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zF6D2GWaLx2TyRm4qDTqwCk6JWg.jpg"
-      },
-      "John Hamilton": {
-        "id": 14455,
-        "character": "Harper (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9VZWWtnDccfRvT3mtXMNMg53uqp.jpg"
-      },
-      "Chester Clute": {
-        "id": 30280,
-        "character": "Phillips (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/e7gTZGvxMoZ4P3947oW8mAmLamK.jpg"
-      },
-      "Anthony Sydes": {
-        "id": 117724,
-        "character": "Jackie Temple (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
-      },
-      "Eddie Marr": {
-        "id": 81284,
-        "character": "Tour Bus Spieler (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7MuYDWDmqnCU9oTV0SrBM5fudQQ.jpg"
-      },
-      "George Lloyd": {
-        "id": 83397,
-        "character": "Foreman of Movers (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8p5UR9ltSSadwBdxOOSrVpbFvJD.jpg"
-      },
-      "Johnny Arthur": {
-        "id": 34086,
-        "character": "Apartment Manager (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/f8mltNpEviyIDYnKFBbwRtFAm7o.jpg"
-      },
-      "Jean Andren": {
-        "id": 1045645,
-        "character": "Secretary (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
-      },
-      "Florence Auer": {
-        "id": 98504,
-        "character": "Miss Parker (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/82nUuX7cDdfFxfZ2bIC063Hmt2Z.jpg"
-      },
-      "Leon Belasco": {
-        "id": 95054,
-        "character": "Musician (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/AuimSqbQ7lmRNIUmuMEkGguamJ9.jpg"
-      },
-      "George Blagoi": {
-        "id": 1623341,
-        "character": "Executive (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/i15N1y5rrQiVlmpMwJ16KKrCAm8.jpg"
-      },
-      "Chet Brandenburg": {
-        "id": 1208018,
-        "character": "Man Tossing Pudding (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eqfca5056LyAPwYwRGdUow9cH3o.jpg"
-      },
-      "John Breen": {
-        "id": 1598134,
-        "character": "Man Tossing Pudding (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
-      },
-      "James Cardwell": {
-        "id": 104996,
-        "character": "Young Man (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5RFtgrAXB2FRA9F5v3BgLvTkOHI.jpg"
-      },
-      "Corky": {
-        "id": 2114027,
-        "character": "Sammy (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
-      },
-      "Dudley Dickerson": {
-        "id": 120793,
-        "character": "Joe (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/calMGoobwaujM3y8Fc5FpmdJxmm.jpg"
-      },
-      "Adolph Faylauer": {
-        "id": 121322,
-        "character": "Executive (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/UsFTfNPUh2raMPRxUk9t3E7drc.jpg"
-      },
-      "Al Fenney": {
-        "id": 3365440,
-        "character": "Executive (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
-      },
-      "Jack George": {
-        "id": 1287807,
-        "character": "Executive (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
-      },
-      "Pat Goldin": {
-        "id": 119508,
-        "character": "Waiter (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
-      },
-      "Bert Howard": {
-        "id": 1422459,
-        "character": "Executive (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
-      },
-      "Major Kieffer": {
-        "id": 2387842,
-        "character": "Executive (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
-      },
-      "William Kline": {
-        "id": 3365441,
-        "character": "Executive (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
-      },
-      "Carl M. Leviness": {
-        "id": 1353645,
-        "character": "Executive (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8SJQSmHZESdalItwsoarlnaohmK.jpg"
-      },
-      "Vera Lewis": {
-        "id": 29953,
-        "character": "Woman in Chauffeured Car (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2mKt5b7EAPEjvRFbUHzTD8oGoxV.jpg"
-      },
-      "David Martell": {
-        "id": 2592033,
-        "character": "Executive (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
-      },
-      "Rowland McCracken": {
-        "id": 3365445,
-        "character": "Executive (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
-      },
-      "George Meader": {
-        "id": 217757,
-        "character": "Music Store Manager (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hZPgATyWNSGpJQYVkOOM56CYGLC.jpg"
-      },
-      "Howard M. Mitchell": {
-        "id": 1005425,
-        "character": "Executive (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/a9gb5eKZ5hMzJQG3Fb9VeU34yau.jpg"
-      },
-      "Sol Murgi": {
-        "id": 1550447,
-        "character": "Man Tossing Pudding (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/Wy1HgMEv8BRaJDQkXTVLJjaub1.jpg"
-      },
-      "William H. O'Brien": {
-        "id": 1176510,
-        "character": "Executive (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dHqtM4SNmq6W2WBnxyXgRdlgSfk.jpg"
-      },
-      "Garry Owen": {
-        "id": 117772,
-        "character": "Detective (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4lXrRqVoopFMS8hPEaR7BwEtLmD.jpg"
-      },
-      "Abe Reynolds": {
-        "id": 3365447,
-        "character": "Finkelhoff (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
-      },
-      "Linda Lee Solomon": {
-        "id": 3365448,
-        "character": "Young Girl (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
-      },
-      "Bert Stevens": {
-        "id": 1208035,
-        "character": "Farrow's Associate (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nEIxsXjWCtGDKcECuKL8qsqwGcb.jpg"
-      },
-      "Jack Stoney": {
-        "id": 1120620,
-        "character": "Man wearing Second Hand Clothing Advertising Sign (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nQLhqyWxmXYpZgExyOmZd2lVadB.jpg"
-      },
-      "Victor Travis": {
-        "id": 1290486,
-        "character": "Executive (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2SCZdeRYcMlfkGGNYZmKSLwygbc.jpg"
-      },
-      "Max Willenz": {
-        "id": 999131,
-        "character": "Musician (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
-      },
-      "Al Winters": {
-        "id": 2215048,
-        "character": "Executive (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
-      }
-    }
-  },
   "It's a Very Merry Muppet Christmas Movie": {
     "id": 13352,
     "plex": true,
@@ -14014,6 +13728,292 @@
         "id": 4513940,
         "character": "Bar Patron (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg"
+      }
+    }
+  },
+  "It Happened on 5th Avenue": {
+    "id": 52844,
+    "plex": true,
+    "watched": [2022, 2024],
+    "added": 2022,
+    "poster_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg",
+    "title": "It Happened on Fifth Avenue",
+    "released": "1947-04-17",
+    "duration": 116,
+    "imdb_id": "tt0039502",
+    "vote_average": "7",
+    "overview": "A New Yorker hobo moves into a mansion and along the way he gathers friends to live in the house with him. Before he knows it, he is living with the actual home owners.",
+    "genres": ["Comedy", "Romance", "Music"],
+    "imdb_score": "7.6/10",
+    "meta_score": "66/100",
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "director": "Roy Del Ruth",
+    "cast": {
+      "Don DeFore": {
+        "id": 96850,
+        "character": "Jim Bullock",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cJQYFdi3ZZoT1HLxNTFvh7oRGBy.jpg"
+      },
+      "Ann Harding": {
+        "id": 103441,
+        "character": "Mary O'Connor",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dofROitTbPxHnvyswXt6nl1gChV.jpg"
+      },
+      "Charles Ruggles": {
+        "id": 2436,
+        "character": "Michael J. 'Mike' O'Connor",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/auirQUnJ5kKBTl2p6kHtkJBNeo1.jpg"
+      },
+      "Victor Moore": {
+        "id": 125364,
+        "character": "Aloysius T. McKeever",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qDoKZ77Pmq1RebbJiQHEmwpUyia.jpg"
+      },
+      "Gale Storm": {
+        "id": 109721,
+        "character": "Trudy O'Connor",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/blNLkw0c3DwQNSkSVLkVrrj5h0s.jpg"
+      },
+      "Grant Mitchell": {
+        "id": 30215,
+        "character": "Al Farrow",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aK0rpMG4ALS3B6sVqb9cvLsPtJS.jpg"
+      },
+      "Edward Brophy": {
+        "id": 32437,
+        "character": "Gates Patrolman Cecil Felton",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gxAnTjS7tnVOFdhUjkWYcsdXhWm.jpg"
+      },
+      "Alan Hale Jr.": {
+        "id": 35322,
+        "character": "Whitey Temple",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/13hyaSRqAe9LTkGTp4iEyZQO5Il.jpg"
+      },
+      "Dorothea Kent": {
+        "id": 148520,
+        "character": "Margie Temple",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/y5utXdRZ8MAjrDDgVJS5nyJp6uq.jpg"
+      },
+      "Edward Ryan": {
+        "id": 144549,
+        "character": "Hank",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aegY9sw6rS1iMv25Ukc9W2xnME6.jpg"
+      },
+      "Cathy Carter": {
+        "id": 138380,
+        "character": "Alice",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
+      },
+      "Charles Lane": {
+        "id": 29579,
+        "character": "Landlord (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghyuQ8HoIY1ozRzbLGJNl2d1dz6.jpg"
+      },
+      "Arthur Hohl": {
+        "id": 25176,
+        "character": "Brady (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bkLPbxdjy5aRL8KkG0HY6H5sFo5.jpg"
+      },
+      "Edward Gargan": {
+        "id": 34294,
+        "character": "Policeman in Park (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gxufkPI5QRcZsMCWGaToCpcbNp0.jpg"
+      },
+      "James Flavin": {
+        "id": 3262,
+        "character": "First Policeman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zF6D2GWaLx2TyRm4qDTqwCk6JWg.jpg"
+      },
+      "John Hamilton": {
+        "id": 14455,
+        "character": "Harper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9VZWWtnDccfRvT3mtXMNMg53uqp.jpg"
+      },
+      "Chester Clute": {
+        "id": 30280,
+        "character": "Phillips (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/e7gTZGvxMoZ4P3947oW8mAmLamK.jpg"
+      },
+      "Anthony Sydes": {
+        "id": 117724,
+        "character": "Jackie Temple (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
+      },
+      "Eddie Marr": {
+        "id": 81284,
+        "character": "Tour Bus Spieler (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7MuYDWDmqnCU9oTV0SrBM5fudQQ.jpg"
+      },
+      "George Lloyd": {
+        "id": 83397,
+        "character": "Foreman of Movers (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8p5UR9ltSSadwBdxOOSrVpbFvJD.jpg"
+      },
+      "Johnny Arthur": {
+        "id": 34086,
+        "character": "Apartment Manager (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/f8mltNpEviyIDYnKFBbwRtFAm7o.jpg"
+      },
+      "Jean Andren": {
+        "id": 1045645,
+        "character": "Secretary (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
+      },
+      "Florence Auer": {
+        "id": 98504,
+        "character": "Miss Parker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/82nUuX7cDdfFxfZ2bIC063Hmt2Z.jpg"
+      },
+      "Leon Belasco": {
+        "id": 95054,
+        "character": "Musician (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/AuimSqbQ7lmRNIUmuMEkGguamJ9.jpg"
+      },
+      "George Blagoi": {
+        "id": 1623341,
+        "character": "Executive (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/i15N1y5rrQiVlmpMwJ16KKrCAm8.jpg"
+      },
+      "Chet Brandenburg": {
+        "id": 1208018,
+        "character": "Man Tossing Pudding (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eqfca5056LyAPwYwRGdUow9cH3o.jpg"
+      },
+      "John Breen": {
+        "id": 1598134,
+        "character": "Man Tossing Pudding (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
+      },
+      "James Cardwell": {
+        "id": 104996,
+        "character": "Young Man (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5RFtgrAXB2FRA9F5v3BgLvTkOHI.jpg"
+      },
+      "Corky": {
+        "id": 2114027,
+        "character": "Sammy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
+      },
+      "Dudley Dickerson": {
+        "id": 120793,
+        "character": "Joe (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/calMGoobwaujM3y8Fc5FpmdJxmm.jpg"
+      },
+      "Adolph Faylauer": {
+        "id": 121322,
+        "character": "Executive (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/UsFTfNPUh2raMPRxUk9t3E7drc.jpg"
+      },
+      "Al Fenney": {
+        "id": 3365440,
+        "character": "Executive (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
+      },
+      "Jack George": {
+        "id": 1287807,
+        "character": "Executive (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
+      },
+      "Pat Goldin": {
+        "id": 119508,
+        "character": "Waiter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
+      },
+      "Bert Howard": {
+        "id": 1422459,
+        "character": "Executive (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
+      },
+      "Major Kieffer": {
+        "id": 2387842,
+        "character": "Executive (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
+      },
+      "William Kline": {
+        "id": 3365441,
+        "character": "Executive (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
+      },
+      "Carl M. Leviness": {
+        "id": 1353645,
+        "character": "Executive (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8SJQSmHZESdalItwsoarlnaohmK.jpg"
+      },
+      "Vera Lewis": {
+        "id": 29953,
+        "character": "Woman in Chauffeured Car (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2mKt5b7EAPEjvRFbUHzTD8oGoxV.jpg"
+      },
+      "David Martell": {
+        "id": 2592033,
+        "character": "Executive (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
+      },
+      "Rowland McCracken": {
+        "id": 3365445,
+        "character": "Executive (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
+      },
+      "George Meader": {
+        "id": 217757,
+        "character": "Music Store Manager (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hZPgATyWNSGpJQYVkOOM56CYGLC.jpg"
+      },
+      "Howard M. Mitchell": {
+        "id": 1005425,
+        "character": "Executive (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/a9gb5eKZ5hMzJQG3Fb9VeU34yau.jpg"
+      },
+      "Sol Murgi": {
+        "id": 1550447,
+        "character": "Man Tossing Pudding (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/Wy1HgMEv8BRaJDQkXTVLJjaub1.jpg"
+      },
+      "William H. O'Brien": {
+        "id": 1176510,
+        "character": "Executive (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dHqtM4SNmq6W2WBnxyXgRdlgSfk.jpg"
+      },
+      "Garry Owen": {
+        "id": 117772,
+        "character": "Detective (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4lXrRqVoopFMS8hPEaR7BwEtLmD.jpg"
+      },
+      "Abe Reynolds": {
+        "id": 3365447,
+        "character": "Finkelhoff (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
+      },
+      "Linda Lee Solomon": {
+        "id": 3365448,
+        "character": "Young Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
+      },
+      "Bert Stevens": {
+        "id": 1208035,
+        "character": "Farrow's Associate (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nEIxsXjWCtGDKcECuKL8qsqwGcb.jpg"
+      },
+      "Jack Stoney": {
+        "id": 1120620,
+        "character": "Man wearing Second Hand Clothing Advertising Sign (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nQLhqyWxmXYpZgExyOmZd2lVadB.jpg"
+      },
+      "Victor Travis": {
+        "id": 1290486,
+        "character": "Executive (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2SCZdeRYcMlfkGGNYZmKSLwygbc.jpg"
+      },
+      "Max Willenz": {
+        "id": 999131,
+        "character": "Musician (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
+      },
+      "Al Winters": {
+        "id": 2215048,
+        "character": "Executive (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"
       }
     }
   },
@@ -15226,7 +15226,7 @@
       "Joseph Gordon-Levitt": {
         "id": 24045,
         "character": "Self",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fm2vDPCzT2185e8qIt8RLvDx44U.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4U9G4YwTlIEbAymBaseltS38eH4.jpg"
       },
       "Kristen Bell": {
         "id": 40462,
@@ -16511,7 +16511,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Amy March",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nuRLGEBCfUVXTjq9guz9OlTGjtL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
       },
       "Eliza Scanlen": {
         "id": 1669125,
@@ -18250,7 +18250,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20406,7 +20406,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/2APY35DdgOmQIJlVpnjI7Kanjyb.jpg",
     "title": "Nativity!",
     "released": "2009-11-27",
-    "duration": 105,
+    "duration": 106,
     "imdb_id": "tt1242447",
     "vote_average": "6.3",
     "overview": "Paul, charged with directing his school's Nativity play, falsely boasts that his ex-girlfriend plans to turn the production into a film.",
@@ -21544,7 +21544,7 @@
       "Joseph Gordon-Levitt": {
         "id": 24045,
         "character": "Ethan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fm2vDPCzT2185e8qIt8RLvDx44U.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4U9G4YwTlIEbAymBaseltS38eH4.jpg"
       },
       "Seth Rogen": {
         "id": 19274,
@@ -27437,6 +27437,211 @@
       }
     }
   },
+  "The Sure Thing": {
+    "id": 8992,
+    "plex": false,
+    "watched": [],
+    "added": 2025,
+    "poster_path": "https://image.tmdb.org/t/p/w1280/a9cuohQn5kczi4htWZAZjEZvXkZ.jpg",
+    "title": "The Sure Thing",
+    "released": "1985-03-01",
+    "duration": 100,
+    "imdb_id": "tt0090103",
+    "vote_average": "6.5",
+    "overview": "Gib, a beer-guzzling slob, and Alison, an uptight Ivy-Leaguer, are an unlikely duo stuck together on a cross-country trip during Christmas break. At first they get on each other's nerves but, as time passes, they find their divergent natures complement each other. Now they need to realize what they've already found before it's too late.",
+    "genres": ["Comedy", "Romance"],
+    "imdb_score": "7.0/10",
+    "rt_score": "83%",
+    "meta_score": "76/100",
+    "director": "Rob Reiner",
+    "cast": {
+      "John Cusack": {
+        "id": 3036,
+        "character": "Walter \"Gib\" Gibson",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg"
+      },
+      "Daphne Zuniga": {
+        "id": 14668,
+        "character": "Alison Bradbury",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jzxXGApvXYqYJKFpSH1WUnr8qCa.jpg"
+      },
+      "Anthony Edwards": {
+        "id": 11085,
+        "character": "Lance",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rP88gP87pa3je6Viem3081tESIV.jpg"
+      },
+      "Boyd Gaines": {
+        "id": 32389,
+        "character": "Jason",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8bbGx9VFkxV89vUChxyYmrWRwBo.jpg"
+      },
+      "Tim Robbins": {
+        "id": 504,
+        "character": "Gary Cooper",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/djLVFETFTvPyVUdrd7aLVykobof.jpg"
+      },
+      "Lisa Jane Persky": {
+        "id": 9259,
+        "character": "Mary Ann Webster",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bURqr4uN7kKyC3kcVae8OQlAQjR.jpg"
+      },
+      "Viveca Lindfors": {
+        "id": 22137,
+        "character": "Professor Taub",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5gs8qdR66iRG60hX3kmRTvP2AWF.jpg"
+      },
+      "Nicollette Sheridan": {
+        "id": 37045,
+        "character": "The Sure Thing",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5jClu0aOq5hLzXa0ic3NoZBuZG4.jpg"
+      },
+      "Marcia Christie": {
+        "id": 1161735,
+        "character": "Julie",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/a9cuohQn5kczi4htWZAZjEZvXkZ.jpg"
+      },
+      "Robert Anthony Marcucci": {
+        "id": 104431,
+        "character": "Bobby",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/a9cuohQn5kczi4htWZAZjEZvXkZ.jpg"
+      },
+      "Sarah Buxton": {
+        "id": 17191,
+        "character": "Sharon",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/z99KUsJihhzsc4c9k2HSAI6kIWZ.jpg"
+      },
+      "Lorrie Lightle": {
+        "id": 1161736,
+        "character": "Lucy",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/a9cuohQn5kczi4htWZAZjEZvXkZ.jpg"
+      },
+      "Joshua Cadman": {
+        "id": 152936,
+        "character": "Jimbo",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/a9cuohQn5kczi4htWZAZjEZvXkZ.jpg"
+      },
+      "Krystal Richards": {
+        "id": 195805,
+        "character": "Girl in Photo",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/a9cuohQn5kczi4htWZAZjEZvXkZ.jpg"
+      },
+      "John Putch": {
+        "id": 21475,
+        "character": "Mastin",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jpOkJGMk07jkrQWZ6ep4uy4wQLs.jpg"
+      },
+      "Steve Pink": {
+        "id": 3227,
+        "character": "Football Player",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m1JexFpTc8bPFulS2kyXmSup0Vy.jpg"
+      },
+      "Tracy Reiner": {
+        "id": 8189,
+        "character": "Alison's Friend",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tfIh2dPe4tGITdlsPZXBNeqvZwW.jpg"
+      },
+      "Jimmy Baron": {
+        "id": 1227269,
+        "character": "Frat Party Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/a9cuohQn5kczi4htWZAZjEZvXkZ.jpg"
+      },
+      "Martin J. Layton": {
+        "id": 1559512,
+        "character": "Frat Guy (as Marty Layton)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/a9cuohQn5kczi4htWZAZjEZvXkZ.jpg"
+      },
+      "Amy Resnick": {
+        "id": 116913,
+        "character": "Marsha",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/a9cuohQn5kczi4htWZAZjEZvXkZ.jpg"
+      },
+      "Robert Bauer": {
+        "id": 66485,
+        "character": "Moke",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pQgbriu17N98tEbNOvl8OYUvrAi.jpg"
+      },
+      "Frantz Turner": {
+        "id": 116536,
+        "character": "Cop",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vXvhFA3iSCdlmdAYqJGBtO0WYCT.jpg"
+      },
+      "Garry Goodrow": {
+        "id": 4203,
+        "character": "Pick-Up Driver",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tHRVUOQmWIQPy1UvjA8uHBLkpRG.jpg"
+      },
+      "Robert Snively": {
+        "id": 1412166,
+        "character": "Bus Station Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/a9cuohQn5kczi4htWZAZjEZvXkZ.jpg"
+      },
+      "Carmen Filpi": {
+        "id": 154073,
+        "character": "Bus Station Bum",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zYLuWaqYUYYzxHo00kmXnUUg6ra.jpg"
+      },
+      "Richard Hamilton": {
+        "id": 9633,
+        "character": "Bartender",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2LkJGXKvRo7tmu6jUhIJ6G4jmXI.jpg"
+      },
+      "George Memmoli": {
+        "id": 2563,
+        "character": "Man in Bar",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kwhNDLl84nM22xcVexVnsp8H7RB.jpg"
+      },
+      "Stephanie Blake": {
+        "id": 100490,
+        "character": "Barmaid (as Rosalind Moreland)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/87T2ujHYrnVtfLV5Vy2aBlxwJLB.jpg"
+      },
+      "Sunshine Parker": {
+        "id": 79744,
+        "character": "Cowboy Guy",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4oTIQXo4qxQJGkNWFSopjhgdYFF.jpg"
+      },
+      "Fran Ryan": {
+        "id": 152670,
+        "character": "Lady in Car",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lrbyK3AYrxhmMMnT6yjmjplZ9ri.jpg"
+      },
+      "Teresa Baxter": {
+        "id": 3118238,
+        "character": "Rose Lady",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/a9cuohQn5kczi4htWZAZjEZvXkZ.jpg"
+      },
+      "Larry Hankin": {
+        "id": 11519,
+        "character": "Trucker",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2uR8SZ9geiSQOpBhKrerh9qY7CX.jpg"
+      },
+      "Julie Ow": {
+        "id": 1237495,
+        "character": "Girl in Sarong",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qN8ScJ5skq58YTkkq4V7iqLMBCP.jpg"
+      },
+      "Noelle Williams": {
+        "id": 3147835,
+        "character": "Katherine",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/a9cuohQn5kczi4htWZAZjEZvXkZ.jpg"
+      },
+      "John Richard Petersen": {
+        "id": 2307563,
+        "character": "Frat Guy on Stairs (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oxNACZlwwrcJ6lvguVljNXE9etc.jpg"
+      },
+      "Tamara Carrera": {
+        "id": 1434987,
+        "character": "Fantasy Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uoNS4nhdAjz6oyNU5jKapNykhAu.jpg"
+      },
+      "Chris Tashima": {
+        "id": 45329,
+        "character": "Frat Guy at Punch Bowl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dQ27oWtFm5IFiHS6M0g4gG24itt.jpg"
+      }
+    }
+  },
   "Surviving Christmas": {
     "id": 15566,
     "plex": true,
@@ -29788,7 +29993,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,

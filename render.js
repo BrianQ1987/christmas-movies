@@ -256,15 +256,11 @@ async function renderMovies() {
 
             document.getElementById("info-plot").textContent = movie.overview;
 
-            
+            if (!Array.isArray(movie.genres)) movie.genres = [movie.genres];
                 
-            if (movie.genres.length > 1) {
-                document.getElementById("genre-heading").innerHTML = "🎭 Genres";
-            } else {
-                document.getElementById("genre-heading").innerHTML = "🎭 Genre";
-            }
+            if (movie.genres.length > 1) document.getElementById("genre-heading").innerHTML = "🎭 Genres";
 
-            let genre_text = "";
+            let genre_text = "";            
 
             for (let j = 0; j < movie.genres.length; j ++) {
                 genre_text += movie.genres[j] + "; ";
