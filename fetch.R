@@ -6,7 +6,7 @@ library(dplyr)
 # Configuration
 api_key <- '85341e3acb2ca904010924317b75aecc'
 api_base_url <- 'https://api.themoviedb.org/3/'
-image_base_url <- 'https://image.tmdb.org/t/p/w1280'
+image_base_url <- 'https://image.tmdb.org/t/p/original'
 
 services <- c("Amazon Prime Video", "Netflix", "ITVX", "Disney Plus", "Apple TV+", 
               "Channel 4", "Paramount Plus", "BBC iPlayer", "My5", "Freevee")
