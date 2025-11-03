@@ -9185,7 +9185,7 @@
       "Aubrey Plaza": {
         "id": 119592,
         "character": "Riley Johnson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/780BVfLoEv5jY4kuLH5vHEZj3oz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4pPvrQmrzQCYpgLo8WM1AW8myoe.jpg"
       },
       "Sarayu Blue": {
         "id": 1224130,
@@ -18250,7 +18250,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -22477,7 +22477,7 @@
       "Elias Koteas": {
         "id": 13550,
         "character": "Eddie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wCrzUtE1p4cbVfoA9xpWHYPUWuN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/luevjlGy0tYQbAbcz0mVxCYqegH.jpg"
       },
       "Robbie Magwood": {
         "id": 145526,
@@ -25652,8 +25652,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "74%",
     "meta_score": "58/100",
-    "platforms": "Amazon Prime Video",
-    "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+    "platforms": ["Amazon Prime Video", "ITVX"],
+    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "/1LuvKw01c2KQCt6DqgAgR06H2pT.jpg"],
     "director": "Ronald Neame",
     "cast": {
       "Albert Finney": {
