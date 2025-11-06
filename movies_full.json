@@ -2382,7 +2382,7 @@
       "Cate Blanchett": {
         "id": 112,
         "character": "Carol Aird",
-        "profile_path": "https://image.tmdb.org/t/p/original/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/mXpe59YDxcvAJS6EtshsvsRvLZP.jpg"
       },
       "Rooney Mara": {
         "id": 108916,
@@ -19264,7 +19264,7 @@
     "overview": "Six-year-old Susan Walker has doubts about childhood's most enduring miracle—Santa Claus. Her mother told her the secret about Santa a long time ago, but, after meeting a special department store Santa who's convinced he's the real thing, Susan is given the most precious gift of all—something to believe in.",
     "genres": ["Fantasy", "Drama", "Family"],
     "imdb_score": "6.6/10",
-    "rt_score": "60%",
+    "rt_score": "59%",
     "platforms": ["Disney Plus", "Plex"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Les Mayfield",
@@ -30282,7 +30282,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
