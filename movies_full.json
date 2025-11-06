@@ -684,8 +684,8 @@
     "imdb_score": "6.1/10",
     "rt_score": "77%",
     "meta_score": "63/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "John McPhail",
     "cast": {
       "Ella Hunt": {
@@ -2375,8 +2375,8 @@
     "imdb_score": "7.3/10",
     "rt_score": "94%",
     "meta_score": "94/100",
-    "platforms": ["Netflix", "Amazon Prime Video", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Netflix", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Todd Haynes",
     "cast": {
       "Cate Blanchett": {
@@ -29160,7 +29160,7 @@
       "John Landis": {
         "id": 4610,
         "character": "Man with Briefcase  (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/nXKdxxELgAaGecCpxAWCoj6TV3f.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/3T778poXnyAeJO15m1XwvSCv9nc.jpg"
       },
       "Shirley Levine": {
         "id": 568102,
