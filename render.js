@@ -237,7 +237,7 @@ async function renderMovies() {
                 platform_div.removeChild(platform_div.firstChild)
             }
 
-            if (movie.hasOwnProperty("platforms")) {
+            if (movie.platforms != "Not available") {
                 if (Array.isArray(movie.platforms)) {
                     for (let j = 0; j < movie.platforms.length; j ++) {
                         logo = "https://image.tmdb.org/t/p/original" + movie.logo_paths[j];
