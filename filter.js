@@ -531,6 +531,8 @@ filter_last.onmouseover = function () {
             for (let j = 0; j < Object.keys(movies).length; j ++) {
 
                 movie = movies[Object.keys(movies)[j]];
+
+                if (!Array.isArray(movie.watched)) movie.watched = [movie.watched];
                 
                 last_watched = movie.watched[movie.watched.length - 1];
                 
