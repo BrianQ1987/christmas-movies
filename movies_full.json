@@ -414,7 +414,7 @@
       "Ethan Embry": {
         "id": 58019,
         "character": "Ethan O'Fallon",
-        "profile_path": "https://image.tmdb.org/t/p/original/oC5m2pfIcfAD6jrPTNhR77Uldm9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/feYnMlTejbHfkhD1akVVXKWG0u1.jpg"
       },
       "Kevin Nealon": {
         "id": 58478,
@@ -18794,7 +18794,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
