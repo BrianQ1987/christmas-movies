@@ -13970,8 +13970,8 @@
     "imdb_score": "8.6/10",
     "rt_score": "94%",
     "meta_score": "89/100",
-    "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Frank Capra",
     "cast": {
       "James Stewart": {
@@ -18794,7 +18794,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -22820,7 +22820,7 @@
       "Sabrina Carpenter": {
         "id": 1152083,
         "character": "Self",
-        "profile_path": "https://image.tmdb.org/t/p/original/drTDxL4nw2dUWq0YDv1IvlHiqyC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/h2JcSqZ220VXDqb6xKBVcRquGGN.jpg"
       },
       "Cara Delevingne": {
         "id": 1289968,
