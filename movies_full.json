@@ -2375,8 +2375,8 @@
     "imdb_score": "7.3/10",
     "rt_score": "94%",
     "meta_score": "94/100",
-    "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Todd Haynes",
     "cast": {
       "Cate Blanchett": {
@@ -9597,7 +9597,7 @@
       "Daniel Bernhardt": {
         "id": 9452,
         "character": "Gobot",
-        "profile_path": "https://image.tmdb.org/t/p/original/b59qhg5VJOCypx9eMXrXHAjauLd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/3BLz32inDr1jznU6pKQmh20zfhK.jpg"
       },
       "Michelle Gunn": {
         "id": 85101,
@@ -18794,7 +18794,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -28025,7 +28025,7 @@
       "Tim Robbins": {
         "id": 504,
         "character": "Gary Cooper",
-        "profile_path": "https://image.tmdb.org/t/p/original/djLVFETFTvPyVUdrd7aLVykobof.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/9DujxnBMVkizaeIyM0eXPMfXxR.jpg"
       },
       "Lisa Jane Persky": {
         "id": 9259,
@@ -29585,7 +29585,7 @@
       "Azize Kabouche": {
         "id": 1117894,
         "character": "Oncologist",
-        "profile_path": "https://image.tmdb.org/t/p/original/8GY33Avszc9y1jSwuu4zv6uJtrL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oV6ig7i5uHsZPfBppEmFvTQtX7o.jpg"
       },
       "Beata Nilska": {
         "id": 1457837,
@@ -30107,7 +30107,7 @@
     "released": "2023-11-02",
     "duration": 104,
     "imdb_id": "tt19890316",
-    "vote_average": "4.7",
+    "vote_average": "4.8",
     "overview": "Two ex-lovers get snowed in at a regional airport overnight. Indefinitely delayed, Willa, a magical thinker, and Bill, a catastrophic one, find themselves just as attracted to and annoyed by one another as they did decades earlier. But as they unpack the riddle of their mutual past and compare their lives to the dreams they once shared, they begin to wonder if their reunion is mere coincidence, or something more enchanted.",
     "genres": ["Romance", "Comedy"],
     "imdb_score": "4.8/10",
@@ -30540,7 +30540,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
