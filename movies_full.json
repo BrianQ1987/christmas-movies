@@ -3795,7 +3795,7 @@
   },
   "A Christmas Star": {
     "id": 370071,
-    "plex": false,
+    "plex": true,
     "watched": [],
     "added": 2025,
     "poster_path": "https://image.tmdb.org/t/p/original/kuPmTKaiAB7HjpZZHGUQWCK6AwD.jpg",
@@ -3808,6 +3808,8 @@
     "genres": ["Family", "Comedy"],
     "imdb_score": "5.0/10",
     "rt_score": "38%",
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Richard Elson",
     "cast": {
       "Erin Galway-Kendrick": {
@@ -13970,8 +13972,8 @@
     "imdb_score": "8.6/10",
     "rt_score": "94%",
     "meta_score": "89/100",
-    "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Frank Capra",
     "cast": {
       "James Stewart": {
@@ -27986,7 +27988,7 @@
   },
   "The Sure Thing": {
     "id": 8992,
-    "plex": false,
+    "plex": true,
     "watched": [],
     "added": 2025,
     "poster_path": "https://image.tmdb.org/t/p/original/a9cuohQn5kczi4htWZAZjEZvXkZ.jpg",
@@ -28000,6 +28002,8 @@
     "imdb_score": "7.0/10",
     "rt_score": "83%",
     "meta_score": "76/100",
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Rob Reiner",
     "cast": {
       "John Cusack": {
@@ -28993,7 +28997,7 @@
       "Denholm Elliott": {
         "id": 656,
         "character": "Coleman",
-        "profile_path": "https://image.tmdb.org/t/p/original/2TOVT6xiGKrtqTBbCR3Ogb3i6Df.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/fnxExUCAU6HVTMk4cTNJkkl2hpq.jpg"
       },
       "Kristin Holby": {
         "id": 18160,
