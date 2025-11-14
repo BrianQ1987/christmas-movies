@@ -3529,7 +3529,7 @@
       "Adrian Morris": {
         "id": 102071,
         "character": "Tom",
-        "profile_path": "https://image.tmdb.org/t/p/original/5KTXxXPhFW2tobplHddJndtP2Wk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/ciPktaPm1Aiul1aMttF8TR4nOZd.jpg"
       },
       "Harry Rosenthal": {
         "id": 986013,
@@ -13970,8 +13970,8 @@
     "imdb_score": "8.6/10",
     "rt_score": "94%",
     "meta_score": "89/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Frank Capra",
     "cast": {
       "James Stewart": {
@@ -15980,8 +15980,8 @@
     "imdb_score": "6.5/10",
     "rt_score": "46%",
     "meta_score": "50/100",
-    "platforms": ["Disney Plus", "Plex"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["BBC iPlayer", "Disney Plus", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Paul Feig",
     "cast": {
       "Emilia Clarke": {
@@ -15997,7 +15997,7 @@
       "Michelle Yeoh": {
         "id": 1620,
         "character": "Santa",
-        "profile_path": "https://image.tmdb.org/t/p/original/nrbHNzSMydpWK9um5VqWIFJihB5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6oxvfyrrM3YmhgFZSqc8ESqPZoC.jpg"
       },
       "Emma Thompson": {
         "id": 7056,
@@ -18794,7 +18794,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -30540,7 +30540,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
