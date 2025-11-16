@@ -8642,8 +8642,6 @@
     "imdb_score": "5.8/10",
     "rt_score": "27%",
     "meta_score": "34/100",
-    "platforms": "Amazon Prime Video",
-    "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
     "director": "Mark Waters",
     "cast": {
       "Matthew McConaughey": {
@@ -8888,7 +8886,7 @@
     "plex": true,
     "watched": 2023,
     "added": 2021,
-    "poster_path": "https://image.tmdb.org/t/p/original/gKfhNgOyQZU62DYUpwRokpPL5rN.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/mAWlp4qXYxXju7Qgf1sgVuBYpKy.jpg",
     "title": "The Great Santa Claus Switch",
     "released": "1970-12-20",
     "duration": 60,
@@ -8949,7 +8947,7 @@
       "Byron Whiting": {
         "id": 2600059,
         "character": "Additional Muppet Performer (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/gKfhNgOyQZU62DYUpwRokpPL5rN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/mAWlp4qXYxXju7Qgf1sgVuBYpKy.jpg"
       },
       "Greg Antonacci": {
         "id": 1212814,
@@ -8959,7 +8957,7 @@
       "Cary Antebi": {
         "id": 2600063,
         "character": "Additional Muppet Performer (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/gKfhNgOyQZU62DYUpwRokpPL5rN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/mAWlp4qXYxXju7Qgf1sgVuBYpKy.jpg"
       },
       "John Byrum": {
         "id": 32767,
@@ -8969,7 +8967,7 @@
       "Diane Kimbrell": {
         "id": 3737726,
         "character": "Additional Muppets (voice) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/gKfhNgOyQZU62DYUpwRokpPL5rN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/mAWlp4qXYxXju7Qgf1sgVuBYpKy.jpg"
       },
       "Ed Sullivan": {
         "id": 214919,
@@ -15138,7 +15136,7 @@
       "Kenyah Sandy": {
         "id": 2815760,
         "character": "Grandson",
-        "profile_path": "https://image.tmdb.org/t/p/original/5RbyHIVydD3Krmec1LlUV7rRjet.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/aHlx9lr6BETIyBbUw9dqv1eOHZh.jpg"
       },
       "Tobias Poppe": {
         "id": 1345597,
@@ -18796,7 +18794,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -22304,7 +22302,7 @@
     "plex": false,
     "watched": [2023, 2024],
     "added": 2023,
-    "poster_path": "https://image.tmdb.org/t/p/original/7k7uCZ3gDsa0jt0Uynxz4fyTmHA.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
     "title": "The Nightmare Before Christmas",
     "released": "1993-10-09",
     "duration": 76,
@@ -22357,12 +22355,12 @@
       "Edward Ivory": {
         "id": 1495928,
         "character": "Santa Claus (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/7k7uCZ3gDsa0jt0Uynxz4fyTmHA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
       },
       "Susan McBride": {
         "id": 2011698,
         "character": "Big Witch / WWD. (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/7k7uCZ3gDsa0jt0Uynxz4fyTmHA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
       },
       "Debi Durst": {
         "id": 1383860,
@@ -22377,7 +22375,7 @@
       "Kerry Katz": {
         "id": 1720665,
         "character": "Man Under Stairs / Vampire / Corpse Dad (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/7k7uCZ3gDsa0jt0Uynxz4fyTmHA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
       },
       "Randy Crenshaw": {
         "id": 1720666,
@@ -22387,7 +22385,7 @@
       "Sherwood Ball": {
         "id": 1720668,
         "character": "Mummy / Vampire (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/7k7uCZ3gDsa0jt0Uynxz4fyTmHA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
       },
       "Carmen Twillie": {
         "id": 1222823,
@@ -22397,32 +22395,32 @@
       "Glenn Walters": {
         "id": 1720667,
         "character": "Wolfman (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/7k7uCZ3gDsa0jt0Uynxz4fyTmHA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
       },
       "Mia Brown": {
         "id": 2011699,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/7k7uCZ3gDsa0jt0Uynxz4fyTmHA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
       },
       "L. Peter Callender": {
         "id": 2011701,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/7k7uCZ3gDsa0jt0Uynxz4fyTmHA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
       },
       "Ann Fraser": {
         "id": 2011702,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/7k7uCZ3gDsa0jt0Uynxz4fyTmHA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
       },
       "Jennifer Levey": {
         "id": 2011703,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/7k7uCZ3gDsa0jt0Uynxz4fyTmHA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
       },
       "Jesse McClurg": {
         "id": 1616341,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/7k7uCZ3gDsa0jt0Uynxz4fyTmHA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
       },
       "John Morris": {
         "id": 1116442,
@@ -22432,7 +22430,7 @@
       "Robert Olague": {
         "id": 2011707,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/7k7uCZ3gDsa0jt0Uynxz4fyTmHA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
       },
       "Bobbi Page": {
         "id": 1074140,
@@ -22442,12 +22440,12 @@
       "Elena Praskin": {
         "id": 1866645,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/7k7uCZ3gDsa0jt0Uynxz4fyTmHA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
       },
       "Trampas Warman": {
         "id": 2011708,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/7k7uCZ3gDsa0jt0Uynxz4fyTmHA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
       },
       "Judi Durand": {
         "id": 949895,
@@ -22457,7 +22455,7 @@
       "Doris Hess": {
         "id": 1596338,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/7k7uCZ3gDsa0jt0Uynxz4fyTmHA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
       },
       "Daamen J. Krall": {
         "id": 96310,
@@ -22467,7 +22465,7 @@
       "Christina MacGregor": {
         "id": 1995388,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/7k7uCZ3gDsa0jt0Uynxz4fyTmHA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
       },
       "David McCharen": {
         "id": 952996,
@@ -22477,12 +22475,12 @@
       "Gary Raff": {
         "id": 2011711,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/7k7uCZ3gDsa0jt0Uynxz4fyTmHA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
       },
       "David J. Randolph": {
         "id": 954335,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/7k7uCZ3gDsa0jt0Uynxz4fyTmHA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
       },
       "Gary Schwartz": {
         "id": 184330,
