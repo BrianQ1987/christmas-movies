@@ -6448,6 +6448,11 @@
         "id": 1662562,
         "character": "Young Buddy (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/sgmhqF0kJ1ZrqG4Eabkn9iyTouq.jpg"
+      },
+      "Chloe Campbell": {
+        "id": 4702633,
+        "character": "Child",
+        "profile_path": "https://image.tmdb.org/t/p/original/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
       }
     }
   },
@@ -6675,8 +6680,8 @@
     "imdb_score": "6.3/10",
     "rt_score": "52%",
     "meta_score": "56/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+    "platforms": ["Netflix", "Disney Plus"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg"],
     "director": "Thomas Bezucha",
     "cast": {
       "Dermot Mulroney": {
@@ -8889,11 +8894,11 @@
     "poster_path": "https://image.tmdb.org/t/p/original/mAWlp4qXYxXju7Qgf1sgVuBYpKy.jpg",
     "title": "The Great Santa Claus Switch",
     "released": "1970-12-20",
-    "duration": 60,
+    "duration": 52,
     "imdb_id": "tt0445979",
     "vote_average": "6.4",
-    "overview": "Santa Claus and his elves are ready to deliver presents to children everywhere but Cosmo Scam has hatched a plan to kidnap Santa and take his place! One by one, Cosmo abducts Santa's elves and replaces them with his evil henchmen. Can Fred the Elf save Christmas before Cosmo burglarizes the world?",
-    "genres": ["Adventure", "Comedy", "Family", "TV Movie"],
+    "overview": "Santa Claus and his elves are ready to deliver presents to children everywhere, but the evil wizard, Cosmo Scam, has hatched a plot to kidnap Santa and take his place! One by one, Cosmo abducts Santa’s elves and replaces them with his evil henchmen. Can Fred the Elf save Christmas before Cosmo burglarizes the world?",
+    "genres": ["Adventure", "Comedy", "Family", "Fantasy", "TV Movie"],
     "imdb_score": "7.2/10",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
@@ -8903,6 +8908,11 @@
         "id": 40176,
         "character": "Santa Claus / Cosmo Scam",
         "profile_path": "https://image.tmdb.org/t/p/original/dXuApUbw2Wlfj5jg3Qv4PwCanR6.jpg"
+      },
+      "Ed Sullivan": {
+        "id": 214919,
+        "character": "Self / Host / Narrator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/Xib04YQTh5wDAa2Z1mkKhMb0LE.jpg"
       },
       "Jim Henson": {
         "id": 55983,
@@ -8968,11 +8978,6 @@
         "id": 3737726,
         "character": "Additional Muppets (voice) (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/mAWlp4qXYxXju7Qgf1sgVuBYpKy.jpg"
-      },
-      "Ed Sullivan": {
-        "id": 214919,
-        "character": "Self (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/Xib04YQTh5wDAa2Z1mkKhMb0LE.jpg"
       }
     }
   },
@@ -11415,7 +11420,7 @@
       "Joe Pesci": {
         "id": 4517,
         "character": "Harry",
-        "profile_path": "https://image.tmdb.org/t/p/original/1WHLXwT0TDZDWFVRcFve1B0EjNK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dcte2FDUR0hHNzIVM107zWgTsmD.jpg"
       },
       "Daniel Stern": {
         "id": 11511,
@@ -11772,7 +11777,7 @@
       "Joe Pesci": {
         "id": 4517,
         "character": "Harry",
-        "profile_path": "https://image.tmdb.org/t/p/original/1WHLXwT0TDZDWFVRcFve1B0EjNK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dcte2FDUR0hHNzIVM107zWgTsmD.jpg"
       },
       "Daniel Stern": {
         "id": 11511,
@@ -13970,8 +13975,8 @@
     "imdb_score": "8.6/10",
     "rt_score": "94%",
     "meta_score": "89/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Frank Capra",
     "cast": {
       "James Stewart": {
@@ -18794,7 +18799,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -25645,7 +25650,7 @@
     "poster_path": "https://image.tmdb.org/t/p/original/pvaWMSRzRwtcxyHKNLX6phiQp8d.jpg",
     "title": "The Santa Clause 3: The Escape Clause",
     "released": "2006-11-02",
-    "duration": 97,
+    "duration": 92,
     "imdb_id": "tt0452681",
     "vote_average": "5.6",
     "overview": "Now that Santa and Mrs. Claus have the North Pole running smoothly, the Counsel of Legendary Figures has called an emergency meeting on Christmas Eve! The evil Jack Frost has been making trouble, looking to take over the holiday! So he launches a plan to sabotage the toy factory and compel Scott to invoke the little-known Escape Clause and wish he'd never become Santa.",
@@ -29145,7 +29150,7 @@
       "Avon Long": {
         "id": 1155210,
         "character": "Ezra",
-        "profile_path": "https://image.tmdb.org/t/p/original/8mBuLCOcpWnmYtZc4aqtvDXslv6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/o7eSLHW2bHnNrjIRvqAj9jJUDzj.jpg"
       },
       "Tom Mardirosian": {
         "id": 118754,
