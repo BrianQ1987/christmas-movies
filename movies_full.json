@@ -684,8 +684,8 @@
     "imdb_score": "6.1/10",
     "rt_score": "77%",
     "meta_score": "63/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "John McPhail",
     "cast": {
       "Ella Hunt": {
@@ -2272,7 +2272,7 @@
     "released": "2019-12-11",
     "duration": 92,
     "imdb_id": "tt10481868",
-    "vote_average": "4.5",
+    "vote_average": "4.6",
     "overview": "A group of sorority pledges are stalked by a stranger during their Christmas break. That is until the young women discover that the killer is part of an underground campus conspiracy.",
     "genres": ["Horror", "Mystery"],
     "imdb_score": "3.5/10",
@@ -12573,7 +12573,7 @@
       "Dustin Milligan": {
         "id": 53117,
         "character": "Jack",
-        "profile_path": "https://image.tmdb.org/t/p/original/q5Uc9lQJxir05tfOLWxrZsyZF5p.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/3LZLQRZOl3HlLENP3vLAGddPdcO.jpg"
       },
       "Craig Robinson": {
         "id": 64342,
@@ -15368,7 +15368,7 @@
       "Robert Downey Jr.": {
         "id": 3223,
         "character": "Harry Lockhart",
-        "profile_path": "https://image.tmdb.org/t/p/original/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/4SLDzrd8C0evBJTy9nVbFeogjXV.jpg"
       },
       "Val Kilmer": {
         "id": 5576,
@@ -15985,8 +15985,8 @@
     "imdb_score": "6.5/10",
     "rt_score": "46%",
     "meta_score": "50/100",
-    "platforms": ["BBC iPlayer", "Disney Plus", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["BBC iPlayer", "Netflix", "Disney Plus", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Paul Feig",
     "cast": {
       "Emilia Clarke": {
@@ -17512,7 +17512,7 @@
       "Martin Freeman": {
         "id": 7060,
         "character": "John",
-        "profile_path": "https://image.tmdb.org/t/p/original/pLG7mmxBXXTVAgzXvQl0ap3qlJU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
       },
       "Joanna Page": {
         "id": 7061,
@@ -17637,7 +17637,7 @@
       "Caroline John": {
         "id": 79931,
         "character": "Sam's Grandmother",
-        "profile_path": "https://image.tmdb.org/t/p/original/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/yMJOo6FIoABN31c7WtjxwMLD6uf.jpg"
       },
       "Gemma Aston": {
         "id": 3839953,
@@ -18799,7 +18799,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -25004,7 +25004,7 @@
       "Caroline John": {
         "id": 79931,
         "character": "Village Woman (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/tZvGQF2623FD0MZgvOy18J5d7x5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/yMJOo6FIoABN31c7WtjxwMLD6uf.jpg"
       },
       "Jill Goldston": {
         "id": 2462366,
@@ -28219,7 +28219,7 @@
       "Ben Affleck": {
         "id": 880,
         "character": "Drew Latham",
-        "profile_path": "https://image.tmdb.org/t/p/original/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/8guQqUQ9qsGooDbv7JwOOZX2UUJ.jpg"
       },
       "James Gandolfini": {
         "id": 4691,
