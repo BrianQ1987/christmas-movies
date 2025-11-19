@@ -2,6 +2,7 @@
 library(jsonlite)
 library(httr)
 library(dplyr)
+library(xml2)
 
 # Configuration
 api_key <- "85341e3acb2ca904010924317b75aecc"
