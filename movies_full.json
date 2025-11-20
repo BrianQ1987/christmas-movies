@@ -1511,7 +1511,7 @@
       "Terrence Howard": {
         "id": 18288,
         "character": "Quentin",
-        "profile_path": "https://image.tmdb.org/t/p/original/wXWt2NSY23v7DHe2yZQ1C8TikBp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/eZ6uRZOYWZAyjNmWpDKGdLL6WUC.jpg"
       },
       "Harold Perrineau": {
         "id": 6195,
@@ -4655,7 +4655,7 @@
       "Ed Helms": {
         "id": 27105,
         "character": "Hank Cooper",
-        "profile_path": "https://image.tmdb.org/t/p/original/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/3eqOBrszzIl4cITLAgKrsdICqcM.jpg"
       },
       "Amanda Seyfried": {
         "id": 71070,
@@ -6843,7 +6843,7 @@
       "Ed Helms": {
         "id": 27105,
         "character": "Bill Walker",
-        "profile_path": "https://image.tmdb.org/t/p/original/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/3eqOBrszzIl4cITLAgKrsdICqcM.jpg"
       },
       "Emma Myers": {
         "id": 2604515,
@@ -9517,7 +9517,7 @@
       "Karen Gillan": {
         "id": 543261,
         "character": "Nebula",
-        "profile_path": "https://image.tmdb.org/t/p/original/rWx8u4F4aYIqmjJDeMK78ysPsu0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/kFLXcFdok3ShDxylr3WNreQphQm.jpg"
       },
       "Pom Klementieff": {
         "id": 139820,
@@ -9532,7 +9532,7 @@
       "Bradley Cooper": {
         "id": 51329,
         "character": "Rocket (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/pLD2XvxqHueLWOuqXoFngJU3A5H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg"
       },
       "Sean Gunn": {
         "id": 51663,
@@ -12184,7 +12184,7 @@
       "Robert Downey Jr.": {
         "id": 3223,
         "character": "Tommy Larson",
-        "profile_path": "https://image.tmdb.org/t/p/original/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5A7vGrVJcOLdfow1i9GoXN85Q16.jpg"
       },
       "Anne Bancroft": {
         "id": 10774,
@@ -12719,7 +12719,7 @@
     "imdb_id": "tt0170016",
     "vote_average": "6.8",
     "overview": "The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart...",
-    "genres": ["Family", "Comedy"],
+    "genres": ["Family", "Comedy", "Fantasy"],
     "imdb_score": "6.4/10",
     "rt_score": "49%",
     "meta_score": "46/100",
@@ -15353,7 +15353,7 @@
     "poster_path": "https://image.tmdb.org/t/p/original/aWfjIkpENFX6Uw82pET7EQ6jnrd.jpg",
     "title": "Kiss Kiss Bang Bang",
     "released": "2005-09-14",
-    "duration": 103,
+    "duration": 102,
     "imdb_id": "tt0373469",
     "vote_average": "7.2",
     "overview": "A petty thief posing as an actor is brought to Los Angeles for an unlikely audition and finds himself in the middle of a murder investigation along with his high school dream girl and a detective who's been training him for his upcoming role...",
@@ -15368,12 +15368,12 @@
       "Robert Downey Jr.": {
         "id": 3223,
         "character": "Harry Lockhart",
-        "profile_path": "https://image.tmdb.org/t/p/original/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5A7vGrVJcOLdfow1i9GoXN85Q16.jpg"
       },
       "Val Kilmer": {
         "id": 5576,
         "character": "Gay Perry",
-        "profile_path": "https://image.tmdb.org/t/p/original/sWH9jTD0bC5gWhhceUlzfNiNup0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/7m7DgwglglZV8LKEDUHPqAzUrD5.jpg"
       },
       "Michelle Monaghan": {
         "id": 11705,
@@ -19711,7 +19711,7 @@
     "released": "2012-12-09",
     "duration": 90,
     "imdb_id": "tt2490352",
-    "vote_average": "6.2",
+    "vote_average": "6.1",
     "overview": "Holly, blessed with an amazing singing voice, is all set to audition for the newly vacated spot in a legendary local Christmas group which was founded by her late mother years ago. Shocked and upset when the slot goes to the barely talented best friend of the group's leader, Marci, Holly sets out to create her own musical group, The Mistle-Tones. After challenging their rivals to a sing-off on Christmas Eve, Holly finds herself on a journey to the real meaning of Christmas with some new friends and a new love thrown in for good measure.",
     "genres": ["TV Movie", "Comedy", "Romance"],
     "imdb_score": "6.4/10",
@@ -19789,7 +19789,7 @@
     "released": "1994-12-21",
     "duration": 97,
     "imdb_id": "tt0110538",
-    "vote_average": "5.4",
+    "vote_average": "5.3",
     "overview": "The events of a crisis hotline business on one crazy night during the Christmas holidays.",
     "genres": ["Comedy", "Drama", "Romance"],
     "imdb_score": "5.4/10",
@@ -19977,7 +19977,7 @@
       "Robert Downey Jr.": {
         "id": 3223,
         "character": "Mr. Willowby",
-        "profile_path": "https://image.tmdb.org/t/p/original/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5A7vGrVJcOLdfow1i9GoXN85Q16.jpg"
       },
       "Leslie Nielsen": {
         "id": 7633,
@@ -26213,7 +26213,7 @@
       "Alec Guinness": {
         "id": 12248,
         "character": "Jacob Marley's Ghost",
-        "profile_path": "https://image.tmdb.org/t/p/original/dddx1VI6l1Ge8SQEJz7rI8OSmkv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/q9QgiNDEO6lbi7uMAOw0OgWn8DG.jpg"
       },
       "Edith Evans": {
         "id": 45465,
@@ -29663,7 +29663,7 @@
       "George Clooney": {
         "id": 1461,
         "character": "George Clooney",
-        "profile_path": "https://image.tmdb.org/t/p/original/4s3wI0bqOP7K3hhcmKqV6m3GYiQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg"
       },
       "Miley Cyrus": {
         "id": 76594,
@@ -30070,7 +30070,7 @@
       "Tristan Carlucci": {
         "id": 2473588,
         "character": "Lightstone Security",
-        "profile_path": "https://image.tmdb.org/t/p/original/e8CpMgdyihz9Td7amQDqubPuzfN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/8SpH1z3E85PLZ0jV5UT9LngdWjD.jpg"
       },
       "James Durham": {
         "id": 1131844,
@@ -30371,7 +30371,7 @@
       "Danny Kaye": {
         "id": 70668,
         "character": "Phil Davis",
-        "profile_path": "https://image.tmdb.org/t/p/original/zbb3IO4RJ0yhnng5JYVt83TQcKG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/a4ciX3nsLZWCNj8BAKsW3hkC6cr.jpg"
       },
       "Rosemary Clooney": {
         "id": 77674,
@@ -30547,7 +30547,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
