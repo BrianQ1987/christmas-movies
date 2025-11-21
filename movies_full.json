@@ -10610,7 +10610,7 @@
       "Kate Winslet": {
         "id": 204,
         "character": "Iris",
-        "profile_path": "https://image.tmdb.org/t/p/original/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/zIiU5mOcinbkpHWCxuDigucsyZC.jpg"
       },
       "Jude Law": {
         "id": 9642,
@@ -18259,7 +18259,7 @@
     "duration": 114,
     "imdb_id": "tt0037059",
     "vote_average": "7",
-    "overview": "Young love and childish fears highlight a year in the life of a turn-of-the-century family up to the 1904 St. Louis World's Fair.",
+    "overview": "A year in the life of a turn-of-the-century middle class family, leading up to the opening of the 1904 St. Louis World's Fair.",
     "genres": ["Comedy", "Drama", "Romance", "Family"],
     "imdb_score": "7.5/10",
     "rt_score": "99%",
@@ -20514,7 +20514,7 @@
       "Richard Griffiths": {
         "id": 10983,
         "character": "Santa Claus",
-        "profile_path": "https://image.tmdb.org/t/p/original/4H4uQfMzvgs11RCLaoSMQsyElw8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xaGf1HVVRl6W7x6H2wog2QC9Yel.jpg"
       },
       "Steve Whitmire": {
         "id": 64180,
@@ -30547,7 +30547,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
