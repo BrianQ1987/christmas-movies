@@ -2698,6 +2698,8 @@
     "genres": ["Animation", "Family", "Comedy", "TV Movie"],
     "imdb_score": "8.3/10",
     "rt_score": "94%",
+    "platforms": "Apple TV",
+    "logo_paths": "/mcbz1LgtErU9p4UdbZ0rG6RTWHX.jpg",
     "director": "Bill Melendez",
     "cast": {
       "Peter Robbins": {
@@ -27525,6 +27527,8 @@
     "imdb_score": "6.6/10",
     "rt_score": "70%",
     "meta_score": "55/100",
+    "platforms": "Apple TV",
+    "logo_paths": "/mcbz1LgtErU9p4UdbZ0rG6RTWHX.jpg",
     "director": "Sean Anders",
     "cast": {
       "Will Ferrell": {
