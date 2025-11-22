@@ -10620,7 +10620,7 @@
       "Jack Black": {
         "id": 70851,
         "character": "Miles",
-        "profile_path": "https://image.tmdb.org/t/p/original/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
       },
       "Eli Wallach": {
         "id": 3265,
@@ -18799,7 +18799,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20589,7 +20589,7 @@
       "Uma Thurman": {
         "id": 139,
         "character": "Joy",
-        "profile_path": "https://image.tmdb.org/t/p/original/lg04iEqT6TC40H1jz10Z99OFMXx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/sBgAZWi3o4FsnaTvnTNtK6jpQcF.jpg"
       },
       "Paul Williams": {
         "id": 35040,
@@ -22305,7 +22305,7 @@
   "The Nightmare Before Christmas": {
     "id": 9479,
     "plex": false,
-    "watched": [2023, 2024],
+    "watched": [2023, 2024, 2025],
     "added": 2023,
     "poster_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
     "title": "The Nightmare Before Christmas",
@@ -23706,7 +23706,7 @@
       "Denzel Washington": {
         "id": 5292,
         "character": "Dudley",
-        "profile_path": "https://image.tmdb.org/t/p/original/393wX9AGWpseVqojQDPLy3bTBia.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
       },
       "Whitney Houston": {
         "id": 8851,
@@ -30547,7 +30547,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
