@@ -4707,7 +4707,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Charlie Cooper",
-        "profile_path": "https://image.tmdb.org/t/p/original/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
       },
       "Blake Baumgartner": {
         "id": 1931911,
@@ -10070,7 +10070,7 @@
     "released": "2023-12-24",
     "duration": 77,
     "imdb_id": "tt11417166",
-    "vote_average": "4.8",
+    "vote_average": "5.3",
     "overview": "After a bank robber dressed as Santa Claus holds up a bank, a child disillusioned with Christmas encounters a man in the woods who, also dressed as Santa, claims to have fallen out of his sleigh. The pair strike up a friendship and go on an adventure.",
     "genres": ["Family", "Adventure"],
     "imdb_score": "5.2/10",
@@ -17077,7 +17077,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Laurie",
-        "profile_path": "https://image.tmdb.org/t/p/original/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
       },
       "Tracy Letts": {
         "id": 72638,
@@ -18801,7 +18801,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -23894,6 +23894,96 @@
         "id": 1227926,
         "character": "Teleprompter Operator",
         "profile_path": "https://image.tmdb.org/t/p/original/z1mU4g9poAgoDQRNLcfNdj3iiMs.jpg"
+      },
+      "Rutha Harris": {
+        "id": 2738314,
+        "character": "St. Matthew's Choir & Band Member",
+        "profile_path": "https://image.tmdb.org/t/p/original/z1mU4g9poAgoDQRNLcfNdj3iiMs.jpg"
+      },
+      "Jacqueline Martin": {
+        "id": 5833636,
+        "character": "St. Matthew's Choir & Band Member",
+        "profile_path": "https://image.tmdb.org/t/p/original/z1mU4g9poAgoDQRNLcfNdj3iiMs.jpg"
+      },
+      "Teretha G. Houston": {
+        "id": 5833637,
+        "character": "St. Matthew's Choir & Band Member",
+        "profile_path": "https://image.tmdb.org/t/p/original/z1mU4g9poAgoDQRNLcfNdj3iiMs.jpg"
+      },
+      "Sharon A. Mitchell": {
+        "id": 2542762,
+        "character": "St. Matthew's Choir & Band Member",
+        "profile_path": "https://image.tmdb.org/t/p/original/z1mU4g9poAgoDQRNLcfNdj3iiMs.jpg"
+      },
+      "Steven Brown": {
+        "id": 5833643,
+        "character": "Drummer",
+        "profile_path": "https://image.tmdb.org/t/p/original/z1mU4g9poAgoDQRNLcfNdj3iiMs.jpg"
+      },
+      "Dwain L. White": {
+        "id": 5833645,
+        "character": "Organist",
+        "profile_path": "https://image.tmdb.org/t/p/original/z1mU4g9poAgoDQRNLcfNdj3iiMs.jpg"
+      },
+      "Tania McDonald-Tomlinson": {
+        "id": 5833646,
+        "character": "Sheep - Nativity Choir (as Brittany Anderson)",
+        "profile_path": "https://image.tmdb.org/t/p/original/z1mU4g9poAgoDQRNLcfNdj3iiMs.jpg"
+      },
+      "Mark Gilbert": {
+        "id": 5833647,
+        "character": "Wise Man - Nativity Choir",
+        "profile_path": "https://image.tmdb.org/t/p/original/z1mU4g9poAgoDQRNLcfNdj3iiMs.jpg"
+      },
+      "Michael Marshall": {
+        "id": 5833648,
+        "character": "Wise Man - Nativity Choir",
+        "profile_path": "https://image.tmdb.org/t/p/original/z1mU4g9poAgoDQRNLcfNdj3iiMs.jpg"
+      },
+      "Kevin Mitchell": {
+        "id": 5833649,
+        "character": "Painting Singer",
+        "profile_path": "https://image.tmdb.org/t/p/original/z1mU4g9poAgoDQRNLcfNdj3iiMs.jpg"
+      },
+      "Debbie Benitez": {
+        "id": 2771995,
+        "character": "Store Owner's Wife (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/z1mU4g9poAgoDQRNLcfNdj3iiMs.jpg"
+      },
+      "Marianne Hettinger": {
+        "id": 1935052,
+        "character": "Robbery Witness (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/8xj6TZmglKdtyYOuFKDeHUYnVFp.jpg"
+      },
+      "Anibal O. Lleras": {
+        "id": 36193,
+        "character": "Pizza Man (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/wqWoayLLTsXe80Vw2KJ5oWTxsDK.jpg"
+      },
+      "David Madison": {
+        "id": 1198939,
+        "character": "Defendant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/z1mU4g9poAgoDQRNLcfNdj3iiMs.jpg"
+      },
+      "Adam Alexi-Malle": {
+        "id": 20804,
+        "character": "Robbery Witness (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/vA72gPPSNk51uo5u18Z2iJpM9Fw.jpg"
+      },
+      "John Rowe Jr.": {
+        "id": 1688859,
+        "character": "Prosecuting Attorney (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/z1mU4g9poAgoDQRNLcfNdj3iiMs.jpg"
+      },
+      "Derrick Simmons": {
+        "id": 80831,
+        "character": "Robber (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/skgc0k72x1mNH8gBjp0f1TSyoN0.jpg"
+      },
+      "Ronald Sylvers": {
+        "id": 2497137,
+        "character": "Congregation Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/z1mU4g9poAgoDQRNLcfNdj3iiMs.jpg"
       }
     }
   },
@@ -25641,6 +25731,11 @@
         "id": 1221119,
         "character": "Restaurant Patron (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/tBNRr4wV9UgVxQKoeqztJimg9gN.jpg"
+      },
+      "Frank Meschkuleit": {
+        "id": 1232230,
+        "character": "Additional Performances (puppeteer)",
+        "profile_path": "https://image.tmdb.org/t/p/original/2EAMkz0z1pbr9weOY1Y7buy2AxV.jpg"
       }
     }
   },
@@ -30551,7 +30646,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
