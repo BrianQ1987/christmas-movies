@@ -4107,8 +4107,8 @@
     "imdb_score": "7.9/10",
     "rt_score": "89%",
     "meta_score": "77/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Bob Clark",
     "cast": {
       "Melinda Dillon": {
@@ -7562,7 +7562,7 @@
       "Skyler Gisondo": {
         "id": 61263,
         "character": "Connor McVie",
-        "profile_path": "https://image.tmdb.org/t/p/original/lJ6Sh5duegwjpoKF0QmiFHbBDXr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/vyalCuJUUP7Ht1vMWZQzhOrscXV.jpg"
       },
       "Steve Wiebe": {
         "id": 76112,
@@ -8694,7 +8694,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Allison Vandermeersh",
-        "profile_path": "https://image.tmdb.org/t/p/original/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/bKbFmFQtn1N6Utzr9Sf0E23alaL.jpg"
       },
       "Daniel Sunjata": {
         "id": 10582,
@@ -12574,23 +12574,13 @@
     "cast": {
       "Lacey Chabert": {
         "id": 22082,
-        "character": "Kathy",
+        "character": "Kathy Barrett",
         "profile_path": "https://image.tmdb.org/t/p/original/lYRtX2k8A1Y52IQdpKS9Louaf1j.jpg"
       },
       "Dustin Milligan": {
         "id": 53117,
-        "character": "Jack",
+        "character": "Jack Snowman",
         "profile_path": "https://image.tmdb.org/t/p/original/3LZLQRZOl3HlLENP3vLAGddPdcO.jpg"
-      },
-      "Craig Robinson": {
-        "id": 64342,
-        "character": "Sheriff Hunter",
-        "profile_path": "https://image.tmdb.org/t/p/original/mTyTrOWUSOBJMOlDpnd4OYx7FlJ.jpg"
-      },
-      "Joe Lo Truglio": {
-        "id": 21131,
-        "character": "Deputy Sheriff Schatz",
-        "profile_path": "https://image.tmdb.org/t/p/original/6un98WmgjAllrzMwjjZF2Bn8XZc.jpg"
       },
       "Katy Mixon": {
         "id": 59450,
@@ -12599,7 +12589,7 @@
       },
       "Lauren Holly": {
         "id": 34485,
-        "character": "Jane",
+        "character": "Jane Miller",
         "profile_path": "https://image.tmdb.org/t/p/original/bWQsB6ueNNkygxCiIxyKznQAiOK.jpg"
       },
       "Chrishell Stause": {
@@ -12612,65 +12602,80 @@
         "character": "Mel",
         "profile_path": "https://image.tmdb.org/t/p/original/8loCxWNAAF7m3C3kFAREKqO7mBc.jpg"
       },
-      "Allan Royal": {
-        "id": 138876,
-        "character": "Mortimer",
-        "profile_path": "https://image.tmdb.org/t/p/original/q8HUa0XFWMM4nT8U2xvjqYGzHqB.jpg"
-      },
       "Dan Lett": {
         "id": 180683,
         "character": "Theo",
         "profile_path": "https://image.tmdb.org/t/p/original/johOG5hLcJTIn47TzYYW9FN6TNp.jpg"
-      },
-      "Sarah Desouza-Coelho": {
-        "id": 1778124,
-        "character": "Nicole",
-        "profile_path": "https://image.tmdb.org/t/p/original/dHYLeoh7bMKQY6B3LbXSAaQr0GC.jpg"
-      },
-      "Sophia Webster": {
-        "id": 2804935,
-        "character": "Kady",
-        "profile_path": "https://image.tmdb.org/t/p/original/goyzSX9Dgds3GqN5segTWQVplpw.jpg"
       },
       "Matthew Stefiuk": {
         "id": 80029,
         "character": "Brendan",
         "profile_path": "https://image.tmdb.org/t/p/original/8uJCIb2Nw3spfabpbMF1SgL8dDW.jpg"
       },
+      "Helene Lohan Cameron": {
+        "id": 5003845,
+        "character": "Ethel",
+        "profile_path": "https://image.tmdb.org/t/p/original/1v2yoTxR0dY6mJgdJWcrXoTHdcL.jpg"
+      },
+      "Allan Royal": {
+        "id": 138876,
+        "character": "Mortimer",
+        "profile_path": "https://image.tmdb.org/t/p/original/q8HUa0XFWMM4nT8U2xvjqYGzHqB.jpg"
+      },
+      "Sarah Desouza-Coelho": {
+        "id": 1778124,
+        "character": "Nicole",
+        "profile_path": "https://image.tmdb.org/t/p/original/dHYLeoh7bMKQY6B3LbXSAaQr0GC.jpg"
+      },
       "Bobby Daniels": {
         "id": 2243363,
         "character": "Chef Isaac",
         "profile_path": "https://image.tmdb.org/t/p/original/ysYtomufApvk7B4AaTkwmv0hBa5.jpg"
+      },
+      "Joe Lo Truglio": {
+        "id": 21131,
+        "character": "Deputy Sheriff Ed Schatz",
+        "profile_path": "https://image.tmdb.org/t/p/original/6un98WmgjAllrzMwjjZF2Bn8XZc.jpg"
+      },
+      "Craig Robinson": {
+        "id": 64342,
+        "character": "Sheriff Nathaniel Hunter",
+        "profile_path": "https://image.tmdb.org/t/p/original/mTyTrOWUSOBJMOlDpnd4OYx7FlJ.jpg"
+      },
+      "Olivia Williams": {
+        "id": 5842155,
+        "character": "Megan",
+        "profile_path": "https://image.tmdb.org/t/p/original/waW6R5WJQSxq65gwBkvnKlseU6n.jpg"
+      },
+      "Janice Israeloff": {
+        "id": 5080178,
+        "character": "Sheila",
+        "profile_path": "https://image.tmdb.org/t/p/original/lpPMQkYp5TBINKlRmmxlzn3PRlP.jpg"
+      },
+      "Jennie Esnard": {
+        "id": 2162211,
+        "character": "Diana",
+        "profile_path": "https://image.tmdb.org/t/p/original/nTZIjhCJwcWclDaL6XOE1QeC4Dq.jpg"
       },
       "Shiloh Obasi": {
         "id": 5078102,
         "character": "Matthew",
         "profile_path": "https://image.tmdb.org/t/p/original/waW6R5WJQSxq65gwBkvnKlseU6n.jpg"
       },
-      "Janice Israeloff": {
-        "id": 5080178,
-        "character": "Sheila",
-        "profile_path": "https://image.tmdb.org/t/p/original/waW6R5WJQSxq65gwBkvnKlseU6n.jpg"
-      },
-      "Helene Lohan Cameron": {
-        "id": 5003845,
-        "character": "Ethel",
-        "profile_path": "https://image.tmdb.org/t/p/original/waW6R5WJQSxq65gwBkvnKlseU6n.jpg"
-      },
-      "Milan Deng": {
-        "id": 4356585,
-        "character": "Claire",
-        "profile_path": "https://image.tmdb.org/t/p/original/waW6R5WJQSxq65gwBkvnKlseU6n.jpg"
+      "Sophia Webster": {
+        "id": 2804935,
+        "character": "Kady",
+        "profile_path": "https://image.tmdb.org/t/p/original/goyzSX9Dgds3GqN5segTWQVplpw.jpg"
       },
       "Christine Okuda Hara": {
         "id": 5080182,
         "character": "Nancy",
         "profile_path": "https://image.tmdb.org/t/p/original/waW6R5WJQSxq65gwBkvnKlseU6n.jpg"
       },
-      "Jennie Esnard": {
-        "id": 2162211,
-        "character": "Diana",
-        "profile_path": "https://image.tmdb.org/t/p/original/nTZIjhCJwcWclDaL6XOE1QeC4Dq.jpg"
+      "Milan Deng": {
+        "id": 4356585,
+        "character": "Clare",
+        "profile_path": "https://image.tmdb.org/t/p/original/waW6R5WJQSxq65gwBkvnKlseU6n.jpg"
       }
     }
   },
@@ -15782,7 +15787,7 @@
       "Joseph Gordon-Levitt": {
         "id": 24045,
         "character": "Self",
-        "profile_path": "https://image.tmdb.org/t/p/original/fm2vDPCzT2185e8qIt8RLvDx44U.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/z2FA8js799xqtfiFjBTicFYdfk.jpg"
       },
       "Kristen Bell": {
         "id": 40462,
@@ -18806,7 +18811,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -22100,7 +22105,7 @@
       "Joseph Gordon-Levitt": {
         "id": 24045,
         "character": "Ethan",
-        "profile_path": "https://image.tmdb.org/t/p/original/fm2vDPCzT2185e8qIt8RLvDx44U.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/z2FA8js799xqtfiFjBTicFYdfk.jpg"
       },
       "Seth Rogen": {
         "id": 19274,
@@ -24237,7 +24242,7 @@
       "Nick Kroll": {
         "id": 208519,
         "character": "Ted",
-        "profile_path": "https://image.tmdb.org/t/p/original/vdgpGtSXqTBnIKrKNMZocdFu7pX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/fNiOuEKeBtELGdhKn4lxXq4O7YP.jpg"
       },
       "Wyatt Hunt": {
         "id": 2425791,
@@ -27248,7 +27253,7 @@
       "Lucy Punch": {
         "id": 66446,
         "character": "Bella",
-        "profile_path": "https://image.tmdb.org/t/p/original/jxNfHATSByLV89DysCMxYJPXJfE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/ekN2oVMAFMJrO0I2o5tM5auYCIl.jpg"
       },
       "Ṣọpẹ́ Dìrísù": {
         "id": 1479869,
