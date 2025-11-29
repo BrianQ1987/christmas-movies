@@ -9270,7 +9270,7 @@
     "plex": true,
     "watched": 2020,
     "added": 2020,
-    "poster_path": "https://image.tmdb.org/t/p/original/1Bc9VNd9CIHIyJtPKFqSQzrXWru.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/smxA8yvZ0LzDPer9BIRd4pyOpx1.jpg",
     "title": "The Grinch",
     "released": "2018-11-08",
     "duration": 85,
@@ -9453,7 +9453,7 @@
       "Dashiell Priestley": {
         "id": 2435010,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/1Bc9VNd9CIHIyJtPKFqSQzrXWru.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/smxA8yvZ0LzDPer9BIRd4pyOpx1.jpg"
       },
       "Alex Puccinelli": {
         "id": 1546631,
@@ -9463,7 +9463,7 @@
       "Emma Elizabeth Shannon": {
         "id": 2435012,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/1Bc9VNd9CIHIyJtPKFqSQzrXWru.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/smxA8yvZ0LzDPer9BIRd4pyOpx1.jpg"
       },
       "Joel Swetow": {
         "id": 156136,
@@ -18811,7 +18811,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -18935,35 +18935,35 @@
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "George Seaton",
     "cast": {
-      "Maureen O'Hara": {
-        "id": 70035,
-        "character": "Doris Walker",
-        "profile_path": "https://image.tmdb.org/t/p/original/cZ9paCScbYICu1J3jv7cQwiQauH.jpg"
+      "Edmund Gwenn": {
+        "id": 22600,
+        "character": "Kris Kringle",
+        "profile_path": "https://image.tmdb.org/t/p/original/9xUiHCycn0WsxqiqFjq2fI40FpQ.jpg"
       },
       "John Payne": {
         "id": 70820,
         "character": "Fred Gailey",
         "profile_path": "https://image.tmdb.org/t/p/original/sesIuEnKJfbTnf3ds2WSRFsmlGQ.jpg"
       },
-      "Edmund Gwenn": {
-        "id": 22600,
-        "character": "Kris Kringle",
-        "profile_path": "https://image.tmdb.org/t/p/original/9xUiHCycn0WsxqiqFjq2fI40FpQ.jpg"
+      "Maureen O'Hara": {
+        "id": 70035,
+        "character": "Doris Walker",
+        "profile_path": "https://image.tmdb.org/t/p/original/cZ9paCScbYICu1J3jv7cQwiQauH.jpg"
       },
       "Natalie Wood": {
         "id": 2769,
         "character": "Susan Walker",
         "profile_path": "https://image.tmdb.org/t/p/original/6me9oS7GV1VjejWV61XD6y7fVA1.jpg"
       },
-      "Porter Hall": {
-        "id": 14975,
-        "character": "Granville Sawyer",
-        "profile_path": "https://image.tmdb.org/t/p/original/249Hlfx23i69MsA3rLnC185kbwT.jpg"
-      },
       "Philip Tonge": {
         "id": 10928,
         "character": "Julian Shellhammer",
         "profile_path": "https://image.tmdb.org/t/p/original/a3OIv9vJ03bIqN6adSvLDKDLsy2.jpg"
+      },
+      "Porter Hall": {
+        "id": 14975,
+        "character": "Granville Sawyer",
+        "profile_path": "https://image.tmdb.org/t/p/original/249Hlfx23i69MsA3rLnC185kbwT.jpg"
       },
       "Alvin Greenman": {
         "id": 1193327,
