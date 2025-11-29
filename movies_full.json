@@ -8898,7 +8898,7 @@
     "plex": true,
     "watched": 2023,
     "added": 2021,
-    "poster_path": "https://image.tmdb.org/t/p/original/mAWlp4qXYxXju7Qgf1sgVuBYpKy.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/gKfhNgOyQZU62DYUpwRokpPL5rN.jpg",
     "title": "The Great Santa Claus Switch",
     "released": "1970-12-20",
     "duration": 52,
@@ -8964,7 +8964,7 @@
       "Byron Whiting": {
         "id": 2600059,
         "character": "Additional Muppet Performer (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/mAWlp4qXYxXju7Qgf1sgVuBYpKy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/gKfhNgOyQZU62DYUpwRokpPL5rN.jpg"
       },
       "Greg Antonacci": {
         "id": 1212814,
@@ -8974,7 +8974,7 @@
       "Cary Antebi": {
         "id": 2600063,
         "character": "Additional Muppet Performer (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/mAWlp4qXYxXju7Qgf1sgVuBYpKy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/gKfhNgOyQZU62DYUpwRokpPL5rN.jpg"
       },
       "John Byrum": {
         "id": 32767,
@@ -8984,7 +8984,7 @@
       "Diane Kimbrell": {
         "id": 3737726,
         "character": "Additional Muppets (voice) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/mAWlp4qXYxXju7Qgf1sgVuBYpKy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/gKfhNgOyQZU62DYUpwRokpPL5rN.jpg"
       }
     }
   },
@@ -10611,27 +10611,27 @@
     "cast": {
       "Cameron Diaz": {
         "id": 6941,
-        "character": "Amanda",
+        "character": "Amanda Woods",
         "profile_path": "https://image.tmdb.org/t/p/original/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
       },
       "Kate Winslet": {
         "id": 204,
-        "character": "Iris",
+        "character": "Iris Simpkins",
         "profile_path": "https://image.tmdb.org/t/p/original/zIiU5mOcinbkpHWCxuDigucsyZC.jpg"
       },
       "Jude Law": {
         "id": 9642,
-        "character": "Graham",
+        "character": "Graham Simpkins",
         "profile_path": "https://image.tmdb.org/t/p/original/1rTmD8B1YAE1MrrBJs4krIiIvNM.jpg"
       },
       "Jack Black": {
         "id": 70851,
-        "character": "Miles",
+        "character": "Miles Dumont",
         "profile_path": "https://image.tmdb.org/t/p/original/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
       },
       "Eli Wallach": {
         "id": 3265,
-        "character": "Arthur",
+        "character": "Arthur Abbott",
         "profile_path": "https://image.tmdb.org/t/p/original/egLe8r2PwbTx9ocwS1Zu2vsYC9v.jpg"
       },
       "Edward Burns": {
@@ -10641,7 +10641,7 @@
       },
       "Rufus Sewell": {
         "id": 17328,
-        "character": "Jasper",
+        "character": "Jasper Bloom",
         "profile_path": "https://image.tmdb.org/t/p/original/fVQ04mfnOZj9rB73VT3B7spRdeD.jpg"
       },
       "Miffy Englefield": {
@@ -11409,7 +11409,7 @@
     "released": "1990-11-16",
     "duration": 103,
     "imdb_id": "tt0099785",
-    "vote_average": "7.5",
+    "vote_average": "7.4",
     "overview": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
     "genres": ["Comedy", "Family"],
     "imdb_score": "7.7/10",
@@ -12191,7 +12191,7 @@
       "Robert Downey Jr.": {
         "id": 3223,
         "character": "Tommy Larson",
-        "profile_path": "https://image.tmdb.org/t/p/original/5A7vGrVJcOLdfow1i9GoXN85Q16.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
       },
       "Anne Bancroft": {
         "id": 10774,
@@ -15380,7 +15380,7 @@
       "Robert Downey Jr.": {
         "id": 3223,
         "character": "Harry Lockhart",
-        "profile_path": "https://image.tmdb.org/t/p/original/5A7vGrVJcOLdfow1i9GoXN85Q16.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
       },
       "Val Kilmer": {
         "id": 5576,
@@ -19989,7 +19989,7 @@
       "Robert Downey Jr.": {
         "id": 3223,
         "character": "Mr. Willowby",
-        "profile_path": "https://image.tmdb.org/t/p/original/5A7vGrVJcOLdfow1i9GoXN85Q16.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
       },
       "Leslie Nielsen": {
         "id": 7633,
@@ -30468,8 +30468,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "76%",
     "meta_score": "56/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Michael Curtiz",
     "cast": {
       "Bing Crosby": {
