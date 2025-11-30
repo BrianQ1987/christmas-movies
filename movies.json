@@ -868,5 +868,11 @@
         "plex": false,
         "watched": [],
         "added": 2025
+    },
+    "A Merry Little Ex-Mas": {
+        "id": 1401318,
+        "plex": false,
+        "watched": [2025],
+        "added": 2025
     }
 }
