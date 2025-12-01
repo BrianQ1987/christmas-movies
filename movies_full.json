@@ -2387,7 +2387,7 @@
       "Cate Blanchett": {
         "id": 112,
         "character": "Carol Aird",
-        "profile_path": "https://image.tmdb.org/t/p/original/mXpe59YDxcvAJS6EtshsvsRvLZP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
       },
       "Rooney Mara": {
         "id": 108916,
@@ -6542,7 +6542,7 @@
       "Lindsay Lohan": {
         "id": 49265,
         "character": "Sierra Belmont",
-        "profile_path": "https://image.tmdb.org/t/p/original/9orbe4F0T16K8P0hWqn6vd6czMj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/8TdcVkiHgPp2gIKBPQ42OVa6l0B.jpg"
       },
       "Chord Overstreet": {
         "id": 232501,
@@ -8694,7 +8694,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Allison Vandermeersh",
-        "profile_path": "https://image.tmdb.org/t/p/original/bKbFmFQtn1N6Utzr9Sf0E23alaL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
       },
       "Daniel Sunjata": {
         "id": 10582,
@@ -9281,8 +9281,8 @@
     "imdb_score": "6.4/10",
     "rt_score": "60%",
     "meta_score": "51/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["ITVX", "Plex"],
+    "logo_paths": ["/1LuvKw01c2KQCt6DqgAgR06H2pT.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Yarrow Cheney", "Scott Mosier"],
     "cast": {
       "Benedict Cumberbatch": {
@@ -10817,7 +10817,7 @@
       "Lindsay Lohan": {
         "id": 49265,
         "character": "Lindsay Lohan",
-        "profile_path": "https://image.tmdb.org/t/p/original/9orbe4F0T16K8P0hWqn6vd6czMj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/8TdcVkiHgPp2gIKBPQ42OVa6l0B.jpg"
       },
       "Dustin Hoffman": {
         "id": 4483,
@@ -16649,7 +16649,7 @@
       "Elizabeth Taylor": {
         "id": 3635,
         "character": "Amy",
-        "profile_path": "https://image.tmdb.org/t/p/original/nKF00U432UIe9AokJsN6IIft3CC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oHgVEB2s2sX60H0QfVrRnl19cHY.jpg"
       },
       "Janet Leigh": {
         "id": 7302,
@@ -19938,7 +19938,7 @@
       "Adam Sandler": {
         "id": 19292,
         "character": "Louie",
-        "profile_path": "https://image.tmdb.org/t/p/original/gLkLCsQdwDDPabRhKPB25nGtKwS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
       },
       "Liev Schreiber": {
         "id": 23626,
@@ -23284,7 +23284,7 @@
       "Lindsay Lohan": {
         "id": 49265,
         "character": "Avery",
-        "profile_path": "https://image.tmdb.org/t/p/original/9orbe4F0T16K8P0hWqn6vd6czMj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/8TdcVkiHgPp2gIKBPQ42OVa6l0B.jpg"
       },
       "Ian Harding": {
         "id": 222089,
@@ -30755,7 +30755,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
