@@ -2769,7 +2769,7 @@
     "released": "2024-11-08",
     "duration": 107,
     "imdb_id": "tt25052668",
-    "vote_average": "5.1",
+    "vote_average": "5",
     "overview": "A family gathers on Christmas Eve for what could be the last holiday in their ancestral home. As the night wears on and tensions arise, one of the teenagers sneaks out with her friends to claim the wintry suburb for her own.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "5.6/10",
@@ -10817,7 +10817,7 @@
       "Lindsay Lohan": {
         "id": 49265,
         "character": "Lindsay Lohan",
-        "profile_path": "https://image.tmdb.org/t/p/original/8TdcVkiHgPp2gIKBPQ42OVa6l0B.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/9orbe4F0T16K8P0hWqn6vd6czMj.jpg"
       },
       "Dustin Hoffman": {
         "id": 4483,
@@ -13705,7 +13705,7 @@
       "Mel Brooks": {
         "id": 14639,
         "character": "Joe Snow (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/c21qNcMJlHnRolfhQhZOVacjtwI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/y71H2D9gGNRVTSGpNyCtCtQ5nqS.jpg"
       },
       "Dave 'Squatch' Ward": {
         "id": 59314,
@@ -16755,7 +16755,7 @@
       "Kirsten Dunst": {
         "id": 205,
         "character": "Younger Amy March",
-        "profile_path": "https://image.tmdb.org/t/p/original/5dI5s8Oq2Ook5PFzTWMW6DCXVjm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
       },
       "Claire Danes": {
         "id": 6194,
@@ -17452,8 +17452,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "64%",
     "meta_score": "55/100",
-    "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Netflix", "Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Richard Curtis",
     "cast": {
       "Hugh Grant": {
@@ -17469,7 +17469,7 @@
       "Emma Thompson": {
         "id": 7056,
         "character": "Karen",
-        "profile_path": "https://image.tmdb.org/t/p/original/xr8Ki3CIqweWWqS5q0kUYdiK6oQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xVrrH7dAoeotune3TWjv5Tr3F3U.jpg"
       },
       "Liam Neeson": {
         "id": 3896,
@@ -17949,7 +17949,7 @@
       "Adam Godley": {
         "id": 23429,
         "character": "Mr Trench",
-        "profile_path": "https://image.tmdb.org/t/p/original/xOM0zOb2KZ2q8M6lRrDo9bEBeJE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5a7c36DeI6GA73D5XC7rNX2VIvv.jpg"
       },
       "Ruby Turner": {
         "id": 1220230,
@@ -23284,7 +23284,7 @@
       "Lindsay Lohan": {
         "id": 49265,
         "character": "Avery",
-        "profile_path": "https://image.tmdb.org/t/p/original/8TdcVkiHgPp2gIKBPQ42OVa6l0B.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/9orbe4F0T16K8P0hWqn6vd6czMj.jpg"
       },
       "Ian Harding": {
         "id": 222089,
@@ -29871,7 +29871,7 @@
       "George Clooney": {
         "id": 1461,
         "character": "George Clooney",
-        "profile_path": "https://image.tmdb.org/t/p/original/4s3wI0bqOP7K3hhcmKqV6m3GYiQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg"
       },
       "Miley Cyrus": {
         "id": 76594,
