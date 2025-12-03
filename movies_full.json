@@ -8694,7 +8694,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Allison Vandermeersh",
-        "profile_path": "https://image.tmdb.org/t/p/original/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/bKbFmFQtn1N6Utzr9Sf0E23alaL.jpg"
       },
       "Daniel Sunjata": {
         "id": 10582,
@@ -9016,7 +9016,7 @@
       "Phoebe Cates": {
         "id": 16171,
         "character": "Kate Beringer",
-        "profile_path": "https://image.tmdb.org/t/p/original/y8oJDgUeeiJqp9buczIMG8RONTh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/nh2jiRCFa7TQdGB87k557LG0PtY.jpg"
       },
       "Hoyt Axton": {
         "id": 16166,
@@ -10605,8 +10605,8 @@
     "imdb_score": "7.0/10",
     "rt_score": "51%",
     "meta_score": "52/100",
-    "platforms": ["Disney Plus", "Amazon Prime Video"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"],
+    "platforms": ["Netflix", "Disney Plus", "Amazon Prime Video"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"],
     "director": "Nancy Meyers",
     "cast": {
       "Cameron Diaz": {
@@ -10811,17 +10811,17 @@
       },
       "James Franco": {
         "id": 17051,
-        "character": "James Franco",
+        "character": "James Franco (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/bjmAntHGiibLZixH8nTNVBzaFQn.jpg"
       },
       "Lindsay Lohan": {
         "id": 49265,
-        "character": "Lindsay Lohan",
+        "character": "Lindsay Lohan (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/9orbe4F0T16K8P0hWqn6vd6czMj.jpg"
       },
       "Dustin Hoffman": {
         "id": 4483,
-        "character": "Dustin Hoffman",
+        "character": "Dustin Hoffman (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
       },
       "Dani Lennon": {
@@ -11409,7 +11409,7 @@
     "released": "1990-11-16",
     "duration": 103,
     "imdb_id": "tt0099785",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
     "genres": ["Comedy", "Family"],
     "imdb_score": "7.7/10",
@@ -12733,7 +12733,7 @@
     "overview": "The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart...",
     "genres": ["Family", "Comedy", "Fantasy"],
     "imdb_score": "6.4/10",
-    "rt_score": "49%",
+    "rt_score": "50%",
     "meta_score": "46/100",
     "platforms": ["Disney Plus", "Amazon Prime Video", "Plex"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
@@ -13625,7 +13625,7 @@
       "David Arquette": {
         "id": 15234,
         "character": "Daniel",
-        "profile_path": "https://image.tmdb.org/t/p/original/8J68lAEKjx5z2Aj7hhDtQ2YQffv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/1C5sLNLNVZ3P8sMy7HUQ32IKdqX.jpg"
       },
       "Joan Cusack": {
         "id": 3234,
@@ -22197,7 +22197,7 @@
     "overview": "In New York City for their annual tradition of Christmas Eve debauchery, three lifelong best friends set out to find the Holy Grail of Christmas parties since their yearly reunion might be coming to an end.",
     "genres": ["Comedy", "Adventure", "Fantasy"],
     "imdb_score": "6.4/10",
-    "rt_score": "68%",
+    "rt_score": "69%",
     "meta_score": "58/100",
     "director": "Jonathan Levine",
     "cast": {
@@ -22924,7 +22924,7 @@
     "released": "2024-12-05",
     "duration": 50,
     "imdb_id": "tt33427273",
-    "vote_average": "6.7",
+    "vote_average": "6.8",
     "overview": "Pop icon Sabrina Carpenter jingles all the bells in her first-ever variety music special full of holiday hits, unexpected duets and comedic cameos.",
     "genres": "Music",
     "imdb_score": "6.4/10",
