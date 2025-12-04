@@ -684,8 +684,8 @@
     "imdb_score": "6.1/10",
     "rt_score": "77%",
     "meta_score": "63/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "John McPhail",
     "cast": {
       "Ella Hunt": {
@@ -14583,7 +14583,7 @@
     "plex": false,
     "watched": [2021, 2024],
     "added": 2021,
-    "poster_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg",
     "title": "Jingle All the Way",
     "released": "1996-11-21",
     "duration": 89,
@@ -14641,7 +14641,7 @@
       "E.J. De la Pena": {
         "id": 981033,
         "character": "Johnny",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Laraine Newman": {
         "id": 35159,
@@ -14651,7 +14651,7 @@
       "Justin Chapman": {
         "id": 1410997,
         "character": "Billy",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Harvey Korman": {
         "id": 13640,
@@ -14671,7 +14671,7 @@
       "Jeff L. Deist": {
         "id": 2254302,
         "character": "T.V. Booster / Puppeteer",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Nada Despotovich": {
         "id": 20975,
@@ -14681,27 +14681,27 @@
       "Ruth Afton Hjelmgren": {
         "id": 2447408,
         "character": "Single Mother Judy",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Caroline Kaiser": {
         "id": 1537858,
         "character": "Single Mother Mary",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Samuel B. Morris": {
         "id": 2447409,
         "character": "Sensei",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Shawn Hamilton": {
         "id": 2447410,
         "character": "Sensei Assistant",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Lewis Dauber": {
         "id": 2156227,
         "character": "Toy Store Manager",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Bill Schoppert": {
         "id": 975188,
@@ -14711,7 +14711,7 @@
       "Courtney Goodell": {
         "id": 2447411,
         "character": "Little Girl at Toy Store",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "George Fisher": {
         "id": 1680739,
@@ -14741,7 +14741,7 @@
       "Steve Hendrickson": {
         "id": 1139343,
         "character": "Father on Phone #1",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Mo Collins": {
         "id": 168380,
@@ -14761,7 +14761,7 @@
       "Christopher Slater": {
         "id": 2447412,
         "character": "Mall Toy Store Employee #1",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Robert Southgate": {
         "id": 2447413,
@@ -14771,12 +14771,12 @@
       "Allison Benner": {
         "id": 2447414,
         "character": "Toddler",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Hayley Benner": {
         "id": 2447415,
         "character": "Toddler",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Sandra K. Horner": {
         "id": 2447416,
@@ -14786,12 +14786,12 @@
       "Phyllis Wright": {
         "id": 2447418,
         "character": "Angry Mom #2",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Marvette Knight": {
         "id": 2447419,
         "character": "Angry Mom #3",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Danny Woodburn": {
         "id": 13645,
@@ -14811,22 +14811,22 @@
       "Ron Gene Browne": {
         "id": 2447420,
         "character": "Santa in Warehouse",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Robert Tee Clark": {
         "id": 2447421,
         "character": "Santa in Warehouse",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "James Riddle": {
         "id": 1478118,
         "character": "Santa in Warehouse",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Bill Wilson": {
         "id": 2447422,
         "character": "Santa in Warehouse",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Alan Blumenfeld": {
         "id": 22053,
@@ -14836,7 +14836,7 @@
       "Traci Christofore": {
         "id": 2447424,
         "character": "Little Girl Petting Reindeer",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Sandra Lee-Oian Thomas": {
         "id": 2447425,
@@ -14846,7 +14846,7 @@
       "Martin Ruben": {
         "id": 1854385,
         "character": "Father in Neighborhood",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Nick LaTour": {
         "id": 154068,
@@ -14876,7 +14876,7 @@
       "Judy Sladky": {
         "id": 2447430,
         "character": "Snoopy",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Walter von Huene": {
         "id": 41338,
@@ -14911,7 +14911,7 @@
       "Deena Driskill": {
         "id": 1794805,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Spencer Klein": {
         "id": 82528,
@@ -14921,12 +14921,12 @@
       "Danny Pritchett": {
         "id": 112083,
         "character": "Kid in Turbo Man Commercial",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Rick Johnson": {
         "id": 1730973,
         "character": "Kareem",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Marc Ambrose": {
         "id": 1137065,
@@ -14941,7 +14941,7 @@
       "Sarah Cameron": {
         "id": 2757463,
         "character": "Christmas Caroler (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Susan Chambers": {
         "id": 1504076,
@@ -14951,12 +14951,12 @@
       "Clint Childers": {
         "id": 2757464,
         "character": "Shopper (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Kevin Deon": {
         "id": 2757465,
         "character": "Crazy Shopper (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Matthew Feeney": {
         "id": 228471,
@@ -14976,22 +14976,22 @@
       "Dan Griffin": {
         "id": 1753519,
         "character": "Spectator (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Brian Johnson": {
         "id": 2757466,
         "character": "Christmas Caroler (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Tracy Lines": {
         "id": 2757467,
         "character": "Turbo Shopper (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Larissa Lowthorp": {
         "id": 2757468,
         "character": "Silvia",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "John Murray": {
         "id": 2757469,
@@ -15011,17 +15011,17 @@
       "Lori J. Ness": {
         "id": 1854398,
         "character": "Nun (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Jane Plank": {
         "id": 2757470,
         "character": "Christmas Caroler (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Bill Sather": {
         "id": 2757471,
         "character": "Child in Background (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Yeardley Smith": {
         "id": 5586,
@@ -15031,7 +15031,7 @@
       "Bobby Sussman": {
         "id": 2757472,
         "character": "Parade Watcher (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Joel Thingvall": {
         "id": 1342054,
@@ -15046,7 +15046,7 @@
       "Heidi Tungseth": {
         "id": 2757473,
         "character": "Christmas Caroler (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Carl Washington": {
         "id": 98805,
@@ -15056,7 +15056,7 @@
       "Ryan Wotherspoon": {
         "id": 587599,
         "character": "Playground Attendant (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       }
     }
   },
@@ -16410,7 +16410,7 @@
       "Billy Dee Williams": {
         "id": 3799,
         "character": "Lando Calrissian (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/q1pi6gpoKyRlIJuUlDXsqFqgIZA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/AwFFWuXJbGCXb0cA5uZvCNtg68H.jpg"
       },
       "Matt Lanter": {
         "id": 34202,
@@ -16649,7 +16649,7 @@
       "Elizabeth Taylor": {
         "id": 3635,
         "character": "Amy",
-        "profile_path": "https://image.tmdb.org/t/p/original/oHgVEB2s2sX60H0QfVrRnl19cHY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/pIq0rsj0XHKFemnvMjq5q6nAseo.jpg"
       },
       "Janet Leigh": {
         "id": 7302,
@@ -18323,7 +18323,7 @@
       "June Lockhart": {
         "id": 13997,
         "character": "Lucille Ballard",
-        "profile_path": "https://image.tmdb.org/t/p/original/3nW0pXkG1H5quSqOVWcYwmSGRn3.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xxJqqddYAXrVgchWp5gavf28LJ6.jpg"
       },
       "Henry H. Daniels Jr.": {
         "id": 13998,
@@ -18910,7 +18910,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20810,7 +20810,7 @@
       "Peter Conboy": {
         "id": 1202712,
         "character": "Holiday Commuter",
-        "profile_path": "https://image.tmdb.org/t/p/original/zDxpOQi7kkokDLxZkVQhejp2VHu.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/a9Dg8AQm488wRybn09vKBB9WgyV.jpg"
       },
       "Paul T. Gosselin": {
         "id": 2595790,
@@ -25891,7 +25891,7 @@
       "Ann-Margret": {
         "id": 13567,
         "character": "Sylvia Newman",
-        "profile_path": "https://image.tmdb.org/t/p/original/7cq76gMW4Mal5cctMLCK8wilJ6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/z20lA2EyYbLcZn5GV1deMQDUCEc.jpg"
       },
       "Eric Lloyd": {
         "id": 27564,
@@ -28427,7 +28427,7 @@
       "Ben Affleck": {
         "id": 880,
         "character": "Drew Latham",
-        "profile_path": "https://image.tmdb.org/t/p/original/8guQqUQ9qsGooDbv7JwOOZX2UUJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/u525jeDOzg9hVdvYfeehTGnw7Aa.jpg"
       },
       "James Gandolfini": {
         "id": 4691,
@@ -30071,8 +30071,8 @@
     "imdb_score": "6.7/10",
     "rt_score": "74%",
     "meta_score": "55/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Tommy Wirkola",
     "cast": {
       "David Harbour": {
@@ -30755,7 +30755,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
