@@ -684,8 +684,8 @@
     "imdb_score": "6.1/10",
     "rt_score": "77%",
     "meta_score": "63/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Netflix", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "John McPhail",
     "cast": {
       "Ella Hunt": {
@@ -5207,6 +5207,8 @@
     "overview": "To save his daughter's Christmas, Andrew goes on a road trip with Dev, his neighbour from hell, to buy an elusive Sparklehoof the Unicorn Princess.",
     "genres": ["Comedy", "TV Movie"],
     "imdb_score": "6.8/10",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Ben Palmer",
     "cast": {
       "Asim Chaudhry": {
