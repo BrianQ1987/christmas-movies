@@ -7514,7 +7514,7 @@
       "Jon Voight": {
         "id": 10127,
         "character": "Creighton",
-        "profile_path": "https://image.tmdb.org/t/p/original/g3jSSM8xqbRRJmvHM1GTZx8jmup.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oxLsItDwLddXu8YYJCfkddYNejL.jpg"
       },
       "Kristin Chenoweth": {
         "id": 52775,
@@ -8556,7 +8556,7 @@
       "Patrick Floersheim": {
         "id": 48416,
         "character": "Le Père Noël",
-        "profile_path": "https://image.tmdb.org/t/p/original/7RTPUJqAHQOpL0gAkiRihXtnmwp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/7BUbjtLsVirGgCYAWogPidVWxzK.jpg"
       },
       "Alain Lalanne": {
         "id": 1204668,
@@ -9913,7 +9913,7 @@
       "Anna Kendrick": {
         "id": 84223,
         "character": "Jenny",
-        "profile_path": "https://image.tmdb.org/t/p/original/i2HIJQcBsUQ3o9HwEeDwou45D60.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/cyGjHMJO7C6kQTq36n9hkLThY4G.jpg"
       },
       "Melanie Lynskey": {
         "id": 15091,
@@ -12582,7 +12582,7 @@
       "Dustin Milligan": {
         "id": 53117,
         "character": "Jack Snowman",
-        "profile_path": "https://image.tmdb.org/t/p/original/3LZLQRZOl3HlLENP3vLAGddPdcO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/g4Q5REa6pP5AcHrhKt5k9LjAs3h.jpg"
       },
       "Katy Mixon": {
         "id": 59450,
@@ -12737,8 +12737,8 @@
     "imdb_score": "6.4/10",
     "rt_score": "50%",
     "meta_score": "46/100",
-    "platforms": ["Disney Plus", "Amazon Prime Video", "Plex"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Disney Plus", "Plex"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Ron Howard",
     "cast": {
       "Jim Carrey": {
@@ -16011,7 +16011,7 @@
       "Henry Golding": {
         "id": 1807132,
         "character": "Tom Webster",
-        "profile_path": "https://image.tmdb.org/t/p/original/iiTLFGXgMrobajYvgpvZxQNqFvy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/id4vRH1Xe1m7WmlUgSZmTNwTRUR.jpg"
       },
       "Michelle Yeoh": {
         "id": 1620,
@@ -16742,7 +16742,7 @@
       "Winona Ryder": {
         "id": 1920,
         "character": "Jo March",
-        "profile_path": "https://image.tmdb.org/t/p/original/5yteOSY2lgGOgSWmRTlxqfY59MS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/8fxYCop2U74EWzm7tjOXM5Xrr7L.jpg"
       },
       "Trini Alvarado": {
         "id": 17187,
@@ -18912,7 +18912,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20511,7 +20511,7 @@
     "plex": true,
     "watched": [2022, 2023],
     "added": 2022,
-    "poster_path": "https://image.tmdb.org/t/p/original/f31HlNI9e2y9tSvUPcvXZLptr1l.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/k2t9NMMWRABHvb00ogcA7HjJw2I.jpg",
     "title": "A Muppet Family Christmas",
     "released": "1987-12-16",
     "duration": 47,
@@ -20582,22 +20582,22 @@
       "Terry Angus": {
         "id": 189116,
         "character": "Additional Muppet Performer (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/f31HlNI9e2y9tSvUPcvXZLptr1l.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/k2t9NMMWRABHvb00ogcA7HjJw2I.jpg"
       },
       "Debra Spinney": {
         "id": 5094299,
         "character": "Additional Muppet Performer (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/f31HlNI9e2y9tSvUPcvXZLptr1l.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/k2t9NMMWRABHvb00ogcA7HjJw2I.jpg"
       },
       "Fred Stinson": {
         "id": 3109193,
         "character": "Additional Muppet Performer (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/f31HlNI9e2y9tSvUPcvXZLptr1l.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/k2t9NMMWRABHvb00ogcA7HjJw2I.jpg"
       },
       "Bob Stutt": {
         "id": 1232411,
         "character": "Additional Muppet Performer (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/f31HlNI9e2y9tSvUPcvXZLptr1l.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/k2t9NMMWRABHvb00ogcA7HjJw2I.jpg"
       }
     }
   },
@@ -22787,7 +22787,7 @@
       "Anna Kendrick": {
         "id": 84223,
         "character": "Noelle Kringle",
-        "profile_path": "https://image.tmdb.org/t/p/original/i2HIJQcBsUQ3o9HwEeDwou45D60.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/cyGjHMJO7C6kQTq36n9hkLThY4G.jpg"
       },
       "Bill Hader": {
         "id": 19278,
@@ -24308,7 +24308,7 @@
       "Lucy Liu": {
         "id": 140,
         "character": "Zoe",
-        "profile_path": "https://image.tmdb.org/t/p/original/9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dW6JDvYhXWW87P04W2SfNpiAwCO.jpg"
       },
       "J.K. Simmons": {
         "id": 18999,
