@@ -896,7 +896,7 @@
       "James McAvoy": {
         "id": 5530,
         "character": "Arthur (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/vB6qYlFXgONGVwwxWXE4gf0F8SQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/u4REKbm3zhFI2J5tVyqRovGRYUJ.jpg"
       },
       "Hugh Laurie": {
         "id": 41419,
@@ -9270,7 +9270,7 @@
   "The Grinch (2018)": {
     "id": 360920,
     "plex": true,
-    "watched": 2020,
+    "watched": [2020, 2025],
     "added": 2020,
     "poster_path": "https://image.tmdb.org/t/p/original/smxA8yvZ0LzDPer9BIRd4pyOpx1.jpg",
     "title": "The Grinch",
@@ -12382,6 +12382,11 @@
         "character": "Carol Mercer",
         "profile_path": "https://image.tmdb.org/t/p/original/rrZVT1TADcPcrQ8lfEC4atYwcTJ.jpg"
       },
+      "Devin Ratray": {
+        "id": 11516,
+        "character": "Buzz McCallister",
+        "profile_path": "https://image.tmdb.org/t/p/original/Wh3Sy8wTnYusO0kCsXGC7DoEZN.jpg"
+      },
       "Pete Holmes": {
         "id": 1177838,
         "character": "Uncle Blake",
@@ -12396,11 +12401,6 @@
         "id": 1181329,
         "character": "Hunter",
         "profile_path": "https://image.tmdb.org/t/p/original/upav8HyWsF6ksAkvogEhR9sBlNN.jpg"
-      },
-      "Devin Ratray": {
-        "id": 11516,
-        "character": "Buzz McCallister",
-        "profile_path": "https://image.tmdb.org/t/p/original/Wh3Sy8wTnYusO0kCsXGC7DoEZN.jpg"
       },
       "Chris Parnell": {
         "id": 51382,
@@ -20896,7 +20896,7 @@
       "Granville Bates": {
         "id": 102066,
         "character": "Judge Walter Bryson",
-        "profile_path": "https://image.tmdb.org/t/p/original/6ectcRZFKmlDStkXDhc9nBTXTQN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/b06X4tnoqG4KlU4ySNHpmd6yMpz.jpg"
       },
       "Pedro de Cordoba": {
         "id": 103493,
