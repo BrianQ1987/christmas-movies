@@ -5782,8 +5782,8 @@
     "imdb_score": "8.2/10",
     "rt_score": "94%",
     "meta_score": "72/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+    "platforms": ["Disney Plus", "Channel 4"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
     "director": "John McTiernan",
     "cast": {
       "Bruce Willis": {
@@ -11404,7 +11404,7 @@
   "Home Alone": {
     "id": 771,
     "plex": false,
-    "watched": [2020, 2021, 2022, 2023, 2024],
+    "watched": [2020, 2021, 2022, 2023, 2024, 2025],
     "added": 2020,
     "poster_path": "https://image.tmdb.org/t/p/original/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
     "title": "Home Alone",
@@ -11761,7 +11761,7 @@
   "Home Alone 2: Lost in New York": {
     "id": 772,
     "plex": false,
-    "watched": [2020, 2021, 2022, 2023, 2024],
+    "watched": [2020, 2021, 2022, 2023, 2024, 2025],
     "added": 2020,
     "poster_path": "https://image.tmdb.org/t/p/original/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
     "title": "Home Alone 2: Lost in New York",
@@ -18912,7 +18912,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -23084,6 +23084,390 @@
         "id": 5617293,
         "character": "Self",
         "profile_path": "https://image.tmdb.org/t/p/original/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg"
+      }
+    }
+  },
+  "Oh. What. Fun.": {
+    "id": 1261825,
+    "plex": false,
+    "watched": 2025,
+    "added": 2025,
+    "poster_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg",
+    "title": "Oh. What. Fun.",
+    "released": "2025-12-02",
+    "duration": 108,
+    "imdb_id": "tt31998881",
+    "vote_average": "6.4",
+    "overview": "Claire Clauster is the glue that holds her chaotic, lovable family together at the holidays. But this year, after planning a special outing for them, they make a crucial mistake and leave her home alone. Fed up and feeling under appreciated, she sets off on an impromptu adventure of her own. As her family scrambles to find her, Claire discovers the unexpected magic of a Christmas gone off-script.",
+    "genres": "Comedy",
+    "platforms": "Amazon Prime Video",
+    "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+    "director": "Michael Showalter",
+    "cast": {
+      "Michelle Pfeiffer": {
+        "id": 1160,
+        "character": "Claire",
+        "profile_path": "https://image.tmdb.org/t/p/original/oGUmQBU87QXAsnaGleYaAjAXSlj.jpg"
+      },
+      "Denis Leary": {
+        "id": 5724,
+        "character": "Nick",
+        "profile_path": "https://image.tmdb.org/t/p/original/tAOziVWQBnrW9eR442M6g9SQkmA.jpg"
+      },
+      "Felicity Jones": {
+        "id": 72855,
+        "character": "Channing",
+        "profile_path": "https://image.tmdb.org/t/p/original/gsrb1CuyAQtTVZILtNA5tRnhHbs.jpg"
+      },
+      "Chloë Grace Moretz": {
+        "id": 56734,
+        "character": "Taylor",
+        "profile_path": "https://image.tmdb.org/t/p/original/j9d4i2xsLGUhwpuy5y0fkx1qAcz.jpg"
+      },
+      "Dominic Sessa": {
+        "id": 3918497,
+        "character": "Sammy",
+        "profile_path": "https://image.tmdb.org/t/p/original/cTYdhJrye7oTREIkQaLAuLoJ8Rt.jpg"
+      },
+      "Jason Schwartzman": {
+        "id": 17881,
+        "character": "Doug",
+        "profile_path": "https://image.tmdb.org/t/p/original/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
+      },
+      "Rafaella Karnaby": {
+        "id": 5854198,
+        "character": "Lucy",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Drake Shehan": {
+        "id": 5854201,
+        "character": "Ben",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Devery Jacobs": {
+        "id": 1197101,
+        "character": "Donna",
+        "profile_path": "https://image.tmdb.org/t/p/original/74QH7KCW6ZI2ekIYYCV4NyGet4X.jpg"
+      },
+      "Joan Chen": {
+        "id": 6720,
+        "character": "Jeanne Wang-Wasserman",
+        "profile_path": "https://image.tmdb.org/t/p/original/7uMTJpY8B2hufXqmlxJpaUPpcJi.jpg"
+      },
+      "Havana Rose Liu": {
+        "id": 2378813,
+        "character": "Lizzie Wang-Wasserman",
+        "profile_path": "https://image.tmdb.org/t/p/original/xt5jIhVekKpwZDbVuHJb8H4A6oM.jpg"
+      },
+      "Eva Longoria": {
+        "id": 52605,
+        "character": "Zazzy Tims",
+        "profile_path": "https://image.tmdb.org/t/p/original/1u26GLWK1DE7gBugyI9P3OMFq4A.jpg"
+      },
+      "Rose Abdoo": {
+        "id": 31507,
+        "character": "Jane",
+        "profile_path": "https://image.tmdb.org/t/p/original/6gl2EerGV1p4LS2smamymwgU6jH.jpg"
+      },
+      "Saidah Arrika Ekulona": {
+        "id": 171754,
+        "character": "Martha",
+        "profile_path": "https://image.tmdb.org/t/p/original/7HCsoIKnyZXRbPzYEzqd1WQyBBa.jpg"
+      },
+      "Danielle Brooks": {
+        "id": 1075037,
+        "character": "Morgan",
+        "profile_path": "https://image.tmdb.org/t/p/original/pPSG2Vmq24cwAL5XGK1NLs3KEoZ.jpg"
+      },
+      "Maude Apatow": {
+        "id": 41090,
+        "character": "Mae-bell",
+        "profile_path": "https://image.tmdb.org/t/p/original/xWj49QAsGlC92YcguaEEYvoMEsg.jpg"
+      },
+      "Roxy Rivera": {
+        "id": 3592416,
+        "character": "Jess",
+        "profile_path": "https://image.tmdb.org/t/p/original/zaD3tHO4jkTtyaFkUw06V1sWtDl.jpg"
+      },
+      "Sadie Scott": {
+        "id": 2346504,
+        "character": "Steph",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Ethan Costanilla": {
+        "id": 5144954,
+        "character": "Teenage Mall Cop",
+        "profile_path": "https://image.tmdb.org/t/p/original/zAhhI5lqagf9Gi4VbGwASAp17Am.jpg"
+      },
+      "Kyleigh Bakker": {
+        "id": 3247894,
+        "character": "Teenage Mall Cop",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Melanie Kiran": {
+        "id": 2871383,
+        "character": "Fiona",
+        "profile_path": "https://image.tmdb.org/t/p/original/HBruK3Korst4eWJE6h3LISWZyp.jpg"
+      },
+      "Emily Lane": {
+        "id": 4203524,
+        "character": "Deb",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Serene Lee": {
+        "id": 3722879,
+        "character": "June",
+        "profile_path": "https://image.tmdb.org/t/p/original/m0HhHq70IIUhLmDTin5tgx4mSaP.jpg"
+      },
+      "Dustin Lewis": {
+        "id": 1647234,
+        "character": "Wes",
+        "profile_path": "https://image.tmdb.org/t/p/original/iNYiHXV3XJS38vGE7SI2QqkoyYL.jpg"
+      },
+      "Jessejames Locorriere": {
+        "id": 1363395,
+        "character": "Denny 'Duck' Dana",
+        "profile_path": "https://image.tmdb.org/t/p/original/8skzy4Yv0gffXwYLorT9dpFUh9S.jpg"
+      },
+      "Alla Greene": {
+        "id": 3223252,
+        "character": "Vika",
+        "profile_path": "https://image.tmdb.org/t/p/original/aEFvV6Q9ObRdaOnzC3t1jO1idMx.jpg"
+      },
+      "Lauren Revard": {
+        "id": 1561639,
+        "character": "Denise",
+        "profile_path": "https://image.tmdb.org/t/p/original/9sQ1BF1pBaSat8FsX4Z4TCL7Gvk.jpg"
+      },
+      "Nathan Tylutki": {
+        "id": 5854206,
+        "character": "Martin",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Angela Davis": {
+        "id": 5854208,
+        "character": "Deputy Joy Waller",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Douglas Jones": {
+        "id": 137177,
+        "character": "Jeff Wang-Wasserman",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Michael Lee Kimel": {
+        "id": 2035117,
+        "character": "Gar Wang-Wasserman",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Elizabeth Lilyan Wood": {
+        "id": 5854210,
+        "character": "Astrid Wang-Wasserman",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Audrey Hui": {
+        "id": 2485770,
+        "character": "Diane",
+        "profile_path": "https://image.tmdb.org/t/p/original/jUKololHzPubWdq2NzjOE1MQUJU.jpg"
+      },
+      "Zac Oyama": {
+        "id": 2982775,
+        "character": "Marcus Wang-Wasserman",
+        "profile_path": "https://image.tmdb.org/t/p/original/sqcP2m3etjpFUE1WV2rbxT8hz5O.jpg"
+      },
+      "Tanya Lim": {
+        "id": 4680583,
+        "character": "Trish",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Jon Levine": {
+        "id": 2647252,
+        "character": "Travis",
+        "profile_path": "https://image.tmdb.org/t/p/original/eeHUwEZ8VESvrX5ru1SNnkuakHA.jpg"
+      },
+      "Victor Rivera": {
+        "id": 2434226,
+        "character": "Sound Guy",
+        "profile_path": "https://image.tmdb.org/t/p/original/7wLt5TOXrJtOcGM8Gk8dzYHH7qq.jpg"
+      },
+      "Hedy Nasser": {
+        "id": 2617588,
+        "character": "Jill",
+        "profile_path": "https://image.tmdb.org/t/p/original/y1NOECGJvYAaf6fyITcjMu3MYjk.jpg"
+      },
+      "Brianna Abruzzo": {
+        "id": 3570556,
+        "character": "Geraldine",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Madolyn Tipton": {
+        "id": 5854211,
+        "character": "Serena",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Trevor David": {
+        "id": 1857344,
+        "character": "Bernard",
+        "profile_path": "https://image.tmdb.org/t/p/original/eDDay6WMmwNtsI9GZoHmf7C47h5.jpg"
+      },
+      "Leyla Benson": {
+        "id": 3395793,
+        "character": "Bratty Kid",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Everett Navarro": {
+        "id": 5854213,
+        "character": "Bratty Kid",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Veda Beasley": {
+        "id": 5854214,
+        "character": "Bratty Kid",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Sunday Sabbath": {
+        "id": 5846196,
+        "character": "Holiday Mom",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Jordana Mollick": {
+        "id": 1324838,
+        "character": "Holiday Mom",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Kia Palmer": {
+        "id": 5854217,
+        "character": "Holiday Mom",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Chandler Baker": {
+        "id": 3836669,
+        "character": "Holiday Mom",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Margaret C. Lyne": {
+        "id": 5854218,
+        "character": "Holiday Mom",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Kurt Braunohler": {
+        "id": 1059412,
+        "character": "Knut",
+        "profile_path": "https://image.tmdb.org/t/p/original/wULz5lZ83nTGDuMY6fEO9rdf4Wh.jpg"
+      },
+      "Demián Castro": {
+        "id": 1494513,
+        "character": "Tommy",
+        "profile_path": "https://image.tmdb.org/t/p/original/ddUS8OUqbaeesEEsy1P0ezy3AqF.jpg"
+      },
+      "Steve Alderfer": {
+        "id": 1187817,
+        "character": "Bobby",
+        "profile_path": "https://image.tmdb.org/t/p/original/tuT7TDiEdXxVaqYzWv7S1lAHUYL.jpg"
+      },
+      "Kylie James": {
+        "id": 5854222,
+        "character": "Dancer / Candy Cane",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Madison Rouge Alvarado": {
+        "id": 5854223,
+        "character": "Dancer / Candy Cane",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Diego Pasillas": {
+        "id": 4841393,
+        "character": "Dancer / Candy Cane",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Juan Miguel Posada": {
+        "id": 4982996,
+        "character": "Dancer / Toy Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Emily Crouch": {
+        "id": 2503754,
+        "character": "Dancer / MA",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Antwon Keith Collier": {
+        "id": 2096275,
+        "character": "Dancer / PA",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Lonni Olson": {
+        "id": 5854234,
+        "character": "Dancer / Sugar Plum Fairy",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "George Lawrence Jr.": {
+        "id": 4043303,
+        "character": "Dancer / Sugar Plum Prince",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Auriana Ehsani": {
+        "id": 3758120,
+        "character": "Dancer / Sexy Elf",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Evan DeBenedetto": {
+        "id": 4561795,
+        "character": "Dancer / Sexy Elf",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Anthony Peter Bartley": {
+        "id": 5854240,
+        "character": "Jacked Santa",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Koko Iwasaki": {
+        "id": 5812034,
+        "character": "Dancer / Nutcracker",
+        "profile_path": "https://image.tmdb.org/t/p/original/5LsRWr78nnt1UmSVYXmiB8Ip63x.jpg"
+      },
+      "Inara George": {
+        "id": 1228322,
+        "character": "The Bird and the Bee",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Juliette Commagere": {
+        "id": 3057161,
+        "character": "The Bird and the Bee",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Wendy Wang": {
+        "id": 5229503,
+        "character": "The Bird and the Bee",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Alex Lilly": {
+        "id": 3295083,
+        "character": "The Bird and the Bee",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Andy Cohen": {
+        "id": 54772,
+        "character": "Andy Cohen (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/eZrNjW7RQgkhwfcBw0qGTLPVgf4.jpg"
+      },
+      "Steve Martin": {
+        "id": 67773,
+        "character": "Neal Page (from 'Planes, Trains and Automobiles') (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/d0KthX8hVWU9BxTCG1QUO8FURRm.jpg"
+      },
+      "John Candy": {
+        "id": 7180,
+        "character": "Del Griffith (from 'Planes, Trains and Automobiles') (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/uvLWbMDE6UfWNF5tfrsrC9NqeEA.jpg"
+      },
+      "Laila Robins": {
+        "id": 27260,
+        "character": "Susan Page (from 'Planes, Trains and Automobiles') (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/6ihD0IVKKKBqPO3gG3fXSiP8GMy.jpg"
+      },
+      "Will Ferrell": {
+        "id": 23659,
+        "character": "Buddy (from 'Elf') (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/vL1QjMdMtuM2f8fQZzei6WAvicZ.jpg"
       }
     }
   },
@@ -30757,7 +31141,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
