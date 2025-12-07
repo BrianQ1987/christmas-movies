@@ -230,13 +230,13 @@
     "Home Alone": {
         "id": 771,
         "plex": false,
-        "watched": [2020, 2021, 2022, 2023, 2024],
+        "watched": [2020, 2021, 2022, 2023, 2024, 2025],
         "added": 2020
     },
     "Home Alone 2: Lost in New York": {
         "id": 772,
         "plex": false,
-        "watched": [2020, 2021, 2022, 2023, 2024],
+        "watched": [2020, 2021, 2022, 2023, 2024, 2025],
         "added": 2020
     },
     "Home for the Holidays": {
@@ -871,6 +871,12 @@
     },
     "A Merry Little Ex-Mas": {
         "id": 1401318,
+        "plex": false,
+        "watched": [2025],
+        "added": 2025
+    },
+    "Oh. What. Fun.": {
+        "id": 1261825,
         "plex": false,
         "watched": [2025],
         "added": 2025
