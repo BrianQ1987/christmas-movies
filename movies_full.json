@@ -5505,8 +5505,8 @@
     "imdb_score": "5.1/10",
     "rt_score": "6%",
     "meta_score": "28/100",
-    "platforms": ["Disney Plus", "Amazon Prime Video"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"],
+    "platforms": ["Disney Plus", "Amazon Prime Video", "ITVX"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "/1LuvKw01c2KQCt6DqgAgR06H2pT.jpg"],
     "director": "John Whitesell",
     "cast": {
       "Danny DeVito": {
@@ -6887,7 +6887,7 @@
       "Ilia Isorelýs Paulino": {
         "id": 3209866,
         "character": "Kara",
-        "profile_path": "https://image.tmdb.org/t/p/original/umG4luSFvavsa5PL7wfJeALf4pi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/g8Gwitm4CtZBSYhLeSY4Z3Xwwcg.jpg"
       },
       "Xosha Roquemore": {
         "id": 109565,
@@ -12929,7 +12929,7 @@
       "Verne Troyer": {
         "id": 10987,
         "character": "Band Member",
-        "profile_path": "https://image.tmdb.org/t/p/original/39XaEapy4czuHgsPHw5wzvVWWy6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/iNjzleUvrnhN4PDuuJerF2SCFfn.jpg"
       },
       "Clayton Martinez": {
         "id": 1015053,
@@ -14950,25 +14950,15 @@
         "character": "Frantic Shopper (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/f4fXc3aNcDjdTPdNuwZRqJCFsqn.jpg"
       },
-      "Clint Childers": {
-        "id": 2757464,
-        "character": "Shopper (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
-      },
-      "Kevin Deon": {
-        "id": 2757465,
-        "character": "Crazy Shopper (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
-      },
       "Matthew Feeney": {
         "id": 228471,
         "character": "Curious Man (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/cz3Gh75ZtbG0hOjOMWiAvA1afit.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Anthony Fitzgerald": {
         "id": 84179,
         "character": "Christmas Caroler (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/fqC6qj6plzpx763RnDEkQSnYyCG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Trish Gates": {
         "id": 59688,
@@ -14985,20 +14975,10 @@
         "character": "Christmas Caroler (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
-      "Tracy Lines": {
-        "id": 2757467,
-        "character": "Turbo Shopper (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
-      },
       "Larissa Lowthorp": {
         "id": 2757468,
         "character": "Silvia",
         "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
-      },
-      "John Murray": {
-        "id": 2757469,
-        "character": "Video Camera Dad (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/hBM3ab1VSIygLDDVdOraI4trevm.jpg"
       },
       "David Andrew Nash": {
         "id": 2306890,
@@ -15010,19 +14990,9 @@
         "character": "Santa's Helper (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/ts3MQO8zIhHE3boEmN7dJxyDYuY.jpg"
       },
-      "Lori J. Ness": {
-        "id": 1854398,
-        "character": "Nun (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
-      },
       "Jane Plank": {
         "id": 2757470,
         "character": "Christmas Caroler (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
-      },
-      "Bill Sather": {
-        "id": 2757471,
-        "character": "Child in Background (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Yeardley Smith": {
@@ -15043,17 +15013,12 @@
       "Verne Troyer": {
         "id": 10987,
         "character": "Mini Santa (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/39XaEapy4czuHgsPHw5wzvVWWy6.jpg"
-      },
-      "Heidi Tungseth": {
-        "id": 2757473,
-        "character": "Christmas Caroler (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/iNjzleUvrnhN4PDuuJerF2SCFfn.jpg"
       },
       "Carl Washington": {
         "id": 98805,
         "character": "Parade Watcher (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/tnM9ndQS7LtLzaSxwCA6IY0HuLS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6QLkeLXPIxiihuX5enHHNEuCCzy.jpg"
       },
       "Ryan Wotherspoon": {
         "id": 587599,
@@ -22912,7 +22877,7 @@
       "Gracie Lawrence": {
         "id": 1822021,
         "character": "Elf Carol",
-        "profile_path": "https://image.tmdb.org/t/p/original/i5bKbHIiLH7LM2L9jx4HcQvpsHx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qNxtDTQSpLn685vOcC5P5ZEaL7F.jpg"
       }
     }
   },
@@ -23097,7 +23062,7 @@
     "released": "2025-12-02",
     "duration": 108,
     "imdb_id": "tt31998881",
-    "vote_average": "6.1",
+    "vote_average": "6",
     "overview": "Claire Clauster is the glue that holds her chaotic, lovable family together at the holidays. But this year, after planning a special outing for them, they make a crucial mistake and leave her home alone. Fed up and feeling under appreciated, she sets off on an impromptu adventure of her own. As her family scrambles to find her, Claire discovers the unexpected magic of a Christmas gone off-script.",
     "genres": "Comedy",
     "platforms": "Amazon Prime Video",
