@@ -4712,7 +4712,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Charlie Cooper",
-        "profile_path": "https://image.tmdb.org/t/p/original/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
       },
       "Blake Baumgartner": {
         "id": 1931911,
@@ -10629,7 +10629,7 @@
       "Jack Black": {
         "id": 70851,
         "character": "Miles Dumont",
-        "profile_path": "https://image.tmdb.org/t/p/original/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
       },
       "Eli Wallach": {
         "id": 3265,
@@ -11539,7 +11539,7 @@
       "Ralph Foody": {
         "id": 1244120,
         "character": "Gangster #1 (Johnny)",
-        "profile_path": "https://image.tmdb.org/t/p/original/uzjy5c1yo1VWIr9QptApT1Ei0kw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg"
       },
       "Michael Guido": {
         "id": 2021321,
@@ -11891,7 +11891,7 @@
       "Ralph Foody": {
         "id": 1244120,
         "character": "Gangster",
-        "profile_path": "https://image.tmdb.org/t/p/original/uzjy5c1yo1VWIr9QptApT1Ei0kw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg"
       },
       "Clare Hoak": {
         "id": 106470,
@@ -13989,8 +13989,8 @@
     "imdb_score": "8.6/10",
     "rt_score": "94%",
     "meta_score": "89/100",
-    "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Amazon Prime Video", "ITVX", "Plex"],
+    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "/1LuvKw01c2KQCt6DqgAgR06H2pT.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Frank Capra",
     "cast": {
       "James Stewart": {
@@ -16707,7 +16707,7 @@
       "Winona Ryder": {
         "id": 1920,
         "character": "Jo March",
-        "profile_path": "https://image.tmdb.org/t/p/original/8fxYCop2U74EWzm7tjOXM5Xrr7L.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dlffgYbqr1BllWacVLhAFw23nLl.jpg"
       },
       "Trini Alvarado": {
         "id": 17187,
@@ -17054,7 +17054,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Laurie",
-        "profile_path": "https://image.tmdb.org/t/p/original/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
       },
       "Tracy Letts": {
         "id": 72638,
@@ -25399,8 +25399,8 @@
     "genres": ["Family", "Fantasy", "Adventure"],
     "imdb_score": "6.3/10",
     "rt_score": "22%",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["ITVX", "Plex"],
+    "logo_paths": ["/1LuvKw01c2KQCt6DqgAgR06H2pT.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Jeannot Szwarc",
     "cast": {
       "Dudley Moore": {
@@ -28716,7 +28716,7 @@
       "Fran Ryan": {
         "id": 152670,
         "character": "Lady in Car",
-        "profile_path": "https://image.tmdb.org/t/p/original/lrbyK3AYrxhmMMnT6yjmjplZ9ri.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/s9iUEerQL8gUO7Vhpu3AwKCqWsz.jpg"
       },
       "Teresa Baxter": {
         "id": 3118238,
@@ -31106,7 +31106,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
