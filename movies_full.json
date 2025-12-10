@@ -6161,7 +6161,7 @@
       "Zooey Deschanel": {
         "id": 11664,
         "character": "Jovie",
-        "profile_path": "https://image.tmdb.org/t/p/original/jh3eY5KuTlKgsdQTpHDVeRGAx6D.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/jXjOdoMd3qkiC07R8bG4bdGPAI.jpg"
       },
       "Daniel Tay": {
         "id": 27974,
@@ -15027,6 +15027,252 @@
       }
     }
   },
+  "Jingle Bell Heist": {
+    "id": 1218762,
+    "plex": false,
+    "watched": 2025,
+    "added": 2025,
+    "poster_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg",
+    "title": "Jingle Bell Heist",
+    "released": "2025-11-25",
+    "duration": 96,
+    "imdb_id": "tt24852126",
+    "vote_average": "6",
+    "overview": "Two down-on-their-luck hourly workers team up to rob a posh London department store on Christmas Eve. Will they steal each other's hearts along the way?",
+    "genres": ["Romance", "Crime", "Comedy"],
+    "imdb_score": "5.8/10",
+    "meta_score": "61/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+    "director": "Michael Fimognari",
+    "cast": {
+      "Olivia Holt": {
+        "id": 542870,
+        "character": "Sophia",
+        "profile_path": "https://image.tmdb.org/t/p/original/gOYenPpic8MJnfzszGyUWgsYHSC.jpg"
+      },
+      "Connor Swindells": {
+        "id": 2112439,
+        "character": "Nick",
+        "profile_path": "https://image.tmdb.org/t/p/original/12mK65Y0oLnJWgTK6jeI6q8p1xE.jpg"
+      },
+      "Lucy Punch": {
+        "id": 66446,
+        "character": "Cynthia Sterling",
+        "profile_path": "https://image.tmdb.org/t/p/original/ekN2oVMAFMJrO0I2o5tM5auYCIl.jpg"
+      },
+      "Peter Serafinowicz": {
+        "id": 11115,
+        "character": "Maxwell Sterling",
+        "profile_path": "https://image.tmdb.org/t/p/original/atXOX0UQzIZkcnpNj1cluBdHwAE.jpg"
+      },
+      "Natasha Joseph": {
+        "id": 1940207,
+        "character": "Rita",
+        "profile_path": "https://image.tmdb.org/t/p/original/svdSqdvfg2te6oILo0BEXRPKYu6.jpg"
+      },
+      "Poppy Drayton": {
+        "id": 1541266,
+        "character": "Brianna",
+        "profile_path": "https://image.tmdb.org/t/p/original/mx81cyurTIGDtoWcNPcK4fDKxAu.jpg"
+      },
+      "Michael Salami": {
+        "id": 1389276,
+        "character": "Ralph",
+        "profile_path": "https://image.tmdb.org/t/p/original/asWwgOrjywHiFtvV19MmuRxCw8E.jpg"
+      },
+      "Belal Sabir": {
+        "id": 2251710,
+        "character": "Ali Zafar",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Jess Lloyd-Jones": {
+        "id": 5840565,
+        "character": "Lulu",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Mariah Louca": {
+        "id": 3219262,
+        "character": "Lori",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Ellie Nunn": {
+        "id": 968289,
+        "character": "Bethany",
+        "profile_path": "https://image.tmdb.org/t/p/original/qxe3MK03U3dDM1SMQW5gBDh56FW.jpg"
+      },
+      "James Dryden": {
+        "id": 1587576,
+        "character": "Leo Stein",
+        "profile_path": "https://image.tmdb.org/t/p/original/66DNJWRWXzv0Sl3OHB9o5DSqFEo.jpg"
+      },
+      "Alara-Star Khan": {
+        "id": 4431189,
+        "character": "Maddie",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Chyna-Rose Frederick": {
+        "id": 5840570,
+        "character": "Matilda",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Nicola Alexis": {
+        "id": 2486314,
+        "character": "Diane",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Ed Kear": {
+        "id": 1364950,
+        "character": "Eddie Morris",
+        "profile_path": "https://image.tmdb.org/t/p/original/jB1QY1DSN253bbtz51MHXEBj9O8.jpg"
+      },
+      "Ada Player": {
+        "id": 2714945,
+        "character": "Lilly",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Homer Todiwala": {
+        "id": 1656815,
+        "character": "Detective Jones",
+        "profile_path": "https://image.tmdb.org/t/p/original/6hSjot6m0CW20WfCkSF7A2diYs3.jpg"
+      },
+      "Brooke Henzell": {
+        "id": 4548544,
+        "character": "Samantha Warren",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Des Fleming": {
+        "id": 2981019,
+        "character": "Dr. Wilson",
+        "profile_path": "https://image.tmdb.org/t/p/original/xhzVnfzrGVUoJAElb4cO9dFeaq8.jpg"
+      },
+      "Ray Keith": {
+        "id": 5840603,
+        "character": "Kabir",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Fiz Marcus": {
+        "id": 1269480,
+        "character": "Rude Woman",
+        "profile_path": "https://image.tmdb.org/t/p/original/xlptvrQ2JbZvZxBYZBZFiEq7wiG.jpg"
+      },
+      "Zami Jalil": {
+        "id": 5840604,
+        "character": "Father Violinist",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Isabelle Low-Thaiss": {
+        "id": 5840606,
+        "character": "Daughter Violinist",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Aylin Scott": {
+        "id": 5840607,
+        "character": "Jess",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Tim Barton": {
+        "id": 5840608,
+        "character": "Lonely Bill",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Edmund Dehn": {
+        "id": 101933,
+        "character": "Scrooge (Boutique Guard)",
+        "profile_path": "https://image.tmdb.org/t/p/original/r8AXwIeBbOLdQXKcnnhXTPkK8Mh.jpg"
+      },
+      "Hugh Futcher": {
+        "id": 1231171,
+        "character": "Old Man",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Grant Huggair": {
+        "id": 1268988,
+        "character": "Santa Fest Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/original/3V9AHTXAMzamJpuTKFoGmmnHDdI.jpg"
+      },
+      "Rosy Addison": {
+        "id": 2525656,
+        "character": "Mooshy Fox Shopper",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Elizabeth Bower": {
+        "id": 1232670,
+        "character": "Another Shopper",
+        "profile_path": "https://image.tmdb.org/t/p/original/dZyWldpQdDlgiflZnbwu0PIiDgk.jpg"
+      },
+      "Anabel Kutay": {
+        "id": 1608416,
+        "character": "Shanice the Receptionist",
+        "profile_path": "https://image.tmdb.org/t/p/original/bxnZkiD70yvYsUg8JjgY1Az0CjN.jpg"
+      },
+      "Andrew Goddard": {
+        "id": 1117721,
+        "character": "Finance Bro",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Diane Spencer": {
+        "id": 1833665,
+        "character": "Unsatisfied Wife",
+        "profile_path": "https://image.tmdb.org/t/p/original/nQ5FuGa9osgb2wTis1mmZseb5Cz.jpg"
+      },
+      "Charlotte Comer": {
+        "id": 181045,
+        "character": "Gala Attendee",
+        "profile_path": "https://image.tmdb.org/t/p/original/mYGnCrVHKxwKHNQUh7v5Xh15lVH.jpg"
+      },
+      "Ntiarna Xavier Knight": {
+        "id": 3799419,
+        "character": "Mrs. Claus",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Adam Rhazali": {
+        "id": 5767859,
+        "character": "Drunk Santa",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Dijarn Campbell": {
+        "id": 5333115,
+        "character": "Random Santa",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Laura Risenborough": {
+        "id": 5840610,
+        "character": "Gala Woman #1",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Nicola Ditter": {
+        "id": 4333783,
+        "character": "Gala Woman #2",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Tia Dunn": {
+        "id": 3834789,
+        "character": "Gala Woman #3",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Will Chitty": {
+        "id": 4205526,
+        "character": "Castorlock Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Calum Sivyer": {
+        "id": 1584569,
+        "character": "MC",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Callum Gillies": {
+        "id": 2107349,
+        "character": "Gala Crooner",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Mike Paul-Smith": {
+        "id": 5840615,
+        "character": "Gala Conductor",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      }
+    }
+  },
   "Jingle Jangle": {
     "id": 622855,
     "plex": false,
@@ -18877,7 +19123,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -31106,7 +31352,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
