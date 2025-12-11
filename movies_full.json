@@ -6987,7 +6987,7 @@
       "Hannah Stocking": {
         "id": 2307427,
         "character": "Lightning",
-        "profile_path": "https://image.tmdb.org/t/p/original/qWYJuQEs60vj2l7rBBtBRFtbURs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/fePAo2bcVJwnNQCvGRG5LgMBdBM.jpg"
       },
       "Bob Stephenson": {
         "id": 17449,
@@ -31347,7 +31347,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
