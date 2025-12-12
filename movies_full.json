@@ -880,7 +880,7 @@
     "plex": false,
     "watched": 2020,
     "added": 2020,
-    "poster_path": "https://image.tmdb.org/t/p/original/brELZkSbkLrcCXJ0xt5hQUMXhut.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/yF7SNheAGWavNnjbAronedwjC1N.jpg",
     "title": "Arthur Christmas",
     "released": "2011-11-10",
     "duration": 97,
@@ -1001,7 +1001,7 @@
       "Kevin Cecil": {
         "id": 1213320,
         "character": "Elf (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/brELZkSbkLrcCXJ0xt5hQUMXhut.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/yF7SNheAGWavNnjbAronedwjC1N.jpg"
       },
       "Kevin Eldon": {
         "id": 39185,
@@ -1021,7 +1021,7 @@
       "Pete Jack": {
         "id": 1723939,
         "character": "Elf (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/brELZkSbkLrcCXJ0xt5hQUMXhut.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/yF7SNheAGWavNnjbAronedwjC1N.jpg"
       },
       "Danny John-Jules": {
         "id": 115787,
@@ -1041,7 +1041,7 @@
       "Seamus Malone": {
         "id": 1454715,
         "character": "Elf (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/brELZkSbkLrcCXJ0xt5hQUMXhut.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/yF7SNheAGWavNnjbAronedwjC1N.jpg"
       },
       "Kris Pearn": {
         "id": 1046494,
@@ -1051,7 +1051,7 @@
       "Alan Short": {
         "id": 1457505,
         "character": "Elf (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/brELZkSbkLrcCXJ0xt5hQUMXhut.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/yF7SNheAGWavNnjbAronedwjC1N.jpg"
       },
       "Sarah Smith": {
         "id": 208113,
@@ -1066,12 +1066,12 @@
       "Ryan Patrick Donahoe": {
         "id": 1723940,
         "character": "Pedro (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/brELZkSbkLrcCXJ0xt5hQUMXhut.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/yF7SNheAGWavNnjbAronedwjC1N.jpg"
       },
       "Finlay Duff": {
         "id": 1723941,
         "character": "French Boy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/brELZkSbkLrcCXJ0xt5hQUMXhut.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/yF7SNheAGWavNnjbAronedwjC1N.jpg"
       },
       "Rich Hall": {
         "id": 131512,
@@ -1086,7 +1086,7 @@
       "Donnie Long": {
         "id": 1723942,
         "character": "Reporter (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/brELZkSbkLrcCXJ0xt5hQUMXhut.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/yF7SNheAGWavNnjbAronedwjC1N.jpg"
       },
       "Jerry Lambert": {
         "id": 61113,
@@ -1106,7 +1106,7 @@
       "Ian Ashpitel": {
         "id": 1233367,
         "character": "UNFITA OPS (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/brELZkSbkLrcCXJ0xt5hQUMXhut.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/yF7SNheAGWavNnjbAronedwjC1N.jpg"
       },
       "Julia Davis": {
         "id": 1836,
@@ -12754,7 +12754,7 @@
       "Jeffrey Tambor": {
         "id": 4175,
         "character": "Mayor Augustus Maywho",
-        "profile_path": "https://image.tmdb.org/t/p/original/9ucM3QueyM3uHdRVQE8mZqG7j1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg"
       },
       "Christine Baranski": {
         "id": 11870,
@@ -17665,8 +17665,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "64%",
     "meta_score": "55/100",
-    "platforms": ["Netflix", "Amazon Prime Video", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Netflix", "Amazon Prime Video", "ITVX", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "/1LuvKw01c2KQCt6DqgAgR06H2pT.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Richard Curtis",
     "cast": {
       "Hugh Grant": {
@@ -17772,7 +17772,7 @@
       "Rowan Atkinson": {
         "id": 10730,
         "character": "Rufus, Jewellery Salesman",
-        "profile_path": "https://image.tmdb.org/t/p/original/wxTgS4SFanVKbnvu9xqOzNJWJwz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/gdiN2zLjC3Mnfrp7hM3TXVJjWJv.jpg"
       },
       "Rory MacGregor": {
         "id": 7054,
@@ -18983,6 +18983,16 @@
         "character": "Chet Moore",
         "profile_path": "https://image.tmdb.org/t/p/original/ntsQN7JrXKGUto2XJJPbP7QAleL.jpg"
       },
+      "Linda Kash": {
+        "id": 14893,
+        "character": "Doris",
+        "profile_path": "https://image.tmdb.org/t/p/original/ccPTXbfYWByydwccHjPercV2G1u.jpg"
+      },
+      "Melissa Joan Hart": {
+        "id": 78501,
+        "character": "April",
+        "profile_path": "https://image.tmdb.org/t/p/original/t0Cb1l7owqKE7Aj3cNlnS94lXUV.jpg"
+      },
       "Wilder Hudson": {
         "id": 5748877,
         "character": "Gabriel",
@@ -19007,16 +19017,6 @@
         "id": 1212317,
         "character": "Mike",
         "profile_path": "https://image.tmdb.org/t/p/original/y1Skje5GY1XwAI3ZksGKQUaXjd1.jpg"
-      },
-      "Melissa Joan Hart": {
-        "id": 78501,
-        "character": "April",
-        "profile_path": "https://image.tmdb.org/t/p/original/t0Cb1l7owqKE7Aj3cNlnS94lXUV.jpg"
-      },
-      "Linda Kash": {
-        "id": 14893,
-        "character": "Doris",
-        "profile_path": "https://image.tmdb.org/t/p/original/ccPTXbfYWByydwccHjPercV2G1u.jpg"
       },
       "Tymika Tafari": {
         "id": 3012310,
@@ -19123,7 +19123,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -27954,7 +27954,7 @@
       "Ṣọpẹ́ Dìrísù": {
         "id": 1479869,
         "character": "James",
-        "profile_path": "https://image.tmdb.org/t/p/original/24Se9voPxrO200Ae8GQRbMkE55B.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/k9Ayv1XflEbEI599rqgf6Y4gcFY.jpg"
       },
       "Kirby Howell-Baptiste": {
         "id": 1532312,
@@ -31347,7 +31347,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
