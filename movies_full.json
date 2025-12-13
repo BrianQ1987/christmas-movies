@@ -931,7 +931,7 @@
       "Laura Linney": {
         "id": 350,
         "character": "North Pole Computer (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/ztQXGmNLzhDV22rAvcXzCG4d0cy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/yIopIq7l7eIvjoQqnZJkpdQEvds.jpg"
       },
       "Eva Longoria": {
         "id": 52605,
@@ -1708,8 +1708,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "85%",
     "meta_score": "73/100",
-    "platforms": ["BBC iPlayer", "Amazon Prime Video"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"],
+    "platforms": "Amazon Prime Video",
+    "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
     "director": "Henry Koster",
     "cast": {
       "Cary Grant": {
@@ -2802,7 +2802,7 @@
       "Elsie Fisher": {
         "id": 122851,
         "character": "Lynn",
-        "profile_path": "https://image.tmdb.org/t/p/original/e3Ka3BqmjrxuOToIM10sB4X1foK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/lSmrN828nMMXHvwr7IgO1qlYPSa.jpg"
       },
       "Michael Cera": {
         "id": 39995,
@@ -12729,7 +12729,7 @@
     "poster_path": "https://image.tmdb.org/t/p/original/1WZbbPApEivA421gCOluuzMMKCk.jpg",
     "title": "How the Grinch Stole Christmas",
     "released": "2000-11-17",
-    "duration": 104,
+    "duration": 105,
     "imdb_id": "tt0170016",
     "vote_average": "6.8",
     "overview": "The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart...",
@@ -17707,7 +17707,7 @@
       "Laura Linney": {
         "id": 350,
         "character": "Sarah",
-        "profile_path": "https://image.tmdb.org/t/p/original/ztQXGmNLzhDV22rAvcXzCG4d0cy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/yIopIq7l7eIvjoQqnZJkpdQEvds.jpg"
       },
       "Lúcia Moniz": {
         "id": 118763,
@@ -19123,7 +19123,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
