@@ -6670,6 +6670,21 @@
         "id": 4522063,
         "character": "Belmont Guest (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/xOJ5jlH2yiGU7sUKxMT3vsRsSey.jpg"
+      },
+      "Omar Wilder": {
+        "id": 5875827,
+        "character": "Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/original/zgtkXLJagDMlW4iXTCojL5guDeu.jpg"
+      },
+      "Iris Caldwell": {
+        "id": 5875830,
+        "character": "Jennifer",
+        "profile_path": "https://image.tmdb.org/t/p/original/zgtkXLJagDMlW4iXTCojL5guDeu.jpg"
+      },
+      "Arthur Anderson": {
+        "id": 5268166,
+        "character": "Waiter",
+        "profile_path": "https://image.tmdb.org/t/p/original/kJO5yxkn8DT7GP9ma4tjjlgeASF.jpg"
       }
     }
   },
@@ -19123,7 +19138,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -22612,7 +22627,7 @@
       "Bill Walters": {
         "id": 1290726,
         "character": "Christmas Bartender (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/jkkutFGkL4HPPTSRRenoRcAt4XL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/rfeNBaiMBg0UQsBQFv1qsjTjZWn.jpg"
       },
       "Hannah Townsend": {
         "id": 2572857,
@@ -31327,7 +31342,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
