@@ -6685,6 +6685,11 @@
         "id": 5268166,
         "character": "Waiter",
         "profile_path": "https://image.tmdb.org/t/p/original/kJO5yxkn8DT7GP9ma4tjjlgeASF.jpg"
+      },
+      "Rowan Cooper": {
+        "id": 5877672,
+        "character": "Belmont Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/jHOjM95j8oAcppyklYVsn2duUGd.jpg"
       }
     }
   },
@@ -18750,7 +18755,7 @@
     "released": "2024-11-05",
     "duration": 105,
     "imdb_id": "tt20502488",
-    "vote_average": "6.4",
+    "vote_average": "6.3",
     "overview": "On a quest to reconnect with the man of her dreams, Layla races across New York City to find a ticket to a sold-out Pentatonix Christmas Eve concert.",
     "genres": ["Romance", "Comedy"],
     "imdb_score": "5.5/10",
@@ -24898,7 +24903,7 @@
       "Lucy Liu": {
         "id": 140,
         "character": "Zoe",
-        "profile_path": "https://image.tmdb.org/t/p/original/dW6JDvYhXWW87P04W2SfNpiAwCO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg"
       },
       "J.K. Simmons": {
         "id": 18999,
@@ -26175,7 +26180,7 @@
       },
       "Elizabeth Mitchell": {
         "id": 31167,
-        "character": "Carol",
+        "character": "Carol Newman",
         "profile_path": "https://image.tmdb.org/t/p/original/tpagVmiCbOQ8CPiRxF5MuZGfZGV.jpg"
       },
       "David Krumholtz": {
