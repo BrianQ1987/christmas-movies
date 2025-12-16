@@ -10769,7 +10769,7 @@
       "Hal Douglas": {
         "id": 1666759,
         "character": "Movie Trailer Narrator (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/j9kaspOndThAN9tmibHoMuCyvr9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6fbqG49Q7IWBWdyJ7asNTcNbnG6.jpg"
       },
       "Jay Simpson": {
         "id": 86467,
@@ -12584,7 +12584,7 @@
     "released": "2024-11-12",
     "duration": 90,
     "imdb_id": "tt32359447",
-    "vote_average": "6",
+    "vote_average": "5.9",
     "overview": "When a young widow's magic scarf brings a dashing snowman to life, can he help her rediscover romance, laughter and holiday cheer before he melts away?",
     "genres": ["Romance", "Comedy"],
     "imdb_score": "5.3/10",
@@ -19143,7 +19143,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20230,7 +20230,7 @@
       },
       "Brian Markinson": {
         "id": 28004,
-        "character": "Policeman / Voice of Obscene Caller",
+        "character": "Policeman / Voice of Obscene Caller (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/26fa857UrEU4aCMHVQbpvNOGuKv.jpg"
       },
       "Caroline Aaron": {
@@ -20263,11 +20263,6 @@
         "character": "Chris' Father",
         "profile_path": "https://image.tmdb.org/t/p/original/xPdQMqxWnFwCKOIto8dBEorTtGR.jpg"
       },
-      "Michele Singer": {
-        "id": 2730499,
-        "character": "Vanessa",
-        "profile_path": "https://image.tmdb.org/t/p/original/xPdQMqxWnFwCKOIto8dBEorTtGR.jpg"
-      },
       "Haley Joel Osment": {
         "id": 9640,
         "character": "Little Boy",
@@ -20296,6 +20291,11 @@
       "Jacqueline Murphy": {
         "id": 1237358,
         "character": "Nurse",
+        "profile_path": "https://image.tmdb.org/t/p/original/xPdQMqxWnFwCKOIto8dBEorTtGR.jpg"
+      },
+      "Michele Reiner": {
+        "id": 2126394,
+        "character": "Vanessa",
         "profile_path": "https://image.tmdb.org/t/p/original/xPdQMqxWnFwCKOIto8dBEorTtGR.jpg"
       }
     }
@@ -28802,7 +28802,7 @@
     "poster_path": "https://image.tmdb.org/t/p/original/a9cuohQn5kczi4htWZAZjEZvXkZ.jpg",
     "title": "The Sure Thing",
     "released": "1985-03-01",
-    "duration": 100,
+    "duration": 95,
     "imdb_id": "tt0090103",
     "vote_average": "6.5",
     "overview": "Gib, a beer-guzzling slob, and Alison, an uptight Ivy-Leaguer, are an unlikely duo stuck together on a cross-country trip during Christmas break. At first they get on each other's nerves but, as time passes, they find their divergent natures complement each other. Now they need to realize what they've already found before it's too late.",
