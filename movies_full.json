@@ -3267,7 +3267,7 @@
     "released": "1945-07-27",
     "duration": 102,
     "imdb_id": "tt0037595",
-    "vote_average": "6.9",
+    "vote_average": "7",
     "overview": "While recovering in a hospital, war hero Jefferson Jones grows familiar with the \"Diary of a Housewife\" column written by Elizabeth Lane. Jeff's nurse arranges with Elizabeth's publisher, Alexander Yardley, for Jeff to spend the holiday at Elizabeth's bucolic Connecticut farm with her husband and child. But the column is a sham, so Elizabeth and her editor, Dudley Beecham, in fear of losing their jobs, hasten to set up the single, childless and entirely  nondomestic Elizabeth on a country farm.",
     "genres": ["Comedy", "Romance"],
     "imdb_score": "7.3/10",
@@ -4647,6 +4647,8 @@
     "imdb_score": "5.8/10",
     "rt_score": "19%",
     "meta_score": "31/100",
+    "platforms": "Amazon Prime Video",
+    "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
     "director": "Jessie Nelson",
     "cast": {
       "Diane Keaton": {
@@ -4667,7 +4669,7 @@
       "Amanda Seyfried": {
         "id": 71070,
         "character": "Ruby",
-        "profile_path": "https://image.tmdb.org/t/p/original/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/wcHYErlynY8xWe6X7RmqEqpMBGl.jpg"
       },
       "Alan Arkin": {
         "id": 1903,
@@ -11244,7 +11246,7 @@
     "released": "1942-01-01",
     "duration": 101,
     "imdb_id": "tt0034862",
-    "vote_average": "7",
+    "vote_average": "7.1",
     "overview": "Lovely Linda Mason has crooner Jim Hardy head over heels, but suave stepper Ted Hanover wants her for his new dance partner after fickle Lila Dixon gives him the brush. Jim's supper club, Holiday Inn, is the setting for the chase by Hanover and his manager.",
     "genres": ["Comedy", "Drama", "Romance"],
     "imdb_score": "7.3/10",
@@ -11831,7 +11833,7 @@
       "Tim Curry": {
         "id": 13472,
         "character": "Concierge",
-        "profile_path": "https://image.tmdb.org/t/p/original/lYVYVNsPDzeLL6ReCRhh8kezu4y.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg"
       },
       "Devin Ratray": {
         "id": 11516,
@@ -12757,8 +12759,8 @@
     "imdb_score": "6.4/10",
     "rt_score": "50%",
     "meta_score": "46/100",
-    "platforms": ["Disney Plus", "Plex"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Disney Plus", "ITVX", "Plex"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/1LuvKw01c2KQCt6DqgAgR06H2pT.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Ron Howard",
     "cast": {
       "Jim Carrey": {
@@ -16882,7 +16884,7 @@
       "Elizabeth Taylor": {
         "id": 3635,
         "character": "Amy",
-        "profile_path": "https://image.tmdb.org/t/p/original/nKF00U432UIe9AokJsN6IIft3CC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/pIq0rsj0XHKFemnvMjq5q6nAseo.jpg"
       },
       "Janet Leigh": {
         "id": 7302,
@@ -19143,7 +19145,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -19869,8 +19871,8 @@
     "genres": ["Fantasy", "Drama", "Family"],
     "imdb_score": "6.6/10",
     "rt_score": "59%",
-    "platforms": ["Disney Plus", "Plex"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Disney Plus", "Channel 4", "Plex"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Les Mayfield",
     "cast": {
       "Mara Wilson": {
@@ -22452,7 +22454,7 @@
       "Lizzy Caplan": {
         "id": 51988,
         "character": "Diana",
-        "profile_path": "https://image.tmdb.org/t/p/original/lS9DOi0kF8xZdN8tzvJWUKZ6ANY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/eHPzaeY6yfMuuvF8r70Z1ICtRpE.jpg"
       },
       "Jillian Bell": {
         "id": 1226302,
@@ -31347,7 +31349,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
