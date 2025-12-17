@@ -4555,7 +4555,7 @@
     "released": "2022-12-02",
     "duration": 88,
     "imdb_id": "tt17542540",
-    "vote_average": "5.6",
+    "vote_average": "5.5",
     "overview": "When Jesse is dumped right before the holidays by her boyfriend, Shawn, his parents convince her to still spend Christmas with them, and Shawn's handsome cousin, while Shawn is away.",
     "genres": ["Comedy", "Romance"],
     "imdb_score": "5.4/10",
@@ -8557,7 +8557,7 @@
     "released": "1990-01-17",
     "duration": 88,
     "imdb_id": "tt0096741",
-    "vote_average": "5.9",
+    "vote_average": "6",
     "overview": "Thomas de Frémont, a precocious child obsessed with action films, sets himself up for a terrifying Christmas Eve after he unwittingly makes contact with a deranged psychopath who claims he's Santa Claus.",
     "genres": ["Thriller", "Horror", "Action", "Adventure"],
     "imdb_score": "6.4/10",
@@ -16975,7 +16975,7 @@
       "Winona Ryder": {
         "id": 1920,
         "character": "Jo March",
-        "profile_path": "https://image.tmdb.org/t/p/original/dlffgYbqr1BllWacVLhAFw23nLl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/uZaGuCvf18wKhaYL0IfYJv48yhE.jpg"
       },
       "Trini Alvarado": {
         "id": 17187,
@@ -19145,7 +19145,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20255,15 +20255,20 @@
         "character": "Hotline Caller (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/8do5YvJ9baiLCrXE4ck3DHzjhHo.jpg"
       },
+      "Sidney Armus": {
+        "id": 13951,
+        "character": "Chris' Father",
+        "profile_path": "https://image.tmdb.org/t/p/original/xPdQMqxWnFwCKOIto8dBEorTtGR.jpg"
+      },
       "Victor Garber": {
         "id": 8536,
         "character": "Irate Neighbor (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/zPkpRPdW7rEm4fjgoJNz8hAZ6av.jpg"
       },
-      "Sidney Armus": {
-        "id": 13951,
-        "character": "Chris' Father",
-        "profile_path": "https://image.tmdb.org/t/p/original/xPdQMqxWnFwCKOIto8dBEorTtGR.jpg"
+      "Michele Reiner": {
+        "id": 2126394,
+        "character": "Vanessa",
+        "profile_path": "https://image.tmdb.org/t/p/original/zTmpiMBXCKFfa2FnxiKzBItfWv0.jpg"
       },
       "Haley Joel Osment": {
         "id": 9640,
@@ -20294,11 +20299,6 @@
         "id": 1237358,
         "character": "Nurse",
         "profile_path": "https://image.tmdb.org/t/p/original/xPdQMqxWnFwCKOIto8dBEorTtGR.jpg"
-      },
-      "Michele Reiner": {
-        "id": 2126394,
-        "character": "Vanessa",
-        "profile_path": "https://image.tmdb.org/t/p/original/zTmpiMBXCKFfa2FnxiKzBItfWv0.jpg"
       }
     }
   },
@@ -24059,6 +24059,11 @@
         "id": 5086547,
         "character": "Choir Member",
         "profile_path": "https://image.tmdb.org/t/p/original/gkydRYX3VTqMIjJGDT7kXJ6SrfZ.jpg"
+      },
+      "Taylor Swift": {
+        "id": 212208,
+        "character": "Self (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/2HkD0V51IAXxWyVOi88nQIG2AQ8.jpg"
       }
     }
   },
@@ -25833,7 +25838,7 @@
     "plex": false,
     "watched": [2020, 2021],
     "added": 2020,
-    "poster_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg",
     "title": "The Santa Clause",
     "released": "1994-11-11",
     "duration": 97,
@@ -25906,27 +25911,27 @@
       "Melissa King": {
         "id": 2441648,
         "character": "Little Girl",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Bradley Wentworth": {
         "id": 2441649,
         "character": "Elf at North Pole",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Azura Bates": {
         "id": 2332261,
         "character": "Elf in Hangar",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Joshua Satok": {
         "id": 2441650,
         "character": "Elf-Larry",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Zachary McLemore": {
         "id": 33152,
         "character": "Bobby",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Joyce Guy": {
         "id": 1213599,
@@ -25936,12 +25941,12 @@
       "Lindsay Lupien": {
         "id": 2441652,
         "character": "Kid Two",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Alexandra Petrocci": {
         "id": 2441653,
         "character": "Kid Three",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Jesse Collins": {
         "id": 1219181,
@@ -25961,7 +25966,7 @@
       "Aimee McIntyre": {
         "id": 2441654,
         "character": "Ruth",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Tabitha Lupien": {
         "id": 71167,
@@ -25981,12 +25986,12 @@
       "Ron Hartmann": {
         "id": 199828,
         "character": "Judge",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Nic Knight": {
         "id": 138560,
         "character": "Quintin",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Scott Wickware": {
         "id": 166510,
@@ -25996,17 +26001,17 @@
       "Gene Mack": {
         "id": 174954,
         "character": "Newman",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Brett Moon": {
         "id": 2441657,
         "character": "Elf One",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Ryan Moon": {
         "id": 2441658,
         "character": "Elf Two",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Jack Newman": {
         "id": 1239427,
@@ -26021,7 +26026,7 @@
       "Micha Jackson": {
         "id": 2747360,
         "character": "Child One",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Cody Jones": {
         "id": 59197,
@@ -26031,17 +26036,17 @@
       "Kenny Vadas": {
         "id": 1239446,
         "character": "E.L.F.S. Leader",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Brian Reilly": {
         "id": 56644,
         "character": "Tinsel Man",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Gordon Masten": {
         "id": 179421,
         "character": "Desk Sergeant",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Philip Williams": {
         "id": 134076,
@@ -26051,7 +26056,7 @@
       "Chris Benson": {
         "id": 76105,
         "character": "Fireman",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Laura Catalano": {
         "id": 185178,
@@ -26061,22 +26066,22 @@
       "Peter Kosaka": {
         "id": 1003550,
         "character": "Japanese Businessman",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Ivanka Kotalto": {
         "id": 2747364,
         "character": "E.L.F.S. #2",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Todd Davis": {
         "id": 2744852,
         "character": "E.L.F.S. #3",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Marc Pichette": {
         "id": 2747365,
         "character": "E.L.F.S. #4",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "John Pasquin": {
         "id": 58072,
@@ -26086,37 +26091,37 @@
       "Tony Krolo": {
         "id": 2747366,
         "character": "Coffee Cop",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Alec Bachlow": {
         "id": 1239348,
         "character": "Neighbour",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Jimmy Labriola": {
         "id": 2747367,
         "character": "Truck Driver",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Steve Kosaka": {
         "id": 2747368,
         "character": "Japanese Businessman",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Lawrence Nakamura": {
         "id": 2720133,
         "character": "Japanese Businessman",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Hun Sun Tran": {
         "id": 2747369,
         "character": "Japanese Businessman",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Steve Tsukamoto": {
         "id": 2747370,
         "character": "Japanese Businessman",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Frank Welker": {
         "id": 15831,
@@ -26131,7 +26136,7 @@
       "Bob Dermer": {
         "id": 68731,
         "character": "Puppet Punch (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       },
       "Nina Keogh": {
         "id": 1233053,
@@ -26141,7 +26146,7 @@
       "Dennis O'Connor": {
         "id": 134069,
         "character": "Mailman",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
       }
     }
   },
