@@ -2588,6 +2588,11 @@
         "id": 1545524,
         "character": "Restaurant / Pedestrian (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/cJeled7EyPdur6TnCA5GYg0UVna.jpg"
+      },
+      "Misty M. Jump": {
+        "id": 1560362,
+        "character": "Oak Room Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/cJeled7EyPdur6TnCA5GYg0UVna.jpg"
       }
     }
   },
@@ -19145,7 +19150,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -21931,6 +21936,11 @@
         "id": 2446387,
         "character": "Jazz Quartet",
         "profile_path": "https://image.tmdb.org/t/p/original/2APY35DdgOmQIJlVpnjI7Kanjyb.jpg"
+      },
+      "Gary Beard": {
+        "id": 5882657,
+        "character": "Oakmoor Parent",
+        "profile_path": "https://image.tmdb.org/t/p/original/2APY35DdgOmQIJlVpnjI7Kanjyb.jpg"
       }
     }
   },
@@ -23330,7 +23340,7 @@
     "released": "2025-12-03",
     "duration": 108,
     "imdb_id": "tt31998881",
-    "vote_average": "5.9",
+    "vote_average": "5.8",
     "overview": "Claire Clauster is the glue that holds her chaotic, lovable family together at the holidays. But this year, after planning a special outing for them, they make a crucial mistake and leave her home alone. Fed up and feeling under appreciated, she sets off on an impromptu adventure of her own. As her family scrambles to find her, Claire discovers the unexpected magic of a Christmas gone off-script.",
     "genres": "Comedy",
     "platforms": "Amazon Prime Video",
