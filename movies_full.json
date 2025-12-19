@@ -2812,7 +2812,7 @@
       "Michael Cera": {
         "id": 39995,
         "character": "Officer Gibson",
-        "profile_path": "https://image.tmdb.org/t/p/original/lFKyW2C7xj7X4nWpOEbVIDGOKrH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qjhNKsw0OLyZQgK4srhelBafcCf.jpg"
       },
       "Gregg Turkington": {
         "id": 1224999,
@@ -4689,7 +4689,7 @@
       "Olivia Wilde": {
         "id": 59315,
         "character": "Eleanor Cooper",
-        "profile_path": "https://image.tmdb.org/t/p/original/1DzTcuCFHfbYqMeiAHxsa0pXXdj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/twK76nQ46YP7gfunX7xFZuFKOg7.jpg"
       },
       "Marisa Tomei": {
         "id": 3141,
@@ -5214,8 +5214,8 @@
     "overview": "To save his daughter's Christmas, Andrew goes on a road trip with Dev, his neighbour from hell, to buy an elusive Sparklehoof the Unicorn Princess.",
     "genres": ["Comedy", "TV Movie"],
     "imdb_score": "6.8/10",
-    "platforms": ["Netflix", "Amazon Prime Video"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"],
+    "platforms": ["BBC iPlayer", "Netflix", "Amazon Prime Video"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"],
     "director": "Ben Palmer",
     "cast": {
       "Asim Chaudhry": {
@@ -10408,6 +10408,11 @@
         "id": 5272031,
         "character": "Student",
         "profile_path": "https://image.tmdb.org/t/p/original/VHSzNBTwxV8vh7wylo7O9CLdac.jpg"
+      },
+      "Lily Steven": {
+        "id": 3158242,
+        "character": "Kristy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/VHSzNBTwxV8vh7wylo7O9CLdac.jpg"
       }
     }
   },
@@ -13242,7 +13247,7 @@
       "Liza Minnelli": {
         "id": 66776,
         "character": "Veronica and Andrew's Daughter (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/oZhyt44wxv7pJwcdeqNSQtarlhD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/kfG0Sm0uhF7vGMxFPiJTrpN6f81.jpg"
       },
       "Howard M. Mitchell": {
         "id": 1005425,
@@ -19150,7 +19155,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20178,7 +20183,7 @@
       "Adam Sandler": {
         "id": 19292,
         "character": "Louie",
-        "profile_path": "https://image.tmdb.org/t/p/original/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/gLkLCsQdwDDPabRhKPB25nGtKwS.jpg"
       },
       "Liev Schreiber": {
         "id": 23626,
@@ -30470,12 +30475,12 @@
       "Michael Cera": {
         "id": 39995,
         "character": "Jackie the Talent Agent",
-        "profile_path": "https://image.tmdb.org/t/p/original/lFKyW2C7xj7X4nWpOEbVIDGOKrH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qjhNKsw0OLyZQgK4srhelBafcCf.jpg"
       },
       "George Clooney": {
         "id": 1461,
         "character": "George Clooney",
-        "profile_path": "https://image.tmdb.org/t/p/original/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/4s3wI0bqOP7K3hhcmKqV6m3GYiQ.jpg"
       },
       "Miley Cyrus": {
         "id": 76594,
