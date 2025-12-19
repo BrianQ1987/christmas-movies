@@ -4674,7 +4674,7 @@
       "Amanda Seyfried": {
         "id": 71070,
         "character": "Ruby",
-        "profile_path": "https://image.tmdb.org/t/p/original/wcHYErlynY8xWe6X7RmqEqpMBGl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
       },
       "Alan Arkin": {
         "id": 1903,
@@ -4694,7 +4694,7 @@
       "Marisa Tomei": {
         "id": 3141,
         "character": "Emma Newport",
-        "profile_path": "https://image.tmdb.org/t/p/original/f68nmyE9we5ABfa3YVvv9rZSrq4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5w6qM8FWsl5SutKSpx6Va64eCTE.jpg"
       },
       "Jake Lacy": {
         "id": 496470,
@@ -19150,7 +19150,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -19676,7 +19676,7 @@
     "released": "1959-11-27",
     "duration": 60,
     "imdb_id": "tt0307164",
-    "vote_average": "7",
+    "vote_average": "6",
     "overview": "In this charming TV adaptation of the 1947 film classic, a kindly old gentleman (Ed Wynn) working as a Macy's department store Santa causes a commotion when he claims to be the real St. Nick. Forced to prove his sanity, he is taken to court where he must convince the judge and his friends that he actually is Santa Claus. The faith of one skeptical little girl (Susan Gordon) and a Christmas miracle are the keys to his true identity.",
     "genres": ["Family", "Drama"],
     "imdb_score": "7.0/10",
@@ -24069,11 +24069,6 @@
         "id": 5086547,
         "character": "Choir Member",
         "profile_path": "https://image.tmdb.org/t/p/original/gkydRYX3VTqMIjJGDT7kXJ6SrfZ.jpg"
-      },
-      "Taylor Swift": {
-        "id": 212208,
-        "character": "Self (archive footage) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/2HkD0V51IAXxWyVOi88nQIG2AQ8.jpg"
       }
     }
   },
@@ -31364,7 +31359,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
