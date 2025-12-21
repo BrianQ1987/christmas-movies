@@ -170,13 +170,13 @@
     "Elf": {
         "id": 10719,
         "plex": true,
-        "watched": [2020, 2021, 2022, 2023, 2024],
+        "watched": [2020, 2021, 2022, 2023, 2024, 2025],
         "added": 2020
     },
     "Emmet Otter's Jugband Christmas": {
         "id": 20785,
         "plex": true,
-        "watched": [2020],
+        "watched": [2020, 2025],
         "added": 2020
     },
     "Falling for Christmas": {
@@ -398,7 +398,7 @@
     "Miracle on 34th Street (1947)": {
         "id": 11881,
         "plex": true,
-        "watched": [2020, 2021, 2022, 2023, 2024],
+        "watched": [2020, 2021, 2022, 2023, 2024, 2025],
         "added": 2020
     },
     "The Miracle on 34th Street (1955)": {
@@ -590,7 +590,7 @@
     "The Muppet Christmas Carol": {
         "id": 10437,
         "plex": false,
-        "watched": [2020, 2021, 2022, 2023, 2024],
+        "watched": [2020, 2021, 2022, 2023, 2024, 2025],
         "added": 2020
     },
     "The Night Before": {
@@ -860,7 +860,7 @@
     "A Christmas Star": {
         "id": 370071,
         "plex": true,
-        "watched": [],
+        "watched": [2025],
         "added": 2025
     },
     "Ghosts of Girlfriends Past": {
