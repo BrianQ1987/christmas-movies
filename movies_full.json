@@ -3808,7 +3808,7 @@
   "A Christmas Star": {
     "id": 370071,
     "plex": true,
-    "watched": [],
+    "watched": 2025,
     "added": 2025,
     "poster_path": "https://image.tmdb.org/t/p/original/kuPmTKaiAB7HjpZZHGUQWCK6AwD.jpg",
     "title": "A Christmas Star",
@@ -4719,7 +4719,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Charlie Cooper",
-        "profile_path": "https://image.tmdb.org/t/p/original/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Blake Baumgartner": {
         "id": 1931911,
@@ -6123,7 +6123,7 @@
   "Elf": {
     "id": 10719,
     "plex": true,
-    "watched": [2020, 2021, 2022, 2023, 2024],
+    "watched": [2020, 2021, 2022, 2023, 2024, 2025],
     "added": 2020,
     "poster_path": "https://image.tmdb.org/t/p/original/oOleziEempUPu96jkGs0Pj6tKxj.jpg",
     "title": "Elf",
@@ -6475,7 +6475,7 @@
   "Emmet Otter's Jugband Christmas": {
     "id": 20785,
     "plex": true,
-    "watched": 2020,
+    "watched": [2020, 2025],
     "added": 2020,
     "poster_path": "https://image.tmdb.org/t/p/original/jng1wnVzIBdtllpUWQdzkODIB4Z.jpg",
     "title": "Emmet Otter's Jug-Band Christmas",
@@ -17332,7 +17332,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Laurie",
-        "profile_path": "https://image.tmdb.org/t/p/original/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Tracy Letts": {
         "id": 72638,
@@ -19262,7 +19262,7 @@
   "Miracle on 34th Street (1947)": {
     "id": 11881,
     "plex": true,
-    "watched": [2020, 2021, 2022, 2023, 2024],
+    "watched": [2020, 2021, 2022, 2023, 2024, 2025],
     "added": 2020,
     "poster_path": "https://image.tmdb.org/t/p/original/vehuIm3y6BeMI7mYjxzaA1H8M0k.jpg",
     "title": "Miracle on 34th Street",
@@ -20395,7 +20395,7 @@
   "The Muppet Christmas Carol": {
     "id": 10437,
     "plex": false,
-    "watched": [2020, 2021, 2022, 2023, 2024],
+    "watched": [2020, 2021, 2022, 2023, 2024, 2025],
     "added": 2020,
     "poster_path": "https://image.tmdb.org/t/p/original/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
     "title": "The Muppet Christmas Carol",
