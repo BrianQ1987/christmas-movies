@@ -16894,7 +16894,7 @@
       "Elizabeth Taylor": {
         "id": 3635,
         "character": "Amy",
-        "profile_path": "https://image.tmdb.org/t/p/original/pIq0rsj0XHKFemnvMjq5q6nAseo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/nKF00U432UIe9AokJsN6IIft3CC.jpg"
       },
       "Janet Leigh": {
         "id": 7302,
@@ -19616,14 +19616,14 @@
     "plex": true,
     "watched": 2020,
     "added": 2020,
-    "poster_path": "https://image.tmdb.org/t/p/original/a2wAbiN8KC2qQ89VRLMRac7nSzZ.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/csvpHmWBtpTvsPVvrqLDQJcX8hQ.jpg",
     "title": "The Miracle on 34th Street",
     "released": "1955-12-14",
     "duration": 46,
     "imdb_id": "tt0048378",
     "vote_average": "5.2",
     "overview": "One Kris Kringle, a department-store Santa Claus, causes quite a commotion by suggesting customers go to a rival store for their purchases. But this is nothing to the stir he causes by announcing that he is not merely a make-believe St. Nick, but the real thing.",
-    "genres": ["TV Movie", "Drama"],
+    "genres": ["TV Movie", "Family", "Drama", "Romance"],
     "imdb_score": "6.0/10",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
@@ -19649,11 +19649,6 @@
         "character": "Susan Walker",
         "profile_path": "https://image.tmdb.org/t/p/original/9TCszGJRKvx1OSMz05xv5oDw3H5.jpg"
       },
-      "Dick Foran": {
-        "id": 81168,
-        "character": "Thomas Mara",
-        "profile_path": "https://image.tmdb.org/t/p/original/aPw9QMtlx1SwRBTQdKuaziNrZyb.jpg"
-      },
       "Hans Conried": {
         "id": 16421,
         "character": "Mr. Shellhammer",
@@ -19664,10 +19659,60 @@
         "character": "Judge Harper",
         "profile_path": "https://image.tmdb.org/t/p/original/usQN1n6UMPwYrTuTKdiSxUj8Qwa.jpg"
       },
+      "Dick Foran": {
+        "id": 81168,
+        "character": "Thomas Mara",
+        "profile_path": "https://image.tmdb.org/t/p/original/aPw9QMtlx1SwRBTQdKuaziNrZyb.jpg"
+      },
       "John Abbott": {
         "id": 24826,
         "character": "Dr. Sawyer",
         "profile_path": "https://image.tmdb.org/t/p/original/2ucHXDbLr2ReMXRJd5XwUZZosGv.jpg"
+      },
+      "Don Beddoe": {
+        "id": 30539,
+        "character": "Mr. Macy",
+        "profile_path": "https://image.tmdb.org/t/p/original/9NI9ofN3DlPCuhLhCdTiWYg8C0L.jpg"
+      },
+      "Whit Bissell": {
+        "id": 13786,
+        "character": "Dr. Pierce",
+        "profile_path": "https://image.tmdb.org/t/p/original/ctpL0dPAv6n9ArbWRK1Cet0wvqk.jpg"
+      },
+      "Sara Berner": {
+        "id": 121038,
+        "character": "Woman Shopper",
+        "profile_path": "https://image.tmdb.org/t/p/original/cUvyj2PuoHU5FAtep9oOxLYaQEp.jpg"
+      },
+      "Herb Vigran": {
+        "id": 134614,
+        "character": "Postal Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/original/2CG32FVQmmbgDDNBmUN85sEza4f.jpg"
+      },
+      "Maudie Prickett": {
+        "id": 151503,
+        "character": "Miss Prossy",
+        "profile_path": "https://image.tmdb.org/t/p/original/hj5WNiyFWLOyqO5TxX3ywYNJEcF.jpg"
+      },
+      "Paul Smith": {
+        "id": 2645109,
+        "character": "Store Clerk",
+        "profile_path": "https://image.tmdb.org/t/p/original/csvpHmWBtpTvsPVvrqLDQJcX8hQ.jpg"
+      },
+      "Herbert Heyes": {
+        "id": 82836,
+        "character": "Mr. Gimbel",
+        "profile_path": "https://image.tmdb.org/t/p/original/nFq5tQbLJXkq1BcudYnvAIZADXj.jpg"
+      },
+      "Louis Towers": {
+        "id": 1834870,
+        "character": "Peter",
+        "profile_path": "https://image.tmdb.org/t/p/original/csvpHmWBtpTvsPVvrqLDQJcX8hQ.jpg"
+      },
+      "Earl Robie": {
+        "id": 1326200,
+        "character": "Tommy Mara, Jr.",
+        "profile_path": "https://image.tmdb.org/t/p/original/csvpHmWBtpTvsPVvrqLDQJcX8hQ.jpg"
       }
     }
   },
@@ -25876,7 +25921,7 @@
       "Wendy Crewson": {
         "id": 19957,
         "character": "Laura",
-        "profile_path": "https://image.tmdb.org/t/p/original/8Gtf0xbgknGxNaGv7flfRhQ42K2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6hplkzK8KV5Cw8Z8SVKwlt3nU5I.jpg"
       },
       "Eric Lloyd": {
         "id": 27564,
@@ -26193,7 +26238,7 @@
       "Wendy Crewson": {
         "id": 19957,
         "character": "Laura Miller",
-        "profile_path": "https://image.tmdb.org/t/p/original/8Gtf0xbgknGxNaGv7flfRhQ42K2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6hplkzK8KV5Cw8Z8SVKwlt3nU5I.jpg"
       },
       "Elizabeth Mitchell": {
         "id": 31167,
@@ -26500,7 +26545,7 @@
       "Wendy Crewson": {
         "id": 19957,
         "character": "Laura Miller",
-        "profile_path": "https://image.tmdb.org/t/p/original/8Gtf0xbgknGxNaGv7flfRhQ42K2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6hplkzK8KV5Cw8Z8SVKwlt3nU5I.jpg"
       },
       "Ann-Margret": {
         "id": 13567,
@@ -31364,7 +31409,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
