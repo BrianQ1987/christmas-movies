@@ -4485,7 +4485,7 @@
     "plex": true,
     "watched": 2024,
     "added": 2021,
-    "poster_path": "https://image.tmdb.org/t/p/original/eBBZArqeu0WJBtlAN4TZmudgYsF.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/d6vCW5OxKD7HyH77rCBiBHi8BvN.jpg",
     "title": "The Christmas Toy",
     "released": "1986-12-06",
     "duration": 50,
@@ -4536,12 +4536,12 @@
       "Rob Mills": {
         "id": 220893,
         "character": "Bleep (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/eBBZArqeu0WJBtlAN4TZmudgYsF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/d6vCW5OxKD7HyH77rCBiBHi8BvN.jpg"
       },
       "Nicky Tilroe": {
         "id": 1058269,
         "character": "Ding-a-ling the Phone (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/eBBZArqeu0WJBtlAN4TZmudgYsF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/d6vCW5OxKD7HyH77rCBiBHi8BvN.jpg"
       },
       "Jim Henson": {
         "id": 55983,
@@ -9105,7 +9105,7 @@
       "Belinda Balaski": {
         "id": 16173,
         "character": "Mrs. Joe Harris",
-        "profile_path": "https://image.tmdb.org/t/p/original/6bQUq0OIDeQKEWIQjodjeRzZ0nC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg"
       },
       "Scott Brady": {
         "id": 14847,
@@ -18993,7 +18993,7 @@
     "released": "2025-11-12",
     "duration": 91,
     "imdb_id": "tt34992378",
-    "vote_average": "6.2",
+    "vote_average": "6.1",
     "overview": "All Kate and Everett want for Christmas is an amicable divorce and one last holiday as a family, but new flames and old feelings complicate their plans.",
     "genres": ["Romance", "Comedy"],
     "platforms": "Netflix",
@@ -19160,7 +19160,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -31414,7 +31414,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
@@ -31710,7 +31710,7 @@
     "released": "2021-12-01",
     "duration": 99,
     "imdb_id": "tt15388610",
-    "vote_average": "6.3",
+    "vote_average": "6.4",
     "overview": "On her first holiday without her father, Zoey attempts to create a magical Christmas for her family just like the ones Mitch used to do.",
     "genres": ["TV Movie", "Comedy", "Music", "Drama"],
     "imdb_score": "7.1/10",
