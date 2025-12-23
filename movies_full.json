@@ -4560,7 +4560,7 @@
     "released": "2022-12-02",
     "duration": 88,
     "imdb_id": "tt17542540",
-    "vote_average": "5.5",
+    "vote_average": "5.6",
     "overview": "When Jesse is dumped right before the holidays by her boyfriend, Shawn, his parents convince her to still spend Christmas with them, and Shawn's handsome cousin, while Shawn is away.",
     "genres": ["Comedy", "Romance"],
     "imdb_score": "5.4/10",
@@ -7215,6 +7215,11 @@
         "id": 4189304,
         "character": "Six Chick (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/g8Gwitm4CtZBSYhLeSY4Z3Xwwcg.jpg"
+      },
+      "Aaron Hardy": {
+        "id": 5891476,
+        "character": "Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/original/g8Gwitm4CtZBSYhLeSY4Z3Xwwcg.jpg"
       }
     }
   },
@@ -8078,7 +8083,7 @@
       "Frank Stallone Jr.": {
         "id": 39780,
         "character": "Frank Stallone",
-        "profile_path": "https://image.tmdb.org/t/p/original/qQ0bDedZJwcRAF1KHitMAE2Sj5k.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/kuohZkcSd7g7TdEHbR4UVKPfwDU.jpg"
       },
       "Roger Clinton, Jr.": {
         "id": 51707,
@@ -13045,7 +13050,7 @@
     "released": "2022-12-14",
     "duration": 90,
     "imdb_id": "tt23722792",
-    "vote_average": "5.2",
+    "vote_average": "5.3",
     "overview": "Lisa thinks she's finally met the man of her dreams until she finds out he still believes in Santa Claus.",
     "genres": ["Romance", "Comedy"],
     "imdb_score": "4.6/10",
@@ -16192,7 +16197,7 @@
       "Michelan Sisti": {
         "id": 77152,
         "character": "Additional Muppet Performer",
-        "profile_path": "https://image.tmdb.org/t/p/original/xAHyMvs4QLIYL6fWGesvDOJbQm9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/yW9W7ggAs8Pb9ZsuznQHlfJfqJe.jpg"
       },
       "David Skelly": {
         "id": 1749736,
@@ -18767,7 +18772,7 @@
     "released": "2024-11-05",
     "duration": 105,
     "imdb_id": "tt20502488",
-    "vote_average": "6.4",
+    "vote_average": "6.3",
     "overview": "On a quest to reconnect with the man of her dreams, Layla races across New York City to find a ticket to a sold-out Pentatonix Christmas Eve concert.",
     "genres": ["Romance", "Comedy"],
     "imdb_score": "5.5/10",
@@ -24948,8 +24953,8 @@
     "imdb_score": "6.2/10",
     "rt_score": "30%",
     "meta_score": "34/100",
-    "platforms": "Amazon Prime Video",
-    "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+    "platforms": ["Amazon Prime Video", "ITVX"],
+    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "/1LuvKw01c2KQCt6DqgAgR06H2pT.jpg"],
     "director": "Jake Kasdan",
     "cast": {
       "Dwayne Johnson": {
