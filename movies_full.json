@@ -1906,7 +1906,7 @@
     "imdb_id": "tt0071222",
     "vote_average": "6.9",
     "overview": "As the residents of the Pi Kappa Sigma sorority house prepare for the festive season, a stranger begins to harass them with a series of obscene phone calls.",
-    "genres": ["Horror", "Mystery"],
+    "genres": ["Horror", "Mystery", "Thriller", "Crime"],
     "imdb_score": "7.1/10",
     "rt_score": "71%",
     "meta_score": "65/100",
@@ -2774,7 +2774,7 @@
     "released": "2024-11-08",
     "duration": 107,
     "imdb_id": "tt25052668",
-    "vote_average": "5",
+    "vote_average": "5.1",
     "overview": "A family gathers on Christmas Eve for what could be the last holiday in their ancestral home. As the night wears on and tensions arise, one of the teenagers sneaks out with her friends to claim the wintry suburb for her own.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "5.6/10",
@@ -7883,7 +7883,7 @@
       "Paul Giamatti": {
         "id": 13242,
         "character": "Nick (Santa) Claus",
-        "profile_path": "https://image.tmdb.org/t/p/original/kn7LAbFYP5RPC2r61tDx2CRUeuw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
       },
       "John Michael Higgins": {
         "id": 8265,
@@ -19160,7 +19160,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -23337,26 +23337,6 @@
         "character": "Young Evelyn",
         "profile_path": "https://image.tmdb.org/t/p/original/fDld4nJCmjPogCsvHxy1dckyDZ0.jpg"
       },
-      "Taylor Bedford": {
-        "id": 2173244,
-        "character": "Teenage Noelle",
-        "profile_path": "https://image.tmdb.org/t/p/original/bG65q3ppMTcBvAFsqMGfnjVAQ6P.jpg"
-      },
-      "Burgess Jenkins": {
-        "id": 117309,
-        "character": "Dan",
-        "profile_path": "https://image.tmdb.org/t/p/original/tLuduvqouKKaGpSbq5npmUGCAvX.jpg"
-      },
-      "Oakley Bull": {
-        "id": 1795057,
-        "character": "Young Noelle",
-        "profile_path": "https://image.tmdb.org/t/p/original/gGNiUTOg3AfN1OvAlmoifNA0ATt.jpg"
-      },
-      "William Valenzuela": {
-        "id": 2649264,
-        "character": "Matt Bautista (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/95BUTYlMp0n4n2qSHchWFbG8DIq.jpg"
-      },
       "Darcey Johnson": {
         "id": 1380498,
         "character": "Arguing Man #1",
@@ -23391,6 +23371,76 @@
         "id": 1775875,
         "character": "Elf Band #2",
         "profile_path": "https://image.tmdb.org/t/p/original/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg"
+      },
+      "Ash Lee": {
+        "id": 1581107,
+        "character": "Tonya's Father",
+        "profile_path": "https://image.tmdb.org/t/p/original/4utuaXs7Li4puP7TcdVwq9Owhyx.jpg"
+      },
+      "Lauren Halperin": {
+        "id": 1916840,
+        "character": "Yoga Pants Customer",
+        "profile_path": "https://image.tmdb.org/t/p/original/qoBipKI23xiuYuCVMNuRCCREDRU.jpg"
+      },
+      "Joel Ray Ishman": {
+        "id": 3272986,
+        "character": "DRM Security Guard (as Joel Ishman)",
+        "profile_path": "https://image.tmdb.org/t/p/original/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg"
+      },
+      "Luca Sammarcelli": {
+        "id": 4742093,
+        "character": "Jean",
+        "profile_path": "https://image.tmdb.org/t/p/original/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg"
+      },
+      "Taylor Bedford": {
+        "id": 2173244,
+        "character": "Teenage Noelle",
+        "profile_path": "https://image.tmdb.org/t/p/original/bG65q3ppMTcBvAFsqMGfnjVAQ6P.jpg"
+      },
+      "Burgess Jenkins": {
+        "id": 117309,
+        "character": "Dan",
+        "profile_path": "https://image.tmdb.org/t/p/original/tLuduvqouKKaGpSbq5npmUGCAvX.jpg"
+      },
+      "Oakley Bull": {
+        "id": 1795057,
+        "character": "Young Noelle",
+        "profile_path": "https://image.tmdb.org/t/p/original/gGNiUTOg3AfN1OvAlmoifNA0ATt.jpg"
+      },
+      "Jon Kohler": {
+        "id": 1788835,
+        "character": "New York Father",
+        "profile_path": "https://image.tmdb.org/t/p/original/7EmEZxMmzurYupRVy5PvcbOTwZO.jpg"
+      },
+      "Ines Sanchez-Nagakane": {
+        "id": 4256179,
+        "character": "Elf Tracey",
+        "profile_path": "https://image.tmdb.org/t/p/original/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg"
+      },
+      "Cara Mantella": {
+        "id": 145320,
+        "character": "Bus Driver",
+        "profile_path": "https://image.tmdb.org/t/p/original/tbumrmBZ5ClJ5Ml6Eh5pFtYu8kQ.jpg"
+      },
+      "William Valenzuela": {
+        "id": 2649264,
+        "character": "Matt Bautista (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/95BUTYlMp0n4n2qSHchWFbG8DIq.jpg"
+      },
+      "Brian Cook": {
+        "id": 1411181,
+        "character": "Colorado Kyle (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/xEjnWP7di5cOaKRwxw8ErDiv9r1.jpg"
+      },
+      "Glen Gordon": {
+        "id": 1591063,
+        "character": "Young Nick (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/wbnyor6Kfun69BZINdshX05dUEI.jpg"
+      },
+      "Dakota Guppy": {
+        "id": 1306566,
+        "character": "Emma (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/4G8NRwwT7lN2XlOy6HqhpeOayQ2.jpg"
       }
     }
   },
@@ -25813,7 +25863,7 @@
     "imdb_id": "tt0058536",
     "vote_average": "7.4",
     "overview": "Sam the snowman tells us the story of a young red-nosed reindeer who, after being ousted from the reindeer games because of his glowing nose, teams up with Hermey, an elf who wants to be a dentist, and Yukon Cornelius, the prospector. They run into the Abominable Snowman and find a whole island of misfit toys. Rudolph vows to see if he can get Santa to help the toys, and he goes back to the North Pole on Christmas Eve. But Santa's sleigh is fogged in. But when Santa looks over Rudolph, he gets a very bright idea...",
-    "genres": ["Animation", "Family", "TV Movie", "Adventure"],
+    "genres": ["Animation", "Family", "TV Movie", "Adventure", "Fantasy"],
     "imdb_score": "8.0/10",
     "rt_score": "95%",
     "platforms": "Plex",
@@ -26078,7 +26128,7 @@
     "plex": false,
     "watched": [2020, 2021],
     "added": 2020,
-    "poster_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg",
     "title": "The Santa Clause",
     "released": "1994-11-11",
     "duration": 97,
@@ -26151,27 +26201,27 @@
       "Melissa King": {
         "id": 2441648,
         "character": "Little Girl",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Bradley Wentworth": {
         "id": 2441649,
         "character": "Elf at North Pole",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Azura Bates": {
         "id": 2332261,
         "character": "Elf in Hangar",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Joshua Satok": {
         "id": 2441650,
         "character": "Elf-Larry",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Zachary McLemore": {
         "id": 33152,
         "character": "Bobby",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Joyce Guy": {
         "id": 1213599,
@@ -26181,12 +26231,12 @@
       "Lindsay Lupien": {
         "id": 2441652,
         "character": "Kid Two",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Alexandra Petrocci": {
         "id": 2441653,
         "character": "Kid Three",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Jesse Collins": {
         "id": 1219181,
@@ -26206,7 +26256,7 @@
       "Aimee McIntyre": {
         "id": 2441654,
         "character": "Ruth",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Tabitha Lupien": {
         "id": 71167,
@@ -26226,12 +26276,12 @@
       "Ron Hartmann": {
         "id": 199828,
         "character": "Judge",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Nic Knight": {
         "id": 138560,
         "character": "Quintin",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Scott Wickware": {
         "id": 166510,
@@ -26241,17 +26291,17 @@
       "Gene Mack": {
         "id": 174954,
         "character": "Newman",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Brett Moon": {
         "id": 2441657,
         "character": "Elf One",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Ryan Moon": {
         "id": 2441658,
         "character": "Elf Two",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Jack Newman": {
         "id": 1239427,
@@ -26266,7 +26316,7 @@
       "Micha Jackson": {
         "id": 2747360,
         "character": "Child One",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Cody Jones": {
         "id": 59197,
@@ -26276,17 +26326,17 @@
       "Kenny Vadas": {
         "id": 1239446,
         "character": "E.L.F.S. Leader",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Brian Reilly": {
         "id": 56644,
         "character": "Tinsel Man",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Gordon Masten": {
         "id": 179421,
         "character": "Desk Sergeant",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Philip Williams": {
         "id": 134076,
@@ -26296,7 +26346,7 @@
       "Chris Benson": {
         "id": 76105,
         "character": "Fireman",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Laura Catalano": {
         "id": 185178,
@@ -26306,22 +26356,22 @@
       "Peter Kosaka": {
         "id": 1003550,
         "character": "Japanese Businessman",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Ivanka Kotalto": {
         "id": 2747364,
         "character": "E.L.F.S. #2",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Todd Davis": {
         "id": 2744852,
         "character": "E.L.F.S. #3",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Marc Pichette": {
         "id": 2747365,
         "character": "E.L.F.S. #4",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "John Pasquin": {
         "id": 58072,
@@ -26331,37 +26381,37 @@
       "Tony Krolo": {
         "id": 2747366,
         "character": "Coffee Cop",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Alec Bachlow": {
         "id": 1239348,
         "character": "Neighbour",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Jimmy Labriola": {
         "id": 2747367,
         "character": "Truck Driver",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Steve Kosaka": {
         "id": 2747368,
         "character": "Japanese Businessman",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Lawrence Nakamura": {
         "id": 2720133,
         "character": "Japanese Businessman",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Hun Sun Tran": {
         "id": 2747369,
         "character": "Japanese Businessman",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Steve Tsukamoto": {
         "id": 2747370,
         "character": "Japanese Businessman",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Frank Welker": {
         "id": 15831,
@@ -26376,7 +26426,7 @@
       "Bob Dermer": {
         "id": 68731,
         "character": "Puppet Punch (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       },
       "Nina Keogh": {
         "id": 1233053,
@@ -26386,7 +26436,7 @@
       "Dennis O'Connor": {
         "id": 134069,
         "character": "Mailman",
-        "profile_path": "https://image.tmdb.org/t/p/original/qLzpA23AsOTmNSKsEdPJi0atWcP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
       }
     }
   },
@@ -30521,7 +30571,7 @@
     "plex": true,
     "watched": 2020,
     "added": 2020,
-    "poster_path": "https://image.tmdb.org/t/p/original/yGLrE150vchL1q1e1UNmPRPKwii.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/qXXFkHSU62sBUsAmuAJC3n7XGac.jpg",
     "title": "A Christmas Tale",
     "released": "2008-05-21",
     "duration": 152,
@@ -30599,12 +30649,12 @@
       "Thomas Obled": {
         "id": 1117892,
         "character": "Basile 'Baz'",
-        "profile_path": "https://image.tmdb.org/t/p/original/yGLrE150vchL1q1e1UNmPRPKwii.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qXXFkHSU62sBUsAmuAJC3n7XGac.jpg"
       },
       "Clément Obled": {
         "id": 1117893,
         "character": "Baptiste",
-        "profile_path": "https://image.tmdb.org/t/p/original/yGLrE150vchL1q1e1UNmPRPKwii.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qXXFkHSU62sBUsAmuAJC3n7XGac.jpg"
       },
       "François Regnault": {
         "id": 2490689,
@@ -30629,7 +30679,7 @@
       "David Frenkel": {
         "id": 1778000,
         "character": "Elizabeth's Lawyer",
-        "profile_path": "https://image.tmdb.org/t/p/original/yGLrE150vchL1q1e1UNmPRPKwii.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qXXFkHSU62sBUsAmuAJC3n7XGac.jpg"
       },
       "Romain Goupil": {
         "id": 7709,
@@ -30654,22 +30704,22 @@
       "Mathieu Bakanina": {
         "id": 2490686,
         "character": "Priest",
-        "profile_path": "https://image.tmdb.org/t/p/original/yGLrE150vchL1q1e1UNmPRPKwii.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qXXFkHSU62sBUsAmuAJC3n7XGac.jpg"
       },
       "Marie-France Jaskula": {
         "id": 2490687,
         "character": "The Faithful",
-        "profile_path": "https://image.tmdb.org/t/p/original/yGLrE150vchL1q1e1UNmPRPKwii.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qXXFkHSU62sBUsAmuAJC3n7XGac.jpg"
       },
       "Jean-Pierre Jouet": {
         "id": 2490688,
         "character": "Chairman of the Experts",
-        "profile_path": "https://image.tmdb.org/t/p/original/yGLrE150vchL1q1e1UNmPRPKwii.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qXXFkHSU62sBUsAmuAJC3n7XGac.jpg"
       },
       "Hélène Darras": {
         "id": 56588,
         "character": "Saleswoman (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/yGLrE150vchL1q1e1UNmPRPKwii.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qXXFkHSU62sBUsAmuAJC3n7XGac.jpg"
       }
     }
   },
@@ -30710,7 +30760,7 @@
       "George Clooney": {
         "id": 1461,
         "character": "George Clooney",
-        "profile_path": "https://image.tmdb.org/t/p/original/4s3wI0bqOP7K3hhcmKqV6m3GYiQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg"
       },
       "Miley Cyrus": {
         "id": 76594,
@@ -31589,12 +31639,12 @@
     "imdb_id": "tt0072424",
     "vote_average": "7.2",
     "overview": "Feeling forgotten by the children of the world, old St. Nick decides to skip his gift-giving journey and take a vacation. Mrs. Claus and two spunky little elves, Jingle and Jangle, set out to see to where all the season's cheer has disappeared. Aided by a magical snowfall, they reawaken the spirit of Christmas in children's hearts and put Santa back in action.",
-    "genres": ["Animation", "Family", "TV Movie"],
+    "genres": ["Animation", "Family", "TV Movie", "Fantasy"],
     "imdb_score": "7.7/10",
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
