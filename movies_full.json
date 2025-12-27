@@ -387,7 +387,7 @@
     "released": "1991-11-08",
     "duration": 92,
     "imdb_id": "tt0101301",
-    "vote_average": "5.6",
+    "vote_average": "5.7",
     "overview": "Siblings Ethan and Hallie O'Fallon plot to get their divorced parents back together in time for Christmas.",
     "genres": ["Family", "Drama", "Comedy"],
     "imdb_score": "5.9/10",
@@ -2380,8 +2380,8 @@
     "imdb_score": "7.3/10",
     "rt_score": "94%",
     "meta_score": "94/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Todd Haynes",
     "cast": {
       "Cate Blanchett": {
@@ -5607,8 +5607,8 @@
     "imdb_score": "5.1/10",
     "rt_score": "6%",
     "meta_score": "28/100",
-    "platforms": ["Disney Plus", "Amazon Prime Video", "ITVX"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "/1LuvKw01c2KQCt6DqgAgR06H2pT.jpg"],
+    "platforms": ["Disney Plus", "Amazon Prime Video"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"],
     "director": "John Whitesell",
     "cast": {
       "Danny DeVito": {
@@ -6229,7 +6229,7 @@
     "overview": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
     "genres": ["Comedy", "Family", "Fantasy"],
     "imdb_score": "7.1/10",
-    "rt_score": "86%",
+    "rt_score": "85%",
     "meta_score": "66/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
@@ -7341,7 +7341,7 @@
       "Bertil Guve": {
         "id": 46864,
         "character": "Alexander Ekdahl",
-        "profile_path": "https://image.tmdb.org/t/p/original/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qWotNaGSuzwYMh1Bp7BBGxA7lnV.jpg"
       },
       "Pernilla Allwin": {
         "id": 46865,
@@ -19260,7 +19260,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
