@@ -4194,7 +4194,7 @@
   "A Christmas Story": {
     "id": 850,
     "plex": true,
-    "watched": [2020, 2022, 2023],
+    "watched": [2020, 2022, 2023, 2025],
     "added": 2020,
     "poster_path": "https://image.tmdb.org/t/p/original/34nSHYqmb7222tiqiuKqKJmZiQa.jpg",
     "title": "A Christmas Story",
@@ -5871,7 +5871,7 @@
   "Die Hard": {
     "id": 562,
     "plex": false,
-    "watched": [2020, 2021, 2023],
+    "watched": [2020, 2021, 2023, 2025],
     "added": 2020,
     "poster_path": "https://image.tmdb.org/t/p/original/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
     "title": "Die Hard",
@@ -19260,7 +19260,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -26226,7 +26226,7 @@
   "The Santa Clause": {
     "id": 11395,
     "plex": false,
-    "watched": [2020, 2021],
+    "watched": [2020, 2021, 2025],
     "added": 2020,
     "poster_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg",
     "title": "The Santa Clause",
@@ -30202,7 +30202,7 @@
       "Denholm Elliott": {
         "id": 656,
         "character": "Coleman",
-        "profile_path": "https://image.tmdb.org/t/p/original/fnxExUCAU6HVTMk4cTNJkkl2hpq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5gbt1mJEOSuKHqi0CWl1okXjkim.jpg"
       },
       "Jamie Lee Curtis": {
         "id": 8944,
@@ -31744,7 +31744,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
