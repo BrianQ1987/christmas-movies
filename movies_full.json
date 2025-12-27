@@ -9032,7 +9032,7 @@
     "released": "1970-12-20",
     "duration": 52,
     "imdb_id": "tt0445979",
-    "vote_average": "6.4",
+    "vote_average": "6",
     "overview": "Santa Claus and his elves are ready to deliver presents to children everywhere, but the evil wizard, Cosmo Scam, has hatched a plot to kidnap Santa and take his place! One by one, Cosmo abducts Santa’s elves and replaces them with his evil henchmen. Can Fred the Elf save Christmas before Cosmo burglarizes the world?",
     "genres": ["Adventure", "Comedy", "Family", "Fantasy", "TV Movie"],
     "imdb_score": "7.2/10",
@@ -15174,7 +15174,7 @@
     "released": "2025-11-25",
     "duration": 96,
     "imdb_id": "tt24852126",
-    "vote_average": "6.1",
+    "vote_average": "6",
     "overview": "Two down-on-their-luck hourly workers team up to rob a posh London department store on Christmas Eve. Will they steal each other's hearts along the way?",
     "genres": ["Romance", "Crime", "Comedy"],
     "imdb_score": "5.8/10",
@@ -18626,8 +18626,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "99%",
     "meta_score": "94/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Vincente Minnelli",
     "cast": {
       "Judy Garland": {
@@ -19093,7 +19093,7 @@
     "released": "2025-11-12",
     "duration": 91,
     "imdb_id": "tt34992378",
-    "vote_average": "6.2",
+    "vote_average": "6.1",
     "overview": "All Kate and Everett want for Christmas is an amicable divorce and one last holiday as a family, but new flames and old feelings complicate their plans.",
     "genres": ["Romance", "Comedy"],
     "platforms": "Netflix",
@@ -19260,7 +19260,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -25290,7 +25290,7 @@
       "Dwayne Johnson": {
         "id": 18918,
         "character": "Callum Drift",
-        "profile_path": "https://image.tmdb.org/t/p/original/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dKVK6FoCij8Rig8P5xbu8bK4EWC.jpg"
       },
       "Chris Evans": {
         "id": 16828,
@@ -31744,7 +31744,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
