@@ -1704,7 +1704,7 @@
     "imdb_id": "tt0039190",
     "vote_average": "7.1",
     "overview": "An Episcopal Bishop, Henry Brougham, has been working for months on the plans for an elaborate new cathedral which he hopes will be paid for primarily by a wealthy, stubborn widow. He is losing sight of his family and of why he became a churchman in the first place. Enter Dudley, an angel sent to help him. Dudley does help everyone he meets, but not necessarily in the way they would have preferred. With the exception of Henry, everyone loves him, but Henry begins to believe that Dudley is there to replace him, both at work and in his family's affections, as Christmas approaches.",
-    "genres": ["Comedy", "Fantasy", "Drama"],
+    "genres": ["Comedy", "Fantasy", "Drama", "Romance"],
     "imdb_score": "7.6/10",
     "rt_score": "85%",
     "meta_score": "73/100",
@@ -6229,7 +6229,7 @@
     "overview": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
     "genres": ["Comedy", "Family", "Fantasy"],
     "imdb_score": "7.1/10",
-    "rt_score": "85%",
+    "rt_score": "86%",
     "meta_score": "66/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
@@ -7575,7 +7575,7 @@
       },
       "Peter Stormare": {
         "id": 53,
-        "character": "Young Man Who Helps Isak with Coffer (uncredited)",
+        "character": "Young Man Who Helps Isak with Coffer",
         "profile_path": "https://image.tmdb.org/t/p/original/1rtpuUqBV29jDc1huUhtjGDbEwn.jpg"
       },
       "Maud Hyttenberg": {
@@ -8632,7 +8632,7 @@
     "released": "1958-12-19",
     "duration": 41,
     "imdb_id": "tt0908282",
-    "vote_average": "7.9",
+    "vote_average": "7.7",
     "overview": "Hosted by Jiminy Cricket along with Mickey Mouse and Tinker Bell, this special combines newly produced animation with clips from vintage animated Disney shorts and feature films, presented to the viewer as Christmas cards from the various characters starring in each one.",
     "genres": ["Animation", "Comedy", "Family", "TV Movie"],
     "imdb_score": "8.1/10",
@@ -19260,7 +19260,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -27428,7 +27428,7 @@
       "Laurence Naismith": {
         "id": 69764,
         "character": "Mr. Fezziwig",
-        "profile_path": "https://image.tmdb.org/t/p/original/qibowr2FSuU6i8Ma8IrpZRWPbZM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/fH57izz0x7SVIuHFlAYwxSxiuGr.jpg"
       },
       "Michael Medwin": {
         "id": 29307,
