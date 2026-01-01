@@ -1906,7 +1906,7 @@
     "imdb_id": "tt0071222",
     "vote_average": "6.9",
     "overview": "As the residents of the Pi Kappa Sigma sorority house prepare for the festive season, a stranger begins to harass them with a series of obscene phone calls.",
-    "genres": ["Horror", "Mystery", "Thriller", "Crime"],
+    "genres": ["Horror", "Mystery", "Crime"],
     "imdb_score": "7.1/10",
     "rt_score": "71%",
     "meta_score": "65/100",
@@ -8823,7 +8823,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Allison Vandermeersh",
-        "profile_path": "https://image.tmdb.org/t/p/original/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/8NwSfyYWIIUE1cI9Xhz92b0w7WD.jpg"
       },
       "Daniel Sunjata": {
         "id": 10582,
@@ -10215,7 +10215,7 @@
       "Timothy Spall": {
         "id": 9191,
         "character": "Santa",
-        "profile_path": "https://image.tmdb.org/t/p/original/zDXpquJ2lmXh9rYlyzIL9L7REfw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/pcR6t8kpAgGwIUo4UjlP5gyKkNA.jpg"
       },
       "James Nesbitt": {
         "id": 34715,
@@ -15174,7 +15174,7 @@
     "released": "2025-11-25",
     "duration": 96,
     "imdb_id": "tt24852126",
-    "vote_average": "6",
+    "vote_average": "6.1",
     "overview": "Two down-on-their-luck hourly workers team up to rob a posh London department store on Christmas Eve. Will they steal each other's hearts along the way?",
     "genres": ["Romance", "Crime", "Comedy"],
     "imdb_score": "5.8/10",
@@ -19260,7 +19260,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -24146,7 +24146,7 @@
       "Harry Dean Stanton": {
         "id": 5048,
         "character": "Gideon",
-        "profile_path": "https://image.tmdb.org/t/p/original/ruvBkgQA4A2xKFM3CFxFxhfqmwU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/avdEF6khhn45OL0riAspiX82StH.jpg"
       },
       "Sarah Polley": {
         "id": 98,
