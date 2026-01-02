@@ -14143,7 +14143,7 @@
       "Lionel Barrymore": {
         "id": 17753,
         "character": "Mr. Potter",
-        "profile_path": "https://image.tmdb.org/t/p/original/bYBJfinZjBaS5Ltl8B7jLzVPIMu.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/ru11rLUzzLwKjR0ykTLkNIN9jcJ.jpg"
       },
       "Thomas Mitchell": {
         "id": 3383,
@@ -14287,22 +14287,22 @@
       },
       "Carol Coombs": {
         "id": 1055407,
-        "character": "The Bailey Child - Janie",
+        "character": "Janie Bailey",
         "profile_path": "https://image.tmdb.org/t/p/original/mV3VcmMJN6Zwahj42dy9WwPUyRI.jpg"
       },
       "Karolyn Grimes": {
         "id": 1033293,
-        "character": "The Bailey Child - Zuzu",
+        "character": "Zuzu Bailey",
         "profile_path": "https://image.tmdb.org/t/p/original/7QfMrjGzNJGMoX3FroXoor2PzUI.jpg"
       },
       "Larry Simms": {
         "id": 30223,
-        "character": "The Bailey Child - Pete",
+        "character": "Pete Bailey",
         "profile_path": "https://image.tmdb.org/t/p/original/q5z02wJLuECyXnYDdxWmIe6IVvp.jpg"
       },
       "Jimmy Hawkins": {
         "id": 117674,
-        "character": "The Bailey Child - Tommy",
+        "character": "Tommy Bailey",
         "profile_path": "https://image.tmdb.org/t/p/original/mV3VcmMJN6Zwahj42dy9WwPUyRI.jpg"
       },
       "Jean Acker": {
@@ -14427,7 +14427,7 @@
       },
       "Lew Davis": {
         "id": 1199590,
-        "character": "High School Teacher at Poolside (uncredited)",
+        "character": "Teacher at Poolside (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/mV3VcmMJN6Zwahj42dy9WwPUyRI.jpg"
       },
       "Harry Denny": {
@@ -14637,7 +14637,7 @@
       },
       "Garry Owen": {
         "id": 117772,
-        "character": "Bill-Poster (uncredited)",
+        "character": "Billposter (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/4lXrRqVoopFMS8hPEaR7BwEtLmD.jpg"
       },
       "Netta Packer": {
@@ -19260,7 +19260,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
