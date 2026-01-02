@@ -4789,7 +4789,7 @@
       "Marisa Tomei": {
         "id": 3141,
         "character": "Emma Newport",
-        "profile_path": "https://image.tmdb.org/t/p/original/5w6qM8FWsl5SutKSpx6Va64eCTE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/f68nmyE9we5ABfa3YVvv9rZSrq4.jpg"
       },
       "Jake Lacy": {
         "id": 496470,
@@ -11549,8 +11549,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "66%",
     "meta_score": "63/100",
-    "platforms": ["Disney Plus", "Channel 4"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Chris Columbus",
     "cast": {
       "Macaulay Culkin": {
@@ -11906,8 +11906,8 @@
     "imdb_score": "6.9/10",
     "rt_score": "35%",
     "meta_score": "46/100",
-    "platforms": ["Disney Plus", "Channel 4"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Chris Columbus",
     "cast": {
       "Macaulay Culkin": {
@@ -15174,7 +15174,7 @@
     "released": "2025-11-25",
     "duration": 96,
     "imdb_id": "tt24852126",
-    "vote_average": "6.1",
+    "vote_average": "6",
     "overview": "Two down-on-their-luck hourly workers team up to rob a posh London department store on Christmas Eve. Will they steal each other's hearts along the way?",
     "genres": ["Romance", "Crime", "Comedy"],
     "imdb_score": "5.8/10",
@@ -17090,7 +17090,7 @@
       "Winona Ryder": {
         "id": 1920,
         "character": "Jo March",
-        "profile_path": "https://image.tmdb.org/t/p/original/uZaGuCvf18wKhaYL0IfYJv48yhE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dlffgYbqr1BllWacVLhAFw23nLl.jpg"
       },
       "Trini Alvarado": {
         "id": 17187,
@@ -19260,7 +19260,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
