@@ -3910,7 +3910,7 @@
     "released": "2015-12-29",
     "duration": 82,
     "imdb_id": "tt4591840",
-    "vote_average": "4.8",
+    "vote_average": "4.9",
     "overview": "Born under the Christmas Star, Noelle believes she has the gift to perform miracles, so when conniving developer McKerrod threatens her peaceful life she and her friends determine to use this gift to thwart his plans and save their village.",
     "genres": ["Family", "Comedy"],
     "imdb_score": "5.0/10",
@@ -4938,7 +4938,7 @@
     "released": "2004-11-24",
     "duration": 99,
     "imdb_id": "tt0388419",
-    "vote_average": "6.1",
+    "vote_average": "6.2",
     "overview": "When their only daughter Blair leaves the family nest, Luther and Nora Krank decide to book an island cruise to beat the yuletide blues and just skip the holidays. But their decision to boycott tradition has the whole neighborhood in an uproar, and when Blair calls on Christmas Eve to announce a surprise visit with her new fiancée, the Kranks have just twelve hours to perform a miracle and pull themselves and their neighbors together to throw the best celebration ever!",
     "genres": ["Comedy", "Family"],
     "imdb_score": "5.5/10",
@@ -6828,7 +6828,7 @@
       "Diane Keaton": {
         "id": 3092,
         "character": "Sybil Stone",
-        "profile_path": "https://image.tmdb.org/t/p/original/tnx7pJqisfAzvXOR5wHQsbnH9XH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/2mSm65Z6npanPn7ilZYmGk2Ul1k.jpg"
       },
       "Luke Wilson": {
         "id": 36422,
@@ -9607,7 +9607,7 @@
       "Tara Strong": {
         "id": 15762,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/8Z86FfWbnUJnyFTcLa9MpVVFhMh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/y9S3QzI3L5aARP8GYYO86rREKxU.jpg"
       },
       "Regina Taufen": {
         "id": 1728454,
@@ -19260,7 +19260,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -24293,7 +24293,7 @@
       "Jon Rudnitsky": {
         "id": 1714925,
         "character": "Cameron",
-        "profile_path": "https://image.tmdb.org/t/p/original/y9S1Glj4T6W4v1ZkYMy3BnLccDp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/54FaWVPJUyLQ85Bw3uiY9bBLsBb.jpg"
       },
       "Dan Bucatinsky": {
         "id": 87034,
@@ -25425,7 +25425,7 @@
       "Jon Rudnitsky": {
         "id": 1714925,
         "character": "Beef Stew",
-        "profile_path": "https://image.tmdb.org/t/p/original/y9S1Glj4T6W4v1ZkYMy3BnLccDp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/54FaWVPJUyLQ85Bw3uiY9bBLsBb.jpg"
       },
       "Greg Clarkson": {
         "id": 146024,
@@ -31744,7 +31744,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
