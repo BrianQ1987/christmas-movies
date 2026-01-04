@@ -2857,7 +2857,7 @@
       "Gregory Falatek": {
         "id": 1957694,
         "character": "Tim",
-        "profile_path": "https://image.tmdb.org/t/p/original/tJ5q6TbdRtoXDqXdkbg4aGGLLkC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/i12PoW3AVMV8EX1FczdtvE2udkf.jpg"
       },
       "Laura Wernette": {
         "id": 1777519,
@@ -6303,7 +6303,7 @@
       "Artie Lange": {
         "id": 20788,
         "character": "Gimbels Santa",
-        "profile_path": "https://image.tmdb.org/t/p/original/3bbfXRP7TANPJrsj0oLosw9vq0v.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/eTFOTQ9pXRkZnHdYsxjX6XHa7ex.jpg"
       },
       "Leon Redbone": {
         "id": 1267155,
@@ -19260,7 +19260,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -24156,7 +24156,7 @@
       "Graham Jarvis": {
         "id": 36927,
         "character": "Frank Crump",
-        "profile_path": "https://image.tmdb.org/t/p/original/fjAY9Z2B9hUuQ8NolfyCHHR0iE9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/bVwjPeo7mAvzqCulFE4Yhx6NYsa.jpg"
       },
       "Timothy Webber": {
         "id": 53720,
@@ -28797,7 +28797,7 @@
       "Rose Byrne": {
         "id": 9827,
         "character": "Ms. Blansky",
-        "profile_path": "https://image.tmdb.org/t/p/original/6YauDiiTBwRGC1xnwspPmNvPWUu.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/4Vd7w19asuBfUGgz0NIuQI5wxIA.jpg"
       },
       "Matt Cardenes": {
         "id": 3792344,
@@ -31060,8 +31060,8 @@
     "imdb_score": "6.7/10",
     "rt_score": "74%",
     "meta_score": "55/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Tommy Wirkola",
     "cast": {
       "David Harbour": {
