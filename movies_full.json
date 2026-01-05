@@ -1153,7 +1153,7 @@
       "Billy Bob Thornton": {
         "id": 879,
         "character": "Willie",
-        "profile_path": "https://image.tmdb.org/t/p/original/vgLTcq1nYcNmIr3yLxS7sk84sav.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/i5EKWHuXokznIDMy2prTXzRmklI.jpg"
       },
       "Tony Cox": {
         "id": 19754,
@@ -9027,7 +9027,7 @@
     "plex": true,
     "watched": 2023,
     "added": 2021,
-    "poster_path": "https://image.tmdb.org/t/p/original/mAWlp4qXYxXju7Qgf1sgVuBYpKy.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/gKfhNgOyQZU62DYUpwRokpPL5rN.jpg",
     "title": "The Great Santa Claus Switch",
     "released": "1970-12-20",
     "duration": 52,
@@ -9093,7 +9093,7 @@
       "Byron Whiting": {
         "id": 2600059,
         "character": "Additional Muppet Performer (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/mAWlp4qXYxXju7Qgf1sgVuBYpKy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/gKfhNgOyQZU62DYUpwRokpPL5rN.jpg"
       },
       "Greg Antonacci": {
         "id": 1212814,
@@ -9103,7 +9103,7 @@
       "Cary Antebi": {
         "id": 2600063,
         "character": "Additional Muppet Performer (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/mAWlp4qXYxXju7Qgf1sgVuBYpKy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/gKfhNgOyQZU62DYUpwRokpPL5rN.jpg"
       },
       "John Byrum": {
         "id": 32767,
@@ -9113,7 +9113,7 @@
       "Diane Kimbrell": {
         "id": 3737726,
         "character": "Additional Muppets (voice) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/mAWlp4qXYxXju7Qgf1sgVuBYpKy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/gKfhNgOyQZU62DYUpwRokpPL5rN.jpg"
       }
     }
   },
@@ -9502,7 +9502,7 @@
       "Meilee Condron": {
         "id": 2032819,
         "character": "Additional Voices (Voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/z7j0JGXX5iU9sp6lnnkUGKO0339.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/pZVuPYnznhEQ8z5Lin9iOzwILET.jpg"
       },
       "Tristan O'Hare": {
         "id": 2175113,
@@ -9517,7 +9517,7 @@
       "Tucker Chandler": {
         "id": 2175116,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/ro5tKHoOg8gETvNAMmcwGd6XmXX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/kvK2RIgXeWMRSCkeTRP9iVRZrjJ.jpg"
       },
       "Townsend Coleman": {
         "id": 35035,
@@ -19260,7 +19260,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -31553,7 +31553,7 @@
     "vote_average": "7.2",
     "overview": "Two talented song-and-dance men team up after the war to become one of the hottest acts in show business. In time they befriend and become romantically involved with the beautiful Haynes sisters who comprise a sister act.",
     "genres": ["Comedy", "Music", "Romance"],
-    "imdb_score": "7.6/10",
+    "imdb_score": "7.5/10",
     "rt_score": "76%",
     "meta_score": "56/100",
     "platforms": ["BBC iPlayer", "Plex"],
@@ -31744,7 +31744,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
