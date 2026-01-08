@@ -5884,8 +5884,8 @@
     "imdb_score": "8.2/10",
     "rt_score": "94%",
     "meta_score": "72/100",
-    "platforms": ["Disney Plus", "Channel 4"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "John McTiernan",
     "cast": {
       "Bruce Willis": {
@@ -7169,7 +7169,7 @@
       "Erica Lynn Cunanan": {
         "id": 3901673,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/original/v12bQm5TTpCpkuBx5aNPJUGgr6J.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xuvCJAV1ZicgfcmbuNoHpXXlaP5.jpg"
       },
       "Jordan Leftwich": {
         "id": 4404776,
@@ -16347,8 +16347,8 @@
     "imdb_score": "6.5/10",
     "rt_score": "47%",
     "meta_score": "50/100",
-    "platforms": ["BBC iPlayer", "Netflix", "Disney Plus", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Netflix", "Disney Plus", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Paul Feig",
     "cast": {
       "Emilia Clarke": {
@@ -18224,7 +18224,7 @@
       "Elisha Cuthbert": {
         "id": 25837,
         "character": "Carol-Anne, American Goddess",
-        "profile_path": "https://image.tmdb.org/t/p/original/1nB9Y9XQhaoqYzwtSzJoWVxGnI2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/lsNwsJjGZqgjVUI1mhtcDCuwES3.jpg"
       },
       "Wes Butters": {
         "id": 2694873,
@@ -20333,7 +20333,7 @@
       "Adam Sandler": {
         "id": 19292,
         "character": "Louie",
-        "profile_path": "https://image.tmdb.org/t/p/original/gLkLCsQdwDDPabRhKPB25nGtKwS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
       },
       "Liev Schreiber": {
         "id": 23626,
