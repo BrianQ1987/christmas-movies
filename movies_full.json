@@ -6979,7 +6979,7 @@
       "Emma Myers": {
         "id": 2604515,
         "character": "CC Walker",
-        "profile_path": "https://image.tmdb.org/t/p/original/v1Y8RP39135ZOary9M4MbkrCAdn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xBJsFGAL3sOIxMUA0sMVEKKpAL4.jpg"
       },
       "Brady Noon": {
         "id": 2239159,
@@ -7853,10 +7853,10 @@
         "character": "Church-Goer",
         "profile_path": "https://image.tmdb.org/t/p/original/zixj44TC7rwzpxtJAG5OzFJnEqe.jpg"
       },
-      "Shea Vaughn": {
-        "id": 2786267,
-        "character": "Church-Goer",
-        "profile_path": "https://image.tmdb.org/t/p/original/zixj44TC7rwzpxtJAG5OzFJnEqe.jpg"
+      "Sharon Vaughn": {
+        "id": 1592832,
+        "character": "Church-Goer (as Shea Vaughn)",
+        "profile_path": "https://image.tmdb.org/t/p/original/zEQFfATPbvpgzgoUHV4jdxHTA37.jpg"
       },
       "Ronald D. Brown": {
         "id": 1937251,
@@ -19102,12 +19102,12 @@
     "cast": {
       "Alicia Silverstone": {
         "id": 5588,
-        "character": "Kate",
+        "character": "Kate Holden",
         "profile_path": "https://image.tmdb.org/t/p/original/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg"
       },
       "Oliver Hudson": {
         "id": 62692,
-        "character": "Everett",
+        "character": "Dr. Everett Holden",
         "profile_path": "https://image.tmdb.org/t/p/original/kvRmZBKs7xMZwsTu37adKPF8PKG.jpg"
       },
       "Jameela Jamil": {
@@ -19132,12 +19132,12 @@
       },
       "Wilder Hudson": {
         "id": 5748877,
-        "character": "Gabriel",
+        "character": "Gabriel Holden",
         "profile_path": "https://image.tmdb.org/t/p/original/v5fDyVxUHP6KJrwjKDG6NOUtTM2.jpg"
       },
       "Emily Hall": {
         "id": 2209427,
-        "character": "Sienna",
+        "character": "Sienna Holden",
         "profile_path": "https://image.tmdb.org/t/p/original/8ksIocdmnyV1M82SkrqoDpze3TO.jpg"
       },
       "Timothy Innes": {
@@ -19145,15 +19145,15 @@
         "character": "Nigel",
         "profile_path": "https://image.tmdb.org/t/p/original/aUxpcqfSZjgi0BItJdjp156kilF.jpg"
       },
+      "Derek McGrath": {
+        "id": 1212317,
+        "character": "Mike Holden",
+        "profile_path": "https://image.tmdb.org/t/p/original/y1Skje5GY1XwAI3ZksGKQUaXjd1.jpg"
+      },
       "Geoffrey Owens": {
         "id": 182617,
         "character": "Daryl",
         "profile_path": "https://image.tmdb.org/t/p/original/PO73VvUgDsAIYY6sdzDw01HFSk.jpg"
-      },
-      "Derek McGrath": {
-        "id": 1212317,
-        "character": "Mike",
-        "profile_path": "https://image.tmdb.org/t/p/original/y1Skje5GY1XwAI3ZksGKQUaXjd1.jpg"
       },
       "Tymika Tafari": {
         "id": 3012310,
@@ -19260,7 +19260,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -25300,7 +25300,7 @@
       "Lucy Liu": {
         "id": 140,
         "character": "Zoe",
-        "profile_path": "https://image.tmdb.org/t/p/original/9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dW6JDvYhXWW87P04W2SfNpiAwCO.jpg"
       },
       "J.K. Simmons": {
         "id": 18999,
@@ -31744,7 +31744,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
