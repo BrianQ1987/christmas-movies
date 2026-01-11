@@ -12228,7 +12228,7 @@
       "Al Cerullo": {
         "id": 91042,
         "character": "Helicopter Pilot",
-        "profile_path": "https://image.tmdb.org/t/p/original/9CAkQ9nfrDaIAyncWndwg0tfC8g.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/sl9seud5Fd5lTTDEiT2W65S6KHO.jpg"
       },
       "Dan Buckman": {
         "id": 1868837,
@@ -18451,7 +18451,7 @@
       "Nina Dobrev": {
         "id": 19961,
         "character": "Natalie Bauer",
-        "profile_path": "https://image.tmdb.org/t/p/original/9yRpKj2N4jADEkWe4sm4MT5W080.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/m54H3vU313OmICnC0EkYfSPPBFg.jpg"
       },
       "Jimmy O. Yang": {
         "id": 1468779,
@@ -19094,7 +19094,7 @@
     "duration": 91,
     "imdb_id": "tt34992378",
     "vote_average": "6.1",
-    "overview": "All Kate and Everett want for Christmas is an amicable divorce and one last holiday as a family, but new flames and old feelings complicate their plans.",
+    "overview": "Recently separated, Kate hopes to celebrate one last perfect family Christmas with her soon-to-be ex-husband Everett and their kids before their divorce is final and the house is sold. But her holiday plans are hilariously derailed when Everett unexpectedly brings his younger, successful new girlfriend.",
     "genres": ["Romance", "Comedy"],
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
@@ -19120,16 +19120,6 @@
         "character": "Chet Moore",
         "profile_path": "https://image.tmdb.org/t/p/original/ntsQN7JrXKGUto2XJJPbP7QAleL.jpg"
       },
-      "Linda Kash": {
-        "id": 14893,
-        "character": "Doris",
-        "profile_path": "https://image.tmdb.org/t/p/original/ccPTXbfYWByydwccHjPercV2G1u.jpg"
-      },
-      "Melissa Joan Hart": {
-        "id": 78501,
-        "character": "April",
-        "profile_path": "https://image.tmdb.org/t/p/original/slpAK9Ak1Bvi4FJCLeCdtwPZc3D.jpg"
-      },
       "Wilder Hudson": {
         "id": 5748877,
         "character": "Gabriel Holden",
@@ -19139,6 +19129,11 @@
         "id": 2209427,
         "character": "Sienna Holden",
         "profile_path": "https://image.tmdb.org/t/p/original/8ksIocdmnyV1M82SkrqoDpze3TO.jpg"
+      },
+      "Bert Cardozo": {
+        "id": 2664949,
+        "character": "August",
+        "profile_path": "https://image.tmdb.org/t/p/original/asRfgu97c3TTj87oy4pyblc7YMN.jpg"
       },
       "Timothy Innes": {
         "id": 1742597,
@@ -19155,15 +19150,25 @@
         "character": "Daryl",
         "profile_path": "https://image.tmdb.org/t/p/original/PO73VvUgDsAIYY6sdzDw01HFSk.jpg"
       },
+      "Melissa Joan Hart": {
+        "id": 78501,
+        "character": "April",
+        "profile_path": "https://image.tmdb.org/t/p/original/slpAK9Ak1Bvi4FJCLeCdtwPZc3D.jpg"
+      },
+      "Linda Kash": {
+        "id": 14893,
+        "character": "Doris",
+        "profile_path": "https://image.tmdb.org/t/p/original/ccPTXbfYWByydwccHjPercV2G1u.jpg"
+      },
+      "Jack Foley": {
+        "id": 2878283,
+        "character": "Buck",
+        "profile_path": "https://image.tmdb.org/t/p/original/w4ytu75uJ1b0AgPd0wLm7iZMsWJ.jpg"
+      },
       "Tymika Tafari": {
         "id": 3012310,
         "character": "Christina",
         "profile_path": "https://image.tmdb.org/t/p/original/8k42n2AJb3goVZTGa6CriXUM6Dh.jpg"
-      },
-      "Bert Cardozo": {
-        "id": 2664949,
-        "character": "August",
-        "profile_path": "https://image.tmdb.org/t/p/original/asRfgu97c3TTj87oy4pyblc7YMN.jpg"
       },
       "Samantha Duarte": {
         "id": 5813759,
@@ -19260,7 +19265,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -31324,7 +31329,7 @@
       "Meg Ryan": {
         "id": 5344,
         "character": "Willa",
-        "profile_path": "https://image.tmdb.org/t/p/original/iP1I2fpIIQtB3A8KJiWMbZcwFLr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/pxfTSfJ4yJWq52uomSWKzigngOa.jpg"
       },
       "David Duchovny": {
         "id": 12640,
