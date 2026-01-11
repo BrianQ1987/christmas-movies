@@ -12228,7 +12228,7 @@
       "Al Cerullo": {
         "id": 91042,
         "character": "Helicopter Pilot",
-        "profile_path": "https://image.tmdb.org/t/p/original/sl9seud5Fd5lTTDEiT2W65S6KHO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/9CAkQ9nfrDaIAyncWndwg0tfC8g.jpg"
       },
       "Dan Buckman": {
         "id": 1868837,
@@ -17802,8 +17802,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "65%",
     "meta_score": "55/100",
-    "platforms": ["Netflix", "Amazon Prime Video", "ITVX", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "/1LuvKw01c2KQCt6DqgAgR06H2pT.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Netflix", "Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Richard Curtis",
     "cast": {
       "Hugh Grant": {
@@ -31272,7 +31272,7 @@
       "Tristan Carlucci": {
         "id": 2473588,
         "character": "Lightstone Security",
-        "profile_path": "https://image.tmdb.org/t/p/original/8SpH1z3E85PLZ0jV5UT9LngdWjD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/e8CpMgdyihz9Td7amQDqubPuzfN.jpg"
       },
       "James Durham": {
         "id": 1131844,
@@ -31749,7 +31749,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
