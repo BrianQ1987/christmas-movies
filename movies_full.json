@@ -10040,7 +10040,7 @@
       "Anna Kendrick": {
         "id": 84223,
         "character": "Jenny",
-        "profile_path": "https://image.tmdb.org/t/p/original/cyGjHMJO7C6kQTq36n9hkLThY4G.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/i2HIJQcBsUQ3o9HwEeDwou45D60.jpg"
       },
       "Melanie Lynskey": {
         "id": 15091,
@@ -12228,7 +12228,7 @@
       "Al Cerullo": {
         "id": 91042,
         "character": "Helicopter Pilot",
-        "profile_path": "https://image.tmdb.org/t/p/original/9CAkQ9nfrDaIAyncWndwg0tfC8g.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/pd3ImqBw0hPlNqcO4WUZRDrd9s6.jpg"
       },
       "Dan Buckman": {
         "id": 1868837,
@@ -15619,6 +15619,11 @@
         "id": 2441421,
         "character": "Young Street Urchin",
         "profile_path": "https://image.tmdb.org/t/p/original/lpg0N0a7CF1QdD9BrEtCYLy1nVm.jpg"
+      },
+      "Benjamin Plessala": {
+        "id": 3463959,
+        "character": "Additional Voices",
+        "profile_path": "https://image.tmdb.org/t/p/original/z0MzRPtYwviecYYx8zVIoXrxDII.jpg"
       }
     }
   },
@@ -15735,7 +15740,7 @@
       "Val Kilmer": {
         "id": 5576,
         "character": "Gay Perry",
-        "profile_path": "https://image.tmdb.org/t/p/original/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/7m7DgwglglZV8LKEDUHPqAzUrD5.jpg"
       },
       "Michelle Monaghan": {
         "id": 11705,
@@ -19265,7 +19270,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -23190,7 +23195,7 @@
       "Anna Kendrick": {
         "id": 84223,
         "character": "Noelle Kringle",
-        "profile_path": "https://image.tmdb.org/t/p/original/cyGjHMJO7C6kQTq36n9hkLThY4G.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/i2HIJQcBsUQ3o9HwEeDwou45D60.jpg"
       },
       "Shirley MacLaine": {
         "id": 4090,
