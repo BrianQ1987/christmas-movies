@@ -5607,8 +5607,8 @@
     "imdb_score": "5.1/10",
     "rt_score": "6%",
     "meta_score": "28/100",
-    "platforms": ["Disney Plus", "Amazon Prime Video", "Channel 4"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
+    "platforms": ["Disney Plus", "Channel 4"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
     "director": "John Whitesell",
     "cast": {
       "Danny DeVito": {
@@ -15174,7 +15174,7 @@
     "released": "2025-11-25",
     "duration": 96,
     "imdb_id": "tt24852126",
-    "vote_average": "6",
+    "vote_average": "6.1",
     "overview": "Two down-on-their-luck hourly workers team up to rob a posh London department store on Christmas Eve. Will they steal each other's hearts along the way?",
     "genres": ["Romance", "Crime", "Comedy"],
     "imdb_score": "5.8/10",
@@ -18924,7 +18924,7 @@
       "Kevin Olusola": {
         "id": 1542850,
         "character": "Kevin",
-        "profile_path": "https://image.tmdb.org/t/p/original/tPRH0Rm00esNefnI1ZxQqTTIpzJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/v8gEHTNXbZcpEfoEUAGKTDK8b9o.jpg"
       },
       "Matt Sallee": {
         "id": 1935352,
@@ -19270,7 +19270,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -31754,7 +31754,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
