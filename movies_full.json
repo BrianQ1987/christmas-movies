@@ -6006,7 +6006,7 @@
       "Rick Ducommun": {
         "id": 1538,
         "character": "Walt",
-        "profile_path": "https://image.tmdb.org/t/p/original/wIZ0OWk13TRtolrbNNX58AK9gJr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/tGhmgsOL6urwVeNyCsU0FlkAFV8.jpg"
       },
       "Matt Landers": {
         "id": 156522,
@@ -12926,7 +12926,7 @@
       "Bryce Dallas Howard": {
         "id": 18997,
         "character": "Surprised Who",
-        "profile_path": "https://image.tmdb.org/t/p/original/fmXhf4rJOrzc3QWwxVbNd7kP8wy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qQX1rhQaJ1G8eMG2RknFKiXfNRc.jpg"
       },
       "Lacey Kohl": {
         "id": 168415,
@@ -13150,7 +13150,7 @@
     "released": "2022-12-14",
     "duration": 90,
     "imdb_id": "tt23722792",
-    "vote_average": "5.3",
+    "vote_average": "5.2",
     "overview": "Lisa thinks she's finally met the man of her dreams until she finds out he still believes in Santa Claus.",
     "genres": ["Romance", "Comedy"],
     "imdb_score": "4.6/10",
@@ -19270,7 +19270,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -19740,8 +19740,8 @@
     "overview": "One Kris Kringle, a department-store Santa Claus, causes quite a commotion by suggesting customers go to a rival store for their purchases. But this is nothing to the stir he causes by announcing that he is not merely a make-believe St. Nick, but the real thing.",
     "genres": ["TV Movie", "Family", "Drama", "Romance"],
     "imdb_score": "6.0/10",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Robert Stevenson",
     "cast": {
       "Macdonald Carey": {
@@ -27797,7 +27797,7 @@
       "Brian Doyle-Murray": {
         "id": 1535,
         "character": "Earl Cross",
-        "profile_path": "https://image.tmdb.org/t/p/original/3RFH00449ppcwA0tkD1uqDvP865.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/1sDChfTscA1mone1uSJVPtbFn4l.jpg"
       },
       "Mary Lou Retton": {
         "id": 1224933,
@@ -31754,7 +31754,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
