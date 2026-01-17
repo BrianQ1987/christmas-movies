@@ -12874,8 +12874,8 @@
     "imdb_score": "6.4/10",
     "rt_score": "50%",
     "meta_score": "46/100",
-    "platforms": ["Netflix", "Disney Plus", "ITVX", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg", "/1LuvKw01c2KQCt6DqgAgR06H2pT.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Netflix", "Disney Plus", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Ron Howard",
     "cast": {
       "Jim Carrey": {
@@ -16999,7 +16999,7 @@
       "Margaret O'Brien": {
         "id": 13991,
         "character": "Beth",
-        "profile_path": "https://image.tmdb.org/t/p/original/iLzh8P6N7qKWpVltgBOB7ItBfCu.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hfc69isV85UwBN11q5awAdOU7BA.jpg"
       },
       "Elizabeth Taylor": {
         "id": 3635,
@@ -17095,7 +17095,7 @@
       "Winona Ryder": {
         "id": 1920,
         "character": "Jo March",
-        "profile_path": "https://image.tmdb.org/t/p/original/b2WcWMCJFb2eNFOJrExwevIBTSp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/zeQZUxFM93boLr9fQ4Q3wXD2x80.jpg"
       },
       "Trini Alvarado": {
         "id": 17187,
@@ -19270,7 +19270,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -24826,7 +24826,7 @@
       "Whitney Houston": {
         "id": 8851,
         "character": "Julia Biggs",
-        "profile_path": "https://image.tmdb.org/t/p/original/5su69sRCQReFTS94j2OtcgIQLne.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/kOUbjET0IbUcMbFbajHfFiSy4gK.jpg"
       },
       "Courtney B. Vance": {
         "id": 24047,
@@ -25310,7 +25310,7 @@
       "Lucy Liu": {
         "id": 140,
         "character": "Zoe",
-        "profile_path": "https://image.tmdb.org/t/p/original/dW6JDvYhXWW87P04W2SfNpiAwCO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg"
       },
       "J.K. Simmons": {
         "id": 18999,
