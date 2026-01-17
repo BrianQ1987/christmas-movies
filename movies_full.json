@@ -8823,7 +8823,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Allison Vandermeersh",
-        "profile_path": "https://image.tmdb.org/t/p/original/8NwSfyYWIIUE1cI9Xhz92b0w7WD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/s7PVcnnA05JcRiMtplwgK49Z2UU.jpg"
       },
       "Daniel Sunjata": {
         "id": 10582,
@@ -14126,8 +14126,8 @@
     "imdb_score": "8.6/10",
     "rt_score": "94%",
     "meta_score": "89/100",
-    "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Frank Capra",
     "cast": {
       "James Stewart": {
@@ -17095,7 +17095,7 @@
       "Winona Ryder": {
         "id": 1920,
         "character": "Jo March",
-        "profile_path": "https://image.tmdb.org/t/p/original/zeQZUxFM93boLr9fQ4Q3wXD2x80.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dlffgYbqr1BllWacVLhAFw23nLl.jpg"
       },
       "Trini Alvarado": {
         "id": 17187,
@@ -18643,7 +18643,7 @@
       "Margaret O'Brien": {
         "id": 13991,
         "character": "'Tootie' Smith",
-        "profile_path": "https://image.tmdb.org/t/p/original/iLzh8P6N7qKWpVltgBOB7ItBfCu.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hfc69isV85UwBN11q5awAdOU7BA.jpg"
       },
       "Mary Astor": {
         "id": 13992,
@@ -19270,7 +19270,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
