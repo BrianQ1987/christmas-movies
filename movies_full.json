@@ -5061,7 +5061,7 @@
         "character": "Trish Trodgen",
         "profile_path": "https://image.tmdb.org/t/p/original/q866vL3KhAjbkZH1enT7AoxmRHx.jpg"
       },
-      "Vernee Watson-Johnson": {
+      "Vernee Watson": {
         "id": 157085,
         "character": "Dox",
         "profile_path": "https://image.tmdb.org/t/p/original/rUMtF1F6wrUHHfRkFlLz27xRoxd.jpg"
@@ -19270,7 +19270,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -31754,7 +31754,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
