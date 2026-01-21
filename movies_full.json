@@ -4207,8 +4207,8 @@
     "imdb_score": "7.9/10",
     "rt_score": "87%",
     "meta_score": "77/100",
-    "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Bob Clark",
     "cast": {
       "Melinda Dillon": {
@@ -16152,7 +16152,7 @@
       "RuPaul": {
         "id": 78589,
         "character": "Self",
-        "profile_path": "https://image.tmdb.org/t/p/original/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/WkjuCvuAMkbNr2zJQSW7M4NuC6.jpg"
       },
       "Steve Whitmire": {
         "id": 64180,
@@ -19270,7 +19270,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -21105,7 +21105,7 @@
       "Uma Thurman": {
         "id": 139,
         "character": "Joy",
-        "profile_path": "https://image.tmdb.org/t/p/original/xuxgPXyv6KjUHIM8cZaxx4ry25L.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/sBgAZWi3o4FsnaTvnTNtK6jpQcF.jpg"
       },
       "Paul Williams": {
         "id": 35040,
@@ -31754,7 +31754,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
