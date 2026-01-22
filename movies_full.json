@@ -2774,7 +2774,7 @@
     "released": "2024-11-08",
     "duration": 107,
     "imdb_id": "tt25052668",
-    "vote_average": "5.2",
+    "vote_average": "5.3",
     "overview": "A family gathers on Christmas Eve for what could be the last holiday in their ancestral home. As the night wears on and tensions arise, one of the teenagers sneaks out with her friends to claim the wintry suburb for her own.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "5.6/10",
@@ -4809,7 +4809,7 @@
       "Anthony Mackie": {
         "id": 53650,
         "character": "Officer Percy Williams",
-        "profile_path": "https://image.tmdb.org/t/p/original/eZSIDrtTzhvabyjrmIITQLsjx8h.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/kfTwOYr3iUucmYz8kPjhYy07G2Z.jpg"
       },
       "Timothée Chalamet": {
         "id": 1190668,
@@ -4954,7 +4954,7 @@
       "Jamie Lee Curtis": {
         "id": 8944,
         "character": "Nora Krank",
-        "profile_path": "https://image.tmdb.org/t/p/original/eWKubKAAssRzmFwCZKh1mdYqGCH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hOQXeDjTlPoTKc0TvJuNue7ZIuG.jpg"
       },
       "Dan Aykroyd": {
         "id": 707,
@@ -12345,7 +12345,7 @@
       "Geraldine Chaplin": {
         "id": 400,
         "character": "Aunt Glady",
-        "profile_path": "https://image.tmdb.org/t/p/original/teiPgoY0Fgyw4Xs07IGDsJmcsjL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hu9GC4GaJhgsjz99IrmO5YnzHiC.jpg"
       },
       "Steve Guttenberg": {
         "id": 26472,
@@ -17462,7 +17462,7 @@
       "Louis Garrel": {
         "id": 16269,
         "character": "Friedrich Bhaer",
-        "profile_path": "https://image.tmdb.org/t/p/original/lrGbGrTogl6f1by8OnZEsvI63kY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/vSRX8QMTrFZ9tSDKpZ9UO4yooqK.jpg"
       },
       "Jayne Houdyshell": {
         "id": 1232500,
@@ -20343,7 +20343,7 @@
       "Adam Sandler": {
         "id": 19292,
         "character": "Louie",
-        "profile_path": "https://image.tmdb.org/t/p/original/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/gLkLCsQdwDDPabRhKPB25nGtKwS.jpg"
       },
       "Liev Schreiber": {
         "id": 23626,
@@ -22624,7 +22624,7 @@
       "Anthony Mackie": {
         "id": 53650,
         "character": "Chris",
-        "profile_path": "https://image.tmdb.org/t/p/original/eZSIDrtTzhvabyjrmIITQLsjx8h.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/kfTwOYr3iUucmYz8kPjhYy07G2Z.jpg"
       },
       "Lizzy Caplan": {
         "id": 51988,
@@ -25293,8 +25293,8 @@
     "imdb_score": "6.2/10",
     "rt_score": "30%",
     "meta_score": "34/100",
-    "platforms": ["Amazon Prime Video", "ITVX"],
-    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "/1LuvKw01c2KQCt6DqgAgR06H2pT.jpg"],
+    "platforms": "Amazon Prime Video",
+    "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
     "director": "Jake Kasdan",
     "cast": {
       "Dwayne Johnson": {
@@ -29431,7 +29431,7 @@
       "Ben Affleck": {
         "id": 880,
         "character": "Drew Latham",
-        "profile_path": "https://image.tmdb.org/t/p/original/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/8guQqUQ9qsGooDbv7JwOOZX2UUJ.jpg"
       },
       "James Gandolfini": {
         "id": 4691,
@@ -30217,7 +30217,7 @@
       "Jamie Lee Curtis": {
         "id": 8944,
         "character": "Ophelia",
-        "profile_path": "https://image.tmdb.org/t/p/original/eWKubKAAssRzmFwCZKh1mdYqGCH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hOQXeDjTlPoTKc0TvJuNue7ZIuG.jpg"
       },
       "Paul Gleason": {
         "id": 7675,
