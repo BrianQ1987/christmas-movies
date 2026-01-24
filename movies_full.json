@@ -15176,7 +15176,7 @@
     "released": "2025-11-25",
     "duration": 96,
     "imdb_id": "tt24852126",
-    "vote_average": "6.1",
+    "vote_average": "6",
     "overview": "Two down-on-their-luck hourly workers team up to rob a posh London department store on Christmas Eve. Will they steal each other's hearts along the way?",
     "genres": ["Romance", "Crime", "Comedy"],
     "imdb_score": "5.8/10",
@@ -15994,7 +15994,7 @@
       "Sergio Pablos": {
         "id": 124749,
         "character": "Pumpkin / Olaf (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/gef101kaaTev5OxLSYnrC3ev9F1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/q125RHUDgR4gjwh1QkfYuJLYkL.jpg"
       },
       "Mila Brener": {
         "id": 1319518,
@@ -19382,7 +19382,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -31866,7 +31866,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
