@@ -17006,7 +17006,7 @@
       "Elizabeth Taylor": {
         "id": 3635,
         "character": "Amy",
-        "profile_path": "https://image.tmdb.org/t/p/original/pIq0rsj0XHKFemnvMjq5q6nAseo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qYSNnKdG4Y10OrmyaQZNjONxaIP.jpg"
       },
       "Janet Leigh": {
         "id": 7302,
@@ -17991,7 +17991,7 @@
       "Martin Freeman": {
         "id": 7060,
         "character": "John",
-        "profile_path": "https://image.tmdb.org/t/p/original/amUYpgHEn2evMo3QfRIoy0ATQza.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
       },
       "Joanna Page": {
         "id": 7061,
@@ -20455,7 +20455,7 @@
       "Adam Sandler": {
         "id": 19292,
         "character": "Louie",
-        "profile_path": "https://image.tmdb.org/t/p/original/gLkLCsQdwDDPabRhKPB25nGtKwS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
       },
       "Liev Schreiber": {
         "id": 23626,
@@ -21597,7 +21597,7 @@
       "Martin Freeman": {
         "id": 7060,
         "character": "Paul Maddens",
-        "profile_path": "https://image.tmdb.org/t/p/original/amUYpgHEn2evMo3QfRIoy0ATQza.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
       },
       "Ashley Jensen": {
         "id": 55398,
@@ -31866,7 +31866,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
