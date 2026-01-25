@@ -4764,7 +4764,7 @@
       "Ed Helms": {
         "id": 27105,
         "character": "Hank Cooper",
-        "profile_path": "https://image.tmdb.org/t/p/original/3eqOBrszzIl4cITLAgKrsdICqcM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
       },
       "Amanda Seyfried": {
         "id": 71070,
@@ -5395,7 +5395,7 @@
     "released": "1984-08-14",
     "duration": 106,
     "imdb_id": "tt0087072",
-    "vote_average": "6.5",
+    "vote_average": "6.6",
     "overview": "Radio host Alan 'Dickie' Bird witnesses how an icecream van is attacked and destroyed by angry competitors. This leads him into the struggle between two Italian families over the icecream market of Glasgow.",
     "genres": "Comedy",
     "imdb_score": "6.6/10",
@@ -6974,7 +6974,7 @@
       "Ed Helms": {
         "id": 27105,
         "character": "Bill Walker",
-        "profile_path": "https://image.tmdb.org/t/p/original/3eqOBrszzIl4cITLAgKrsdICqcM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
       },
       "Emma Myers": {
         "id": 2604515,
@@ -7109,7 +7109,7 @@
       "Hannah Stocking": {
         "id": 2307427,
         "character": "Lightning",
-        "profile_path": "https://image.tmdb.org/t/p/original/fePAo2bcVJwnNQCvGRG5LgMBdBM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/auq1wa5xRAUzZ70z8IP0UrIK6FZ.jpg"
       },
       "Bob Stephenson": {
         "id": 17449,
@@ -9825,8 +9825,8 @@
     "imdb_score": "6.6/10",
     "rt_score": "82%",
     "meta_score": "69/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Clea DuVall",
     "cast": {
       "Kristen Stewart": {
@@ -19382,7 +19382,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -27313,7 +27313,7 @@
       "George Cole": {
         "id": 47722,
         "character": "Young Ebenezer Scrooge",
-        "profile_path": "https://image.tmdb.org/t/p/original/cPgVhIM4NK4dvuLkzRK8zBZyoJk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qRQlXtz9l3Sbe9OzpIQMvb6v3E3.jpg"
       },
       "Brian Worth": {
         "id": 101853,
@@ -28458,7 +28458,7 @@
       "Annabelle Wallis": {
         "id": 82809,
         "character": "Sandra",
-        "profile_path": "https://image.tmdb.org/t/p/original/9lqdI8L2Bgj8zWR5l4l0II6GXug.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/b6PltW1e18BdmRz3nKZ7ID9uZ24.jpg"
       },
       "Lily-Rose Depp": {
         "id": 1459885,
