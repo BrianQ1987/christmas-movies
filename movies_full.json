@@ -387,7 +387,7 @@
     "released": "1991-11-08",
     "duration": 92,
     "imdb_id": "tt0101301",
-    "vote_average": "5.7",
+    "vote_average": "5.6",
     "overview": "Siblings Ethan and Hallie O'Fallon plot to get their divorced parents back together in time for Christmas.",
     "genres": ["Family", "Drama", "Comedy"],
     "imdb_score": "5.9/10",
@@ -3103,7 +3103,7 @@
       "Gene Kelly": {
         "id": 13294,
         "character": "Robert Manette",
-        "profile_path": "https://image.tmdb.org/t/p/original/g98yyY7oGrkocUxxJgOt82I7z6A.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xKdOkaBYY4gJ28UvrFGAVkOQHyW.jpg"
       },
       "Richard Whorf": {
         "id": 30270,
@@ -6303,7 +6303,7 @@
       "Artie Lange": {
         "id": 20788,
         "character": "Gimbels Santa",
-        "profile_path": "https://image.tmdb.org/t/p/original/rW80mZmISyaFLWLSFmAoKnDgrts.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/sP1BgW2y1Z1sas3aPu8tvb7rfz5.jpg"
       },
       "Leon Redbone": {
         "id": 1267155,
@@ -12275,7 +12275,7 @@
       "Eden Riegel": {
         "id": 217524,
         "character": "Choir Member (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/vrJcfeTk6nNboL05eT2MGHANTww.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/lY2IJ2hy19pgmP2LDAzRispWi37.jpg"
       },
       "Mike Sode": {
         "id": 2755326,
@@ -12776,7 +12776,7 @@
       "Joe Lo Truglio": {
         "id": 21131,
         "character": "Deputy Sheriff Ed Schatz",
-        "profile_path": "https://image.tmdb.org/t/p/original/6un98WmgjAllrzMwjjZF2Bn8XZc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/lHqOK2LJWGtHACUOqhApFrs38eV.jpg"
       },
       "Craig Robinson": {
         "id": 64342,
@@ -15176,7 +15176,7 @@
     "released": "2025-11-25",
     "duration": 96,
     "imdb_id": "tt24852126",
-    "vote_average": "6.1",
+    "vote_average": "6",
     "overview": "Two down-on-their-luck hourly workers team up to rob a posh London department store on Christmas Eve. Will they steal each other's hearts along the way?",
     "genres": ["Romance", "Crime", "Comedy"],
     "imdb_score": "5.8/10",
@@ -15747,7 +15747,7 @@
       "Michelle Monaghan": {
         "id": 11705,
         "character": "Harmony Faith Lane",
-        "profile_path": "https://image.tmdb.org/t/p/original/c6xYsN4NPGkU50l2Lu2fbgZPjI1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/1N2up9UZZPbNgAOuOLce7hejlQt.jpg"
       },
       "Corbin Bernsen": {
         "id": 21246,
@@ -17207,7 +17207,7 @@
       "Winona Ryder": {
         "id": 1920,
         "character": "Jo March",
-        "profile_path": "https://image.tmdb.org/t/p/original/rBFWUAqXEI708Ez3cywbbFR6RmN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/b2WcWMCJFb2eNFOJrExwevIBTSp.jpg"
       },
       "Trini Alvarado": {
         "id": 17187,
@@ -18743,8 +18743,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "99%",
     "meta_score": "94/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Vincente Minnelli",
     "cast": {
       "Judy Garland": {
@@ -19864,7 +19864,7 @@
       "Teresa Wright": {
         "id": 7663,
         "character": "Doris Walker",
-        "profile_path": "https://image.tmdb.org/t/p/original/uRc6acpFTTMhTfTlxNOG363XUHt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/zKMNRKXNlisGov6FfJZpXHsrk66.jpg"
       },
       "Thomas Mitchell": {
         "id": 3383,
@@ -21217,7 +21217,7 @@
       "Uma Thurman": {
         "id": 139,
         "character": "Joy",
-        "profile_path": "https://image.tmdb.org/t/p/original/sBgAZWi3o4FsnaTvnTNtK6jpQcF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/pg3OKnfVMbMTBvivOtWI4CrF61j.jpg"
       },
       "Paul Williams": {
         "id": 35040,
@@ -24268,7 +24268,7 @@
       "Harry Dean Stanton": {
         "id": 5048,
         "character": "Gideon",
-        "profile_path": "https://image.tmdb.org/t/p/original/ruvBkgQA4A2xKFM3CFxFxhfqmwU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/9zOTpVMwMHNjPFBNoPy9vOBT1NC.jpg"
       },
       "Sarah Polley": {
         "id": 98,
@@ -26164,8 +26164,8 @@
     "genres": ["Family", "Fantasy", "Adventure"],
     "imdb_score": "6.3/10",
     "rt_score": "22%",
-    "platforms": ["ITVX", "Plex"],
-    "logo_paths": ["/1LuvKw01c2KQCt6DqgAgR06H2pT.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Jeannot Szwarc",
     "cast": {
       "Dudley Moore": {
