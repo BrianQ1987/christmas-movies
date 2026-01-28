@@ -9029,7 +9029,7 @@
     "plex": true,
     "watched": 2023,
     "added": 2021,
-    "poster_path": "https://image.tmdb.org/t/p/original/gKfhNgOyQZU62DYUpwRokpPL5rN.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/mAWlp4qXYxXju7Qgf1sgVuBYpKy.jpg",
     "title": "The Great Santa Claus Switch",
     "released": "1970-12-20",
     "duration": 52,
@@ -9095,7 +9095,7 @@
       "Byron Whiting": {
         "id": 2600059,
         "character": "Additional Muppet Performer (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/gKfhNgOyQZU62DYUpwRokpPL5rN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/mAWlp4qXYxXju7Qgf1sgVuBYpKy.jpg"
       },
       "Greg Antonacci": {
         "id": 1212814,
@@ -9105,7 +9105,7 @@
       "Cary Antebi": {
         "id": 2600063,
         "character": "Additional Muppet Performer (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/gKfhNgOyQZU62DYUpwRokpPL5rN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/mAWlp4qXYxXju7Qgf1sgVuBYpKy.jpg"
       },
       "John Byrum": {
         "id": 32767,
@@ -9115,7 +9115,7 @@
       "Diane Kimbrell": {
         "id": 3737726,
         "character": "Additional Muppets (voice) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/gKfhNgOyQZU62DYUpwRokpPL5rN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/mAWlp4qXYxXju7Qgf1sgVuBYpKy.jpg"
       }
     }
   },
@@ -20490,7 +20490,7 @@
       "Rob Reiner": {
         "id": 3026,
         "character": "Dr. Kinsky",
-        "profile_path": "https://image.tmdb.org/t/p/original/2nxxxj3aIU35eCOUEFBD0ireEhZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/rcmPU3YlhHQVzZlV197qhmRsgEL.jpg"
       },
       "Steven Randazzo": {
         "id": 59281,
@@ -21217,7 +21217,7 @@
       "Uma Thurman": {
         "id": 139,
         "character": "Joy",
-        "profile_path": "https://image.tmdb.org/t/p/original/pg3OKnfVMbMTBvivOtWI4CrF61j.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/sBgAZWi3o4FsnaTvnTNtK6jpQcF.jpg"
       },
       "Paul Williams": {
         "id": 35040,
@@ -31678,8 +31678,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "76%",
     "meta_score": "56/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Michael Curtiz",
     "cast": {
       "Bing Crosby": {
