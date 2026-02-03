@@ -4944,6 +4944,8 @@
     "imdb_score": "5.5/10",
     "rt_score": "5%",
     "meta_score": "22/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Joe Roth",
     "cast": {
       "Tim Allen": {
@@ -8013,7 +8015,7 @@
       "Elizabeth Banks": {
         "id": 9281,
         "character": "Charlene",
-        "profile_path": "https://image.tmdb.org/t/p/original/zrkI1dYucpTM8Qydtrtro9MgQPb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/q0wvK0Nr6FCpvx9UCMTqTby6kNW.jpg"
       },
       "Jeremy Swift": {
         "id": 3555,
@@ -10089,7 +10091,7 @@
         "character": "Party Makeout Guy",
         "profile_path": "https://image.tmdb.org/t/p/original/gjOQUlsprWkmyZP4hhMGr0GP3LG.jpg"
       },
-      "Kris Rey": {
+      "Kris Swanberg": {
         "id": 45423,
         "character": "Landlord",
         "profile_path": "https://image.tmdb.org/t/p/original/sbRCYPsXPVXKsXnLXFayZbqSTLF.jpg"
@@ -18568,7 +18570,7 @@
       "Nina Dobrev": {
         "id": 19961,
         "character": "Natalie Bauer",
-        "profile_path": "https://image.tmdb.org/t/p/original/m54H3vU313OmICnC0EkYfSPPBFg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/zC0THo1MwdzVXgyKk0W3ds1NaYi.jpg"
       },
       "Jimmy O. Yang": {
         "id": 1468779,
@@ -19382,7 +19384,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -23850,6 +23852,8 @@
     "vote_average": "5.6",
     "overview": "Claire Clauster is the glue that holds her chaotic, lovable family together at the holidays. But this year, after planning a special outing for them, they make a crucial mistake and leave her home alone. Fed up and feeling under appreciated, she sets off on an impromptu adventure of her own. As her family scrambles to find her, Claire discovers the unexpected magic of a Christmas gone off-script.",
     "genres": "Comedy",
+    "imdb_score": "5.3/10",
+    "meta_score": "38/100",
     "platforms": "Amazon Prime Video",
     "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
     "director": "Michael Showalter",
