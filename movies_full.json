@@ -6845,7 +6845,7 @@
       "Rachel McAdams": {
         "id": 53714,
         "character": "Amy Stone",
-        "profile_path": "https://image.tmdb.org/t/p/original/2zyOjda95OfAAsJvuwTV0UaznPZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/gDViN28cKRA1u1tB47ClVqjXYdj.jpg"
       },
       "Craig T. Nelson": {
         "id": 8977,
@@ -6920,7 +6920,7 @@
       "Steve Alterman": {
         "id": 217777,
         "character": "Voice Actor (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/nlqw53HmTP7o3b2NDttYNOtsK4V.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/drqgxc4BssaGOeRZKO9Wn1VtF82.jpg"
       },
       "Johnny Gidcomb": {
         "id": 1684502,
@@ -10096,7 +10096,7 @@
         "character": "Party Makeout Guy",
         "profile_path": "https://image.tmdb.org/t/p/original/gjOQUlsprWkmyZP4hhMGr0GP3LG.jpg"
       },
-      "Kris Swanberg": {
+      "Kris Rey": {
         "id": 45423,
         "character": "Landlord",
         "profile_path": "https://image.tmdb.org/t/p/original/sbRCYPsXPVXKsXnLXFayZbqSTLF.jpg"
@@ -12207,7 +12207,7 @@
       "Anthony Cannata": {
         "id": 1758642,
         "character": "Sergeant in Toy Store",
-        "profile_path": "https://image.tmdb.org/t/p/original/zmwCsnyuIUofJwdIhNU74XqkXnZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/9CAkQ9nfrDaIAyncWndwg0tfC8g.jpg"
       },
       "Eleanor Columbus": {
         "id": 11183,
@@ -13823,7 +13823,7 @@
       "Zach Braff": {
         "id": 5367,
         "character": "Dr. John \"J.D.\" Dorian",
-        "profile_path": "https://image.tmdb.org/t/p/original/wUAj6juL6HErqEJ1GtuI63rbVea.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/koIHwqE6hWIXuOIDHNADwSuGq6N.jpg"
       },
       "Sarah Chalke": {
         "id": 49001,
@@ -13918,7 +13918,7 @@
       "Gord Robertson": {
         "id": 1234258,
         "character": "Additional Muppet Performer (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/j5O65ITSvFGalNI2wRHHAPymO5R.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/rABpXSJE1PekmjOD8ZV1qbsYYrj.jpg"
       },
       "Dawn Lewis": {
         "id": 86175,
@@ -16368,7 +16368,7 @@
       "Emilia Clarke": {
         "id": 1223786,
         "character": "Kate  Andrich",
-        "profile_path": "https://image.tmdb.org/t/p/original/iFY6t7Ux9r70WB7Sp0TTVz6eGtm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/wb8VfDPGpyqcFltnRcJR1Wj3h4Z.jpg"
       },
       "Henry Golding": {
         "id": 1807132,
@@ -17546,7 +17546,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Amy March",
-        "profile_path": "https://image.tmdb.org/t/p/original/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6EpDNiVqB2Mao3mHm4kYw09ufHk.jpg"
       },
       "Eliza Scanlen": {
         "id": 1669125,
@@ -19389,7 +19389,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20512,7 +20512,7 @@
       "Henry Brown": {
         "id": 106738,
         "character": "Police",
-        "profile_path": "https://image.tmdb.org/t/p/original/mA1KCd5UfLhZrhiVMoINo6YCRpe.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xPdQMqxWnFwCKOIto8dBEorTtGR.jpg"
       },
       "Steven Wright": {
         "id": 3214,
@@ -25438,11 +25438,6 @@
         "character": "Nick",
         "profile_path": "https://image.tmdb.org/t/p/original/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
       },
-      "Kiernan Shipka": {
-        "id": 934289,
-        "character": "Gryla",
-        "profile_path": "https://image.tmdb.org/t/p/original/t2FWVLTIhVRIa398mQAfN4thO5R.jpg"
-      },
       "Bonnie Hunt": {
         "id": 5149,
         "character": "Mrs. Claus",
@@ -25453,10 +25448,15 @@
         "character": "Krampus",
         "profile_path": "https://image.tmdb.org/t/p/original/bACL39GihNmBnFRay78rS3PUHsH.jpg"
       },
+      "Kiernan Shipka": {
+        "id": 934289,
+        "character": "Gryla",
+        "profile_path": "https://image.tmdb.org/t/p/original/t2FWVLTIhVRIa398mQAfN4thO5R.jpg"
+      },
       "Mary Elizabeth Ellis": {
         "id": 139309,
         "character": "Olivia",
-        "profile_path": "https://image.tmdb.org/t/p/original/8tf8w69Bl6MO5P8r8Vk6dFnHKxx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dxU1L86zV6gjcOdATfO4uo6zIpt.jpg"
       },
       "Wesley Kimmel": {
         "id": 2947012,
@@ -25470,7 +25470,7 @@
       },
       "Wyatt Hunt": {
         "id": 2425791,
-        "character": "Young Jack O'Malley",
+        "character": "Young Jack",
         "profile_path": "https://image.tmdb.org/t/p/original/eReBvLrAK1iIlplX6KFSQMjFalQ.jpg"
       },
       "Clayton Cooper": {
@@ -25500,12 +25500,12 @@
       },
       "Ashleigh Domangue": {
         "id": 1415865,
-        "character": "Jamie Hummiston",
+        "character": "Janine Hummiston",
         "profile_path": "https://image.tmdb.org/t/p/original/b4aimxYRQ7EkD9N8hJMwC1ddQgh.jpg"
       },
       "Cody Easterbrook": {
         "id": 1879843,
-        "character": "HIT Instructor",
+        "character": "HIIT Instructor",
         "profile_path": "https://image.tmdb.org/t/p/original/bHg59MI827yQ7Gt2mA8Dyzopso8.jpg"
       },
       "Nikki Garza": {
@@ -25580,7 +25580,7 @@
       },
       "Reinaldo Faberlle": {
         "id": 1937912,
-        "character": "ELF Agent Garcia (voice)",
+        "character": "ELF Agent Garcia",
         "profile_path": "https://image.tmdb.org/t/p/original/vVsxgN6hsbqeXMk9Gn0VvNbTSy2.jpg"
       },
       "Philip Fornah": {
@@ -25660,8 +25660,13 @@
       },
       "J.R. Adduci": {
         "id": 1763912,
-        "character": "MORA Agent",
+        "character": "MORA Mobile Technician",
         "profile_path": "https://image.tmdb.org/t/p/original/spkjjqSl1aFv107nuuUdKHcQFev.jpg"
+      },
+      "Nelson Bonilla": {
+        "id": 232749,
+        "character": "MORA Agent",
+        "profile_path": "https://image.tmdb.org/t/p/original/cLD3PPFRxqOx2r5PqFk3I4Dpj5q.jpg"
       },
       "Brandon M. Shaw": {
         "id": 2527559,
@@ -25747,11 +25752,6 @@
         "id": 2645937,
         "character": "Ogre Gryla (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/kgg24tREkmIcXN5IaLDpp5gaPfq.jpg"
-      },
-      "Nelson Bonilla": {
-        "id": 232749,
-        "character": "MORA Agent",
-        "profile_path": "https://image.tmdb.org/t/p/original/cLD3PPFRxqOx2r5PqFk3I4Dpj5q.jpg"
       },
       "Audrey Beth": {
         "id": 2439504,
@@ -28248,7 +28248,7 @@
       "Henry Brown": {
         "id": 106738,
         "character": "Technician",
-        "profile_path": "https://image.tmdb.org/t/p/original/mA1KCd5UfLhZrhiVMoINo6YCRpe.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Jeanine Jackson": {
         "id": 152355,
@@ -29552,7 +29552,7 @@
       "Ben Affleck": {
         "id": 880,
         "character": "Drew Latham",
-        "profile_path": "https://image.tmdb.org/t/p/original/8guQqUQ9qsGooDbv7JwOOZX2UUJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/u525jeDOzg9hVdvYfeehTGnw7Aa.jpg"
       },
       "James Gandolfini": {
         "id": 4691,
