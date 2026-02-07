@@ -269,7 +269,7 @@
     "poster_path": "https://image.tmdb.org/t/p/original/fabZkaVHYJ67KbZx7oFoitauX34.jpg",
     "title": "About Fate",
     "released": "2022-09-08",
-    "duration": 100,
+    "duration": 99,
     "imdb_id": "tt14456350",
     "vote_average": "7.5",
     "overview": "Two strangers believe in love but never seem to be able to find its true meaning. In a wild twist of events, fate puts each in the other's path on one stormy New Year's Eve.",
@@ -1904,7 +1904,7 @@
     "released": "1974-10-11",
     "duration": 98,
     "imdb_id": "tt0071222",
-    "vote_average": "6.9",
+    "vote_average": "7",
     "overview": "As the residents of the Pi Kappa Sigma sorority house prepare for the festive season, a stranger begins to harass them with a series of obscene phone calls.",
     "genres": ["Horror", "Mystery", "Crime"],
     "imdb_score": "7.1/10",
@@ -6370,7 +6370,7 @@
       "Patrick Baynham": {
         "id": 85503,
         "character": "Elf",
-        "profile_path": "https://image.tmdb.org/t/p/original/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oa7qvjQOVCAiZimvn2uriwPypxe.jpg"
       },
       "Michael Roberds": {
         "id": 1234355,
@@ -8160,7 +8160,7 @@
       "Dylan Minnette": {
         "id": 112476,
         "character": "Orphanage Kid",
-        "profile_path": "https://image.tmdb.org/t/p/original/xSB7K3TpGzOvF3PFTIQG3IAgHMx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/wsjLAz2bDHqvV5x1fMF0VEQm3OO.jpg"
       },
       "Anne White": {
         "id": 134695,
@@ -12202,7 +12202,7 @@
       "Mario Todisco": {
         "id": 176958,
         "character": "Cab Driver",
-        "profile_path": "https://image.tmdb.org/t/p/original/paGo0TMKtKaCNu2LSjahYNz6UiK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/9CAkQ9nfrDaIAyncWndwg0tfC8g.jpg"
       },
       "Anthony Cannata": {
         "id": 1758642,
@@ -15183,7 +15183,7 @@
     "released": "2025-11-25",
     "duration": 96,
     "imdb_id": "tt24852126",
-    "vote_average": "6",
+    "vote_average": "6.1",
     "overview": "Two down-on-their-luck hourly workers team up to rob a posh London department store on Christmas Eve. Will they steal each other's hearts along the way?",
     "genres": ["Romance", "Crime", "Comedy"],
     "imdb_score": "5.8/10",
@@ -17008,12 +17008,12 @@
       "Margaret O'Brien": {
         "id": 13991,
         "character": "Beth",
-        "profile_path": "https://image.tmdb.org/t/p/original/hfc69isV85UwBN11q5awAdOU7BA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/cEg3QitK6HeChvJhCMCJxVBo0Oh.jpg"
       },
       "Elizabeth Taylor": {
         "id": 3635,
         "character": "Amy",
-        "profile_path": "https://image.tmdb.org/t/p/original/qYSNnKdG4Y10OrmyaQZNjONxaIP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/pIq0rsj0XHKFemnvMjq5q6nAseo.jpg"
       },
       "Janet Leigh": {
         "id": 7302,
@@ -18575,7 +18575,7 @@
       "Nina Dobrev": {
         "id": 19961,
         "character": "Natalie Bauer",
-        "profile_path": "https://image.tmdb.org/t/p/original/zC0THo1MwdzVXgyKk0W3ds1NaYi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/67A1s3I8k831MJ7VRLX59hBNdNt.jpg"
       },
       "Jimmy O. Yang": {
         "id": 1468779,
@@ -18762,7 +18762,7 @@
       "Margaret O'Brien": {
         "id": 13991,
         "character": "'Tootie' Smith",
-        "profile_path": "https://image.tmdb.org/t/p/original/hfc69isV85UwBN11q5awAdOU7BA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/cEg3QitK6HeChvJhCMCJxVBo0Oh.jpg"
       },
       "Mary Astor": {
         "id": 13992,
@@ -19389,7 +19389,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -31875,7 +31875,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
