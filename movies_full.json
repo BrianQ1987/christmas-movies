@@ -1904,7 +1904,7 @@
     "released": "1974-10-11",
     "duration": 98,
     "imdb_id": "tt0071222",
-    "vote_average": "7",
+    "vote_average": "6.9",
     "overview": "As the residents of the Pi Kappa Sigma sorority house prepare for the festive season, a stranger begins to harass them with a series of obscene phone calls.",
     "genres": ["Horror", "Mystery", "Crime"],
     "imdb_score": "7.1/10",
@@ -6240,7 +6240,7 @@
       "Will Ferrell": {
         "id": 23659,
         "character": "Buddy",
-        "profile_path": "https://image.tmdb.org/t/p/original/sXT9uCw7ceIxTdmL9XqtuYdNmgM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/yjGbyQzVjpQl8xFkFGa7JxKZWQb.jpg"
       },
       "James Caan": {
         "id": 3085,
@@ -19389,7 +19389,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -28863,7 +28863,7 @@
       "Will Ferrell": {
         "id": 23659,
         "character": "Present",
-        "profile_path": "https://image.tmdb.org/t/p/original/sXT9uCw7ceIxTdmL9XqtuYdNmgM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/yjGbyQzVjpQl8xFkFGa7JxKZWQb.jpg"
       },
       "Ryan Reynolds": {
         "id": 10859,
@@ -31875,7 +31875,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
