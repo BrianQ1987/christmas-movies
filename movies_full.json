@@ -6845,7 +6845,7 @@
       "Rachel McAdams": {
         "id": 53714,
         "character": "Amy Stone",
-        "profile_path": "https://image.tmdb.org/t/p/original/dYPtBI2i6LdHzpqof3BJlm7PoQr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hO7vLHT1tkuCD3Thcc5YHTiAicF.jpg"
       },
       "Craig T. Nelson": {
         "id": 8977,
@@ -14122,7 +14122,7 @@
     "poster_path": "https://image.tmdb.org/t/p/original/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
     "title": "It's a Wonderful Life",
     "released": "1946-12-20",
-    "duration": 130,
+    "duration": 131,
     "imdb_id": "tt0038650",
     "vote_average": "8.3",
     "overview": "George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
@@ -19384,7 +19384,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -31870,7 +31870,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
