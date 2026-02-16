@@ -8827,7 +8827,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Allison Vandermeersh",
-        "profile_path": "https://image.tmdb.org/t/p/original/8NwSfyYWIIUE1cI9Xhz92b0w7WD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
       },
       "Daniel Sunjata": {
         "id": 10582,
@@ -11331,7 +11331,7 @@
       "Bert Stevens": {
         "id": 1208035,
         "character": "Henry (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/nEIxsXjWCtGDKcECuKL8qsqwGcb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/aQsQJNiRI8L8pBBrCIGUUXNtv2M.jpg"
       },
       "Harmon Stevens": {
         "id": 100340,
@@ -19384,7 +19384,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -21365,15 +21365,15 @@
     "rt_score": "86%",
     "director": "Garson Kanin",
     "cast": {
-      "Irene Dunne": {
-        "id": 77158,
-        "character": "Ellen Wagstaff Arden",
-        "profile_path": "https://image.tmdb.org/t/p/original/kO04G3KYuzbtb9i5MbGciHXPjiB.jpg"
-      },
       "Cary Grant": {
         "id": 2638,
         "character": "Nick Arden",
         "profile_path": "https://image.tmdb.org/t/p/original/cvdsBhETOxyX6G01Y0LutaChWyX.jpg"
+      },
+      "Irene Dunne": {
+        "id": 77158,
+        "character": "Ellen Wagstaff Arden",
+        "profile_path": "https://image.tmdb.org/t/p/original/kO04G3KYuzbtb9i5MbGciHXPjiB.jpg"
       },
       "Gail Patrick": {
         "id": 98574,
@@ -31819,7 +31819,7 @@
       "Hal Taggart": {
         "id": 1432701,
         "character": "Anniversary Party Guest (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/tRLhMjhixbk8FaUbtKPq0psHlHM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/A5kBQsHKbIptxJyELEpHQJROCRj.jpg"
       },
       "Carl Switzer": {
         "id": 941239,
