@@ -177,7 +177,7 @@
       "Maya Misaljevic": {
         "id": 2863703,
         "character": "Kid #2 (Bus)",
-        "profile_path": "https://image.tmdb.org/t/p/original/rSfh93tJMI7AJ8q5vFvPrDVxbc3.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6IwB52j0sCAq55Y2vqJA8ATJuZk.jpg"
       },
       "Danielle Bourgon": {
         "id": 1323876,
@@ -2774,7 +2774,7 @@
     "released": "2024-11-08",
     "duration": 107,
     "imdb_id": "tt25052668",
-    "vote_average": "5.3",
+    "vote_average": "5.2",
     "overview": "A family gathers on Christmas Eve for what could be the last holiday in their ancestral home. As the night wears on and tensions arise, one of the teenagers sneaks out with her friends to claim the wintry suburb for her own.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "5.6/10",
@@ -7980,7 +7980,7 @@
       "Paul Giamatti": {
         "id": 13242,
         "character": "Nick (Santa) Claus",
-        "profile_path": "https://image.tmdb.org/t/p/original/ayEWNIXLVNYOrZQsNXrtlZTIZM8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
       },
       "John Michael Higgins": {
         "id": 8265,
@@ -10291,7 +10291,7 @@
       "Paul Giamatti": {
         "id": 13242,
         "character": "Paul Hunham",
-        "profile_path": "https://image.tmdb.org/t/p/original/ayEWNIXLVNYOrZQsNXrtlZTIZM8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
       },
       "Dominic Sessa": {
         "id": 3918497,
@@ -14737,8 +14737,8 @@
     "imdb_score": "5.8/10",
     "rt_score": "20%",
     "meta_score": "34/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+    "platforms": ["Netflix", "Disney Plus"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg"],
     "director": "Brian Levant",
     "cast": {
       "Arnold Schwarzenegger": {
@@ -19384,7 +19384,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20155,8 +20155,8 @@
     "genres": ["Fantasy", "Drama", "Family"],
     "imdb_score": "6.6/10",
     "rt_score": "59%",
-    "platforms": ["Disney Plus", "Plex"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Netflix", "Disney Plus", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Les Mayfield",
     "cast": {
       "Mara Wilson": {
@@ -30543,7 +30543,7 @@
       "Giancarlo Esposito": {
         "id": 4808,
         "character": "Cellmate #2",
-        "profile_path": "https://image.tmdb.org/t/p/original/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/gvPVjZRelOcbRryhsHQD7Vew35x.jpg"
       },
       "Steve Hofvendahl": {
         "id": 156999,
@@ -30815,7 +30815,7 @@
       "Catherine Deneuve": {
         "id": 50,
         "character": "Junon",
-        "profile_path": "https://image.tmdb.org/t/p/original/pZ1GpsaK2aBQ8jHQen0h3RB3TNP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/7NS1KuwxTIzyMcpNGKBGlSV0Hqo.jpg"
       },
       "Jean-Paul Roussillon": {
         "id": 24467,
