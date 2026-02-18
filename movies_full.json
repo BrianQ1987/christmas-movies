@@ -2315,7 +2315,7 @@
       "Cary Elwes": {
         "id": 2130,
         "character": "Professor Gelson",
-        "profile_path": "https://image.tmdb.org/t/p/original/9UszBdQJ9PmyBydIeIBxlStozhW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5PAcQuB2fFzGq5fjyugNlOpndk4.jpg"
       },
       "Simon Mead": {
         "id": 1579714,
@@ -12691,7 +12691,7 @@
       "Jayne Eastwood": {
         "id": 4568,
         "character": "Grandma (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/wMeootcDpiid4MYKXLqkWyPgmZ4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/cL75FbJRKDdpvkOJDUgUYPZHKks.jpg"
       }
     }
   },
@@ -12885,7 +12885,7 @@
       "Jim Carrey": {
         "id": 206,
         "character": "Grinch",
-        "profile_path": "https://image.tmdb.org/t/p/original/y3U9QfPN6sJaGl6l68xjwWj28ig.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/j4QY2GN2ZfObQbgedyV3Lihwrt.jpg"
       },
       "Taylor Momsen": {
         "id": 20480,
@@ -16599,7 +16599,7 @@
       "Cary Elwes": {
         "id": 2130,
         "character": "Roger Towers",
-        "profile_path": "https://image.tmdb.org/t/p/original/9UszBdQJ9PmyBydIeIBxlStozhW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5PAcQuB2fFzGq5fjyugNlOpndk4.jpg"
       },
       "Nathalie Emmanuel": {
         "id": 1251069,
@@ -19384,7 +19384,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -21359,7 +21359,7 @@
     "duration": 88,
     "imdb_id": "tt0029284",
     "vote_average": "7",
-    "overview": "A funny thing happens to newlywed Nick Arden on his way to the honeymoon suite. He meets his wife. No, not his bride. He meets the wife who was lost at sea seven years ago and presumed dead. All aboard for a spinning marriage-go-round!",
+    "overview": "Years after she was presumed dead in a shipwreck, Ellen Arden returns home to the surprise of her husband recently remarrying. But he too gets a shock when he learns that Ellen spent her time alone on an island with another man.",
     "genres": ["Comedy", "Romance"],
     "imdb_score": "7.3/10",
     "rt_score": "86%",
@@ -26422,7 +26422,7 @@
       "Jayne Eastwood": {
         "id": 4568,
         "character": "Waitress",
-        "profile_path": "https://image.tmdb.org/t/p/original/wMeootcDpiid4MYKXLqkWyPgmZ4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/cL75FbJRKDdpvkOJDUgUYPZHKks.jpg"
       },
       "Melissa King": {
         "id": 2441648,
@@ -31870,7 +31870,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
