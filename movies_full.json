@@ -676,7 +676,7 @@
     "poster_path": "https://image.tmdb.org/t/p/original/jVyqqMzDVRjUMeIoaJKSUpRnB9Y.jpg",
     "title": "Anna and the Apocalypse",
     "released": "2018-11-30",
-    "duration": 98,
+    "duration": 97,
     "imdb_id": "tt6433880",
     "vote_average": "6.1",
     "overview": "A zombie apocalypse threatens the sleepy town of Little Haven—at Christmas—forcing Anna and her friends to fight, slash, and sing their way to survival. In a desperate race to reach their loved ones, they soon learn that no one is safe in this new world, and with civilization falling apart around them, the only people they can truly rely on are each other.",
@@ -1567,6 +1567,11 @@
         "id": 55541,
         "character": "Brian",
         "profile_path": "https://image.tmdb.org/t/p/original/swcAPvqyUlcn1SfVwcEBzhlFqVP.jpg"
+      },
+      "Riele Downs": {
+        "id": 1470305,
+        "character": "Faith",
+        "profile_path": "https://image.tmdb.org/t/p/original/otZ5uM1Ui71yw1ztgPPNhaf9mc0.jpg"
       },
       "Millie Davis": {
         "id": 1274210,
@@ -8010,7 +8015,7 @@
       "Elizabeth Banks": {
         "id": 9281,
         "character": "Charlene",
-        "profile_path": "https://image.tmdb.org/t/p/original/q0wvK0Nr6FCpvx9UCMTqTby6kNW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/zrkI1dYucpTM8Qydtrtro9MgQPb.jpg"
       },
       "Jeremy Swift": {
         "id": 3555,
@@ -8822,7 +8827,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Allison Vandermeersh",
-        "profile_path": "https://image.tmdb.org/t/p/original/9wRt3XkxwoIoRjvnrc3LKWGHnI9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6K21G4V1KTXQ0DtS0NkMmIanYaE.jpg"
       },
       "Daniel Sunjata": {
         "id": 10582,
@@ -9667,7 +9672,7 @@
       "Bradley Cooper": {
         "id": 51329,
         "character": "Rocket (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/pLD2XvxqHueLWOuqXoFngJU3A5H.jpg"
       },
       "Sean Gunn": {
         "id": 51663,
@@ -25421,7 +25426,7 @@
       "Lucy Liu": {
         "id": 140,
         "character": "Zoe",
-        "profile_path": "https://image.tmdb.org/t/p/original/dW6JDvYhXWW87P04W2SfNpiAwCO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg"
       },
       "J.K. Simmons": {
         "id": 18999,
@@ -30733,7 +30738,7 @@
       "Benjean": {
         "id": 1726956,
         "character": "Stray Dog (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/h1FxgROIVCxbnkU3B0uS5HFMuxB.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/2c0VX1Jl5hVr0jA9WTNQ6QSttR0.jpg"
       },
       "John Black": {
         "id": 104161,
