@@ -4366,11 +4366,6 @@
         "character": "Boy visiting Santa (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/34nSHYqmb7222tiqiuKqKJmZiQa.jpg"
       },
-      "Gary A. Jones": {
-        "id": 1636797,
-        "character": "Christmas Shopper (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/uObErInyLGB318tYXdwirotz8Ts.jpg"
-      },
       "Kristephan Warren-Stevens": {
         "id": 1788908,
         "character": "Crowd person (uncredited)",
@@ -25793,7 +25788,7 @@
     "vote_average": "7.3",
     "overview": "Unexpected love blossoms when an assistant district attorney agrees to take a recidivist shoplifter home so she doesn't have to spend Christmas alone in jail.",
     "genres": ["Comedy", "Romance", "Drama"],
-    "imdb_score": "7.6/10",
+    "imdb_score": "7.5/10",
     "rt_score": "100%",
     "meta_score": "78/100",
     "platforms": "Plex",
@@ -31863,14 +31858,14 @@
     "released": "1974-12-10",
     "duration": 51,
     "imdb_id": "tt0072424",
-    "vote_average": "7.2",
+    "vote_average": "7.1",
     "overview": "Feeling forgotten by the children of the world, old St. Nick decides to skip his gift-giving journey and take a vacation. Mrs. Claus and two spunky little elves, Jingle and Jangle, set out to see to where all the season's cheer has disappeared. Aided by a magical snowfall, they reawaken the spirit of Christmas in children's hearts and put Santa back in action.",
     "genres": ["Animation", "Family", "TV Movie", "Fantasy"],
     "imdb_score": "7.7/10",
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
