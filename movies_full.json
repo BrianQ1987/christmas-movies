@@ -1745,7 +1745,7 @@
       "Gladys Cooper": {
         "id": 3366,
         "character": "Mrs. Hamilton",
-        "profile_path": "https://image.tmdb.org/t/p/original/eREC6ZGIxWcoeZC8b94O7gsFMs4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/m6WbIz98ZOmlVidxPFOGFwLHz1O.jpg"
       },
       "Elsa Lanchester": {
         "id": 2926,
@@ -16725,7 +16725,7 @@
     "imdb_id": "tt12885438",
     "vote_average": "6.6",
     "overview": "As her friends prep for a Life Day holiday celebration, Rey journeys with BB-8 on a quest to gain a deeper knowledge of the Force at a mysterious Jedi Temple. There, she embarks on a cross-timeline adventure through beloved moments in Star Wars history, coming into contact with iconic heroes and villains from all eras of the saga. But will she make it back in time for the Life Day feast?",
-    "genres": ["Animation", "Family", "Science Fiction", "Adventure", "Comedy", "TV Movie"],
+    "genres": ["Animation", "Family", "Science Fiction", "Adventure", "Comedy"],
     "imdb_score": "6.4/10",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
@@ -19379,7 +19379,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -24016,7 +24016,7 @@
       "Audrey Hui": {
         "id": 2485770,
         "character": "Diane",
-        "profile_path": "https://image.tmdb.org/t/p/original/jUKololHzPubWdq2NzjOE1MQUJU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/jaJiG2j6JysUt1tBRkfSTIPtV8g.jpg"
       },
       "Zac Oyama": {
         "id": 2982775,
@@ -31865,7 +31865,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
