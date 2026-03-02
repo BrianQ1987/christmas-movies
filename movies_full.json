@@ -4747,8 +4747,6 @@
     "imdb_score": "5.8/10",
     "rt_score": "19%",
     "meta_score": "31/100",
-    "platforms": "Amazon Prime Video",
-    "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
     "director": "Jessie Nelson",
     "cast": {
       "Diane Keaton": {
@@ -4814,7 +4812,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Charlie Cooper",
-        "profile_path": "https://image.tmdb.org/t/p/original/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/s7tLWtxTI8owGJ5xWZC8iNZdu1d.jpg"
       },
       "Blake Baumgartner": {
         "id": 1931911,
@@ -8867,7 +8865,7 @@
       "Christina Milian": {
         "id": 37936,
         "character": "Kalia",
-        "profile_path": "https://image.tmdb.org/t/p/original/txRX0NtRekqLXCMfzvB6XREenZr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/9aBvgyiWKk90pbCFMR1JBgwcriu.jpg"
       },
       "Rachelle Wood": {
         "id": 207574,
@@ -10044,7 +10042,7 @@
       "Melanie Lynskey": {
         "id": 15091,
         "character": "Kelly",
-        "profile_path": "https://image.tmdb.org/t/p/original/4raNiD71caQXKKqIBZS1FDsvtkd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/kzrWI1sTgnA0H7TCIKzDOUtOW4n.jpg"
       },
       "Mark Webber": {
         "id": 4451,
@@ -12925,7 +12923,7 @@
       "Bryce Dallas Howard": {
         "id": 18997,
         "character": "Surprised Who",
-        "profile_path": "https://image.tmdb.org/t/p/original/6yhDkPXythZavS6Wk57XQ2sg5AW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/l9KTey4DqwazBkUgIEqfvMDCkaq.jpg"
       },
       "Lacey Kohl": {
         "id": 168415,
@@ -17551,7 +17549,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Laurie",
-        "profile_path": "https://image.tmdb.org/t/p/original/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/s7tLWtxTI8owGJ5xWZC8iNZdu1d.jpg"
       },
       "Tracy Letts": {
         "id": 72638,
@@ -27908,7 +27906,7 @@
       "Brian Doyle-Murray": {
         "id": 1535,
         "character": "Earl Cross",
-        "profile_path": "https://image.tmdb.org/t/p/original/1sDChfTscA1mone1uSJVPtbFn4l.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/3RFH00449ppcwA0tkD1uqDvP865.jpg"
       },
       "Mary Lou Retton": {
         "id": 1224933,
@@ -31865,7 +31863,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
