@@ -8008,7 +8008,7 @@
       "Elizabeth Banks": {
         "id": 9281,
         "character": "Charlene",
-        "profile_path": "https://image.tmdb.org/t/p/original/zrkI1dYucpTM8Qydtrtro9MgQPb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xy1OKADZmcfc4P2j0EytHQuyRut.jpg"
       },
       "Jeremy Swift": {
         "id": 3555,
@@ -16719,7 +16719,7 @@
     "poster_path": "https://image.tmdb.org/t/p/original/zyzJSI7UZZzz5Toj10rYGF5689z.jpg",
     "title": "LEGO Star Wars Holiday Special",
     "released": "2020-11-17",
-    "duration": 44,
+    "duration": 50,
     "imdb_id": "tt12885438",
     "vote_average": "6.6",
     "overview": "As her friends prep for a Life Day holiday celebration, Rey journeys with BB-8 on a quest to gain a deeper knowledge of the Force at a mysterious Jedi Temple. There, she embarks on a cross-timeline adventure through beloved moments in Star Wars history, coming into contact with iconic heroes and villains from all eras of the saga. But will she make it back in time for the Life Day feast?",
@@ -16734,21 +16734,6 @@
         "character": "Rey (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/p0plAmQNO6KCNRECPKji8hiDK4e.jpg"
       },
-      "Omar Benson Miller": {
-        "id": 334,
-        "character": "Finn (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/adlrkEpxDIcpxF7bpzMGErLxeHP.jpg"
-      },
-      "Jake Green": {
-        "id": 2016862,
-        "character": "Poe Dameron / Greedo / Snowtrooper (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/3bfUpMgBCJw1Serr18Qm8tDJQvE.jpg"
-      },
-      "Kelly Marie Tran": {
-        "id": 1663195,
-        "character": "Rose Tico (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/wmJTR2vxcCWKNMF7XPdNqhmo2rj.jpg"
-      },
       "Trevor Devall": {
         "id": 82816,
         "character": "Emperor Palpatine / First Order Trooper / Mon Calamari (voice)",
@@ -16759,10 +16744,15 @@
         "character": "Darth Vader (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/xHRlMOCGtO8dO4waXfo6psntFHY.jpg"
       },
-      "Billy Dee Williams": {
-        "id": 3799,
-        "character": "Lando Calrissian (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/AwFFWuXJbGCXb0cA5uZvCNtg68H.jpg"
+      "Omar Benson Miller": {
+        "id": 334,
+        "character": "Finn (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/adlrkEpxDIcpxF7bpzMGErLxeHP.jpg"
+      },
+      "Jake Green": {
+        "id": 2016862,
+        "character": "Greedo / Poe Dameron / Snowtrooper (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/3bfUpMgBCJw1Serr18Qm8tDJQvE.jpg"
       },
       "Matt Lanter": {
         "id": 34202,
@@ -16774,45 +16764,55 @@
         "character": "Obi-Wan Kenobi (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/xP7SNjPMhZ2m4aVuYboPa8W1RlB.jpg"
       },
-      "Tom Kane": {
-        "id": 71535,
-        "character": "Qui-Gon Jinn / Yoda (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/sq49aVP56G50Nr5kCL7Ove6Z9jE.jpg"
+      "Eric Bauza": {
+        "id": 89599,
+        "character": "Luke Skywalker / Stormtrooper (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/afOlsVPQxbtkom604MeCemjlwEV.jpg"
       },
-      "Anthony Daniels": {
-        "id": 6,
-        "character": "C-3PO (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/7kR4kwXtvXtvrsxWeX3QLX5NS5V.jpg"
-      },
-      "Dee Bradley Baker": {
-        "id": 23680,
-        "character": "Clone Troopers / Max Rebo (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+      "Matthew Wood": {
+        "id": 71536,
+        "character": "D-O / Kylo Ren (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/u1UjHLTeS5Dregg85A3GICf7Nkf.jpg"
       },
       "A.J. LoCascio": {
         "id": 1381894,
         "character": "Han Solo  / Jawa (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/pHycR75zn1mnGzDTEbxwXj1728P.jpg"
       },
+      "Anthony Daniels": {
+        "id": 6,
+        "character": "C-3PO (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/7kR4kwXtvXtvrsxWeX3QLX5NS5V.jpg"
+      },
       "Ben Prendergast": {
         "id": 1416517,
         "character": "Darth Maul / General Hux (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/3xwPaoqFzk9t9uJlzcmvsvgBGaf.jpg"
       },
-      "Eric Bauza": {
-        "id": 89599,
-        "character": "Luke Skywalker / Stormtrooper (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/afOlsVPQxbtkom604MeCemjlwEV.jpg"
+      "Billy Dee Williams": {
+        "id": 3799,
+        "character": "Lando Calrissian (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/AwFFWuXJbGCXb0cA5uZvCNtg68H.jpg"
+      },
+      "Dee Bradley Baker": {
+        "id": 23680,
+        "character": "Clone Troopers / Max Rebo (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
       },
       "Grey DeLisle": {
         "id": 15761,
         "character": "Maz Kanata (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
       },
-      "Matthew Wood": {
-        "id": 71536,
-        "character": "D-O / Kylo Ren (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/u1UjHLTeS5Dregg85A3GICf7Nkf.jpg"
+      "Kelly Marie Tran": {
+        "id": 1663195,
+        "character": "Rose Tico (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/wmJTR2vxcCWKNMF7XPdNqhmo2rj.jpg"
+      },
+      "Tom Kane": {
+        "id": 71535,
+        "character": "Qui-Gon Jinn / Yoda (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/sq49aVP56G50Nr5kCL7Ove6Z9jE.jpg"
       }
     }
   },
@@ -17534,7 +17534,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Amy March",
-        "profile_path": "https://image.tmdb.org/t/p/original/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg"
       },
       "Eliza Scanlen": {
         "id": 1669125,
@@ -17549,7 +17549,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Laurie",
-        "profile_path": "https://image.tmdb.org/t/p/original/s7tLWtxTI8owGJ5xWZC8iNZdu1d.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Tracy Letts": {
         "id": 72638,
@@ -19377,7 +19377,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -22746,7 +22746,7 @@
       "Mindy Kaling": {
         "id": 125167,
         "character": "Sarah",
-        "profile_path": "https://image.tmdb.org/t/p/original/7ySdirSfk8U55nAXLiKBBbxyvvM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/m4veWEp9TEDallTZRobb7MLkd9K.jpg"
       },
       "Michael Shannon": {
         "id": 335,
@@ -31443,7 +31443,7 @@
       "Meg Ryan": {
         "id": 5344,
         "character": "Willa",
-        "profile_path": "https://image.tmdb.org/t/p/original/iP1I2fpIIQtB3A8KJiWMbZcwFLr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/pxfTSfJ4yJWq52uomSWKzigngOa.jpg"
       },
       "David Duchovny": {
         "id": 12640,
@@ -31500,7 +31500,7 @@
       "Sandra Bullock": {
         "id": 18277,
         "character": "Lucy Eleanor Moderatz",
-        "profile_path": "https://image.tmdb.org/t/p/original/iYk1dueFEQpJwriOgMdnhyDDeDz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/2fv0tRKLzG7uBYLjTAW3fyhWEFS.jpg"
       },
       "Bill Pullman": {
         "id": 8984,
@@ -31863,7 +31863,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
