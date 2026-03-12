@@ -7988,7 +7988,7 @@
       "Rachel Weisz": {
         "id": 3293,
         "character": "Wanda Blinkowski",
-        "profile_path": "https://image.tmdb.org/t/p/original/58czHc8QU1L4H0N45T0UML8efgS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/msTqKPA33ryVtcVNgOdeaJGYq16.jpg"
       },
       "Kathy Bates": {
         "id": 8534,
@@ -15171,7 +15171,7 @@
     "released": "2025-11-25",
     "duration": 96,
     "imdb_id": "tt24852126",
-    "vote_average": "6",
+    "vote_average": "6.1",
     "overview": "Two down-on-their-luck hourly workers team up to rob a posh London department store on Christmas Eve. Will they steal each other's hearts along the way?",
     "genres": ["Romance", "Crime", "Comedy"],
     "imdb_score": "5.8/10",
@@ -19377,7 +19377,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -31878,7 +31878,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
