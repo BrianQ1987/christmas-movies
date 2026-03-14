@@ -431,6 +431,11 @@
         "character": "Lillian Brooks",
         "profile_path": "https://image.tmdb.org/t/p/original/iCOzbSzCSUC6D9EcyXtVb2FRNu0.jpg"
       },
+      "Amy Oberer": {
+        "id": 1672661,
+        "character": "Stephanie",
+        "profile_path": "https://image.tmdb.org/t/p/original/pzoTm7lL33RdV6pFcJ7RZAMEwzU.jpg"
+      },
       "Renée Taylor": {
         "id": 56105,
         "character": "Sylvia",
@@ -445,11 +450,6 @@
         "id": 1217683,
         "character": "Susan",
         "profile_path": "https://image.tmdb.org/t/p/original/amakAwKRhOEx06tL0bB4j5PQ867.jpg"
-      },
-      "Amy Oberer": {
-        "id": 1672661,
-        "character": "Stephanie",
-        "profile_path": "https://image.tmdb.org/t/p/original/3Fcyjwyg7Qjp0qUKo4HfoC7JIf.jpg"
       },
       "Camille Saviola": {
         "id": 74077,
@@ -2779,7 +2779,7 @@
     "released": "2024-11-08",
     "duration": 107,
     "imdb_id": "tt25052668",
-    "vote_average": "5.2",
+    "vote_average": "5.1",
     "overview": "A family gathers on Christmas Eve for what could be the last holiday in their ancestral home. As the night wears on and tensions arise, one of the teenagers sneaks out with her friends to claim the wintry suburb for her own.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "5.6/10",
@@ -6843,7 +6843,7 @@
       "Rachel McAdams": {
         "id": 53714,
         "character": "Amy Stone",
-        "profile_path": "https://image.tmdb.org/t/p/original/hO7vLHT1tkuCD3Thcc5YHTiAicF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/2zyOjda95OfAAsJvuwTV0UaznPZ.jpg"
       },
       "Craig T. Nelson": {
         "id": 8977,
@@ -9157,7 +9157,7 @@
       "Corey Feldman": {
         "id": 3034,
         "character": "Pete Fountaine",
-        "profile_path": "https://image.tmdb.org/t/p/original/9n5xDsrBFY0AFESmXOJEzEj4ezx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/kpxdR2EsA0T36Scjiq9NRNCNJGY.jpg"
       },
       "Keye Luke": {
         "id": 16103,
@@ -17976,7 +17976,7 @@
       "Chiwetel Ejiofor": {
         "id": 5294,
         "character": "Peter",
-        "profile_path": "https://image.tmdb.org/t/p/original/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/pbnWjBsze67Fbr3gZAP1ZP407ZU.jpg"
       },
       "Gregor Fisher": {
         "id": 7053,
@@ -22226,7 +22226,7 @@
     "released": "2012-11-23",
     "duration": 105,
     "imdb_id": "tt2089750",
-    "vote_average": "5.4",
+    "vote_average": "5.5",
     "overview": "This sequel to the popular British comedy sees a new teacher (David Tennant) take over. When he enters his school in the National 'Song for Christmas' Competition, he and his pregnant wife, and the schoolchildren, embark on an epic road trip that ends up with a birth and a donkey, where he must embrace his fears and become a hero.",
     "genres": ["Comedy", "Family"],
     "imdb_score": "5.4/10",
@@ -25454,7 +25454,7 @@
       "Kiernan Shipka": {
         "id": 934289,
         "character": "Gryla",
-        "profile_path": "https://image.tmdb.org/t/p/original/fbFWpC3Cm2nqftx4hR6pRoqkC76.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5r7JAew3ngO4KZj7PaD6rn4wa4p.jpg"
       },
       "Mary Elizabeth Ellis": {
         "id": 139309,
@@ -27769,7 +27769,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Isabel Fezziwig (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/jKhDQOMVQ1JP4gaUXCQg75gvsrm.jpg"
       },
       "Johnny Flynn": {
         "id": 137108,
@@ -30356,7 +30356,7 @@
       "Jim Belushi": {
         "id": 26485,
         "character": "Harvey",
-        "profile_path": "https://image.tmdb.org/t/p/original/sdWBUZLyvmaRGvnZ1gLjTXHYar1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/wIvFYH110ER7ukwR0qryQJJDQYH.jpg"
       },
       "Kristin Holby": {
         "id": 18160,
@@ -31878,7 +31878,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
