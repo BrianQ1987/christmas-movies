@@ -7988,7 +7988,7 @@
       "Rachel Weisz": {
         "id": 3293,
         "character": "Wanda Blinkowski",
-        "profile_path": "https://image.tmdb.org/t/p/original/msTqKPA33ryVtcVNgOdeaJGYq16.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/9tfHL5tholha1YF6bSKt422ETPM.jpg"
       },
       "Kathy Bates": {
         "id": 8534,
@@ -8820,7 +8820,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Allison Vandermeersh",
-        "profile_path": "https://image.tmdb.org/t/p/original/t7EYLBMWQiIDtCoOYZjvqXV84S5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/tWoSlj6TaZU5sfHYiXvexZUL5Nv.jpg"
       },
       "Daniel Sunjata": {
         "id": 10582,
@@ -9388,6 +9388,11 @@
         "id": 34597,
         "character": "Dr. Miles J. Bennell (Archive Footage)",
         "profile_path": "https://image.tmdb.org/t/p/original/nKKwlz1tvDABTIrxK6oH4zdQPPB.jpg"
+      },
+      "Mushroom": {
+        "id": 6082664,
+        "character": "Barney (Dog)",
+        "profile_path": "https://image.tmdb.org/t/p/original/sz8qcvcrzhOjUuwHWZGpGWGZ5Va.jpg"
       }
     }
   },
@@ -10344,7 +10349,7 @@
       "Tate Donovan": {
         "id": 15455,
         "character": "Stanley Clotfelter",
-        "profile_path": "https://image.tmdb.org/t/p/original/uYgYbd842mtRY66Ehw441aKkOC5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/1SVx1zVO2lR5mUoduURUL64mIDH.jpg"
       },
       "Darby Lee-Stack": {
         "id": 3450037,
@@ -10601,7 +10606,7 @@
       "Mikaela Hoover": {
         "id": 1363394,
         "character": "Annie",
-        "profile_path": "https://image.tmdb.org/t/p/original/b547i2C9aJXKSphYrZ8Y4Dq0uL6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6LrW36wyPbgz045O874JLz01Va3.jpg"
       },
       "Aimee Carrero": {
         "id": 1224238,
@@ -10753,7 +10758,7 @@
       "Jude Law": {
         "id": 9642,
         "character": "Graham Simpkins",
-        "profile_path": "https://image.tmdb.org/t/p/original/6UadpSbfC39WMChAcdnNunzwDxv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/nBGVXLHsNzlG7ouoh4bDggaGKN1.jpg"
       },
       "Jack Black": {
         "id": 70851,
@@ -18593,7 +18598,7 @@
       "Mikaela Hoover": {
         "id": 1363394,
         "character": "Chelsea Lin",
-        "profile_path": "https://image.tmdb.org/t/p/original/b547i2C9aJXKSphYrZ8Y4Dq0uL6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6LrW36wyPbgz045O874JLz01Va3.jpg"
       },
       "Matty Finochio": {
         "id": 440439,
@@ -19377,7 +19382,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -19501,35 +19506,55 @@
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "George Seaton",
     "cast": {
-      "Edmund Gwenn": {
-        "id": 22600,
-        "character": "Kris Kringle",
-        "profile_path": "https://image.tmdb.org/t/p/original/9xUiHCycn0WsxqiqFjq2fI40FpQ.jpg"
+      "Maureen O'Hara": {
+        "id": 70035,
+        "character": "Doris Walker",
+        "profile_path": "https://image.tmdb.org/t/p/original/yGNh18kBF7afOdjTcEP2zFCxzCH.jpg"
       },
       "John Payne": {
         "id": 70820,
         "character": "Fred Gailey",
         "profile_path": "https://image.tmdb.org/t/p/original/sesIuEnKJfbTnf3ds2WSRFsmlGQ.jpg"
       },
-      "Maureen O'Hara": {
-        "id": 70035,
-        "character": "Doris Walker",
-        "profile_path": "https://image.tmdb.org/t/p/original/yGNh18kBF7afOdjTcEP2zFCxzCH.jpg"
+      "Edmund Gwenn": {
+        "id": 22600,
+        "character": "Kris Kringle",
+        "profile_path": "https://image.tmdb.org/t/p/original/9xUiHCycn0WsxqiqFjq2fI40FpQ.jpg"
+      },
+      "Gene Lockhart": {
+        "id": 30234,
+        "character": "Judge Harper",
+        "profile_path": "https://image.tmdb.org/t/p/original/8lSQRefIA5kNylZOF7anexkDxqQ.jpg"
       },
       "Natalie Wood": {
         "id": 2769,
         "character": "Susan Walker",
         "profile_path": "https://image.tmdb.org/t/p/original/6me9oS7GV1VjejWV61XD6y7fVA1.jpg"
       },
+      "Porter Hall": {
+        "id": 14975,
+        "character": "Granville Sawyer",
+        "profile_path": "https://image.tmdb.org/t/p/original/249Hlfx23i69MsA3rLnC185kbwT.jpg"
+      },
+      "William Frawley": {
+        "id": 34285,
+        "character": "Charlie Halloran",
+        "profile_path": "https://image.tmdb.org/t/p/original/mPCnAsN2GbBoLl34nrviZ4aCCe1.jpg"
+      },
+      "Jerome Cowan": {
+        "id": 14452,
+        "character": "Thomas Mara",
+        "profile_path": "https://image.tmdb.org/t/p/original/79be685su9LMAr41HMVKby0FsTg.jpg"
+      },
       "Philip Tonge": {
         "id": 10928,
         "character": "Julian Shellhammer",
         "profile_path": "https://image.tmdb.org/t/p/original/a3OIv9vJ03bIqN6adSvLDKDLsy2.jpg"
       },
-      "Porter Hall": {
-        "id": 14975,
-        "character": "Granville Sawyer",
-        "profile_path": "https://image.tmdb.org/t/p/original/249Hlfx23i69MsA3rLnC185kbwT.jpg"
+      "James Seay": {
+        "id": 89703,
+        "character": "Dr. Pierce (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/goPFeA5iRgrkCVLmcxS42ZD9a2t.jpg"
       },
       "Alvin Greenman": {
         "id": 1193327,
@@ -19541,26 +19566,6 @@
         "character": "R.H. Macy (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/rmOLsYDNZCKbqvMd5AMdwxE7icw.jpg"
       },
-      "James Seay": {
-        "id": 89703,
-        "character": "Dr. Pierce (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/goPFeA5iRgrkCVLmcxS42ZD9a2t.jpg"
-      },
-      "Jerome Cowan": {
-        "id": 14452,
-        "character": "Thomas Mara",
-        "profile_path": "https://image.tmdb.org/t/p/original/79be685su9LMAr41HMVKby0FsTg.jpg"
-      },
-      "Gene Lockhart": {
-        "id": 30234,
-        "character": "Judge Henry X. Harper",
-        "profile_path": "https://image.tmdb.org/t/p/original/8lSQRefIA5kNylZOF7anexkDxqQ.jpg"
-      },
-      "William Frawley": {
-        "id": 34285,
-        "character": "Charlie Halloran",
-        "profile_path": "https://image.tmdb.org/t/p/original/mPCnAsN2GbBoLl34nrviZ4aCCe1.jpg"
-      },
       "Lela Bliss": {
         "id": 130098,
         "character": "Mrs. Shellhammer (uncredited)",
@@ -19568,7 +19573,7 @@
       },
       "Jack Albertson": {
         "id": 3461,
-        "character": "Postal Sorter Al (uncredited)",
+        "character": "Al (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/6Ed6n1sfOlOvr0F7sEDiHvQnp96.jpg"
       },
       "Sam Bagley": {
@@ -23683,7 +23688,7 @@
       "Sabrina Carpenter": {
         "id": 1152083,
         "character": "Self",
-        "profile_path": "https://image.tmdb.org/t/p/original/uMY51wKvGLYulzqYUAfVyNcRvGh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/h2JcSqZ220VXDqb6xKBVcRquGGN.jpg"
       },
       "Cara Delevingne": {
         "id": 1289968,
@@ -31943,7 +31948,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
