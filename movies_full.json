@@ -283,7 +283,7 @@
       "Emma Roberts": {
         "id": 34847,
         "character": "Margot Hayes",
-        "profile_path": "https://image.tmdb.org/t/p/original/rUK616pPe8VGvAK0qmKOEbA3iIx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/utggW2yIufP3A5CGdT8H5mXyGLs.jpg"
       },
       "Thomas Mann": {
         "id": 1142720,
@@ -4812,7 +4812,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Charlie Cooper",
-        "profile_path": "https://image.tmdb.org/t/p/original/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/98pz2MH2JT7Yw0sUJGrA5Oqtbo8.jpg"
       },
       "Blake Baumgartner": {
         "id": 1931911,
@@ -17554,7 +17554,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Laurie",
-        "profile_path": "https://image.tmdb.org/t/p/original/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/98pz2MH2JT7Yw0sUJGrA5Oqtbo8.jpg"
       },
       "Tracy Letts": {
         "id": 72638,
@@ -19382,7 +19382,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20470,7 +20470,7 @@
       "Jon Stewart": {
         "id": 12219,
         "character": "Rollerblader",
-        "profile_path": "https://image.tmdb.org/t/p/original/jmnRMhkms5YAHNb5ZK5ro750vKk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/vb3o1WmC21HYMPktM7hT2eV390J.jpg"
       },
       "Garry Shandling": {
         "id": 52865,
@@ -31948,7 +31948,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
