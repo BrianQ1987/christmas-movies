@@ -7587,6 +7587,11 @@
         "id": 109915,
         "character": "Selma",
         "profile_path": "https://image.tmdb.org/t/p/original/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg"
+      },
+      "Pernilla Wahlgren": {
+        "id": 1035895,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/original/oM42LARbrYf4fipJ8QDQ3NjS1uc.jpg"
       }
     }
   },
@@ -7876,7 +7881,7 @@
       "Howard Leese": {
         "id": 553147,
         "character": "Band Member",
-        "profile_path": "https://image.tmdb.org/t/p/original/zixj44TC7rwzpxtJAG5OzFJnEqe.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/9ysFkK6zoPyYIw1wsJSpiXZJFzj.jpg"
       },
       "Richie Onori": {
         "id": 2786274,
@@ -19380,7 +19385,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -27762,7 +27767,7 @@
       "Luke Evans": {
         "id": 114019,
         "character": "Ebenezer Scrooge (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/kI5B6iwoTlHkpGuwhpj4VDMnBZl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qUkYJcrDc4M0LHNYASs30luFvw0.jpg"
       },
       "Olivia Colman": {
         "id": 39187,
