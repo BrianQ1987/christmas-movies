@@ -9411,7 +9411,7 @@
     "imdb_id": "tt2709692",
     "vote_average": "6.9",
     "overview": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration.",
-    "genres": ["Family", "Comedy", "Animation"],
+    "genres": ["Family", "Comedy", "Animation", "Fantasy"],
     "imdb_score": "6.4/10",
     "rt_score": "60%",
     "meta_score": "51/100",
@@ -11459,7 +11459,7 @@
       "Julia Faye": {
         "id": 130494,
         "character": "Guest at Inn (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/eSA5VSoh8CIg7SjREn4yWBmbObW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/geCmuERa7Bz1VvBbniWxaLEsuWm.jpg"
       },
       "Mildred Harris": {
         "id": 89186,
@@ -13217,7 +13217,7 @@
       "Judy Garland": {
         "id": 9066,
         "character": "Veronica Fisher",
-        "profile_path": "https://image.tmdb.org/t/p/original/vUsMDyRhHYUdayQosHhBF6knWGh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dkhMrLSfnqS3fmxWuXaEMwxN0Tf.jpg"
       },
       "Van Johnson": {
         "id": 37446,
@@ -18753,7 +18753,7 @@
       "Judy Garland": {
         "id": 9066,
         "character": "Esther Smith",
-        "profile_path": "https://image.tmdb.org/t/p/original/vUsMDyRhHYUdayQosHhBF6knWGh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dkhMrLSfnqS3fmxWuXaEMwxN0Tf.jpg"
       },
       "Margaret O'Brien": {
         "id": 13991,
@@ -19385,7 +19385,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -23736,7 +23736,7 @@
       "Quinta Brunson": {
         "id": 1745988,
         "character": "Self",
-        "profile_path": "https://image.tmdb.org/t/p/original/50gY1qgG5ddSLPY77K8zAq9TwJo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/4x2ltnaGHF9rhaDRlkyNs7HOUI8.jpg"
       },
       "Sean Astin": {
         "id": 1328,
@@ -25944,7 +25944,7 @@
       "Julia Faye": {
         "id": 130494,
         "character": "Jury Member (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/eSA5VSoh8CIg7SjREn4yWBmbObW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/geCmuERa7Bz1VvBbniWxaLEsuWm.jpg"
       },
       "James Flavin": {
         "id": 3262,
