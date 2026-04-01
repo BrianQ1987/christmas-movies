@@ -17984,7 +17984,7 @@
       "Chiwetel Ejiofor": {
         "id": 5294,
         "character": "Peter",
-        "profile_path": "https://image.tmdb.org/t/p/original/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/pbnWjBsze67Fbr3gZAP1ZP407ZU.jpg"
       },
       "Gregor Fisher": {
         "id": 7053,
@@ -19385,7 +19385,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -24656,7 +24656,7 @@
     "imdb_id": "tt0338348",
     "vote_average": "6.7",
     "overview": "When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe.",
-    "genres": ["Animation", "Adventure", "Family", "Fantasy"],
+    "genres": ["Animation", "Adventure", "Family", "Fantasy", "Music"],
     "imdb_score": "6.6/10",
     "rt_score": "55%",
     "meta_score": "61/100",
