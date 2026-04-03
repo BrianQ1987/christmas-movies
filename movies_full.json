@@ -1141,7 +1141,7 @@
     "duration": 92,
     "imdb_id": "tt0307987",
     "vote_average": "6.6",
-    "overview": "You'd better watch out - Santa Claus Willie T. Soke is coming to town, and he doesn't care if you've been naughty or nice. Wille's favorite holiday tradition is to fill his sacks with loot lifted from shopping malls across the country. But this year his plot gets derailed by a wisecracking store detective, a sexy bartender, and a kid who's convinced Willie is the real Santa Claus.",
+    "overview": "You'd better watch out - Willie T. Soke is coming to town, and he doesn't care if you've been naughty or nice. Willie's favorite holiday tradition is to fill his sacks with loot lifted from shopping malls across the country. But this year his plot gets derailed by a wisecracking store detective, a sexy bartender, and a kid who's convinced Willie is the real Santa Claus.",
     "genres": ["Drama", "Comedy", "Crime"],
     "imdb_score": "7.0/10",
     "rt_score": "78%",
@@ -7346,7 +7346,7 @@
       "Jan Malmsjö": {
         "id": 46867,
         "character": "Bishop Edvard Vergerus",
-        "profile_path": "https://image.tmdb.org/t/p/original/w1x4KhyWndGgZYw772algFd1JBC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/c1cQa7immeww60HsQArKRttsohH.jpg"
       },
       "Ewa Fröling": {
         "id": 46866,
@@ -19385,7 +19385,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
