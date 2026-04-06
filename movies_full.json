@@ -7396,7 +7396,7 @@
       "Harriet Andersson": {
         "id": 7569,
         "character": "Justina",
-        "profile_path": "https://image.tmdb.org/t/p/original/6uUPqEM4vs9mOylNZ9j5ewpi7kt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/rFQNqEAyzAw5XAMeVPFZlcveNgF.jpg"
       },
       "Gunnar Björnstrand": {
         "id": 6649,
@@ -9648,7 +9648,7 @@
       "Chris Pratt": {
         "id": 73457,
         "character": "Peter Quill / Star-Lord",
-        "profile_path": "https://image.tmdb.org/t/p/original/872Hzdq95gsbMRabsColTW3TLrD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
       },
       "Dave Bautista": {
         "id": 543530,
@@ -10279,9 +10279,9 @@
     "released": "2023-10-27",
     "duration": 133,
     "imdb_id": "tt14849194",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam.",
-    "genres": ["Comedy", "Drama"],
+    "genres": ["Drama", "Comedy"],
     "imdb_score": "7.9/10",
     "rt_score": "97%",
     "meta_score": "82/100",
@@ -14734,7 +14734,7 @@
     "imdb_id": "tt0116705",
     "vote_average": "6.1",
     "overview": "Howard Langston, a salesman for a mattress company, is constantly kept busy at his job, disappointing his son. After he misses his son's karate exposition, Howard vows to make it up to him by buying an action figure of his son's favorite television hero for Christmas. Unfortunately for Howard, it is Christmas Eve, and every store is sold out of Turbo Man. Now, Howard must travel all over town and compete with everybody else to find a Turbo Man action figure.",
-    "genres": ["Family", "Comedy", "Adventure"],
+    "genres": ["Family", "Adventure", "Comedy"],
     "imdb_score": "5.8/10",
     "rt_score": "20%",
     "meta_score": "34/100",
@@ -15745,7 +15745,7 @@
       "Val Kilmer": {
         "id": 5576,
         "character": "Gay Perry",
-        "profile_path": "https://image.tmdb.org/t/p/original/sWH9jTD0bC5gWhhceUlzfNiNup0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dZEGiq4XmCiXq9hmz0vVLId010z.jpg"
       },
       "Michelle Monaghan": {
         "id": 11705,
@@ -15956,7 +15956,7 @@
     "imdb_id": "tt4729430",
     "vote_average": "8.2",
     "overview": "A selfish postman and a reclusive toymaker form an unlikely friendship, delivering joy to a cold, dark town that desperately needs it.",
-    "genres": ["Animation", "Family", "Adventure", "Comedy", "Fantasy"],
+    "genres": ["Animation", "Family", "Fantasy", "Comedy", "Drama"],
     "imdb_score": "8.2/10",
     "rt_score": "95%",
     "meta_score": "65/100",
@@ -16353,7 +16353,7 @@
     "imdb_id": "tt8623904",
     "vote_average": "7.2",
     "overview": "Kate is a young woman who has a habit of making bad decisions, and her last date with disaster occurs after she accepts work as Santa's elf for a department store. However, after she meets Tom there, her life takes a new turn.",
-    "genres": ["Comedy", "Romance"],
+    "genres": ["Comedy", "Drama", "Romance"],
     "imdb_score": "6.5/10",
     "rt_score": "47%",
     "meta_score": "50/100",
@@ -20750,7 +20750,7 @@
       "Raymond Coulthard": {
         "id": 5482,
         "character": "Young Scrooge",
-        "profile_path": "https://image.tmdb.org/t/p/original/ssrV29QSVVJuemBHho0Qx7pFYak.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/87m4b1tmAfppwRtPZ9h8eqTdVgt.jpg"
       },
       "Russell Martin": {
         "id": 2671965,
@@ -24656,7 +24656,7 @@
     "imdb_id": "tt0338348",
     "vote_average": "6.7",
     "overview": "When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe.",
-    "genres": ["Animation", "Adventure", "Family", "Fantasy"],
+    "genres": ["Animation", "Family", "Fantasy", "Adventure"],
     "imdb_score": "6.6/10",
     "rt_score": "55%",
     "meta_score": "61/100",
@@ -27610,7 +27610,7 @@
       "Roy Kinnear": {
         "id": 3463,
         "character": "2nd Gentleman of Charity",
-        "profile_path": "https://image.tmdb.org/t/p/original/cuKguENjdEiNhNArAL5CqIaTEfE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/fs1SMQi7nj4b6cCOwrHpQWlYsnR.jpg"
       },
       "Mary Peach": {
         "id": 31294,
@@ -32017,7 +32017,7 @@
     "imdb_id": "tt21994906",
     "vote_average": "6.4",
     "overview": "Students Hayley and James are young and in love. After saying goodbye for Christmas at a London train station, they both make the same mad split-second decision to swap trains and surprise each other. Passing each other in the station, they are completely unaware that they have just swapped Christmases.",
-    "genres": ["Romance", "Comedy"],
+    "genres": ["Comedy", "Romance"],
     "imdb_score": "6.4/10",
     "rt_score": "63%",
     "platforms": "Amazon Prime Video",
@@ -32143,7 +32143,7 @@
     "imdb_id": "tt27446495",
     "vote_average": "6.2",
     "overview": "They've swapped Christmas – again. Can Hayley and James' relationship survive another turbulent family Christmas or has their future together gone off-piste?!",
-    "genres": ["Romance", "Comedy"],
+    "genres": ["Comedy", "Romance"],
     "imdb_score": "5.8/10",
     "rt_score": "50%",
     "platforms": "Amazon Prime Video",
