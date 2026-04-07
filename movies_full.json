@@ -10766,7 +10766,7 @@
       "Jack Black": {
         "id": 70851,
         "character": "Miles Dumont",
-        "profile_path": "https://image.tmdb.org/t/p/original/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
       },
       "Eli Wallach": {
         "id": 3265,
@@ -15729,7 +15729,7 @@
     "imdb_id": "tt0373469",
     "vote_average": "7.2",
     "overview": "A petty thief posing as an actor is brought to Los Angeles for an unlikely audition and finds himself in the middle of a murder investigation along with his high school dream girl and a detective who's been training him for his upcoming role...",
-    "genres": ["Comedy", "Crime", "Mystery", "Thriller"],
+    "genres": ["Comedy", "Crime", "Mystery"],
     "imdb_score": "7.4/10",
     "rt_score": "86%",
     "meta_score": "73/100",
@@ -17572,7 +17572,7 @@
       "James Norton": {
         "id": 1205278,
         "character": "John Brooke",
-        "profile_path": "https://image.tmdb.org/t/p/original/jQElUV2w7pMNEPX44qFMmr4zDDC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/2G5wtT2o0UdU6bRnt3aZ8fo7mb5.jpg"
       },
       "Louis Garrel": {
         "id": 16269,
@@ -19385,7 +19385,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -28645,7 +28645,7 @@
       "Joel Kinnaman": {
         "id": 92404,
         "character": "Brian Godlock",
-        "profile_path": "https://image.tmdb.org/t/p/original/iVTh89rxgPhZSuijVo467WNsvUw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/vXlIdUxhvIGbtmGsm8CcTwMbvWE.jpg"
       },
       "Kid Cudi": {
         "id": 484359,
@@ -29962,7 +29962,7 @@
         "character": "Madam Jillian",
         "profile_path": "https://image.tmdb.org/t/p/original/3JP0HZRvLDQIWZdd0I6ix7McA01.jpg"
       },
-      "Shih-Ching Tsou": {
+      "Tsou Shih-ching": {
         "id": 118416,
         "character": "Mamasan",
         "profile_path": "https://image.tmdb.org/t/p/original/zDNYNu267FUS2My56iV0ra1Qfdv.jpg"
