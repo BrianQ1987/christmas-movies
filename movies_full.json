@@ -16136,7 +16136,7 @@
       },
       "Steve Whitmire": {
         "id": 64180,
-        "character": "Kermit the Frog, Beaker, Rizzo the Rat, Statler, Lips (voice)",
+        "character": "Kermit the Frog / Beaker / Rizzo the Rat / Statler / Lips (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/q1EVmCM1lKjI5OJOCmnvmYPWztp.jpg"
       },
       "Eric Jacobson": {
@@ -17697,7 +17697,7 @@
       "Tom Kemp": {
         "id": 58333,
         "character": "Asa Melvin",
-        "profile_path": "https://image.tmdb.org/t/p/original/ZvtC7UYLLCaNvwT3HOniGoGhCl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/fkR6E0QFoyNoLyVwQb2ykY1ysEa.jpg"
       },
       "Daniel Shea": {
         "id": 4783165,
@@ -19360,7 +19360,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
