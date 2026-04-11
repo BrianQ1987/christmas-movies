@@ -5644,7 +5644,7 @@
       "Fred Armisen": {
         "id": 61110,
         "character": "Gustave",
-        "profile_path": "https://image.tmdb.org/t/p/original/lQ9AEIjbVcSeJ6THEJk72CMU5Qs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/rhPN8Zx6nrtNiQN2JwPkJ3ZFJ9z.jpg"
       },
       "Jorge Garcia": {
         "id": 1215525,
@@ -12652,7 +12652,7 @@
       "Osias Reid": {
         "id": 3780033,
         "character": "Burke Son #1",
-        "profile_path": "https://image.tmdb.org/t/p/original/nuAuQ7HX7K6w7kCbS55faQNxaDO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg"
       },
       "Dylan Eugene Olivier": {
         "id": 4134446,
@@ -15931,7 +15931,7 @@
     "imdb_id": "tt4729430",
     "vote_average": "8.2",
     "overview": "A selfish postman and a reclusive toymaker form an unlikely friendship, delivering joy to a cold, dark town that desperately needs it.",
-    "genres": ["Animation", "Family", "Comedy", "Adventure", "Drama"],
+    "genres": ["Animation", "Family", "Comedy", "Adventure"],
     "imdb_score": "8.2/10",
     "rt_score": "95%",
     "meta_score": "65/100",
@@ -19360,7 +19360,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -31926,7 +31926,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
