@@ -24206,7 +24206,7 @@
     "released": "1985-11-22",
     "duration": 88,
     "imdb_id": "tt0089731",
-    "vote_average": "5.8",
+    "vote_average": "5.9",
     "overview": "Ginny Grainger, a young mother, rediscovers the joy and beauty of Christmas, thanks to the unshakable faith of her six-year-old daughter Abbie and Gideon, Ginny's very own guardian angel.",
     "genres": ["Family", "Fantasy"],
     "imdb_score": "6.4/10",
@@ -31926,7 +31926,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
