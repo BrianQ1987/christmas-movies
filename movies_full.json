@@ -9542,7 +9542,7 @@
       "John DeMita": {
         "id": 56348,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/1QcOloxFO6EbzAx4LuVrN48PDeX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/cIUd7zTcGzJ0CMSkL4SUOee3gME.jpg"
       },
       "Bill Farmer": {
         "id": 84213,
@@ -15181,7 +15181,7 @@
       "Peter Serafinowicz": {
         "id": 11115,
         "character": "Maxwell Sterling",
-        "profile_path": "https://image.tmdb.org/t/p/original/lxG8Amyk0XrimzVcD53Apu4g10q.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/atXOX0UQzIZkcnpNj1cluBdHwAE.jpg"
       },
       "Natasha Joseph": {
         "id": 1940207,
@@ -16414,7 +16414,7 @@
       "Peter Serafinowicz": {
         "id": 11115,
         "character": "Theatre Producer",
-        "profile_path": "https://image.tmdb.org/t/p/original/lxG8Amyk0XrimzVcD53Apu4g10q.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/atXOX0UQzIZkcnpNj1cluBdHwAE.jpg"
       },
       "Sara Powell": {
         "id": 1221002,
@@ -19360,7 +19360,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -26900,7 +26900,7 @@
       "Kath Soucie": {
         "id": 60739,
         "character": "Chet (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/62hvT4USvGa9OAsMP9guIBtJqkf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/jnu2fpQeIgSa9LcoI4pbu3WSm9f.jpg"
       },
       "Bob Bergen": {
         "id": 78317,
@@ -31242,8 +31242,8 @@
     "imdb_score": "6.7/10",
     "rt_score": "74%",
     "meta_score": "55/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Tommy Wirkola",
     "cast": {
       "David Harbour": {
@@ -31563,7 +31563,7 @@
       "Sandra Bullock": {
         "id": 18277,
         "character": "Lucy Eleanor Moderatz",
-        "profile_path": "https://image.tmdb.org/t/p/original/iYk1dueFEQpJwriOgMdnhyDDeDz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hPHGKPAWZ8gArYXMk225rrYPoyJ.jpg"
       },
       "Bill Pullman": {
         "id": 8984,
