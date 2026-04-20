@@ -391,7 +391,7 @@
     "overview": "Siblings Ethan and Hallie O'Fallon plot to get their divorced parents back together in time for Christmas.",
     "genres": ["Family", "Drama", "Comedy"],
     "imdb_score": "5.9/10",
-    "rt_score": "7%",
+    "rt_score": "13%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Rob Lieberman",
@@ -1913,7 +1913,7 @@
     "overview": "As the residents of the Pi Kappa Sigma sorority house prepare for the festive season, a stranger begins to harass them with a series of obscene phone calls.",
     "genres": ["Horror", "Mystery", "Crime"],
     "imdb_score": "7.1/10",
-    "rt_score": "71%",
+    "rt_score": "72%",
     "meta_score": "65/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
@@ -9640,7 +9640,7 @@
     "overview": "On a mission to make Christmas unforgettable for Quill, the Guardians head to Earth in search of the perfect present.",
     "genres": ["Comedy", "Science Fiction", "Adventure"],
     "imdb_score": "6.9/10",
-    "rt_score": "94%",
+    "rt_score": "95%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "James Gunn",
@@ -19360,7 +19360,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -19787,7 +19787,7 @@
       "Clyde McLeod": {
         "id": 1729785,
         "character": "Courtroom Spectator (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/vehuIm3y6BeMI7mYjxzaA1H8M0k.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/lHPlUjFE9AedSXIeL6CDNux5pCl.jpg"
       },
       "Arline Bletcher": {
         "id": 2608306,
@@ -24920,7 +24920,7 @@
     "overview": "Good-natured Reverend Henry Biggs finds that his marriage to choir mistress Julia is flagging, due to his constant absence caring for the deprived neighborhood they live in. On top of all this, his church is coming under threat from property developer Joe Hamilton. In desperation, Biggs prays to God for help – which arrives in the form of an angel named Dudley.",
     "genres": ["Family", "Fantasy", "Drama", "Comedy", "Romance"],
     "imdb_score": "5.7/10",
-    "rt_score": "61%",
+    "rt_score": "60%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Penny Marshall",
@@ -26383,7 +26383,7 @@
       "David Krumholtz": {
         "id": 38582,
         "character": "Bernard",
-        "profile_path": "https://image.tmdb.org/t/p/original/2vaimzfyPQVxZGHbQS5M3z3tZw0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/ibp6vAc8MWTAKaTI9tfpUJtqiAX.jpg"
       },
       "Larry Brandenburg": {
         "id": 92119,
@@ -26700,7 +26700,7 @@
       "David Krumholtz": {
         "id": 38582,
         "character": "Bernard",
-        "profile_path": "https://image.tmdb.org/t/p/original/2vaimzfyPQVxZGHbQS5M3z3tZw0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/ibp6vAc8MWTAKaTI9tfpUJtqiAX.jpg"
       },
       "Eric Lloyd": {
         "id": 27564,
@@ -27747,7 +27747,7 @@
       "Olivia Colman": {
         "id": 39187,
         "character": "Ghost of Christmas Past (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/lawJUdbLb1YW0niaYjiVGR9IBG8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/4ZwZ66zXZyX26Kf2wfeMt1tQZQf.jpg"
       },
       "Jessie Buckley": {
         "id": 1498158,
@@ -27865,7 +27865,7 @@
     "overview": "Frank Cross is a wildly successful television executive whose cold ambition and curmudgeonly nature has driven away the love of his life. But after firing a staff member on Christmas Eve, Frank is visited by a series of ghosts who give him a chance to re-evaluate his actions and right the wrongs of his past.",
     "genres": ["Fantasy", "Comedy", "Drama"],
     "imdb_score": "6.9/10",
-    "rt_score": "71%",
+    "rt_score": "72%",
     "meta_score": "38/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
@@ -31926,7 +31926,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
