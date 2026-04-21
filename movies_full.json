@@ -7696,7 +7696,7 @@
       "Skyler Gisondo": {
         "id": 61263,
         "character": "Connor McVie",
-        "profile_path": "https://image.tmdb.org/t/p/original/qsj3TrHFfkDGSEKHfxfMpBWAe7N.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/vyalCuJUUP7Ht1vMWZQzhOrscXV.jpg"
       },
       "Steve Wiebe": {
         "id": 76112,
@@ -19360,7 +19360,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -19455,7 +19455,7 @@
       "Mae Whitman": {
         "id": 52404,
         "character": "Girl (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/x0DdzjoYN8K2PwjrnH3ogPYv2zo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oy89WyETM8T3Z4aRJb2EnmqZ7A3.jpg"
       },
       "April Winchell": {
         "id": 60741,
@@ -23656,7 +23656,7 @@
     "imdb_id": "tt33427273",
     "vote_average": "6.7",
     "overview": "Pop icon Sabrina Carpenter jingles all the bells in her first-ever variety music special full of holiday hits, unexpected duets and comedic cameos.",
-    "genres": "Music",
+    "genres": ["Music", "Comedy"],
     "imdb_score": "6.4/10",
     "rt_score": "100%",
     "platforms": ["Netflix", "Plex"],
@@ -31499,8 +31499,8 @@
     "imdb_score": "4.9/10",
     "rt_score": "51%",
     "meta_score": "59/100",
-    "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Meg Ryan",
     "cast": {
       "Meg Ryan": {
@@ -31926,7 +31926,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
@@ -32002,7 +32002,7 @@
       "Asa Butterfield": {
         "id": 77996,
         "character": "James",
-        "profile_path": "https://image.tmdb.org/t/p/original/5WYWjEeZ5UFBnXH4xaa9X0zDhi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/1IoQIesuvI9o1IpYZqdjBWvKhRf.jpg"
       },
       "Cora Kirk": {
         "id": 3069742,
@@ -32133,7 +32133,7 @@
       "Asa Butterfield": {
         "id": 77996,
         "character": "James",
-        "profile_path": "https://image.tmdb.org/t/p/original/5WYWjEeZ5UFBnXH4xaa9X0zDhi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/1IoQIesuvI9o1IpYZqdjBWvKhRf.jpg"
       },
       "Cora Kirk": {
         "id": 3069742,
