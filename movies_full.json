@@ -519,7 +519,7 @@
       "Phil Leeds": {
         "id": 3433,
         "character": "Mr. Feld",
-        "profile_path": "https://image.tmdb.org/t/p/original/hcPPhwWl12wKYWHCwrKVURWugjn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5eUEN9aSxmEa8IGpcsieArYTOVV.jpg"
       },
       "Neal Lerner": {
         "id": 1363197,
@@ -9411,7 +9411,7 @@
     "imdb_id": "tt2709692",
     "vote_average": "6.9",
     "overview": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration.",
-    "genres": ["Family", "Comedy", "Animation", "Fantasy"],
+    "genres": ["Animation", "Comedy", "Family", "Fantasy"],
     "imdb_score": "6.4/10",
     "rt_score": "60%",
     "meta_score": "51/100",
@@ -10596,7 +10596,7 @@
         "character": "Luc",
         "profile_path": "https://image.tmdb.org/t/p/original/4ellxKg5sQJJs0NEwLP0mzJG18E.jpg"
       },
-      "Nicola Peltz Beckham": {
+      "Nicola Peltz": {
         "id": 61186,
         "character": "Felicity",
         "profile_path": "https://image.tmdb.org/t/p/original/oDizBpZEeV5c3fDp3Wts4TsFNrq.jpg"
@@ -21170,7 +21170,7 @@
       "Nathan Lane": {
         "id": 78729,
         "character": "Officer Meany",
-        "profile_path": "https://image.tmdb.org/t/p/original/nEYS0KO1qVO3y0RAt8V8pFxnPb7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xB4LvCE9Ur7bHHveBN9EZOQmAC6.jpg"
       },
       "Jesse L. Martin": {
         "id": 19392,
@@ -24631,7 +24631,7 @@
     "imdb_id": "tt0338348",
     "vote_average": "6.7",
     "overview": "When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe.",
-    "genres": ["Animation", "Family", "Fantasy", "Adventure"],
+    "genres": ["Adventure", "Animation", "Family", "Fantasy"],
     "imdb_score": "6.6/10",
     "rt_score": "55%",
     "meta_score": "61/100",
@@ -24661,7 +24661,7 @@
       },
       "Peter Scolari": {
         "id": 42363,
-        "character": "Billy - Lonely Boy",
+        "character": "Billy / Lonely Boy",
         "profile_path": "https://image.tmdb.org/t/p/original/r9sBCkb6hSinCpgWC7lu5XTJEfc.jpg"
       },
       "Michael Jeter": {
@@ -31926,7 +31926,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
