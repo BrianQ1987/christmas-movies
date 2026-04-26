@@ -5696,7 +5696,7 @@
         "character": "Sheriff Dave",
         "profile_path": "https://image.tmdb.org/t/p/original/jESGnBSP0OjFxJejN1OPsjXA9sJ.jpg"
       },
-      "Nicola Peltz Beckham": {
+      "Nicola Peltz": {
         "id": 61186,
         "character": "Mackenzie",
         "profile_path": "https://image.tmdb.org/t/p/original/oDizBpZEeV5c3fDp3Wts4TsFNrq.jpg"
@@ -28533,7 +28533,7 @@
       "Ṣọpẹ́ Dìrísù": {
         "id": 1479869,
         "character": "James",
-        "profile_path": "https://image.tmdb.org/t/p/original/k9Ayv1XflEbEI599rqgf6Y4gcFY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xcHaI7IOGxWhArkE6iWPCYhx9HD.jpg"
       },
       "Kirby Howell-Baptiste": {
         "id": 1532312,
@@ -31926,7 +31926,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
