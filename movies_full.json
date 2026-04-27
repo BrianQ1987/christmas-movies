@@ -2113,7 +2113,7 @@
       "Michelle Trachtenberg": {
         "id": 49961,
         "character": "Melissa Kitt",
-        "profile_path": "https://image.tmdb.org/t/p/original/8eb8ts6E7gM5SgEFn8VcXfGc39r.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5jrc309hMc5QPaXyS2sT1Bjcf3Q.jpg"
       },
       "Oliver Hudson": {
         "id": 62692,
@@ -19360,7 +19360,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -28609,7 +28609,7 @@
     "imdb_id": "tt15799866",
     "vote_average": "6.2",
     "overview": "A tormented father witnesses his young son die when caught in a gang's crossfire on Christmas Eve. While recovering from a wound that costs him his voice, he makes vengeance his life's mission and embarks on a punishing training regimen in order to avenge his son's death.",
-    "genres": ["Action", "Thriller", "Crime"],
+    "genres": ["Action", "Thriller", "Crime", "Drama"],
     "imdb_score": "5.3/10",
     "rt_score": "60%",
     "meta_score": "53/100",
@@ -28901,7 +28901,7 @@
     "released": "2022-11-10",
     "duration": 127,
     "imdb_id": "tt10999120",
-    "vote_average": "6.9",
+    "vote_average": "6.8",
     "overview": "Each Christmas Eve, the Ghost of Christmas Present selects one dark soul to be reformed by a visit from three spirits. But this season, he picked the wrong Scrooge. Clint Briggs turns the tables on his ghostly host until Present finds himself reexamining his own past, present and future.",
     "genres": "Comedy",
     "imdb_score": "6.6/10",
