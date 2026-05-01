@@ -31234,11 +31234,11 @@
     "poster_path": "https://image.tmdb.org/t/p/original/e8CpMgdyihz9Td7amQDqubPuzfN.jpg",
     "title": "Violent Night",
     "released": "2022-11-30",
-    "duration": 111,
+    "duration": 112,
     "imdb_id": "tt12003946",
     "vote_average": "7.2",
     "overview": "When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn’t prepared for a surprise combatant: Santa Claus is on the grounds, and he’s about to show why this Nick is no saint.",
-    "genres": ["Action", "Comedy", "Fantasy"],
+    "genres": ["Action", "Comedy", "Fantasy", "Thriller"],
     "imdb_score": "6.7/10",
     "rt_score": "74%",
     "meta_score": "55/100",
@@ -31926,7 +31926,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
