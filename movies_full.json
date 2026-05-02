@@ -7626,7 +7626,7 @@
       "Reese Witherspoon": {
         "id": 368,
         "character": "Kate",
-        "profile_path": "https://image.tmdb.org/t/p/original/o1z4UwW2137IViFIRk8AV8hWze1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/mfjunuTHrd0wnh8UG1ImMN9FSws.jpg"
       },
       "Robert Duvall": {
         "id": 3087,
@@ -10816,7 +10816,7 @@
       "Kathryn Hahn": {
         "id": 17696,
         "character": "Bristol",
-        "profile_path": "https://image.tmdb.org/t/p/original/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dh6MQiVHCnH3YS12ZjcI75FDFJK.jpg"
       },
       "John Krasinski": {
         "id": 17697,
@@ -12906,7 +12906,7 @@
       "Bryce Dallas Howard": {
         "id": 18997,
         "character": "Surprised Who",
-        "profile_path": "https://image.tmdb.org/t/p/original/l9KTey4DqwazBkUgIEqfvMDCkaq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6yhDkPXythZavS6Wk57XQ2sg5AW.jpg"
       },
       "Lacey Kohl": {
         "id": 168415,
@@ -15387,6 +15387,11 @@
         "id": 5840615,
         "character": "Gala Conductor",
         "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Sanj Surati": {
+        "id": 3476219,
+        "character": "Party Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/fWEFpxF6Om56AH5EM0hNXF1p1mu.jpg"
       }
     }
   },
@@ -19360,7 +19365,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20433,7 +20438,7 @@
       "Adam Sandler": {
         "id": 19292,
         "character": "Louie",
-        "profile_path": "https://image.tmdb.org/t/p/original/gLkLCsQdwDDPabRhKPB25nGtKwS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/iTMnXrPfC1rmom6a9q4hy6YSJWG.jpg"
       },
       "Liev Schreiber": {
         "id": 23626,
@@ -31926,7 +31931,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
