@@ -5612,8 +5612,8 @@
     "imdb_score": "5.1/10",
     "rt_score": "6%",
     "meta_score": "28/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+    "platforms": ["Amazon Prime Video", "Disney Plus"],
+    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg"],
     "director": "John Whitesell",
     "cast": {
       "Danny DeVito": {
@@ -8828,7 +8828,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Allison Vandermeersh",
-        "profile_path": "https://image.tmdb.org/t/p/original/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/tWoSlj6TaZU5sfHYiXvexZUL5Nv.jpg"
       },
       "Daniel Sunjata": {
         "id": 10582,
@@ -11923,7 +11923,7 @@
       "Tim Curry": {
         "id": 13472,
         "character": "Concierge",
-        "profile_path": "https://image.tmdb.org/t/p/original/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/lYVYVNsPDzeLL6ReCRhh8kezu4y.jpg"
       },
       "Devin Ratray": {
         "id": 11516,
@@ -19365,7 +19365,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -21125,7 +21125,7 @@
       "Richard Griffiths": {
         "id": 10983,
         "character": "Santa Claus",
-        "profile_path": "https://image.tmdb.org/t/p/original/4H4uQfMzvgs11RCLaoSMQsyElw8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/bFUo1pzPw74X8Zl9afzzXCBdV95.jpg"
       },
       "Steve Whitmire": {
         "id": 64180,
@@ -27523,8 +27523,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "74%",
     "meta_score": "58/100",
-    "platforms": ["Amazon Prime Video", "ITVX"],
-    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "/1LuvKw01c2KQCt6DqgAgR06H2pT.jpg"],
+    "platforms": "Amazon Prime Video",
+    "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
     "director": "Ronald Neame",
     "cast": {
       "Albert Finney": {
