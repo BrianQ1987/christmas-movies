@@ -19365,7 +19365,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -31082,7 +31082,7 @@
       "Chris Rock": {
         "id": 2632,
         "character": "Chris Rock",
-        "profile_path": "https://image.tmdb.org/t/p/original/cqI8yQ00GNDV3PAAz5UeLj7vOX0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5lILFeBvX3sC0EfbHhrvMEc7bPD.jpg"
       },
       "Maya Rudolph": {
         "id": 52792,
