@@ -8185,7 +8185,7 @@
         "character": "Frank Stallone",
         "profile_path": "https://image.tmdb.org/t/p/original/kuohZkcSd7g7TdEHbR4UVKPfwDU.jpg"
       },
-      "Roger Clinton, Jr.": {
+      "Roger Clinton Jr.": {
         "id": 51707,
         "character": "Roger Clinton",
         "profile_path": "https://image.tmdb.org/t/p/original/koUQ5MbvfA6PysH8orZpSqfS6kB.jpg"
@@ -10281,7 +10281,7 @@
     "released": "2023-10-27",
     "duration": 133,
     "imdb_id": "tt14849194",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.9/10",
@@ -10746,8 +10746,8 @@
     "imdb_score": "7.0/10",
     "rt_score": "51%",
     "meta_score": "52/100",
-    "platforms": ["Netflix", "Disney Plus"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg"],
+    "platforms": ["Netflix", "Amazon Prime Video", "Disney Plus"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg"],
     "director": "Nancy Meyers",
     "cast": {
       "Cameron Diaz": {
@@ -15143,6 +15143,11 @@
         "id": 587599,
         "character": "Playground Attendant (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
+      },
+      "Richard Steven Horvitz": {
+        "id": 81662,
+        "character": "Demon Team (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/pyL1MykCkuKTAp23PmmD6T8HVbn.jpg"
       }
     }
   },
@@ -19367,7 +19372,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -31933,7 +31938,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
