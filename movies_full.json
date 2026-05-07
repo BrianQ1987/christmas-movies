@@ -8788,6 +8788,8 @@
     "imdb_score": "5.8/10",
     "rt_score": "27%",
     "meta_score": "34/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Mark Waters",
     "cast": {
       "Matthew McConaughey": {
@@ -27323,7 +27325,7 @@
       "Michael Hordern": {
         "id": 39741,
         "character": "Jacob Marley",
-        "profile_path": "https://image.tmdb.org/t/p/original/bdnxQrWH4hM7jo8fzGpcqSQeCSq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/jkoSci89Q5tNu9X4E8aRJ63Y9hy.jpg"
       },
       "Kathleen Harrison": {
         "id": 96421,
