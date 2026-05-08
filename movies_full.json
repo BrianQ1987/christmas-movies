@@ -4817,7 +4817,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Charlie Cooper",
-        "profile_path": "https://image.tmdb.org/t/p/original/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/s7tLWtxTI8owGJ5xWZC8iNZdu1d.jpg"
       },
       "Blake Baumgartner": {
         "id": 1931911,
@@ -6848,7 +6848,7 @@
       "Rachel McAdams": {
         "id": 53714,
         "character": "Amy Stone",
-        "profile_path": "https://image.tmdb.org/t/p/original/2zyOjda95OfAAsJvuwTV0UaznPZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/vDUGcy0sdqHx76VWkoemy9n4waT.jpg"
       },
       "Craig T. Nelson": {
         "id": 8977,
@@ -17544,7 +17544,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Laurie",
-        "profile_path": "https://image.tmdb.org/t/p/original/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/s7tLWtxTI8owGJ5xWZC8iNZdu1d.jpg"
       },
       "Tracy Letts": {
         "id": 72638,
@@ -19372,7 +19372,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -27724,6 +27724,11 @@
         "character": "Party Guest (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/eadjJGFdbZdhXSjtokmay7NjVHi.jpg"
       },
+      "Esme Smythe": {
+        "id": 6196085,
+        "character": "Party Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/eadjJGFdbZdhXSjtokmay7NjVHi.jpg"
+      },
       "Dorian Healy": {
         "id": 108463,
         "character": "Child (uncredited)",
@@ -27759,7 +27764,7 @@
       "Olivia Colman": {
         "id": 39187,
         "character": "Ghost of Christmas Past (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/4ZwZ66zXZyX26Kf2wfeMt1tQZQf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/4kceB4JYBcFTdzVhfq3cDnExcGa.jpg"
       },
       "Jessie Buckley": {
         "id": 1498158,
@@ -31938,7 +31943,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
