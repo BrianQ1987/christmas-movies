@@ -951,7 +951,7 @@
       "Sanjeev Bhaskar": {
         "id": 145997,
         "character": "Lead Elf (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/btLwcbv6d7A2AWe1FYBoRoZXMep.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/gPFoGWj5VPm4IZVn9sMdBicVh2E.jpg"
       },
       "Robbie Coltrane": {
         "id": 1923,
@@ -1056,7 +1056,7 @@
       "Sarah Smith": {
         "id": 208113,
         "character": "Elf (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/kb7yM9L2LboMvVFcGGzUJaUohG5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/olom5l3enkaKX5qYcOoJDDF7Epq.jpg"
       },
       "Adam Tandy": {
         "id": 1222074,
@@ -1233,7 +1233,7 @@
       "Tom McGowan": {
         "id": 77338,
         "character": "Harrison",
-        "profile_path": "https://image.tmdb.org/t/p/original/aL2udgSphl4alhC1BA2wCPmPgWe.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/yXeRcq0Lgz8RofCcmg72ai97AFE.jpg"
       },
       "Grace Calderon": {
         "id": 2445404,
@@ -1298,7 +1298,7 @@
       "Dave Adams": {
         "id": 142286,
         "character": "Prison Guard",
-        "profile_path": "https://image.tmdb.org/t/p/original/h5jYCTHYyyEHiySxA3S0kzYDqjA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/8cB1ApzbjeyT0pzv02t3lVneanS.jpg"
       },
       "Ethan Phillips": {
         "id": 29445,
@@ -4702,7 +4702,7 @@
       "Duane Stephens": {
         "id": 2000930,
         "character": "Stuart the Butcher",
-        "profile_path": "https://image.tmdb.org/t/p/original/kSlztBYNmPzNkcHfmeDAcVt9vwK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/eZATja47WCrQNJqZw34Qa8OeHwT.jpg"
       },
       "Annette Wright": {
         "id": 1462928,
@@ -5472,7 +5472,7 @@
       "Gilly Gilchrist": {
         "id": 1475236,
         "character": "Rufus",
-        "profile_path": "https://image.tmdb.org/t/p/original/gVHFtmu6DXReKmGxpaPHayPQVDN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6hD1WpT2XK2IkPIPxkhbotZdZsN.jpg"
       },
       "Caroline Guthrie": {
         "id": 1648907,
@@ -5906,7 +5906,7 @@
       "Alexander Godunov": {
         "id": 7674,
         "character": "Karl",
-        "profile_path": "https://image.tmdb.org/t/p/original/4oBCz83Pjxe66PlTmA9ph7m5O0e.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/ubA1t1Rj3dpDZkgli5D17Py0OPh.jpg"
       },
       "Bonnie Bedelia": {
         "id": 7673,
@@ -6816,8 +6816,8 @@
     "imdb_score": "6.3/10",
     "rt_score": "52%",
     "meta_score": "56/100",
-    "platforms": ["Netflix", "Disney Plus"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg"],
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Thomas Bezucha",
     "cast": {
       "Dermot Mulroney": {
@@ -7671,7 +7671,7 @@
       "Jeanette Miller": {
         "id": 58929,
         "character": "Gram-Gram",
-        "profile_path": "https://image.tmdb.org/t/p/original/g6n8KWu4dgW5gWH92EZJNJItU9u.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/zixj44TC7rwzpxtJAG5OzFJnEqe.jpg"
       },
       "Carol Kane": {
         "id": 10556,
@@ -10281,7 +10281,7 @@
     "released": "2023-10-27",
     "duration": 133,
     "imdb_id": "tt14849194",
-    "vote_average": "7.7",
+    "vote_average": "7.6",
     "overview": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.9/10",
@@ -10746,8 +10746,8 @@
     "imdb_score": "7.0/10",
     "rt_score": "51%",
     "meta_score": "52/100",
-    "platforms": ["Netflix", "Amazon Prime Video", "Disney Plus"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg"],
+    "platforms": ["Netflix", "Amazon Prime Video"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"],
     "director": "Nancy Meyers",
     "cast": {
       "Cameron Diaz": {
@@ -11658,7 +11658,7 @@
       "Terrie Snell": {
         "id": 1530055,
         "character": "Aunt Leslie",
-        "profile_path": "https://image.tmdb.org/t/p/original/8anznGrnvnxRIQKXZ41xqynj1XN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/tcIgyeWXEYVrpynMBUnvuYjLirN.jpg"
       },
       "Jeffrey Wiseman": {
         "id": 1542824,
@@ -12856,8 +12856,8 @@
     "imdb_score": "6.4/10",
     "rt_score": "50%",
     "meta_score": "46/100",
-    "platforms": ["Netflix", "Disney Plus", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Netflix", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Ron Howard",
     "cast": {
       "Jim Carrey": {
@@ -13766,7 +13766,7 @@
       "Whoopi Goldberg": {
         "id": 2395,
         "character": "Daniel's 'Boss'",
-        "profile_path": "https://image.tmdb.org/t/p/original/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/78LZMMzNUJVfLI1MObxejScwZz5.jpg"
       },
       "Carson Daly": {
         "id": 1214979,
@@ -13781,7 +13781,7 @@
       "Joe Rogan": {
         "id": 91609,
         "character": "Self",
-        "profile_path": "https://image.tmdb.org/t/p/original/njXw71USHBtW01JWRImeOU3P18C.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/mWb6QIsGGHMdhN9yVGZXCHQIRzS.jpg"
       },
       "Molly Shannon": {
         "id": 28640,
@@ -14715,8 +14715,8 @@
     "imdb_score": "5.8/10",
     "rt_score": "20%",
     "meta_score": "34/100",
-    "platforms": ["Netflix", "Disney Plus"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg"],
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Brian Levant",
     "cast": {
       "Arnold Schwarzenegger": {
@@ -16344,8 +16344,8 @@
     "imdb_score": "6.5/10",
     "rt_score": "47%",
     "meta_score": "50/100",
-    "platforms": ["Netflix", "Disney Plus", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Netflix", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Paul Feig",
     "cast": {
       "Emilia Clarke": {
@@ -16720,8 +16720,6 @@
     "overview": "As her friends prep for a Life Day holiday celebration, Rey journeys with BB-8 on a quest to gain a deeper knowledge of the Force at a mysterious Jedi Temple. There, she embarks on a cross-timeline adventure through beloved moments in Star Wars history, coming into contact with iconic heroes and villains from all eras of the saga. But will she make it back in time for the Life Day feast?",
     "genres": ["Animation", "Family", "Science Fiction", "Adventure", "Comedy"],
     "imdb_score": "6.4/10",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Ken Cunningham",
     "cast": {
       "Helen Sadler": {
@@ -19309,8 +19307,6 @@
     "genres": ["Family", "Animation"],
     "imdb_score": "8.0/10",
     "rt_score": "100%",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Burny Mattinson",
     "cast": {
       "Alan Young": {
@@ -19492,8 +19488,8 @@
     "imdb_score": "7.9/10",
     "rt_score": "96%",
     "meta_score": "88/100",
-    "platforms": ["Disney Plus", "Plex"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "George Seaton",
     "cast": {
       "Maureen O'Hara": {
@@ -20670,8 +20666,6 @@
     "imdb_score": "7.8/10",
     "rt_score": "78%",
     "meta_score": "64/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Brian Henson",
     "cast": {
       "Michael Caine": {
@@ -21147,7 +21141,7 @@
       "Whoopi Goldberg": {
         "id": 2395,
         "character": "Taxi Driver",
-        "profile_path": "https://image.tmdb.org/t/p/original/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/78LZMMzNUJVfLI1MObxejScwZz5.jpg"
       },
       "Dave Goelz": {
         "id": 64181,
@@ -22941,8 +22935,6 @@
     "imdb_score": "7.9/10",
     "rt_score": "95%",
     "meta_score": "82/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Henry Selick",
     "cast": {
       "Danny Elfman": {
@@ -22968,7 +22960,7 @@
       "Glenn Shadix": {
         "id": 13243,
         "character": "Mayor (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/9DLC7l4Eb75Ps3wAFzBoDwSTKrR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
       },
       "Paul Reubens": {
         "id": 5129,
@@ -24223,8 +24215,6 @@
     "genres": ["Family", "Fantasy"],
     "imdb_score": "6.4/10",
     "rt_score": "47%",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Phillip Borsos",
     "cast": {
       "Mary Steenburgen": {
@@ -24933,8 +24923,6 @@
     "genres": ["Family", "Fantasy", "Drama", "Comedy", "Romance"],
     "imdb_score": "5.7/10",
     "rt_score": "60%",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Penny Marshall",
     "cast": {
       "Denzel Washington": {
@@ -26368,8 +26356,6 @@
     "imdb_score": "6.6/10",
     "rt_score": "73%",
     "meta_score": "57/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "John Pasquin",
     "cast": {
       "Tim Allen": {
@@ -26987,8 +26973,6 @@
     "imdb_score": "4.9/10",
     "rt_score": "17%",
     "meta_score": "32/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Michael Lembeck",
     "cast": {
       "Tim Allen": {
@@ -28918,7 +28902,7 @@
     "released": "2022-11-10",
     "duration": 127,
     "imdb_id": "tt10999120",
-    "vote_average": "6.8",
+    "vote_average": "6.9",
     "overview": "Each Christmas Eve, the Ghost of Christmas Present selects one dark soul to be reformed by a visit from three spirits. But this season, he picked the wrong Scrooge. Clint Briggs turns the tables on his ghostly host until Present finds himself reexamining his own past, present and future.",
     "genres": "Comedy",
     "imdb_score": "6.6/10",
@@ -30506,7 +30490,7 @@
       "Alan Dellay": {
         "id": 80143,
         "character": "Duke Domestic",
-        "profile_path": "https://image.tmdb.org/t/p/original/lVLBbKGlPprZ7wekicjhEVjAi4r.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/8mBuLCOcpWnmYtZc4aqtvDXslv6.jpg"
       },
       "Florence Anglin": {
         "id": 2496529,
@@ -31573,8 +31557,6 @@
     "imdb_score": "6.8/10",
     "rt_score": "81%",
     "meta_score": "67/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Jon Turteltaub",
     "cast": {
       "Sandra Bullock": {
@@ -32215,7 +32197,7 @@
       "Christopher Sherwood": {
         "id": 2207349,
         "character": "Skier",
-        "profile_path": "https://image.tmdb.org/t/p/original/zswSOwzHmP90XXsbdcAIKhchOKL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/22czDa4cg1lq9pwI7pNmdyeWryw.jpg"
       },
       "Franz-Xaver Zeller": {
         "id": 3118273,
