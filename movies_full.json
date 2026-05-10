@@ -1598,7 +1598,7 @@
     "poster_path": "https://image.tmdb.org/t/p/original/yNPgjXeeb7vdNI7AQB5SWkkk6si.jpg",
     "title": "Best. Christmas. Ever!",
     "released": "2023-11-16",
-    "duration": 82,
+    "duration": 80,
     "imdb_id": "tt7038762",
     "vote_average": "5.4",
     "overview": "After a twist of fate brings their families together for Christmas, Charlotte sets out to prove her old friend Jackie's life is too good to be true.",
@@ -5612,8 +5612,8 @@
     "imdb_score": "5.1/10",
     "rt_score": "6%",
     "meta_score": "28/100",
-    "platforms": ["Amazon Prime Video", "Disney Plus"],
-    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg"],
+    "platforms": "Amazon Prime Video",
+    "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
     "director": "John Whitesell",
     "cast": {
       "Danny DeVito": {
@@ -5889,8 +5889,6 @@
     "imdb_score": "8.2/10",
     "rt_score": "94%",
     "meta_score": "72/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "John McTiernan",
     "cast": {
       "Bruce Willis": {
@@ -6848,7 +6846,7 @@
       "Rachel McAdams": {
         "id": 53714,
         "character": "Amy Stone",
-        "profile_path": "https://image.tmdb.org/t/p/original/vDUGcy0sdqHx76VWkoemy9n4waT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/2zyOjda95OfAAsJvuwTV0UaznPZ.jpg"
       },
       "Craig T. Nelson": {
         "id": 8977,
@@ -9643,8 +9641,6 @@
     "genres": ["Comedy", "Science Fiction", "Adventure"],
     "imdb_score": "6.9/10",
     "rt_score": "95%",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "James Gunn",
     "cast": {
       "Chris Pratt": {
@@ -11556,8 +11552,6 @@
     "imdb_score": "7.8/10",
     "rt_score": "66%",
     "meta_score": "63/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Chris Columbus",
     "cast": {
       "Macaulay Culkin": {
@@ -11888,8 +11882,6 @@
     "imdb_score": "6.9/10",
     "rt_score": "35%",
     "meta_score": "46/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Chris Columbus",
     "cast": {
       "Macaulay Culkin": {
@@ -12472,8 +12464,6 @@
     "imdb_score": "3.6/10",
     "rt_score": "15%",
     "meta_score": "35/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Dan Mazer",
     "cast": {
       "Archie Yates": {
@@ -16124,7 +16114,7 @@
       "Lady Gaga": {
         "id": 237405,
         "character": "Self",
-        "profile_path": "https://image.tmdb.org/t/p/original/9Y4Pz7AEXhB9qNar2tMsx5EVXML.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/yqetkWwPY4lGsdE7uvmCp7ksQf0.jpg"
       },
       "Elton John": {
         "id": 11370,
@@ -19366,9 +19356,7 @@
     "genres": ["Animation", "Family", "Comedy"],
     "imdb_score": "7.1/10",
     "rt_score": "50%",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20139,8 +20127,8 @@
     "genres": ["Fantasy", "Drama", "Family"],
     "imdb_score": "6.6/10",
     "rt_score": "59%",
-    "platforms": ["Netflix", "Disney Plus", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Netflix", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Les Mayfield",
     "cast": {
       "Mara Wilson": {
@@ -21114,8 +21102,6 @@
     "overview": "When Gonzo forgets to mail three letters to Santa, he convinces Kermit and the gang to help him deliver the notes to the North Pole. Along the way, they discover that Christmas is the time to be with those you care about most, as they dash home to make a friends Christmas wish come true.",
     "genres": ["Family", "Comedy", "Adventure", "TV Movie"],
     "imdb_score": "6.3/10",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Kirk R. Thatcher",
     "cast": {
       "Jane Krakowski": {
@@ -23282,8 +23268,6 @@
     "imdb_score": "6.3/10",
     "rt_score": "56%",
     "meta_score": "48/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Marc Lawrence",
     "cast": {
       "Anna Kendrick": {
@@ -24590,8 +24574,6 @@
     "overview": "Pluto comes bounding outside to help Mickey get a Christmas tree. Chip 'n Dale see him and make fun of him, but the tree they take refuge in is the one Mickey chops down. They like the decorations, especially the candy canes and Mickey's bowl of mixed nuts. But Pluto spots them and goes after them long before Mickey spots them. Minnie, Donald, and Goofy drop by to sing carols.",
     "genres": ["Animation", "Comedy"],
     "imdb_score": "7.6/10",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Jack Hannah",
     "cast": {
       "James MacDonald": {
@@ -26671,8 +26653,6 @@
     "imdb_score": "5.8/10",
     "rt_score": "56%",
     "meta_score": "48/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Michael Lembeck",
     "cast": {
       "Tim Allen": {
