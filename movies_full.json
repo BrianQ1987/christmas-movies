@@ -9396,6 +9396,26 @@
         "id": 34597,
         "character": "Dr. Miles J. Bennell (Archive Footage)",
         "profile_path": "https://image.tmdb.org/t/p/original/nKKwlz1tvDABTIrxK6oH4zdQPPB.jpg"
+      },
+      "Friz Freleng": {
+        "id": 930633,
+        "character": "Citizen (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/xmhr2IEs1wS8u5QY07fCrGEatva.jpg"
+      },
+      "Joe Dante": {
+        "id": 4600,
+        "character": "Mogwai / Gremlins (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/2Aev68oWboAC31dj8eJnEUzH41x.jpg"
+      },
+      "Jim Cummings": {
+        "id": 12077,
+        "character": "Mogwai / Gremlins (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+      },
+      "Robby the Robot": {
+        "id": 5853896,
+        "character": "Robot (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/15vweZpq80cijPCd2L5y84tOBil.jpg"
       }
     }
   },
@@ -11672,7 +11692,7 @@
       "Ralph Foody": {
         "id": 1244120,
         "character": "Gangster #1 (Johnny)",
-        "profile_path": "https://image.tmdb.org/t/p/original/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/fosyXqsg1Te7DIK5qHxmBcaD7Bd.jpg"
       },
       "Michael Guido": {
         "id": 2021321,
@@ -11997,7 +12017,7 @@
       "Ralph Foody": {
         "id": 1244120,
         "character": "Gangster",
-        "profile_path": "https://image.tmdb.org/t/p/original/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/fosyXqsg1Te7DIK5qHxmBcaD7Bd.jpg"
       },
       "Clare Hoak": {
         "id": 106470,
@@ -16560,7 +16580,7 @@
     "released": "2021-12-18",
     "duration": 110,
     "imdb_id": "tt14061008",
-    "vote_average": "5.4",
+    "vote_average": "5.5",
     "overview": "When successful 80s nightclub manager Tony Towers boards a magical train at Christmas, he discovers that each carriage harbours a different stage of his life and the actions he takes in one carriage directly affect his life in the next. Can Tony change his life – and the lives of the people he loves – for the better, or will he just make things worse?",
     "genres": ["Fantasy", "Drama"],
     "imdb_score": "6.0/10",
@@ -19356,7 +19376,7 @@
     "genres": ["Animation", "Family", "Comedy"],
     "imdb_score": "7.1/10",
     "rt_score": "50%",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -28882,7 +28902,7 @@
     "released": "2022-11-10",
     "duration": 127,
     "imdb_id": "tt10999120",
-    "vote_average": "6.9",
+    "vote_average": "6.8",
     "overview": "Each Christmas Eve, the Ghost of Christmas Present selects one dark soul to be reformed by a visit from three spirits. But this season, he picked the wrong Scrooge. Clint Briggs turns the tables on his ghostly host until Present finds himself reexamining his own past, present and future.",
     "genres": "Comedy",
     "imdb_score": "6.6/10",
@@ -31905,7 +31925,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
