@@ -19376,7 +19376,7 @@
     "genres": ["Animation", "Family", "Comedy"],
     "imdb_score": "7.1/10",
     "rt_score": "50%",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -22231,7 +22231,7 @@
       "David Tennant": {
         "id": 20049,
         "character": "Donald / Roderick Peterson",
-        "profile_path": "https://image.tmdb.org/t/p/original/syFdcmvI86Pn5YYfZLZlbkvCsj3.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/mGfrEMbxjUWjek1WDSq1j4TULIR.jpg"
       },
       "Marc Wootton": {
         "id": 92574,
