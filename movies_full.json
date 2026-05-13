@@ -5889,6 +5889,8 @@
     "imdb_score": "8.2/10",
     "rt_score": "94%",
     "meta_score": "72/100",
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "John McTiernan",
     "cast": {
       "Bruce Willis": {
@@ -6814,8 +6816,8 @@
     "imdb_score": "6.3/10",
     "rt_score": "52%",
     "meta_score": "56/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+    "platforms": ["Netflix", "Disney Plus"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg"],
     "director": "Thomas Bezucha",
     "cast": {
       "Dermot Mulroney": {
@@ -9661,6 +9663,8 @@
     "genres": ["Comedy", "Science Fiction", "Adventure"],
     "imdb_score": "6.9/10",
     "rt_score": "95%",
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "James Gunn",
     "cast": {
       "Chris Pratt": {
@@ -11572,6 +11576,8 @@
     "imdb_score": "7.8/10",
     "rt_score": "66%",
     "meta_score": "63/100",
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Chris Columbus",
     "cast": {
       "Macaulay Culkin": {
@@ -12486,6 +12492,8 @@
     "imdb_score": "3.6/10",
     "rt_score": "15%",
     "meta_score": "35/100",
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Dan Mazer",
     "cast": {
       "Archie Yates": {
@@ -21128,7 +21136,7 @@
     "released": "2008-12-17",
     "duration": 43,
     "imdb_id": "tt1292569",
-    "vote_average": "5.9",
+    "vote_average": "6",
     "overview": "When Gonzo forgets to mail three letters to Santa, he convinces Kermit and the gang to help him deliver the notes to the North Pole. Along the way, they discover that Christmas is the time to be with those you care about most, as they dash home to make a friends Christmas wish come true.",
     "genres": ["Family", "Comedy", "Adventure", "TV Movie"],
     "imdb_score": "6.3/10",
@@ -23302,6 +23310,8 @@
     "imdb_score": "6.3/10",
     "rt_score": "56%",
     "meta_score": "48/100",
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Marc Lawrence",
     "cast": {
       "Anna Kendrick": {
@@ -24943,6 +24953,8 @@
     "genres": ["Family", "Fantasy", "Drama", "Comedy", "Romance"],
     "imdb_score": "5.7/10",
     "rt_score": "60%",
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Penny Marshall",
     "cast": {
       "Denzel Washington": {
@@ -29893,8 +29905,8 @@
     "imdb_score": "7.1/10",
     "rt_score": "96%",
     "meta_score": "86/100",
-    "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Sean Baker",
     "cast": {
       "Kitana Kiki Rodriguez": {
