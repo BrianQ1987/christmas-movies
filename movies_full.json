@@ -1571,7 +1571,7 @@
       "Riele Downs": {
         "id": 1470305,
         "character": "Faith",
-        "profile_path": "https://image.tmdb.org/t/p/original/otZ5uM1Ui71yw1ztgPPNhaf9mc0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/rQLCU2jdwi1us2j8R4xlOwQ2ZAq.jpg"
       },
       "Millie Davis": {
         "id": 1274210,
@@ -31963,7 +31963,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
