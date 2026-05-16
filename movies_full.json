@@ -19392,7 +19392,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -24789,7 +24789,7 @@
       "Steven Tyler": {
         "id": 37935,
         "character": "Elf Lieutenant / Elf Singer",
-        "profile_path": "https://image.tmdb.org/t/p/original/nPZR2MKMnTMO3ugOb5FA0Hxi7fC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/t1ElEeigYwZfktgGr1VUcKBXkgB.jpg"
       },
       "Phil Fondacaro": {
         "id": 12662,
@@ -29695,7 +29695,7 @@
       "Sy Richardson": {
         "id": 58623,
         "character": "Doo-Dah Understudy",
-        "profile_path": "https://image.tmdb.org/t/p/original/kPlnnAmAbqQB33OcEVXiScK1Brr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/jxZkTx1sGh3AkPvezh62cBJhbat.jpg"
       },
       "Tangie Ambrose": {
         "id": 97260,
@@ -31963,7 +31963,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
@@ -32264,7 +32264,7 @@
     "released": "2021-12-01",
     "duration": 99,
     "imdb_id": "tt15388610",
-    "vote_average": "6.3",
+    "vote_average": "6.4",
     "overview": "On her first holiday without her father, Zoey attempts to create a magical Christmas for her family just like the ones Mitch used to do.",
     "genres": ["TV Movie", "Comedy", "Music", "Drama"],
     "imdb_score": "7.1/10",
