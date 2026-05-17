@@ -5310,7 +5310,7 @@
     "released": "2018-12-24",
     "duration": 53,
     "imdb_id": "tt9217716",
-    "vote_average": "6.7",
+    "vote_average": "6.6",
     "overview": "To save his daughter's Christmas, Andrew goes on a road trip with Dev, his neighbour from hell, to buy an elusive Sparklehoof the Unicorn Princess.",
     "genres": ["Comedy", "TV Movie"],
     "imdb_score": "6.8/10",
@@ -5884,7 +5884,7 @@
     "duration": 132,
     "imdb_id": "tt0095016",
     "vote_average": "7.8",
-    "overview": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her office's Christmas Party, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
+    "overview": "High above the city of L.A. a team of terrorists has seized a building, taken hostages, and declared war. One man has manages to escape... An off-duty cop hiding somewhere inside. He's alone, tired... and the only chance anyone has got.",
     "genres": ["Action", "Thriller"],
     "imdb_score": "8.2/10",
     "rt_score": "94%",
@@ -16371,7 +16371,7 @@
       "Emilia Clarke": {
         "id": 1223786,
         "character": "Kate  Andrich",
-        "profile_path": "https://image.tmdb.org/t/p/original/wb8VfDPGpyqcFltnRcJR1Wj3h4Z.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/u59kTmNHXzaGZqokivxLPiBVIML.jpg"
       },
       "Henry Golding": {
         "id": 1807132,
@@ -22614,7 +22614,7 @@
     "released": "2018-11-23",
     "duration": 100,
     "imdb_id": "tt8094320",
-    "vote_average": "4",
+    "vote_average": "3.9",
     "overview": "The staff and students at St. Bernadette's Primary School audition for a coveted place in a spectacular rock musical competition.",
     "genres": ["Family", "Comedy"],
     "imdb_score": "4.2/10",
@@ -31963,7 +31963,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
