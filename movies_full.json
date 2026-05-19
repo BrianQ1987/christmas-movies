@@ -2095,35 +2095,10 @@
         "character": "Kelli Presley",
         "profile_path": "https://image.tmdb.org/t/p/original/v7cs7RFcfoiL8W1YRkZK5lBc57H.jpg"
       },
-      "Kristen Cloke": {
-        "id": 58392,
-        "character": "Leigh Colvin",
-        "profile_path": "https://image.tmdb.org/t/p/original/9MTNs9kMX6OTR6SJwMkwG3EVTsN.jpg"
-      },
-      "Andrea Martin": {
-        "id": 8263,
-        "character": "Barbara 'Ms. Mac' MacHenry",
-        "profile_path": "https://image.tmdb.org/t/p/original/lOP6nvTOvqpdHtEMfLCvNqUaRnp.jpg"
-      },
-      "Yan-Kay Crystal Lowe": {
-        "id": 58393,
-        "character": "Lauren Hannon",
-        "profile_path": "https://image.tmdb.org/t/p/original/9M9FbnKMTTqgJmWrsKqviewLrmj.jpg"
-      },
       "Michelle Trachtenberg": {
         "id": 49961,
         "character": "Melissa Kitt",
         "profile_path": "https://image.tmdb.org/t/p/original/8eb8ts6E7gM5SgEFn8VcXfGc39r.jpg"
-      },
-      "Oliver Hudson": {
-        "id": 62692,
-        "character": "Kyle Autry",
-        "profile_path": "https://image.tmdb.org/t/p/original/kvRmZBKs7xMZwsTu37adKPF8PKG.jpg"
-      },
-      "Robert Mann": {
-        "id": 58397,
-        "character": "Billy Lenz - 20 & 35 Years",
-        "profile_path": "https://image.tmdb.org/t/p/original/yCvvDwpanGFi0Gi7XvFhH9zaTwR.jpg"
       },
       "Mary Elizabeth Winstead": {
         "id": 17628,
@@ -2135,20 +2110,40 @@
         "character": "Dana Mathis",
         "profile_path": "https://image.tmdb.org/t/p/original/1q9Xe7QVi5oayhPMEiRPgd6FFKG.jpg"
       },
-      "Dean Friss": {
-        "id": 58396,
-        "character": "Agnes - 16 & 22 Years",
-        "profile_path": "https://image.tmdb.org/t/p/original/ggxi18MGqi0lucWvfsdYkzSdGUJ.jpg"
+      "Kristen Cloke": {
+        "id": 58392,
+        "character": "Leigh Colvin",
+        "profile_path": "https://image.tmdb.org/t/p/original/9MTNs9kMX6OTR6SJwMkwG3EVTsN.jpg"
+      },
+      "Andrea Martin": {
+        "id": 8263,
+        "character": "Barbara 'Ms. Mac' MacHenry",
+        "profile_path": "https://image.tmdb.org/t/p/original/lOP6nvTOvqpdHtEMfLCvNqUaRnp.jpg"
+      },
+      "Oliver Hudson": {
+        "id": 62692,
+        "character": "Kyle Autry",
+        "profile_path": "https://image.tmdb.org/t/p/original/kvRmZBKs7xMZwsTu37adKPF8PKG.jpg"
+      },
+      "Yan-Kay Crystal Lowe": {
+        "id": 58393,
+        "character": "Lauren Hannon",
+        "profile_path": "https://image.tmdb.org/t/p/original/9M9FbnKMTTqgJmWrsKqviewLrmj.jpg"
       },
       "Karin Konoval": {
         "id": 58395,
         "character": "Billy's Mother",
         "profile_path": "https://image.tmdb.org/t/p/original/5e8YyNQjWre2UbExYBlJ7zva934.jpg"
       },
-      "Cainan Wiebe": {
-        "id": 58402,
-        "character": "Billy Lenz - 5 & 12 Years",
-        "profile_path": "https://image.tmdb.org/t/p/original/g40CsPXEusYqrA2dqfeM6LaZNSX.jpg"
+      "Robert Mann": {
+        "id": 58397,
+        "character": "Billy Lenz - 20 & 35 Years",
+        "profile_path": "https://image.tmdb.org/t/p/original/yCvvDwpanGFi0Gi7XvFhH9zaTwR.jpg"
+      },
+      "Dean Friss": {
+        "id": 58396,
+        "character": "Agnes - 16 & 22 Years",
+        "profile_path": "https://image.tmdb.org/t/p/original/ggxi18MGqi0lucWvfsdYkzSdGUJ.jpg"
       },
       "Jessica Harmon": {
         "id": 58398,
@@ -2159,6 +2154,11 @@
         "id": 58399,
         "character": "Clair Crosby",
         "profile_path": "https://image.tmdb.org/t/p/original/fy8IIIOXCcZ75rYt6M3MapuPFSm.jpg"
+      },
+      "Cainan Wiebe": {
+        "id": 58402,
+        "character": "Billy Lenz - 5 & 12 Years",
+        "profile_path": "https://image.tmdb.org/t/p/original/g40CsPXEusYqrA2dqfeM6LaZNSX.jpg"
       },
       "Christina Crivici": {
         "id": 2791021,
@@ -19392,7 +19392,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -31079,7 +31079,7 @@
       "George Clooney": {
         "id": 1461,
         "character": "George Clooney",
-        "profile_path": "https://image.tmdb.org/t/p/original/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/4s3wI0bqOP7K3hhcmKqV6m3GYiQ.jpg"
       },
       "Miley Cyrus": {
         "id": 76594,
@@ -31963,7 +31963,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
