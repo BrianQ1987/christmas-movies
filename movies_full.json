@@ -2110,6 +2110,11 @@
         "character": "Dana Mathis",
         "profile_path": "https://image.tmdb.org/t/p/original/1q9Xe7QVi5oayhPMEiRPgd6FFKG.jpg"
       },
+      "Oliver Hudson": {
+        "id": 62692,
+        "character": "Kyle Autry",
+        "profile_path": "https://image.tmdb.org/t/p/original/kvRmZBKs7xMZwsTu37adKPF8PKG.jpg"
+      },
       "Kristen Cloke": {
         "id": 58392,
         "character": "Leigh Colvin",
@@ -2119,11 +2124,6 @@
         "id": 8263,
         "character": "Barbara 'Ms. Mac' MacHenry",
         "profile_path": "https://image.tmdb.org/t/p/original/lOP6nvTOvqpdHtEMfLCvNqUaRnp.jpg"
-      },
-      "Oliver Hudson": {
-        "id": 62692,
-        "character": "Kyle Autry",
-        "profile_path": "https://image.tmdb.org/t/p/original/kvRmZBKs7xMZwsTu37adKPF8PKG.jpg"
       },
       "Yan-Kay Crystal Lowe": {
         "id": 58393,
@@ -4772,7 +4772,7 @@
       "Amanda Seyfried": {
         "id": 71070,
         "character": "Ruby",
-        "profile_path": "https://image.tmdb.org/t/p/original/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qvfwAfUfKfX4DraCgfn0YriiLO0.jpg"
       },
       "Alan Arkin": {
         "id": 1903,
@@ -4959,7 +4959,7 @@
       "Jamie Lee Curtis": {
         "id": 8944,
         "character": "Nora Krank",
-        "profile_path": "https://image.tmdb.org/t/p/original/yMEUL7DyesV4Kp3TAniiGq7y8s5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/eWKubKAAssRzmFwCZKh1mdYqGCH.jpg"
       },
       "Dan Aykroyd": {
         "id": 707,
@@ -15505,7 +15505,7 @@
       "Diaana Babnicova": {
         "id": 2812421,
         "character": "Young Jessica",
-        "profile_path": "https://image.tmdb.org/t/p/original/aSMaLVw9yxlM4or47xVZjXDiXwR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/kWWQWs2EADkytaNnbiyTL0rxlvN.jpg"
       },
       "Ria Calvin": {
         "id": 2855821,
@@ -20682,7 +20682,7 @@
     "poster_path": "https://image.tmdb.org/t/p/original/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
     "title": "The Muppet Christmas Carol",
     "released": "1992-12-11",
-    "duration": 90,
+    "duration": 86,
     "imdb_id": "tt0104940",
     "vote_average": "7.4",
     "overview": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during night-time visitations by the Ghosts of Christmas Past, Present and Future.",
@@ -27350,7 +27350,7 @@
       "Michael Hordern": {
         "id": 39741,
         "character": "Jacob Marley",
-        "profile_path": "https://image.tmdb.org/t/p/original/jkoSci89Q5tNu9X4E8aRJ63Y9hy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/kUoLy41uASBp4OHtqAYqkBcB1Rr.jpg"
       },
       "Kathleen Harrison": {
         "id": 96421,
@@ -30426,7 +30426,7 @@
       "Jamie Lee Curtis": {
         "id": 8944,
         "character": "Ophelia",
-        "profile_path": "https://image.tmdb.org/t/p/original/yMEUL7DyesV4Kp3TAniiGq7y8s5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/eWKubKAAssRzmFwCZKh1mdYqGCH.jpg"
       },
       "Paul Gleason": {
         "id": 7675,
@@ -31279,8 +31279,8 @@
     "imdb_score": "6.7/10",
     "rt_score": "74%",
     "meta_score": "55/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Tommy Wirkola",
     "cast": {
       "David Harbour": {
@@ -31963,7 +31963,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
