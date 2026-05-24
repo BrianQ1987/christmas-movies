@@ -1357,7 +1357,7 @@
     "released": "1958-12-25",
     "duration": 106,
     "imdb_id": "tt0051406",
-    "vote_average": "6.5",
+    "vote_average": "6.6",
     "overview": "Gillian Holroyd, a modern-day witch, becomes smitten with her handsome upstairs neighbor, Shep Henderson. Using her magical powers, she casts a love spell on him, only to face unexpected complications when genuine feelings emerge, threatening her supernatural abilities.",
     "genres": ["Comedy", "Fantasy", "Romance"],
     "imdb_score": "6.8/10",
@@ -6599,7 +6599,7 @@
       "Frank Oz": {
         "id": 7908,
         "character": "Chuck (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/NmtYrntP8gElfulb4KaEYjbOha.jpg"
       },
       "Marilyn Sokol": {
         "id": 60142,
@@ -8788,8 +8788,8 @@
     "imdb_score": "5.8/10",
     "rt_score": "27%",
     "meta_score": "34/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+    "platforms": ["Netflix", "Amazon Prime Video"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"],
     "director": "Mark Waters",
     "cast": {
       "Matthew McConaughey": {
@@ -9065,7 +9065,7 @@
       "Frank Oz": {
         "id": 7908,
         "character": "Thig / Skippity / Hoppity / Boppity / Snerf (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/NmtYrntP8gElfulb4KaEYjbOha.jpg"
       },
       "Jerry Nelson": {
         "id": 68455,
@@ -9432,7 +9432,7 @@
     "duration": 85,
     "imdb_id": "tt2709692",
     "vote_average": "6.9",
-    "overview": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration.",
+    "overview": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration. But a certain little who might change things.",
     "genres": ["Animation", "Comedy", "Family", "Fantasy"],
     "imdb_score": "6.4/10",
     "rt_score": "60%",
@@ -12295,7 +12295,7 @@
       "Frank Oz": {
         "id": 7908,
         "character": "Man putting money into donation bucket (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/NmtYrntP8gElfulb4KaEYjbOha.jpg"
       }
     }
   },
@@ -15670,7 +15670,7 @@
       "Frank Oz": {
         "id": 7908,
         "character": "Miss Piggy / Fozzie Bear / Animal (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/NmtYrntP8gElfulb4KaEYjbOha.jpg"
       },
       "Richard Hunt": {
         "id": 68456,
@@ -19392,7 +19392,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20717,7 +20717,7 @@
       "Frank Oz": {
         "id": 7908,
         "character": "Miss Piggy as Emily Cratchit / Fozzie Bear as Fozziewig / Sam the Eagle as Headmaster of Junior High Graduates / Animal / George the Janitor / Horse and Carriage Driver / Vegetable Salesman (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/NmtYrntP8gElfulb4KaEYjbOha.jpg"
       },
       "David Rudman": {
         "id": 192632,
@@ -21057,7 +21057,7 @@
       "Frank Oz": {
         "id": 7908,
         "character": "Miss Piggy / Fozzy Bear / Animal / Sam the Eagle / Bert / Grover / Cookie Monster",
-        "profile_path": "https://image.tmdb.org/t/p/original/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/NmtYrntP8gElfulb4KaEYjbOha.jpg"
       },
       "Dave Goelz": {
         "id": 64181,
@@ -30441,7 +30441,7 @@
       "Frank Oz": {
         "id": 7908,
         "character": "Corrupt Cop",
-        "profile_path": "https://image.tmdb.org/t/p/original/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/NmtYrntP8gElfulb4KaEYjbOha.jpg"
       },
       "Jim Belushi": {
         "id": 26485,
@@ -31968,7 +31968,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
