@@ -4792,7 +4792,7 @@
       "Marisa Tomei": {
         "id": 3141,
         "character": "Emma Newport",
-        "profile_path": "https://image.tmdb.org/t/p/original/1cT8wWwGX5jEeGAgjydjb5EwnZF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5w6qM8FWsl5SutKSpx6Va64eCTE.jpg"
       },
       "Jake Lacy": {
         "id": 496470,
@@ -7596,7 +7596,7 @@
       "Pernilla Wahlgren": {
         "id": 1035895,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/original/oM42LARbrYf4fipJ8QDQ3NjS1uc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/63mx9ZikFGaB8fQ9vaXBPM2O2MB.jpg"
       }
     }
   },
@@ -9469,7 +9469,7 @@
       "Pharrell Williams": {
         "id": 558267,
         "character": "Narrator (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/3VdAd4rnxWFvcnBL7aEUVWxEH6V.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/vbgFf9k1VE0WLWqQFOQ2nohJlLz.jpg"
       },
       "Ramone Hamilton": {
         "id": 1379104,
@@ -10307,8 +10307,8 @@
     "imdb_score": "7.9/10",
     "rt_score": "97%",
     "meta_score": "82/100",
-    "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Alexander Payne",
     "cast": {
       "Paul Giamatti": {
@@ -17217,7 +17217,7 @@
       "Winona Ryder": {
         "id": 1920,
         "character": "Jo March",
-        "profile_path": "https://image.tmdb.org/t/p/original/dlffgYbqr1BllWacVLhAFw23nLl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/gATeG0K6zaZ0wUuu7eB5XjHhySy.jpg"
       },
       "Trini Alvarado": {
         "id": 17187,
@@ -19392,7 +19392,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -21227,7 +21227,7 @@
       "Uma Thurman": {
         "id": 139,
         "character": "Joy",
-        "profile_path": "https://image.tmdb.org/t/p/original/sBgAZWi3o4FsnaTvnTNtK6jpQcF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/pg3OKnfVMbMTBvivOtWI4CrF61j.jpg"
       },
       "Paul Williams": {
         "id": 35040,
