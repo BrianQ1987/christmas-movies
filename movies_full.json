@@ -9437,8 +9437,8 @@
     "imdb_score": "6.4/10",
     "rt_score": "60%",
     "meta_score": "51/100",
-    "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Netflix", "Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Yarrow Cheney", "Scott Mosier"],
     "cast": {
       "Benedict Cumberbatch": {
@@ -10772,27 +10772,27 @@
     "cast": {
       "Cameron Diaz": {
         "id": 6941,
-        "character": "Amanda Woods",
+        "character": "Amanda",
         "profile_path": "https://image.tmdb.org/t/p/original/d4f4cQ9EiYuvNMjT1IB2h06KoRx.jpg"
       },
       "Kate Winslet": {
         "id": 204,
-        "character": "Iris Simpkins",
+        "character": "Iris",
         "profile_path": "https://image.tmdb.org/t/p/original/6qNnMsKtKz9si5rabpUEG85UfHp.jpg"
       },
       "Jude Law": {
         "id": 9642,
-        "character": "Graham Simpkins",
+        "character": "Graham",
         "profile_path": "https://image.tmdb.org/t/p/original/1rTmD8B1YAE1MrrBJs4krIiIvNM.jpg"
       },
       "Jack Black": {
         "id": 70851,
-        "character": "Miles Dumont",
+        "character": "Miles",
         "profile_path": "https://image.tmdb.org/t/p/original/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
       },
       "Eli Wallach": {
         "id": 3265,
-        "character": "Arthur Abbott",
+        "character": "Arthur",
         "profile_path": "https://image.tmdb.org/t/p/original/egLe8r2PwbTx9ocwS1Zu2vsYC9v.jpg"
       },
       "Edward Burns": {
@@ -10802,7 +10802,7 @@
       },
       "Rufus Sewell": {
         "id": 17328,
-        "character": "Jasper Bloom",
+        "character": "Jasper",
         "profile_path": "https://image.tmdb.org/t/p/original/yc2EWyg45GO03YqDttaEhjvegiE.jpg"
       },
       "Miffy Englefield": {
@@ -11012,7 +11012,7 @@
       },
       "Brad Carr": {
         "id": 60849,
-        "character": "Jakob Ethridge - Airport Passenger (uncredited)",
+        "character": "Jakob Ethridge (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/Akx7sYkkWRTxM6UUv3apyjhZhuR.jpg"
       },
       "Freddie De Grate": {
@@ -11062,7 +11062,7 @@
       },
       "Samantha Kelly": {
         "id": 3844231,
-        "character": "Mrs. Ames - Schultz's Friend (uncredited)",
+        "character": "Mrs. Ames (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/n26GUumac5MrzpJiv0DPI7MMIUJ.jpg"
       },
       "Lucy Lewendon": {
@@ -12876,8 +12876,8 @@
     "imdb_score": "6.4/10",
     "rt_score": "50%",
     "meta_score": "46/100",
-    "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Netflix", "Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Ron Howard",
     "cast": {
       "Jim Carrey": {
@@ -15540,7 +15540,7 @@
       "Abraham Popoola": {
         "id": 1432064,
         "character": "Mr. Rogers",
-        "profile_path": "https://image.tmdb.org/t/p/original/r5mojn6TjWgHefdMCJNiohvY82f.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qOTrfglDJaGLW3EipLL6k65Jpns.jpg"
       },
       "Gabriel Constantin": {
         "id": 1459975,
@@ -16782,7 +16782,7 @@
       "Eric Bauza": {
         "id": 89599,
         "character": "Luke Skywalker / Stormtrooper (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/lgsGLl0smbmjtAZv75WiIfF4lVA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/afOlsVPQxbtkom604MeCemjlwEV.jpg"
       },
       "Matthew Wood": {
         "id": 71536,
@@ -19392,7 +19392,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -31968,7 +31968,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
@@ -32317,25 +32317,20 @@
         "character": "Tobin Batra",
         "profile_path": "https://image.tmdb.org/t/p/original/6uPsuinFnhw3hMMwQmZ2RfLRmTU.jpg"
       },
-      "David St. Louis": {
-        "id": 1904657,
-        "character": "Perry Haskins",
-        "profile_path": "https://image.tmdb.org/t/p/original/cxwUJ3iV3h3UtI8kNguDi8uaRea.jpg"
-      },
-      "Mary Steenburgen": {
-        "id": 2453,
-        "character": "Maggie Clarke",
-        "profile_path": "https://image.tmdb.org/t/p/original/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg"
+      "Bernadette Peters": {
+        "id": 40389,
+        "character": "Deb",
+        "profile_path": "https://image.tmdb.org/t/p/original/x2hZ6AsIAfb5t512Q72SYtdNdZf.jpg"
       },
       "Peter Gallagher": {
         "id": 8212,
         "character": "Mitch Clarke",
         "profile_path": "https://image.tmdb.org/t/p/original/msyfiU6qgG8QKntiXngX6DFK2CO.jpg"
       },
-      "Bernadette Peters": {
-        "id": 40389,
-        "character": "Deb",
-        "profile_path": "https://image.tmdb.org/t/p/original/x2hZ6AsIAfb5t512Q72SYtdNdZf.jpg"
+      "Mary Steenburgen": {
+        "id": 2453,
+        "character": "Maggie Clarke",
+        "profile_path": "https://image.tmdb.org/t/p/original/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg"
       },
       "Noah Weisberg": {
         "id": 1087010,
@@ -32347,40 +32342,115 @@
         "character": "McKenzie",
         "profile_path": "https://image.tmdb.org/t/p/original/9PtWxI0boV9niybrKsaVP0aGdG8.jpg"
       },
+      "David St. Louis": {
+        "id": 1904657,
+        "character": "Perry Haskins",
+        "profile_path": "https://image.tmdb.org/t/p/original/cxwUJ3iV3h3UtI8kNguDi8uaRea.jpg"
+      },
       "David James Elliott": {
         "id": 84522,
         "character": "Jack",
         "profile_path": "https://image.tmdb.org/t/p/original/u71mHttq4ShuhoR5zuIzKR2i3YU.jpg"
-      },
-      "Amarah Taylor": {
-        "id": 3032969,
-        "character": "Amirah",
-        "profile_path": "https://image.tmdb.org/t/p/original/wDuQ4pX2FZe3tYdR4urm1HgGyXy.jpg"
       },
       "April Cameron": {
         "id": 1680899,
         "character": "Susan",
         "profile_path": "https://image.tmdb.org/t/p/original/vijBJMDS1Rsb6XNcyAuAnzQPGB.jpg"
       },
-      "Lola Clare": {
-        "id": 2173365,
-        "character": "Shopper",
-        "profile_path": "https://image.tmdb.org/t/p/original/I8cb0kLBqXO162e4nqZxVeYL8H.jpg"
+      "Amarah Taylor": {
+        "id": 3032969,
+        "character": "Amirah",
+        "profile_path": "https://image.tmdb.org/t/p/original/wDuQ4pX2FZe3tYdR4urm1HgGyXy.jpg"
       },
-      "Gracyn Shinyei": {
-        "id": 1285537,
-        "character": "Gracyn Girl",
-        "profile_path": "https://image.tmdb.org/t/p/original/9kuM2ekaMX1VyyTfq1jueYmufl1.jpg"
+      "Alex Vishniakoff": {
+        "id": 1901646,
+        "character": "Mall Santa",
+        "profile_path": "https://image.tmdb.org/t/p/original/13aJji0C7ujKfJpN1p9PzAi81g9.jpg"
+      },
+      "Mat Lo": {
+        "id": 2168226,
+        "character": "Parent Shopper #1",
+        "profile_path": "https://image.tmdb.org/t/p/original/gfwc6qTbwo0WrdkLCZIFlvIOkMd.jpg"
+      },
+      "Brittany Alexis Palmer": {
+        "id": 1161707,
+        "character": "Parent Shopper #2",
+        "profile_path": "https://image.tmdb.org/t/p/original/13mSBPQqtMogvNIlhSrS78cjU9w.jpg"
+      },
+      "Levi Brown": {
+        "id": 4075066,
+        "character": "Kid Shopper",
+        "profile_path": "https://image.tmdb.org/t/p/original/rLRdxke4fbUaMkltI5cHhZOnOdi.jpg"
+      },
+      "Paul Dzenkiw": {
+        "id": 201862,
+        "character": "Photographer",
+        "profile_path": "https://image.tmdb.org/t/p/original/wDuQ4pX2FZe3tYdR4urm1HgGyXy.jpg"
+      },
+      "Alice Comer": {
+        "id": 2843955,
+        "character": "Young Zoey (Age 8)",
+        "profile_path": "https://image.tmdb.org/t/p/original/klUb66tBtHLUp65hmKMxe92Pplz.jpg"
+      },
+      "Hazel Bartlett-Sias": {
+        "id": 3652048,
+        "character": "Young Zoey (Age 12)",
+        "profile_path": "https://image.tmdb.org/t/p/original/9d2VIYTZ4oY1NrDG59WPI4JMF7h.jpg"
+      },
+      "Sacha Chandler": {
+        "id": 3465295,
+        "character": "Young Zoey (Age 11)",
+        "profile_path": "https://image.tmdb.org/t/p/original/wDuQ4pX2FZe3tYdR4urm1HgGyXy.jpg"
       },
       "Oscar Chark": {
         "id": 3641082,
         "character": "Young David (age 15)",
         "profile_path": "https://image.tmdb.org/t/p/original/r6yb8x9aHNxsEvdj7hqXn154Wqj.jpg"
       },
+      "Synthia Yusuf": {
+        "id": 6245867,
+        "character": "Well Dressed Woman",
+        "profile_path": "https://image.tmdb.org/t/p/original/wDuQ4pX2FZe3tYdR4urm1HgGyXy.jpg"
+      },
+      "Jonathan Dylan": {
+        "id": 6245868,
+        "character": "Party Guest #1",
+        "profile_path": "https://image.tmdb.org/t/p/original/wDuQ4pX2FZe3tYdR4urm1HgGyXy.jpg"
+      },
+      "Carlotta Gurl": {
+        "id": 6245869,
+        "character": "Party Guest #2",
+        "profile_path": "https://image.tmdb.org/t/p/original/wDuQ4pX2FZe3tYdR4urm1HgGyXy.jpg"
+      },
+      "Sam Quinn": {
+        "id": 2911092,
+        "character": "Party Guest #3",
+        "profile_path": "https://image.tmdb.org/t/p/original/dPyeYtFbKZcTROJGuKuTYDYsGls.jpg"
+      },
+      "Mina Mercury": {
+        "id": 6245870,
+        "character": "Party Guest #4",
+        "profile_path": "https://image.tmdb.org/t/p/original/wDuQ4pX2FZe3tYdR4urm1HgGyXy.jpg"
+      },
+      "Carmen Dior": {
+        "id": 6245871,
+        "character": "Party Guest #5",
+        "profile_path": "https://image.tmdb.org/t/p/original/wDuQ4pX2FZe3tYdR4urm1HgGyXy.jpg"
+      },
+      "Gracyn Shinyei": {
+        "id": 1285537,
+        "character": "Gracyn Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/9kuM2ekaMX1VyyTfq1jueYmufl1.jpg"
+      },
       "Ella Wejr": {
         "id": 2347144,
-        "character": "Mall Dancer",
+        "character": "Mall Dancer (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/qx2LZARfASzCO7gY9wa1qKt5znG.jpg"
+      },
+      "Lola Clare": {
+        "id": 2173365,
+        "character": "Shopper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/I8cb0kLBqXO162e4nqZxVeYL8H.jpg"
       }
     }
   }
