@@ -3920,7 +3920,7 @@
     "released": "2015-12-29",
     "duration": 82,
     "imdb_id": "tt4591840",
-    "vote_average": "5",
+    "vote_average": "5.2",
     "overview": "Born under the Christmas Star, Noelle believes she has the gift to perform miracles, so when conniving developer McKerrod threatens her peaceful life she and her friends determine to use this gift to thwart his plans and save their village.",
     "genres": ["Family", "Comedy"],
     "imdb_score": "5.1/10",
@@ -13985,7 +13985,7 @@
     "released": "2023-11-10",
     "duration": 87,
     "imdb_id": "tt27619382",
-    "vote_average": "5",
+    "vote_average": "5.1",
     "overview": "Winnie's life is less than wonderful one year after saving her town from a psychotic killer on Christmas Eve. When she wishes she was never born, she finds herself magically transported to a nightmarish parallel universe. With the murderous maniac now back, she must team up with a misfit to identify the culprit and get back to her own reality.",
     "genres": ["Horror", "Comedy"],
     "imdb_score": "5.2/10",
@@ -24709,7 +24709,7 @@
       "Josh Hutcherson": {
         "id": 27972,
         "character": "Hero Boy (motion capture)",
-        "profile_path": "https://image.tmdb.org/t/p/original/npowygg8rH7uJ4v7rAoDMsHBhNq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg"
       },
       "Daryl Sabara": {
         "id": 57675,
@@ -27119,7 +27119,7 @@
       "Madeline Carroll": {
         "id": 62564,
         "character": "Cocoa",
-        "profile_path": "https://image.tmdb.org/t/p/original/11MHcD55ahK3WWeP11HZBfbBMr1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/rUXWRKgyf9vLoC4zSHlu5fHdtxR.jpg"
       },
       "Charlie Stewart": {
         "id": 1223713,
@@ -31578,7 +31578,7 @@
       "Jared Rogers": {
         "id": 3172072,
         "character": "Airline Maintenance Worker",
-        "profile_path": "https://image.tmdb.org/t/p/original/oSAdS03j8zbjv35gKdjrIL5snw1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/3QWXAkSFdtFHOQiXPRRTqYWA4eP.jpg"
       }
     }
   },
@@ -31968,7 +31968,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
