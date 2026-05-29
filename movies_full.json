@@ -3920,7 +3920,7 @@
     "released": "2015-12-29",
     "duration": 82,
     "imdb_id": "tt4591840",
-    "vote_average": "5.2",
+    "vote_average": "5",
     "overview": "Born under the Christmas Star, Noelle believes she has the gift to perform miracles, so when conniving developer McKerrod threatens her peaceful life she and her friends determine to use this gift to thwart his plans and save their village.",
     "genres": ["Family", "Comedy"],
     "imdb_score": "5.1/10",
@@ -13786,7 +13786,7 @@
       "Whoopi Goldberg": {
         "id": 2395,
         "character": "Daniel's 'Boss'",
-        "profile_path": "https://image.tmdb.org/t/p/original/78LZMMzNUJVfLI1MObxejScwZz5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/f7nOs8pp4rxLQgUaeXu21kMtD9o.jpg"
       },
       "Carson Daly": {
         "id": 1214979,
@@ -19392,7 +19392,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -21167,7 +21167,7 @@
       "Whoopi Goldberg": {
         "id": 2395,
         "character": "Taxi Driver",
-        "profile_path": "https://image.tmdb.org/t/p/original/78LZMMzNUJVfLI1MObxejScwZz5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/f7nOs8pp4rxLQgUaeXu21kMtD9o.jpg"
       },
       "Dave Goelz": {
         "id": 64181,
@@ -31968,7 +31968,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
@@ -32271,7 +32271,7 @@
     "imdb_id": "tt15388610",
     "vote_average": "6.4",
     "overview": "On her first holiday without her father, Zoey attempts to create a magical Christmas for her family just like the ones Mitch used to do.",
-    "genres": ["TV Movie", "Comedy", "Music", "Drama"],
+    "genres": ["Comedy", "Drama"],
     "imdb_score": "7.1/10",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
