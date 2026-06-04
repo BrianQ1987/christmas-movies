@@ -19392,7 +19392,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -23884,7 +23884,7 @@
       "Felicity Jones": {
         "id": 72855,
         "character": "Channing",
-        "profile_path": "https://image.tmdb.org/t/p/original/ywXf5fLAYLlwK5JRn6UrMMsBnwb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/35KdWSfTldNEdsn4MUGFIRoxJEu.jpg"
       },
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -29680,7 +29680,7 @@
       "Udo Kier": {
         "id": 1646,
         "character": "Heinrich",
-        "profile_path": "https://image.tmdb.org/t/p/original/ppWw8WpcibWGLVSFODvwIaWhurk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg"
       },
       "David Selby": {
         "id": 56930,
@@ -31968,7 +31968,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
