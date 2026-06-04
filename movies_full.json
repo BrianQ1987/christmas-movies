@@ -6298,7 +6298,7 @@
       "Andy Richter": {
         "id": 28637,
         "character": "Morris",
-        "profile_path": "https://image.tmdb.org/t/p/original/qazhLkyKOsPmdOQSaUWWbbUjs9q.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5Qr7N6TzC8cI0ULxDm6EC5GpZ4C.jpg"
       },
       "Kyle Gass": {
         "id": 22297,
@@ -10766,8 +10766,8 @@
     "imdb_score": "7.0/10",
     "rt_score": "51%",
     "meta_score": "52/100",
-    "platforms": ["Netflix", "Amazon Prime Video"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"],
+    "platforms": "Amazon Prime Video",
+    "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
     "director": "Nancy Meyers",
     "cast": {
       "Cameron Diaz": {
@@ -17929,8 +17929,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "65%",
     "meta_score": "55/100",
-    "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Richard Curtis",
     "cast": {
       "Hugh Grant": {
@@ -18016,7 +18016,7 @@
       "Thomas Brodie-Sangster": {
         "id": 25663,
         "character": "Sam",
-        "profile_path": "https://image.tmdb.org/t/p/original/ovfgjgaE7aAXKYaemABX6pJFwRk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/tapXeOg3wnezcjm2ENox0lL2b25.jpg"
       },
       "Kris Marshall": {
         "id": 7058,
@@ -19392,7 +19392,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
