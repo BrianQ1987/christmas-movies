@@ -19392,7 +19392,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -24215,21 +24215,6 @@
         "id": 54772,
         "character": "Andy Cohen (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/eZrNjW7RQgkhwfcBw0qGTLPVgf4.jpg"
-      },
-      "Steve Martin": {
-        "id": 67773,
-        "character": "Neal Page (archive footage)",
-        "profile_path": "https://image.tmdb.org/t/p/original/d0KthX8hVWU9BxTCG1QUO8FURRm.jpg"
-      },
-      "John Candy": {
-        "id": 7180,
-        "character": "Del Griffith (archive footage)",
-        "profile_path": "https://image.tmdb.org/t/p/original/uvLWbMDE6UfWNF5tfrsrC9NqeEA.jpg"
-      },
-      "Laila Robins": {
-        "id": 27260,
-        "character": "Susan Page (archive footage)",
-        "profile_path": "https://image.tmdb.org/t/p/original/4gORMootLaabKe3M4RDU6x2gHdo.jpg"
       }
     }
   },
@@ -27794,7 +27779,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Isabel Fezziwig (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/h3eXbOh8qcwyOo6GVmhBsbQXVfE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/7iUfpW6pTAwK2dkL47Y2rrNTlRs.jpg"
       },
       "Johnny Flynn": {
         "id": 137108,
