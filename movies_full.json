@@ -19392,7 +19392,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -26977,7 +26977,7 @@
       "Frank Meschkuleit": {
         "id": 1232230,
         "character": "Additional Performances (puppeteer)",
-        "profile_path": "https://image.tmdb.org/t/p/original/s0Rc4Vk112gBqd7qSqOI91tXcS2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/2EAMkz0z1pbr9weOY1Y7buy2AxV.jpg"
       }
     }
   },
@@ -31933,6 +31933,16 @@
         "id": 3842840,
         "character": "Dancer",
         "profile_path": "https://image.tmdb.org/t/p/original/A5kBQsHKbIptxJyELEpHQJROCRj.jpg"
+      },
+      "Trudy Erwin": {
+        "id": 2015873,
+        "character": "Judy Haynes (Singing) (Uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/dMCqWJKXKvqF40wWiZ2jzJ9yyVS.jpg"
+      },
+      "Gloria Wood": {
+        "id": 937785,
+        "character": "Judy Haynes (Singing) (Uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/fNNN3Wpgo7dYNzPYXGpiHjOpm6T.jpg"
       }
     }
   },
@@ -31953,7 +31963,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
