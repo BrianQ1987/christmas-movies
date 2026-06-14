@@ -4590,7 +4590,7 @@
     "released": "1986-12-06",
     "duration": 50,
     "imdb_id": "tt0099263",
-    "vote_average": "6.7",
+    "vote_average": "6.8",
     "overview": "It's Christmas Eve and the playroom is alive with excitement for the new toys that will arrive the next day. Balthazar, the old and wise bear, explains to the other toys that they must welcome the newcomers even though each of them may be replaced as one of the children's new favorite toys.",
     "genres": ["Family", "Comedy", "Fantasy", "Music", "TV Movie"],
     "imdb_score": "7.7/10",
@@ -9039,7 +9039,7 @@
     "released": "1970-12-20",
     "duration": 52,
     "imdb_id": "tt0445979",
-    "vote_average": "6.3",
+    "vote_average": "6.1",
     "overview": "Santa Claus and his elves are ready to deliver presents to children everywhere, but the evil wizard, Cosmo Scam, has hatched a plot to kidnap Santa and take his place! One by one, Cosmo abducts Santa’s elves and replaces them with his evil henchmen. Can Fred the Elf save Christmas before Cosmo burglarizes the world?",
     "genres": ["Adventure", "Comedy", "Family", "Fantasy", "TV Movie"],
     "imdb_score": "7.2/10",
@@ -15649,7 +15649,7 @@
     "released": "1979-12-05",
     "duration": 50,
     "imdb_id": "tt0194989",
-    "vote_average": "7.1",
+    "vote_average": "7.2",
     "overview": "In this beloved holiday classic, Kermit the Frog, Miss Piggy and all the Muppets join the singer for a heart-warming Christmas celebration, with traditional carols as well as lesser-known holiday songs.",
     "genres": ["Family", "Music", "Comedy", "TV Movie"],
     "imdb_score": "7.7/10",
@@ -19392,7 +19392,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -27819,7 +27819,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Isabel Fezziwig (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/7iUfpW6pTAwK2dkL47Y2rrNTlRs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/h3eXbOh8qcwyOo6GVmhBsbQXVfE.jpg"
       },
       "Johnny Flynn": {
         "id": 137108,
@@ -32003,7 +32003,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
