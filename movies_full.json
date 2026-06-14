@@ -19392,7 +19392,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -22786,7 +22786,7 @@
       "Nathan Fielder": {
         "id": 1212667,
         "character": "Joshua",
-        "profile_path": "https://image.tmdb.org/t/p/original/eHJEoEck6eFEVaumhCMWpIHtIIr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/y04nvHHiUWkQVjsEhYZIqXoHLYh.jpg"
       },
       "Heléne Yorke": {
         "id": 1465303,
@@ -27819,7 +27819,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Isabel Fezziwig (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/h3eXbOh8qcwyOo6GVmhBsbQXVfE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/7iUfpW6pTAwK2dkL47Y2rrNTlRs.jpg"
       },
       "Johnny Flynn": {
         "id": 137108,
@@ -31630,7 +31630,7 @@
       "Sandra Bullock": {
         "id": 18277,
         "character": "Lucy Eleanor Moderatz",
-        "profile_path": "https://image.tmdb.org/t/p/original/hPHGKPAWZ8gArYXMk225rrYPoyJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5pyso6iXs4nGz55tCOU6AfmPspZ.jpg"
       },
       "Bill Pullman": {
         "id": 8984,
@@ -32003,7 +32003,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
