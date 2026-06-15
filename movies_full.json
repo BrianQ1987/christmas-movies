@@ -15540,7 +15540,7 @@
       "Abraham Popoola": {
         "id": 1432064,
         "character": "Mr. Rogers",
-        "profile_path": "https://image.tmdb.org/t/p/original/qOTrfglDJaGLW3EipLL6k65Jpns.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/r5mojn6TjWgHefdMCJNiohvY82f.jpg"
       },
       "Gabriel Constantin": {
         "id": 1459975,
@@ -19392,7 +19392,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -19629,7 +19629,7 @@
       "Jack Gargan": {
         "id": 1034935,
         "character": "Chauffeur (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/vehuIm3y6BeMI7mYjxzaA1H8M0k.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/cvsQLSPvyG4OrXYDHlBbLXT7KB0.jpg"
       },
       "Jane Green": {
         "id": 1133920,
@@ -24215,6 +24215,11 @@
         "id": 54772,
         "character": "Andy Cohen (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/eZrNjW7RQgkhwfcBw0qGTLPVgf4.jpg"
+      },
+      "Tabitha Mixon": {
+        "id": 5113410,
+        "character": "Jogger",
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
       }
     }
   },
