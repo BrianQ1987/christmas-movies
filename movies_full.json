@@ -7614,7 +7614,7 @@
     "overview": "Brad and Kate have made something of an art form out of avoiding their families during the holidays, but this year their foolproof plan is about go bust -- big time. Stuck at the city airport after all departing flights are canceled, the couple is embarrassed to see their ruse exposed to the world by an overzealous television reporter. Now, Brad and Kate are left with precious little choice other than to swallow their pride and suffer the rounds.",
     "genres": ["Comedy", "Romance", "Drama"],
     "imdb_score": "5.7/10",
-    "rt_score": "25%",
+    "rt_score": "24%",
     "meta_score": "41/100",
     "director": "Seth Gordon",
     "cast": {
@@ -9437,8 +9437,8 @@
     "imdb_score": "6.4/10",
     "rt_score": "60%",
     "meta_score": "51/100",
-    "platforms": ["Netflix", "Amazon Prime Video", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Yarrow Cheney", "Scott Mosier"],
     "cast": {
       "Benedict Cumberbatch": {
@@ -19392,7 +19392,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
