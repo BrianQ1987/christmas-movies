@@ -19387,7 +19387,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -24950,7 +24950,7 @@
       "Denzel Washington": {
         "id": 5292,
         "character": "Dudley",
-        "profile_path": "https://image.tmdb.org/t/p/original/47nwbyEq5KWOhrP8zkHTwXv7Vd1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
       },
       "Whitney Houston": {
         "id": 8851,
@@ -28674,7 +28674,7 @@
     "released": "2023-11-30",
     "duration": 104,
     "imdb_id": "tt15799866",
-    "vote_average": "6.1",
+    "vote_average": "6.2",
     "overview": "A tormented father witnesses his young son die when caught in a gang's crossfire on Christmas Eve. While recovering from a wound that costs him his voice, he makes vengeance his life's mission and embarks on a punishing training regimen in order to avenge his son's death.",
     "genres": ["Action", "Thriller", "Crime", "Drama"],
     "imdb_score": "5.3/10",
@@ -31104,7 +31104,7 @@
       "Michael Cera": {
         "id": 39995,
         "character": "Jackie the Talent Agent",
-        "profile_path": "https://image.tmdb.org/t/p/original/qjhNKsw0OLyZQgK4srhelBafcCf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/lFKyW2C7xj7X4nWpOEbVIDGOKrH.jpg"
       },
       "George Clooney": {
         "id": 1461,
@@ -32003,7 +32003,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
