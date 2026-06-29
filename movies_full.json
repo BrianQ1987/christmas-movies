@@ -7965,7 +7965,7 @@
     "released": "2007-11-09",
     "duration": 115,
     "imdb_id": "tt0486583",
-    "vote_average": "5.9",
+    "vote_average": "5.8",
     "overview": "Fred Claus and Santa Claus have been estranged brothers for many years. Now Fred must reconcile his differences with his brother whom he believes overshadows him. When an efficiency expert assesses the workings at the North Pole and threatens to shut Santa down, Fred must help his brother to save Christmas.",
     "genres": ["Action", "Comedy", "Drama"],
     "imdb_score": "5.7/10",
@@ -12304,7 +12304,7 @@
     "released": "1995-11-02",
     "duration": 103,
     "imdb_id": "tt0113321",
-    "vote_average": "6.2",
+    "vote_average": "6.3",
     "overview": "After losing her job, making out with her soon-to-be former boss, and finding out that her daughter plans to spend Thanksgiving with her boyfriend, Claudia Larson faces spending the holiday with her unhinged family.",
     "genres": ["Comedy", "Drama", "Romance"],
     "imdb_score": "6.6/10",
@@ -14702,7 +14702,7 @@
         "character": "Building & Loan Board Member (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/rf5flpbljcYPr13ZAa9V5MKvAKn.jpg"
       },
-      "Charles C. Wilson": {
+      "Charles Cahill Wilson": {
         "id": 30160,
         "character": "Charlie (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/A6G7aPerIp3FbvXo3X4g1KwZztA.jpg"
@@ -17986,7 +17986,7 @@
       "Chiwetel Ejiofor": {
         "id": 5294,
         "character": "Peter",
-        "profile_path": "https://image.tmdb.org/t/p/original/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/pbnWjBsze67Fbr3gZAP1ZP407ZU.jpg"
       },
       "Gregor Fisher": {
         "id": 7053,
@@ -19387,7 +19387,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
