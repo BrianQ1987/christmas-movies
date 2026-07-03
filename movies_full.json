@@ -5714,7 +5714,7 @@
       "Daniel Bacon": {
         "id": 61187,
         "character": "Ed",
-        "profile_path": "https://image.tmdb.org/t/p/original/fhonQvc9zI2Vh6sDDpLB8fbvyLH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/sgY9taaUQ6cATpd4nWCq4wALqVm.jpg"
       },
       "Ken Kramer": {
         "id": 106950,
@@ -9645,6 +9645,11 @@
         "id": 86007,
         "character": "Additional Voices (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/7Um56ftGoxN6c5GxJSNckeARCDy.jpg"
+      },
+      "Kevin Hart": {
+        "id": 55638,
+        "character": "Snowball (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/byiNydUlM6oP8diA7WMvYbNM7a1.jpg"
       }
     }
   },
@@ -32003,7 +32008,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
