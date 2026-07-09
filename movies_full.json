@@ -2282,7 +2282,7 @@
     "released": "2019-12-11",
     "duration": 92,
     "imdb_id": "tt10481868",
-    "vote_average": "4.6",
+    "vote_average": "4.5",
     "overview": "A group of sorority pledges are stalked by a stranger during their Christmas break. That is until the young women discover that the killer is part of an underground campus conspiracy.",
     "genres": ["Horror", "Mystery"],
     "imdb_score": "3.5/10",
@@ -4842,7 +4842,7 @@
       "Molly Gordon": {
         "id": 1782117,
         "character": "Lauren Hesselberg",
-        "profile_path": "https://image.tmdb.org/t/p/original/9aetjZLHPK1U9k1fI3svTZYytRL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5sMIadZ0CIL7IUCJHnqO4ZFsdEM.jpg"
       },
       "Dorothy Silver": {
         "id": 1422439,
@@ -15797,7 +15797,7 @@
       "Ariel Winter": {
         "id": 42160,
         "character": "Harmony Age 7",
-        "profile_path": "https://image.tmdb.org/t/p/original/sJHJxZSWqVS7PhfMvg1PA0hj3ul.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/1h0XaXnieP5CdTAeRGuALBJmD4R.jpg"
       },
       "Duane Carnahan": {
         "id": 42163,
@@ -19392,7 +19392,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
