@@ -2288,8 +2288,8 @@
     "imdb_score": "3.5/10",
     "rt_score": "41%",
     "meta_score": "49/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Sophia Takal",
     "cast": {
       "Imogen Poots": {
@@ -7236,7 +7236,7 @@
         "character": "Red Magic",
         "profile_path": "https://image.tmdb.org/t/p/original/g8Gwitm4CtZBSYhLeSY4Z3Xwwcg.jpg"
       },
-      "Kiara T. Romero": {
+      "Kiara Romero": {
         "id": 2982884,
         "character": "Girl at Party",
         "profile_path": "https://image.tmdb.org/t/p/original/p9LGO09tpl6aqy0z4BEPWaztFJ6.jpg"
@@ -10072,7 +10072,7 @@
       "Anna Kendrick": {
         "id": 84223,
         "character": "Jenny",
-        "profile_path": "https://image.tmdb.org/t/p/original/awWu2Wdd5C9KmG4hhs840QZWpLU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/i2HIJQcBsUQ3o9HwEeDwou45D60.jpg"
       },
       "Melanie Lynskey": {
         "id": 15091,
@@ -10783,7 +10783,7 @@
       "Kate Winslet": {
         "id": 204,
         "character": "Iris",
-        "profile_path": "https://image.tmdb.org/t/p/original/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6qNnMsKtKz9si5rabpUEG85UfHp.jpg"
       },
       "Jude Law": {
         "id": 9642,
@@ -11945,7 +11945,7 @@
       "Tim Curry": {
         "id": 13472,
         "character": "Concierge",
-        "profile_path": "https://image.tmdb.org/t/p/original/lYVYVNsPDzeLL6ReCRhh8kezu4y.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg"
       },
       "Devin Ratray": {
         "id": 11516,
@@ -19392,7 +19392,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -23299,7 +23299,7 @@
     "plex": false,
     "watched": [2020, 2024],
     "added": 2020,
-    "poster_path": "https://image.tmdb.org/t/p/original/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/xX1r6CNO2iu7I6Cu66WOwyoWlH2.jpg",
     "title": "Noelle",
     "released": "2019-11-12",
     "duration": 100,
@@ -23317,7 +23317,7 @@
       "Anna Kendrick": {
         "id": 84223,
         "character": "Noelle Kringle",
-        "profile_path": "https://image.tmdb.org/t/p/original/awWu2Wdd5C9KmG4hhs840QZWpLU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/i2HIJQcBsUQ3o9HwEeDwou45D60.jpg"
       },
       "Shirley MacLaine": {
         "id": 4090,
@@ -23407,7 +23407,7 @@
       "Steven E. Rudy": {
         "id": 1947176,
         "character": "Elf Simon",
-        "profile_path": "https://image.tmdb.org/t/p/original/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xX1r6CNO2iu7I6Cu66WOwyoWlH2.jpg"
       },
       "Jagen Johnson": {
         "id": 1809714,
@@ -23417,7 +23417,7 @@
       "Kurtis D'Aoust": {
         "id": 5895210,
         "character": "Santa's Helper #1",
-        "profile_path": "https://image.tmdb.org/t/p/original/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xX1r6CNO2iu7I6Cu66WOwyoWlH2.jpg"
       },
       "Michael Delleva": {
         "id": 2674927,
@@ -23452,7 +23452,7 @@
       "Bentley Hixson": {
         "id": 5895224,
         "character": "Kid in the Crowd",
-        "profile_path": "https://image.tmdb.org/t/p/original/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xX1r6CNO2iu7I6Cu66WOwyoWlH2.jpg"
       },
       "Jackie Blackmore": {
         "id": 1927028,
@@ -23472,7 +23472,7 @@
       "Marisa Nielsen": {
         "id": 2636168,
         "character": "Lisa",
-        "profile_path": "https://image.tmdb.org/t/p/original/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xX1r6CNO2iu7I6Cu66WOwyoWlH2.jpg"
       },
       "Andy Nez": {
         "id": 1225999,
@@ -23492,7 +23492,7 @@
       "Ishaan Vasdev": {
         "id": 2694077,
         "character": "Ajeet",
-        "profile_path": "https://image.tmdb.org/t/p/original/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xX1r6CNO2iu7I6Cu66WOwyoWlH2.jpg"
       },
       "Jason Antoon": {
         "id": 130749,
@@ -23507,7 +23507,7 @@
       "Rian Rafiq": {
         "id": 5895243,
         "character": "Roberto",
-        "profile_path": "https://image.tmdb.org/t/p/original/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xX1r6CNO2iu7I6Cu66WOwyoWlH2.jpg"
       },
       "Jay Brazeau": {
         "id": 63791,
@@ -23522,7 +23522,7 @@
       "Viola Abley": {
         "id": 3176670,
         "character": "Tonya",
-        "profile_path": "https://image.tmdb.org/t/p/original/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xX1r6CNO2iu7I6Cu66WOwyoWlH2.jpg"
       },
       "Shauna Johannesen": {
         "id": 1057031,
@@ -23557,7 +23557,7 @@
       "Alex Rockhill": {
         "id": 2059886,
         "character": "Evelyn's Dad",
-        "profile_path": "https://image.tmdb.org/t/p/original/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xX1r6CNO2iu7I6Cu66WOwyoWlH2.jpg"
       },
       "Lissa Neptuno": {
         "id": 1881528,
@@ -23592,7 +23592,7 @@
       "Eleftheria Kinfe": {
         "id": 5895304,
         "character": "Homeless Daughter",
-        "profile_path": "https://image.tmdb.org/t/p/original/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xX1r6CNO2iu7I6Cu66WOwyoWlH2.jpg"
       },
       "Jesse Filkow": {
         "id": 1350803,
@@ -23602,7 +23602,7 @@
       "Cody Fitzgerald": {
         "id": 1775875,
         "character": "Elf Band #2",
-        "profile_path": "https://image.tmdb.org/t/p/original/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xX1r6CNO2iu7I6Cu66WOwyoWlH2.jpg"
       },
       "Ash Lee": {
         "id": 1581107,
@@ -23617,12 +23617,12 @@
       "Joel Ray Ishman": {
         "id": 3272986,
         "character": "DRM Security Guard (as Joel Ishman)",
-        "profile_path": "https://image.tmdb.org/t/p/original/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xX1r6CNO2iu7I6Cu66WOwyoWlH2.jpg"
       },
       "Luca Sammarcelli": {
         "id": 4742093,
         "character": "Jean",
-        "profile_path": "https://image.tmdb.org/t/p/original/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xX1r6CNO2iu7I6Cu66WOwyoWlH2.jpg"
       },
       "Taylor Bedford": {
         "id": 2173244,
@@ -23647,7 +23647,7 @@
       "Ines Sanchez-Nagakane": {
         "id": 4256179,
         "character": "Elf Tracey",
-        "profile_path": "https://image.tmdb.org/t/p/original/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xX1r6CNO2iu7I6Cu66WOwyoWlH2.jpg"
       },
       "Cara Mantella": {
         "id": 145320,
@@ -32008,7 +32008,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
