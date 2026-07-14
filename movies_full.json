@@ -4787,7 +4787,7 @@
       "Olivia Wilde": {
         "id": 59315,
         "character": "Eleanor Cooper",
-        "profile_path": "https://image.tmdb.org/t/p/original/jYopRE6nhYGqpb64fVUKrbJVMy1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/eODi1QKamyVa41eSK2SjU20VAZS.jpg"
       },
       "Marisa Tomei": {
         "id": 3141,
@@ -16371,7 +16371,7 @@
       "Emilia Clarke": {
         "id": 1223786,
         "character": "Kate  Andrich",
-        "profile_path": "https://image.tmdb.org/t/p/original/u59kTmNHXzaGZqokivxLPiBVIML.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/iFY6t7Ux9r70WB7Sp0TTVz6eGtm.jpg"
       },
       "Henry Golding": {
         "id": 1807132,
@@ -19392,7 +19392,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20195,7 +20195,7 @@
       "James Remar": {
         "id": 1736,
         "character": "Jack Duff",
-        "profile_path": "https://image.tmdb.org/t/p/original/ku0NZ1uq33gwRuJpZ84zHxpSCAK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/ctMVpFDKKWCty60lLORf3IoJcv9.jpg"
       },
       "Robert Prosky": {
         "id": 10360,
@@ -23190,7 +23190,7 @@
       "James Remar": {
         "id": 1736,
         "character": "Scott Turner",
-        "profile_path": "https://image.tmdb.org/t/p/original/ku0NZ1uq33gwRuJpZ84zHxpSCAK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/ctMVpFDKKWCty60lLORf3IoJcv9.jpg"
       },
       "Aaron Costa Ganis": {
         "id": 1467343,
@@ -28684,7 +28684,7 @@
     "released": "2023-11-30",
     "duration": 104,
     "imdb_id": "tt15799866",
-    "vote_average": "6.1",
+    "vote_average": "6.2",
     "overview": "A tormented father witnesses his young son die when caught in a gang's crossfire on Christmas Eve. While recovering from a wound that costs him his voice, he makes vengeance his life's mission and embarks on a punishing training regimen in order to avenge his son's death.",
     "genres": ["Action", "Thriller", "Crime", "Drama"],
     "imdb_score": "5.3/10",
@@ -32013,7 +32013,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
