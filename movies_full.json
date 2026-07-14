@@ -1193,7 +1193,7 @@
       "Alex Borstein": {
         "id": 24357,
         "character": "Milwaukee Mom with Photo",
-        "profile_path": "https://image.tmdb.org/t/p/original/kNzXi083vw5B0YnrJODwBAf84Aq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/g0OYqCNSa5N7zRVJl3J2FKV3LFj.jpg"
       },
       "Lorna Scott": {
         "id": 73456,
@@ -4807,7 +4807,7 @@
       "Alex Borstein": {
         "id": 24357,
         "character": "Angie Cooper",
-        "profile_path": "https://image.tmdb.org/t/p/original/kNzXi083vw5B0YnrJODwBAf84Aq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/g0OYqCNSa5N7zRVJl3J2FKV3LFj.jpg"
       },
       "Anthony Mackie": {
         "id": 53650,
@@ -17549,7 +17549,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Amy March",
-        "profile_path": "https://image.tmdb.org/t/p/original/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xZtmmhOE3pq4lnm1vmn9KkaW7eT.jpg"
       },
       "Eliza Scanlen": {
         "id": 1669125,
@@ -19392,7 +19392,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -24220,6 +24220,11 @@
         "id": 5113410,
         "character": "Jogger",
         "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
+      },
+      "Jim Matusik": {
+        "id": 6024906,
+        "character": "Mall Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/1jESjT0OMO216rG7Nq4ezISik91.jpg"
       }
     }
   },
