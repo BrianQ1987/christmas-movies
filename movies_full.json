@@ -7626,7 +7626,7 @@
       "Reese Witherspoon": {
         "id": 368,
         "character": "Kate",
-        "profile_path": "https://image.tmdb.org/t/p/original/o1z4UwW2137IViFIRk8AV8hWze1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/mfjunuTHrd0wnh8UG1ImMN9FSws.jpg"
       },
       "Robert Duvall": {
         "id": 3087,
@@ -19392,7 +19392,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20682,10 +20682,10 @@
     "poster_path": "https://image.tmdb.org/t/p/original/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
     "title": "The Muppet Christmas Carol",
     "released": "1992-12-11",
-    "duration": 86,
+    "duration": 89,
     "imdb_id": "tt0104940",
     "vote_average": "7.4",
-    "overview": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during night-time visitations by the Ghosts of Christmas Past, Present and Future.",
+    "overview": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during nighttime visitations by the Ghosts of Christmas Past, Present and Future.",
     "genres": ["Music", "Comedy", "Family", "Fantasy", "Drama"],
     "imdb_score": "7.8/10",
     "rt_score": "78%",
@@ -27829,7 +27829,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Isabel Fezziwig (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/qlDG2yykWO4LOP2ZReP0o6euFrE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/7iUfpW6pTAwK2dkL47Y2rrNTlRs.jpg"
       },
       "Johnny Flynn": {
         "id": 137108,
