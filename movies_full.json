@@ -4817,7 +4817,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Charlie Cooper",
-        "profile_path": "https://image.tmdb.org/t/p/original/fI6Zwvwo0KuUMfutTyHCTuWEIrx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/axENiFIrSz5B7UuWkMT7PDe7CaO.jpg"
       },
       "Blake Baumgartner": {
         "id": 1931911,
@@ -7696,7 +7696,7 @@
       "Skyler Gisondo": {
         "id": 61263,
         "character": "Connor McVie",
-        "profile_path": "https://image.tmdb.org/t/p/original/vyalCuJUUP7Ht1vMWZQzhOrscXV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/kKsTXDDF778AhTL9AIeULfI0z3S.jpg"
       },
       "Steve Wiebe": {
         "id": 76112,
@@ -10238,7 +10238,7 @@
     "imdb_id": "tt11417166",
     "vote_average": "4.9",
     "overview": "After a bank robber dressed as Santa Claus holds up a bank, a child disillusioned with Christmas encounters a man in the woods who, also dressed as Santa, claims to have fallen out of his sleigh. The pair strike up a friendship and go on an adventure.",
-    "genres": ["Family", "Adventure"],
+    "genres": ["Family", "Adventure", "Fantasy"],
     "imdb_score": "5.2/10",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
@@ -10292,6 +10292,76 @@
       "Cameron Tharmaratnam": {
         "id": 5686341,
         "character": "Member of Staff",
+        "profile_path": "https://image.tmdb.org/t/p/original/qQFl8UBxGhLrPZDgFpPUKEWBsbP.jpg"
+      },
+      "Daniel Lamont": {
+        "id": 2279935,
+        "character": "Five Year Old Boy",
+        "profile_path": "https://image.tmdb.org/t/p/original/tsOre4n8pgucuWGWJ0Hhvd7XFUe.jpg"
+      },
+      "Lemmy Black": {
+        "id": 6359244,
+        "character": "Driving Dad",
+        "profile_path": "https://image.tmdb.org/t/p/original/qQFl8UBxGhLrPZDgFpPUKEWBsbP.jpg"
+      },
+      "Peter Rethinasamy": {
+        "id": 4029636,
+        "character": "Wesley",
+        "profile_path": "https://image.tmdb.org/t/p/original/qQFl8UBxGhLrPZDgFpPUKEWBsbP.jpg"
+      },
+      "Barbara Blanka": {
+        "id": 6359245,
+        "character": "Dominika",
+        "profile_path": "https://image.tmdb.org/t/p/original/qQFl8UBxGhLrPZDgFpPUKEWBsbP.jpg"
+      },
+      "Saahil Bali": {
+        "id": 6359246,
+        "character": "Young Man",
+        "profile_path": "https://image.tmdb.org/t/p/original/qQFl8UBxGhLrPZDgFpPUKEWBsbP.jpg"
+      },
+      "Keith Thanni": {
+        "id": 1789451,
+        "character": "Middle Aged Man",
+        "profile_path": "https://image.tmdb.org/t/p/original/qQFl8UBxGhLrPZDgFpPUKEWBsbP.jpg"
+      },
+      "John Heathwood": {
+        "id": 5608792,
+        "character": "Black Santa",
+        "profile_path": "https://image.tmdb.org/t/p/original/qQFl8UBxGhLrPZDgFpPUKEWBsbP.jpg"
+      },
+      "Sean Sloan": {
+        "id": 2173708,
+        "character": "Newsagent",
+        "profile_path": "https://image.tmdb.org/t/p/original/ve7br6xJn1tjaMfzgkCJDNF3z8E.jpg"
+      },
+      "Catriona McFeely": {
+        "id": 5610510,
+        "character": "TV Reporter",
+        "profile_path": "https://image.tmdb.org/t/p/original/vX0OJdGongvvGYcQDz1Cw7zBbaz.jpg"
+      },
+      "Claire Kieran McGrogan": {
+        "id": 5388144,
+        "character": "Customer",
+        "profile_path": "https://image.tmdb.org/t/p/original/qQFl8UBxGhLrPZDgFpPUKEWBsbP.jpg"
+      },
+      "Rosamund Monteith": {
+        "id": 3291964,
+        "character": "Old Lady",
+        "profile_path": "https://image.tmdb.org/t/p/original/qQFl8UBxGhLrPZDgFpPUKEWBsbP.jpg"
+      },
+      "Brian Devlin": {
+        "id": 1273108,
+        "character": "Drunk",
+        "profile_path": "https://image.tmdb.org/t/p/original/qQFl8UBxGhLrPZDgFpPUKEWBsbP.jpg"
+      },
+      "Hugh Irvine": {
+        "id": 1735677,
+        "character": "Interviewed Police Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/qQFl8UBxGhLrPZDgFpPUKEWBsbP.jpg"
+      },
+      "Remi Shore": {
+        "id": 3806006,
+        "character": "Delivery Man (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/qQFl8UBxGhLrPZDgFpPUKEWBsbP.jpg"
       }
     }
@@ -14754,6 +14824,11 @@
         "character": "Ted Maltin",
         "profile_path": "https://image.tmdb.org/t/p/original/m3QyeaVLzIo2fZJZaGbJalfD56t.jpg"
       },
+      "Jake Lloyd": {
+        "id": 33196,
+        "character": "Jamie Langston",
+        "profile_path": "https://image.tmdb.org/t/p/original/tp5PRiy8Ip8Vs70pUY1jeHbk2wH.jpg"
+      },
       "Rita Wilson": {
         "id": 12931,
         "character": "Liz Langston",
@@ -14768,11 +14843,6 @@
         "id": 80742,
         "character": "D.J.",
         "profile_path": "https://image.tmdb.org/t/p/original/wthyliVHLrgvKUIRI1WXfEw9pjL.jpg"
-      },
-      "Jake Lloyd": {
-        "id": 33196,
-        "character": "Jamie Langston",
-        "profile_path": "https://image.tmdb.org/t/p/original/tp5PRiy8Ip8Vs70pUY1jeHbk2wH.jpg"
       },
       "Jim Belushi": {
         "id": 26485,
@@ -15450,7 +15520,7 @@
       "Keegan-Michael Key": {
         "id": 298410,
         "character": "Gustafson",
-        "profile_path": "https://image.tmdb.org/t/p/original/vAR5gVXRG2Cl6WskXT99wgkAoH8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xmdzYXP9j87a43FSiL138nLesuS.jpg"
       },
       "Hugh Bonneville": {
         "id": 19923,
@@ -17564,7 +17634,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Laurie",
-        "profile_path": "https://image.tmdb.org/t/p/original/fI6Zwvwo0KuUMfutTyHCTuWEIrx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/axENiFIrSz5B7UuWkMT7PDe7CaO.jpg"
       },
       "Tracy Letts": {
         "id": 72638,
@@ -19392,7 +19462,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -28859,7 +28929,7 @@
       "Jennifer Robertson": {
         "id": 87571,
         "character": "Lisa",
-        "profile_path": "https://image.tmdb.org/t/p/original/poEzn35CILuG3dtCRrTocU2TC2d.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/rcW3yjiTterP25AB1K2oXnnlvqS.jpg"
       },
       "Barry Bostwick": {
         "id": 13473,
@@ -32013,7 +32083,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
