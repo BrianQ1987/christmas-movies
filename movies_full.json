@@ -966,7 +966,7 @@
       "Rhys Darby": {
         "id": 82666,
         "character": "Lead Elf (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/sNqkHHVrH7vA1NUFwkA6MaNt3EZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/65Zy72IsUjopCkRt0s55Tk68GIm.jpg"
       },
       "Jane Horrocks": {
         "id": 34902,
@@ -8788,8 +8788,8 @@
     "imdb_score": "5.8/10",
     "rt_score": "27%",
     "meta_score": "34/100",
-    "platforms": ["Netflix", "Amazon Prime Video"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"],
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Mark Waters",
     "cast": {
       "Matthew McConaughey": {
@@ -15719,7 +15719,7 @@
     "released": "1979-12-05",
     "duration": 50,
     "imdb_id": "tt0194989",
-    "vote_average": "7.2",
+    "vote_average": "7.1",
     "overview": "In this beloved holiday classic, Kermit the Frog, Miss Piggy and all the Muppets join the singer for a heart-warming Christmas celebration, with traditional carols as well as lesser-known holiday songs.",
     "genres": ["Family", "Music", "Comedy", "TV Movie"],
     "imdb_score": "7.7/10",
@@ -23954,7 +23954,7 @@
       "Felicity Jones": {
         "id": 72855,
         "character": "Channing",
-        "profile_path": "https://image.tmdb.org/t/p/original/fyhWRmxpTEYl5d8DnkIo6i8RdWJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/ywXf5fLAYLlwK5JRn6UrMMsBnwb.jpg"
       },
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -27899,7 +27899,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Isabel Fezziwig (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/7iUfpW6pTAwK2dkL47Y2rrNTlRs.jpg"
       },
       "Johnny Flynn": {
         "id": 137108,
@@ -28665,7 +28665,7 @@
       "Annabelle Wallis": {
         "id": 82809,
         "character": "Sandra",
-        "profile_path": "https://image.tmdb.org/t/p/original/b6PltW1e18BdmRz3nKZ7ID9uZ24.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/2ZmO2Zz9TcR0rmSJHOkivcu0heR.jpg"
       },
       "Lily-Rose Depp": {
         "id": 1459885,
@@ -29126,7 +29126,7 @@
       "Rose Byrne": {
         "id": 9827,
         "character": "Ms. Blansky",
-        "profile_path": "https://image.tmdb.org/t/p/original/4Vd7w19asuBfUGgz0NIuQI5wxIA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/4oQWCLK7gd6RNKF0WJipJo7TyFP.jpg"
       },
       "Matt Cardenes": {
         "id": 3792344,
@@ -32083,7 +32083,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
