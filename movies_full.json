@@ -10913,7 +10913,7 @@
       "Kathryn Hahn": {
         "id": 17696,
         "character": "Bristol",
-        "profile_path": "https://image.tmdb.org/t/p/original/dh6MQiVHCnH3YS12ZjcI75FDFJK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg"
       },
       "John Krasinski": {
         "id": 17697,
@@ -16456,7 +16456,7 @@
       "Emma Thompson": {
         "id": 7056,
         "character": "Petra Andrich",
-        "profile_path": "https://image.tmdb.org/t/p/original/xVrrH7dAoeotune3TWjv5Tr3F3U.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg"
       },
       "Lydia Leonard": {
         "id": 82807,
@@ -19462,7 +19462,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -25498,7 +25498,7 @@
     "imdb_id": "tt14948432",
     "vote_average": "7",
     "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
-    "genres": ["Action", "Comedy", "Fantasy"],
+    "genres": ["Action", "Adventure", "Comedy", "Fantasy"],
     "imdb_score": "6.2/10",
     "rt_score": "29%",
     "meta_score": "34/100",
@@ -26182,7 +26182,7 @@
     "imdb_id": "tt0058536",
     "vote_average": "7.4",
     "overview": "Sam the snowman tells us the story of a young red-nosed reindeer who, after being ousted from the reindeer games because of his glowing nose, teams up with Hermey, an elf who wants to be a dentist, and Yukon Cornelius, the prospector. They run into the Abominable Snowman and find a whole island of misfit toys. Rudolph vows to see if he can get Santa to help the toys, and he goes back to the North Pole on Christmas Eve. But Santa's sleigh is fogged in. But when Santa looks over Rudolph, he gets a very bright idea...",
-    "genres": ["Animation", "Family", "TV Movie", "Adventure", "Fantasy"],
+    "genres": ["Animation", "Family", "Adventure", "Fantasy"],
     "imdb_score": "8.0/10",
     "rt_score": "95%",
     "platforms": "Plex",
@@ -26204,19 +26204,14 @@
         "character": "Yukon Cornelius (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/xjAElUhXuc7zFJPj3qUHjcySNsE.jpg"
       },
+      "Paul Soles": {
+        "id": 1215283,
+        "character": "Hermey (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/96fdxpuz3gUUMWhvpPQXrsiUGmh.jpg"
+      },
       "Stan Francis": {
         "id": 144605,
         "character": "Santa Claus / King Moonracer (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/xjAElUhXuc7zFJPj3qUHjcySNsE.jpg"
-      },
-      "Paul Kligman": {
-        "id": 1012146,
-        "character": "Donner / Clarice's Father / Comet the Coach (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/xjAElUhXuc7zFJPj3qUHjcySNsE.jpg"
-      },
-      "Janis Orenstein": {
-        "id": 1126836,
-        "character": "Clarice (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/xjAElUhXuc7zFJPj3qUHjcySNsE.jpg"
       },
       "Alfie Scopp": {
@@ -26224,25 +26219,30 @@
         "character": "Charlie-in-the-Box / Other Reindeer (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/xjAElUhXuc7zFJPj3qUHjcySNsE.jpg"
       },
+      "Janis Orenstein": {
+        "id": 1126836,
+        "character": "Clarice (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/xjAElUhXuc7zFJPj3qUHjcySNsE.jpg"
+      },
+      "Paul Kligman": {
+        "id": 1012146,
+        "character": "Donner / Clarice's Father / Comet the Coach (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/xjAElUhXuc7zFJPj3qUHjcySNsE.jpg"
+      },
       "Carl Banas": {
         "id": 219027,
         "character": "Head Elf / Spotted Elephant / Other Toys (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/3mfvy178KRrKp7JKqwejCMACwEp.jpg"
       },
-      "Peg Dixon": {
-        "id": 1012147,
-        "character": "Mrs. Donner / Others (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/Uzq5erjo25AuXBC17iMWdPEE5q.jpg"
-      },
-      "Paul Soles": {
-        "id": 1215283,
-        "character": "Hermey (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/96fdxpuz3gUUMWhvpPQXrsiUGmh.jpg"
-      },
       "Corinne Conley": {
         "id": 157319,
         "character": "Doll / Others (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/tFxfNo6DER4wuS6x47MIXX9qPdy.jpg"
+      },
+      "Peg Dixon": {
+        "id": 1012147,
+        "character": "Mrs. Donner / Others (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/Uzq5erjo25AuXBC17iMWdPEE5q.jpg"
       }
     }
   },
