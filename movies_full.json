@@ -6298,7 +6298,7 @@
       "Andy Richter": {
         "id": 28637,
         "character": "Morris",
-        "profile_path": "https://image.tmdb.org/t/p/original/5Qr7N6TzC8cI0ULxDm6EC5GpZ4C.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/zaURoCFYhzzgmJ2GYZqIkhWACm6.jpg"
       },
       "Kyle Gass": {
         "id": 22297,
@@ -9443,12 +9443,12 @@
     "cast": {
       "Benedict Cumberbatch": {
         "id": 71580,
-        "character": "Grinch (voice)",
+        "character": "The Grinch (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
       },
       "Rashida Jones": {
         "id": 80591,
-        "character": "Donna Lou Who (voice)",
+        "character": "Donna Who (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/cgWGm9eYCretBWeljPVtpRV7n6V.jpg"
       },
       "Kenan Thompson": {
@@ -9458,7 +9458,7 @@
       },
       "Cameron Seely": {
         "id": 1952744,
-        "character": "Cindy Lou Who (voice)",
+        "character": "Cindy-Lou Who (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/btT8UCFUlhDR1NE4bFc2kj9gYWF.jpg"
       },
       "Angela Lansbury": {
@@ -9862,7 +9862,7 @@
       "Kristen Stewart": {
         "id": 37917,
         "character": "Abby",
-        "profile_path": "https://image.tmdb.org/t/p/original/xldswdQ1VnpcOf2wZMPguZ3avgO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/nThfzR0nBamTyv2OIMz9udSXXB2.jpg"
       },
       "Mackenzie Davis": {
         "id": 1110405,
@@ -17101,7 +17101,7 @@
       "Mary Astor": {
         "id": 13992,
         "character": "Marmee",
-        "profile_path": "https://image.tmdb.org/t/p/original/g5iKOHKkpTAQUNOodgCEInrmtiU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5Gzkt7ntonkqcPVIxJIlfUWw8kn.jpg"
       },
       "Lucile Watson": {
         "id": 83260,
@@ -17669,7 +17669,7 @@
       "Meryl Streep": {
         "id": 5064,
         "character": "Aunt March",
-        "profile_path": "https://image.tmdb.org/t/p/original/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/emAAzyK1rJ6aiMi0wsWYp51EC3h.jpg"
       },
       "Rafael Silva": {
         "id": 2503394,
@@ -18840,7 +18840,7 @@
       "Mary Astor": {
         "id": 13992,
         "character": "Anna Smith",
-        "profile_path": "https://image.tmdb.org/t/p/original/g5iKOHKkpTAQUNOodgCEInrmtiU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5Gzkt7ntonkqcPVIxJIlfUWw8kn.jpg"
       },
       "Lucille Bremer": {
         "id": 13993,
@@ -19462,7 +19462,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -27632,7 +27632,7 @@
       "Alec Guinness": {
         "id": 12248,
         "character": "Jacob Marley's Ghost",
-        "profile_path": "https://image.tmdb.org/t/p/original/q9QgiNDEO6lbi7uMAOw0OgWn8DG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qaN3cZdd2pvKaOXIIJ5BXnbjPp3.jpg"
       },
       "Edith Evans": {
         "id": 45465,
@@ -28754,7 +28754,7 @@
     "released": "2023-11-30",
     "duration": 104,
     "imdb_id": "tt15799866",
-    "vote_average": "6.1",
+    "vote_average": "6.2",
     "overview": "A tormented father witnesses his young son die when caught in a gang's crossfire on Christmas Eve. While recovering from a wound that costs him his voice, he makes vengeance his life's mission and embarks on a punishing training regimen in order to avenge his son's death.",
     "genres": ["Action", "Thriller", "Crime", "Drama"],
     "imdb_score": "5.3/10",
@@ -32083,7 +32083,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
