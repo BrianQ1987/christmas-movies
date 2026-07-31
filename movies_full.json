@@ -4787,7 +4787,7 @@
       "Olivia Wilde": {
         "id": 59315,
         "character": "Eleanor Cooper",
-        "profile_path": "https://image.tmdb.org/t/p/original/eODi1QKamyVa41eSK2SjU20VAZS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/saiDRysNKkOcldXVoR6hQw0kcYg.jpg"
       },
       "Marisa Tomei": {
         "id": 3141,
@@ -7696,7 +7696,7 @@
       "Skyler Gisondo": {
         "id": 61263,
         "character": "Connor McVie",
-        "profile_path": "https://image.tmdb.org/t/p/original/kKsTXDDF778AhTL9AIeULfI0z3S.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/vyalCuJUUP7Ht1vMWZQzhOrscXV.jpg"
       },
       "Steve Wiebe": {
         "id": 76112,
@@ -8223,7 +8223,7 @@
       "Charlie Condou": {
         "id": 219902,
         "character": "Elf",
-        "profile_path": "https://image.tmdb.org/t/p/original/9gATbvoRMxVeoHInwS8nR0KZMVc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/v8CnIe9OX0FGWcLCtQy689Z0fUI.jpg"
       },
       "Melody Hollis": {
         "id": 997211,
@@ -17101,7 +17101,7 @@
       "Mary Astor": {
         "id": 13992,
         "character": "Marmee",
-        "profile_path": "https://image.tmdb.org/t/p/original/5Gzkt7ntonkqcPVIxJIlfUWw8kn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/jeZ8NZ2vf1kIgq4YrDZ2Ae2QN5m.jpg"
       },
       "Lucile Watson": {
         "id": 83260,
@@ -18840,7 +18840,7 @@
       "Mary Astor": {
         "id": 13992,
         "character": "Anna Smith",
-        "profile_path": "https://image.tmdb.org/t/p/original/5Gzkt7ntonkqcPVIxJIlfUWw8kn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/jeZ8NZ2vf1kIgq4YrDZ2Ae2QN5m.jpg"
       },
       "Lucille Bremer": {
         "id": 13993,
@@ -19462,7 +19462,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20555,7 +20555,7 @@
       "Juliette Lewis": {
         "id": 3196,
         "character": "Gracie Barzini",
-        "profile_path": "https://image.tmdb.org/t/p/original/vvitS2sZSM9RupCf5B0sZYNS6wT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/sSGCW01aUsYlVQhuk3XSY7cl6Ww.jpg"
       },
       "Anthony LaPaglia": {
         "id": 57829,
@@ -28784,7 +28784,7 @@
     "released": "2023-11-30",
     "duration": 104,
     "imdb_id": "tt15799866",
-    "vote_average": "6.2",
+    "vote_average": "6.1",
     "overview": "A tormented father witnesses his young son die when caught in a gang's crossfire on Christmas Eve. While recovering from a wound that costs him his voice, he makes vengeance his life's mission and embarks on a punishing training regimen in order to avenge his son's death.",
     "genres": ["Action", "Thriller", "Crime", "Drama"],
     "imdb_score": "5.3/10",
@@ -32113,7 +32113,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
