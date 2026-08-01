@@ -4787,7 +4787,7 @@
       "Olivia Wilde": {
         "id": 59315,
         "character": "Eleanor Cooper",
-        "profile_path": "https://image.tmdb.org/t/p/original/saiDRysNKkOcldXVoR6hQw0kcYg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/eODi1QKamyVa41eSK2SjU20VAZS.jpg"
       },
       "Marisa Tomei": {
         "id": 3141,
@@ -19462,7 +19462,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -24325,6 +24325,21 @@
         "id": 6024906,
         "character": "Mall Patron (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/1jESjT0OMO216rG7Nq4ezISik91.jpg"
+      },
+      "Steve Martin": {
+        "id": 67773,
+        "character": "Neal Page (archive footage)",
+        "profile_path": "https://image.tmdb.org/t/p/original/d0KthX8hVWU9BxTCG1QUO8FURRm.jpg"
+      },
+      "John Candy": {
+        "id": 7180,
+        "character": "Del Griffith (Archive Footage)",
+        "profile_path": "https://image.tmdb.org/t/p/original/uvLWbMDE6UfWNF5tfrsrC9NqeEA.jpg"
+      },
+      "Laila Robins": {
+        "id": 27260,
+        "character": "Susan Page (archive footage)",
+        "profile_path": "https://image.tmdb.org/t/p/original/4gORMootLaabKe3M4RDU6x2gHdo.jpg"
       }
     }
   },
@@ -32113,7 +32128,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
