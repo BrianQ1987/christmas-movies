@@ -1720,7 +1720,7 @@
       "Cary Grant": {
         "id": 2638,
         "character": "Dudley",
-        "profile_path": "https://image.tmdb.org/t/p/original/rUaQTKw7hNcEvZyFaahIpqiiiWv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/lcNAirMFcyM7WIiCmaabjbNZVOJ.jpg"
       },
       "Loretta Young": {
         "id": 85848,
@@ -12364,7 +12364,7 @@
       },
       "Frank Oz": {
         "id": 7908,
-        "character": "Man putting money into donation bucket (uncredited)",
+        "character": "Man Putting Money into Donation Bucket (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg"
       }
     }
@@ -15489,6 +15489,11 @@
         "id": 3476219,
         "character": "Party Guest (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/fWEFpxF6Om56AH5EM0hNXF1p1mu.jpg"
+      },
+      "Pierre Bergman": {
+        "id": 5334914,
+        "character": "Rich Man at Gala",
+        "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
       }
     }
   },
@@ -18823,8 +18828,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "99%",
     "meta_score": "94/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Vincente Minnelli",
     "cast": {
       "Judy Garland": {
@@ -21476,7 +21481,7 @@
       "Cary Grant": {
         "id": 2638,
         "character": "Nick Arden",
-        "profile_path": "https://image.tmdb.org/t/p/original/rUaQTKw7hNcEvZyFaahIpqiiiWv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/lcNAirMFcyM7WIiCmaabjbNZVOJ.jpg"
       },
       "Irene Dunne": {
         "id": 77158,
