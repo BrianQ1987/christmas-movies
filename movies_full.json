@@ -5612,8 +5612,8 @@
     "imdb_score": "5.1/10",
     "rt_score": "6%",
     "meta_score": "28/100",
-    "platforms": ["Amazon Prime Video", "Disney Plus"],
-    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg"],
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "John Whitesell",
     "cast": {
       "Danny DeVito": {
@@ -8830,7 +8830,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Allison Vandermeersh",
-        "profile_path": "https://image.tmdb.org/t/p/original/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/t7EYLBMWQiIDtCoOYZjvqXV84S5.jpg"
       },
       "Daniel Sunjata": {
         "id": 10582,
@@ -19467,7 +19467,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -21447,7 +21447,7 @@
       "Paul T. Gosselin": {
         "id": 2595790,
         "character": "Postal Customer",
-        "profile_path": "https://image.tmdb.org/t/p/original/zDxpOQi7kkokDLxZkVQhejp2VHu.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/s3dZA83MeFMzhIXQab3mnEMYiAa.jpg"
       },
       "Bill Timoney": {
         "id": 110045,
