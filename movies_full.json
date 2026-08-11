@@ -9482,7 +9482,7 @@
       "Scarlett Estevez": {
         "id": 1512021,
         "character": "Izzy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/ptV6Ksq5jdzZ6gARJDhkItPxVQi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/eGZsZRPJ0aUBGaght37a3pQXEjs.jpg"
       },
       "Michael Beattie": {
         "id": 73476,
@@ -19463,7 +19463,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -32129,7 +32129,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
