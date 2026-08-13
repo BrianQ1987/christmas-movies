@@ -4692,7 +4692,7 @@
       "George Wendt": {
         "id": 66606,
         "character": "Robert",
-        "profile_path": "https://image.tmdb.org/t/p/original/n1qcHGQnMu10z0w227R5eE1XbxC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/16jaUH9MzkxuIEex1MTETJvy5AV.jpg"
       },
       "JoAnna Garcia Swisher": {
         "id": 99206,
@@ -25916,6 +25916,11 @@
         "id": 570968,
         "character": "Military Partygoer (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg"
+      },
+      "Spencer Leach": {
+        "id": 6288770,
+        "character": "Background Reindeer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg"
       }
     }
   },
@@ -31064,7 +31069,7 @@
       "Catherine Deneuve": {
         "id": 50,
         "character": "Junon",
-        "profile_path": "https://image.tmdb.org/t/p/original/oDaIezXUMXr1KPLCjnyeA2koAnV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/rG0FuNR4INt2RcziqFVH0Gslc9z.jpg"
       },
       "Jean-Paul Roussillon": {
         "id": 24467,
@@ -32129,7 +32134,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
