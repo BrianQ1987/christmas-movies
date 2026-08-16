@@ -1384,7 +1384,7 @@
       "Ernie Kovacs": {
         "id": 20602,
         "character": "Sidney Redlitch",
-        "profile_path": "https://image.tmdb.org/t/p/original/z3MLtVFPT2wIkKCBSE2yBgDmeXI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/lMcHcZ9dmRvZadTkh6gRLfBEy5Q.jpg"
       },
       "Hermione Gingold": {
         "id": 20603,
@@ -14801,8 +14801,8 @@
     "imdb_score": "5.8/10",
     "rt_score": "20%",
     "meta_score": "34/100",
-    "platforms": ["Netflix", "Disney Plus"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg"],
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Brian Levant",
     "cast": {
       "Arnold Schwarzenegger": {
@@ -15576,7 +15576,7 @@
       "Diaana Babnicova": {
         "id": 2812421,
         "character": "Young Jessica",
-        "profile_path": "https://image.tmdb.org/t/p/original/kWWQWs2EADkytaNnbiyTL0rxlvN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/loGzfhm7zs8QrTMGelif0UcUUi2.jpg"
       },
       "Ria Calvin": {
         "id": 2855821,
@@ -19463,7 +19463,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20264,8 +20264,8 @@
     "genres": ["Fantasy", "Drama", "Family"],
     "imdb_score": "6.6/10",
     "rt_score": "59%",
-    "platforms": ["Netflix", "Disney Plus", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Disney Plus", "Plex"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Les Mayfield",
     "cast": {
       "Mara Wilson": {
@@ -23990,7 +23990,7 @@
       "Chloë Grace Moretz": {
         "id": 56734,
         "character": "Taylor",
-        "profile_path": "https://image.tmdb.org/t/p/original/x2cR7aYB8OoruEY1mpJqGOHYYy9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/yq4rYmaTRC5degaOYmJQFpaiho1.jpg"
       },
       "Dominic Sessa": {
         "id": 3918497,
