@@ -5610,8 +5610,8 @@
     "imdb_score": "5.1/10",
     "rt_score": "6%",
     "meta_score": "28/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+    "platforms": ["Disney Plus", "Channel 4"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
     "director": "John Whitesell",
     "cast": {
       "Danny DeVito": {
@@ -16449,7 +16449,7 @@
         "character": "Tom Webster",
         "profile_path": "https://image.tmdb.org/t/p/original/zWZDvqMInsficgm4o3W2cRJ6tmn.jpg"
       },
-      "Michelle Yeoh": {
+      "楊紫瓊": {
         "id": 1620,
         "character": "Santa",
         "profile_path": "https://image.tmdb.org/t/p/original/i6fHvGt7Rb8oVyjjdQVV6vEHB94.jpg"
@@ -19463,7 +19463,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -31704,7 +31704,7 @@
       "David Duchovny": {
         "id": 12640,
         "character": "Bill",
-        "profile_path": "https://image.tmdb.org/t/p/original/rZ2pEvu9IYsnHx3ElWUy4KgK3ia.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/fD8GuLHOOSSAG98VjwN3NhAmqAJ.jpg"
       },
       "Rob Gilchrist": {
         "id": 4840944,
@@ -32129,7 +32129,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
