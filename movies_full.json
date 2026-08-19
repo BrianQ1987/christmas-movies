@@ -7644,7 +7644,7 @@
       "Jon Voight": {
         "id": 10127,
         "character": "Creighton",
-        "profile_path": "https://image.tmdb.org/t/p/original/oxLsItDwLddXu8YYJCfkddYNejL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/bmfwKaLxUt4qck2UJgm2maWVMTR.jpg"
       },
       "Kristin Chenoweth": {
         "id": 52775,
@@ -11188,7 +11188,7 @@
     "released": "1949-12-12",
     "duration": 87,
     "imdb_id": "tt0041473",
-    "vote_average": "6.9",
+    "vote_average": "6.8",
     "overview": "Just before Christmas, department store clerk Steve Mason meets big spending customer Connie Ennis, who's actually a comparison shopper sent by another store. Steve lets her go, which gets him fired. They spend the afternoon together, which doesn't sit well with Connie's steady suitor, Carl, when he finds out, but delights her young son Timmy, who quickly takes to Steve.",
     "genres": ["Comedy", "Romance", "Drama"],
     "imdb_score": "7.1/10",
@@ -19451,7 +19451,7 @@
     "plex": false,
     "watched": 2022,
     "added": 2022,
-    "poster_path": "https://image.tmdb.org/t/p/original/b6h6HwucncSxn06sMNROJ9apLC5.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/jHl15NgLPBdUsXgIZzrgBB1QJcc.jpg",
     "title": "Mickey's Once Upon a Christmas",
     "released": "1999-10-31",
     "duration": 66,
@@ -19463,7 +19463,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -19533,17 +19533,17 @@
       "Kylie Dempsey": {
         "id": 1506224,
         "character": "Kid #2 / Little Girl (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/b6h6HwucncSxn06sMNROJ9apLC5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/jHl15NgLPBdUsXgIZzrgBB1QJcc.jpg"
       },
       "Taylor Dempsey": {
         "id": 116869,
         "character": "Kid #1 / Little Jimmy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/b6h6HwucncSxn06sMNROJ9apLC5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/jHl15NgLPBdUsXgIZzrgBB1QJcc.jpg"
       },
       "Andrew McDonough": {
         "id": 1381842,
         "character": "Poor Boy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/b6h6HwucncSxn06sMNROJ9apLC5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/jHl15NgLPBdUsXgIZzrgBB1QJcc.jpg"
       },
       "Pat Musick": {
         "id": 35349,
@@ -21482,7 +21482,7 @@
       "Irene Dunne": {
         "id": 77158,
         "character": "Ellen Wagstaff Arden",
-        "profile_path": "https://image.tmdb.org/t/p/original/nyjWr6mGmRUDRiip3k8ajy2s9DL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/tCJNe0ysmW0Tarn7VUAEPVAkfmY.jpg"
       },
       "Randolph Scott": {
         "id": 1009,
@@ -23519,11 +23519,6 @@
         "id": 5895210,
         "character": "Santa's Helper #1",
         "profile_path": "https://image.tmdb.org/t/p/original/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg"
-      },
-      "Michael Delleva": {
-        "id": 2674927,
-        "character": "Santa's Helper #2",
-        "profile_path": "https://image.tmdb.org/t/p/original/nQfXiSmnSkLHJ0nnXrdLOW6opaD.jpg"
       },
       "Emma Pedersen": {
         "id": 1545671,
