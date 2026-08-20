@@ -387,7 +387,7 @@
     "released": "1991-11-08",
     "duration": 92,
     "imdb_id": "tt0101301",
-    "vote_average": "5.7",
+    "vote_average": "5.6",
     "overview": "Siblings Ethan and Hallie O'Fallon plot to get their divorced parents back together in time for Christmas.",
     "genres": ["Family", "Drama", "Comedy"],
     "imdb_score": "5.9/10",
@@ -7679,7 +7679,7 @@
       "Colleen Camp": {
         "id": 13023,
         "character": "Aunt Donna",
-        "profile_path": "https://image.tmdb.org/t/p/original/hNAIkUVtsQfpC95BDkXr1lmoI2F.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dGFq8Svh1oBRW9oRLbWfq6x9WAW.jpg"
       },
       "Jack Donner": {
         "id": 16052,
@@ -19463,7 +19463,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -32124,7 +32124,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
