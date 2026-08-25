@@ -19463,7 +19463,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -21237,7 +21237,7 @@
     "released": "2008-12-17",
     "duration": 43,
     "imdb_id": "tt1292569",
-    "vote_average": "6",
+    "vote_average": "5.9",
     "overview": "When Gonzo forgets to mail three letters to Santa, he convinces Kermit and the gang to help him deliver the notes to the North Pole. Along the way, they discover that Christmas is the time to be with those you care about most, as they dash home to make a friends Christmas wish come true.",
     "genres": ["Family", "Comedy", "Adventure", "TV Movie"],
     "imdb_score": "6.3/10",
@@ -24555,30 +24555,30 @@
         "character": "Cameron",
         "profile_path": "https://image.tmdb.org/t/p/original/54FaWVPJUyLQ85Bw3uiY9bBLsBb.jpg"
       },
-      "Dan Bucatinsky": {
-        "id": 87034,
-        "character": "Leonard",
-        "profile_path": "https://image.tmdb.org/t/p/original/5MmGUnWjNeOwcWhndqhQPi7URvv.jpg"
+      "Katie Baker": {
+        "id": 1691525,
+        "character": "Cassie",
+        "profile_path": "https://image.tmdb.org/t/p/original/o3jw951TWprmjrQhWlupYCSvriE.jpg"
       },
       "Jake Brennan": {
         "id": 1393311,
         "character": "Callum",
         "profile_path": "https://image.tmdb.org/t/p/original/fihlJUyYiWesrmdqgjjrtUy69rH.jpg"
       },
-      "Judy Reyes": {
-        "id": 159657,
-        "character": "Margaret",
-        "profile_path": "https://image.tmdb.org/t/p/original/DQ8kIRHru9Zzy6CftVryHmIOJs.jpg"
-      },
-      "Katie Baker": {
-        "id": 1691525,
-        "character": "Cassie",
-        "profile_path": "https://image.tmdb.org/t/p/original/o3jw951TWprmjrQhWlupYCSvriE.jpg"
+      "Dan Bucatinsky": {
+        "id": 87034,
+        "character": "Leonard",
+        "profile_path": "https://image.tmdb.org/t/p/original/5MmGUnWjNeOwcWhndqhQPi7URvv.jpg"
       },
       "Tim Meadows": {
         "id": 51857,
         "character": "Stan",
         "profile_path": "https://image.tmdb.org/t/p/original/u9MCgfy0n5jJ2GTsGALdist19C1.jpg"
+      },
+      "Judy Reyes": {
+        "id": 159657,
+        "character": "Margaret",
+        "profile_path": "https://image.tmdb.org/t/p/original/DQ8kIRHru9Zzy6CftVryHmIOJs.jpg"
       },
       "Ash Santos": {
         "id": 1521895,
@@ -24595,16 +24595,6 @@
         "character": "Cheryl",
         "profile_path": "https://image.tmdb.org/t/p/original/j8Hst9mJjCqDDC7p3UGzgmYDHFE.jpg"
       },
-      "Brian Unger": {
-        "id": 1219297,
-        "character": "Paul",
-        "profile_path": "https://image.tmdb.org/t/p/original/aBrtRXhPvdmstl4oDq2Cp6MS6aW.jpg"
-      },
-      "Chris Parnell": {
-        "id": 51382,
-        "character": "Veterinarian",
-        "profile_path": "https://image.tmdb.org/t/p/original/9Ga03Y9TVIqTZJ4I9rfL740ibgJ.jpg"
-      },
       "Melinda Tanner": {
         "id": 1848604,
         "character": "Ida",
@@ -24614,6 +24604,11 @@
         "id": 1257413,
         "character": "Susan",
         "profile_path": "https://image.tmdb.org/t/p/original/6vVaSzMVKopC9u3PqaxvlBUhDYp.jpg"
+      },
+      "Chris Parnell": {
+        "id": 51382,
+        "character": "Veterinarian",
+        "profile_path": "https://image.tmdb.org/t/p/original/9Ga03Y9TVIqTZJ4I9rfL740ibgJ.jpg"
       },
       "Kurt Yue": {
         "id": 2068598,
@@ -24629,6 +24624,11 @@
         "id": 2016404,
         "character": "Holly",
         "profile_path": "https://image.tmdb.org/t/p/original/wmags5q0Hf2pmykzixPgApeQy0z.jpg"
+      },
+      "Brian Unger": {
+        "id": 1219297,
+        "character": "Paul",
+        "profile_path": "https://image.tmdb.org/t/p/original/aBrtRXhPvdmstl4oDq2Cp6MS6aW.jpg"
       },
       "Kimberly Donyale": {
         "id": 2672185,
@@ -24727,7 +24727,7 @@
     "released": "1952-11-21",
     "duration": 7,
     "imdb_id": "tt0045037",
-    "vote_average": "7.1",
+    "vote_average": "7.2",
     "overview": "Pluto comes bounding outside to help Mickey get a Christmas tree. Chip 'n Dale see him and make fun of him, but the tree they take refuge in is the one Mickey chops down. They like the decorations, especially the candy canes and Mickey's bowl of mixed nuts. But Pluto spots them and goes after them long before Mickey spots them. Minnie, Donald, and Goofy drop by to sing carols.",
     "genres": ["Animation", "Comedy"],
     "imdb_score": "7.6/10",
