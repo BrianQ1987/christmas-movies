@@ -6341,7 +6341,7 @@
       "Jon Favreau": {
         "id": 15277,
         "character": "Doctor / Mr. Narwhal (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/8MtRRnEHaBSw8Ztdl8saXiw1egP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
       },
       "Lydia Lawson-Baird": {
         "id": 210738,
@@ -7654,7 +7654,7 @@
       "Jon Favreau": {
         "id": 15277,
         "character": "Denver McVie",
-        "profile_path": "https://image.tmdb.org/t/p/original/8MtRRnEHaBSw8Ztdl8saXiw1egP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
       },
       "Tim McGraw": {
         "id": 74428,
@@ -17603,8 +17603,8 @@
     "imdb_score": "7.8/10",
     "rt_score": "95%",
     "meta_score": "91/100",
-    "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Greta Gerwig",
     "cast": {
       "Saoirse Ronan": {
@@ -19463,7 +19463,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20499,7 +20499,7 @@
       "Britani Bateman": {
         "id": 130794,
         "character": "Staci",
-        "profile_path": "https://image.tmdb.org/t/p/original/mILM3v5NMZ2TBwRGrGkzKrUdMu8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5cHmodFMC2jCmxqm08zysL3YvC5.jpg"
       },
       "Melanie Lewis-Yribar": {
         "id": 4379770,
