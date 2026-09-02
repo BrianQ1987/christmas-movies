@@ -2385,8 +2385,8 @@
     "imdb_score": "7.3/10",
     "rt_score": "94%",
     "meta_score": "94/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Todd Haynes",
     "cast": {
       "Cate Blanchett": {
@@ -10255,7 +10255,7 @@
       "Bamber Todd": {
         "id": 4446999,
         "character": "Mikey Collins",
-        "profile_path": "https://image.tmdb.org/t/p/original/vNLVEf4YMUsSxYkgvqrtgOt7cYf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qQFl8UBxGhLrPZDgFpPUKEWBsbP.jpg"
       },
       "Joshua McLees": {
         "id": 4447002,
@@ -17995,8 +17995,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "65%",
     "meta_score": "55/100",
-    "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Amazon Prime Video", "ITVX", "Plex"],
+    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "/1LuvKw01c2KQCt6DqgAgR06H2pT.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Richard Curtis",
     "cast": {
       "Hugh Grant": {
@@ -19385,7 +19385,7 @@
     "plex": false,
     "watched": [2020, 2022],
     "added": 2020,
-    "poster_path": "https://image.tmdb.org/t/p/original/6QH10DqZ0feBW2phvrtoLqT1s0k.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/hOuEgnB9jfVneEsulMcqEJE4kSL.jpg",
     "title": "Mickey's Christmas Carol",
     "released": "1983-10-19",
     "duration": 25,
@@ -19427,7 +19427,7 @@
       "Patricia Parris": {
         "id": 1212741,
         "character": "Daisy - Belle (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/6QH10DqZ0feBW2phvrtoLqT1s0k.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hOuEgnB9jfVneEsulMcqEJE4kSL.jpg"
       },
       "Dick Billingsley": {
         "id": 1043068,
@@ -19458,7 +19458,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
