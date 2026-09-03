@@ -19458,7 +19458,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -24035,7 +24035,7 @@
       "Danielle Brooks": {
         "id": 1075037,
         "character": "Morgan",
-        "profile_path": "https://image.tmdb.org/t/p/original/hwrMFbcALcqrV7S2pRP9C5BXrU0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/gOkXDpEiZaRnB2s9fTs64o7uULI.jpg"
       },
       "Maude Apatow": {
         "id": 41090,
@@ -32119,7 +32119,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Arthur Rankin Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
