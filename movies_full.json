@@ -1613,7 +1613,7 @@
       "Brandy Norwood": {
         "id": 33285,
         "character": "Jackie Jennings",
-        "profile_path": "https://image.tmdb.org/t/p/original/ie1IH8LQI3aGzke4FoYRbcdHv88.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/jDBBvuD1O5rzL5UtuZMC8v804Xr.jpg"
       },
       "Heather Graham": {
         "id": 69122,
@@ -14803,7 +14803,7 @@
       "Arnold Schwarzenegger": {
         "id": 1100,
         "character": "Howard Langston",
-        "profile_path": "https://image.tmdb.org/t/p/original/2marNcjIfCUE5Z2HyrcEiJHPbsA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dgCABuZp2HBehCT84O4WBp7KIoe.jpg"
       },
       "Sinbad": {
         "id": 57119,
@@ -15246,6 +15246,7 @@
     "overview": "Two down-on-their-luck hourly workers team up to rob a posh London department store on Christmas Eve. Will they steal each other's hearts along the way?",
     "genres": ["Romance", "Crime", "Comedy"],
     "imdb_score": "5.8/10",
+    "rt_score": "76%",
     "meta_score": "58/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
@@ -19289,6 +19290,7 @@
     "vote_average": "6",
     "overview": "Recently separated, Kate hopes to celebrate one last perfect family Christmas with her soon-to-be ex-husband Everett and their kids before their divorce is final and the house is sold. But her holiday plans are hilariously derailed when Everett unexpectedly brings his younger, successful new girlfriend.",
     "genres": ["Romance", "Comedy"],
+    "rt_score": "56%",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
     "director": "Steve Carr",
@@ -19458,7 +19460,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20778,7 +20780,7 @@
     "poster_path": "https://image.tmdb.org/t/p/original/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
     "title": "The Muppet Christmas Carol",
     "released": "1992-12-11",
-    "duration": 89,
+    "duration": 86,
     "imdb_id": "tt0104940",
     "vote_average": "7.4",
     "overview": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during nighttime visitations by the Ghosts of Christmas Past, Present and Future.",
@@ -22882,7 +22884,7 @@
       "Nathan Fielder": {
         "id": 1212667,
         "character": "Joshua",
-        "profile_path": "https://image.tmdb.org/t/p/original/y04nvHHiUWkQVjsEhYZIqXoHLYh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/eHJEoEck6eFEVaumhCMWpIHtIIr.jpg"
       },
       "Heléne Yorke": {
         "id": 1465303,
@@ -23957,6 +23959,7 @@
     "overview": "Claire Clauster is the glue that holds her chaotic, lovable family together at the holidays. But this year, after planning a special outing for them, they make a crucial mistake and leave her home alone. Fed up and feeling under appreciated, she sets off on an impromptu adventure of her own. As her family scrambles to find her, Claire discovers the unexpected magic of a Christmas gone off-script.",
     "genres": "Comedy",
     "imdb_score": "5.3/10",
+    "rt_score": "36%",
     "meta_score": "38/100",
     "platforms": "Amazon Prime Video",
     "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
