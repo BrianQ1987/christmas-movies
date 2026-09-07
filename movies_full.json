@@ -18820,8 +18820,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "99%",
     "meta_score": "94/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Vincente Minnelli",
     "cast": {
       "Judy Garland": {
@@ -19460,7 +19460,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -23784,7 +23784,7 @@
     "released": "2024-12-05",
     "duration": 50,
     "imdb_id": "tt33427273",
-    "vote_average": "6.8",
+    "vote_average": "6.7",
     "overview": "Pop icon Sabrina Carpenter jingles all the bells in her first-ever variety music special full of holiday hits, unexpected duets and comedic cameos.",
     "genres": ["Music", "Comedy"],
     "imdb_score": "6.4/10",
