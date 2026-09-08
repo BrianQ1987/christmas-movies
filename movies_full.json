@@ -2624,7 +2624,7 @@
       "Brooke Shields": {
         "id": 15110,
         "character": "Sophie",
-        "profile_path": "https://image.tmdb.org/t/p/original/s8IV8iIsCfzvGBA9hGC2kKrVyqK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qpLcTp5D6t0S0TtNK85VOYwDmTL.jpg"
       },
       "Cary Elwes": {
         "id": 2130,
@@ -10382,7 +10382,7 @@
       "Paul Giamatti": {
         "id": 13242,
         "character": "Paul Hunham",
-        "profile_path": "https://image.tmdb.org/t/p/original/zjEoPF9hVW3NAdoMtryxPBPGtj4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
       },
       "Dominic Sessa": {
         "id": 3918497,
@@ -10839,7 +10839,7 @@
       "Cameron Diaz": {
         "id": 6941,
         "character": "Amanda",
-        "profile_path": "https://image.tmdb.org/t/p/original/tTpQSKwdLrR6xBGHCqg8VcVQZzH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/tIWUyvmJayu8gtbrzCWC0L3H8kH.jpg"
       },
       "Kate Winslet": {
         "id": 204,
@@ -13415,7 +13415,7 @@
       "Liza Minnelli": {
         "id": 66776,
         "character": "Veronica and Andrew's Daughter (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/c5wBZcv3phIomkDITuE9CM0L7hF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/1oGwXBirjCwPOfi2Qib9ZLFCTM4.jpg"
       },
       "Howard M. Mitchell": {
         "id": 1005425,
@@ -19066,7 +19066,7 @@
     "released": "2024-11-05",
     "duration": 105,
     "imdb_id": "tt20502488",
-    "vote_average": "6.3",
+    "vote_average": "6.4",
     "overview": "On a quest to reconnect with the man of her dreams, Layla races across New York City to find a ticket to a sold-out Pentatonix Christmas Eve concert.",
     "genres": ["Romance", "Comedy"],
     "imdb_score": "5.5/10",
@@ -28793,7 +28793,7 @@
     "released": "2023-11-30",
     "duration": 104,
     "imdb_id": "tt15799866",
-    "vote_average": "6.2",
+    "vote_average": "6.1",
     "overview": "A tormented father witnesses his young son die when caught in a gang's crossfire on Christmas Eve. While recovering from a wound that costs him his voice, he makes vengeance his life's mission and embarks on a punishing training regimen in order to avenge his son's death.",
     "genres": ["Action", "Thriller", "Crime", "Drama"],
     "imdb_score": "5.3/10",
@@ -32122,7 +32122,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
