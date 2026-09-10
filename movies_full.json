@@ -8646,7 +8646,7 @@
       "Walt Disney": {
         "id": 2106,
         "character": "Mickey Mouse (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/zh3oTHMi4U6OFucaq1ePslUwEk4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/fnB3Yt4dPiVODHzfLwntISAvbhw.jpg"
       }
     }
   },
@@ -9693,7 +9693,7 @@
       "Bradley Cooper": {
         "id": 51329,
         "character": "Rocket (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/pLD2XvxqHueLWOuqXoFngJU3A5H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
       },
       "Sean Gunn": {
         "id": 51663,
@@ -19460,7 +19460,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -23797,7 +23797,7 @@
       "Sabrina Carpenter": {
         "id": 1152083,
         "character": "Self",
-        "profile_path": "https://image.tmdb.org/t/p/original/h2JcSqZ220VXDqb6xKBVcRquGGN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/kAQVOilguwlXtYWQ1lzYumWS0c6.jpg"
       },
       "Cara Delevingne": {
         "id": 1289968,
@@ -29778,7 +29778,7 @@
     "duration": 91,
     "imdb_id": "tt0252028",
     "vote_average": "5.7",
-    "overview": "A wealthy executive, Drew Latham (Ben Affleck) has no close relationships and becomes nostalgic for his childhood home as Christmas approaches. When he visits the house and finds another family living there, he offers the residents, Tom Valco (James Gandolfini) and his wife, Christine (Catherine O'Hara), a large sum of money to pretend they are his parents. Soon Drew tests the couple's patience, and, when their daughter, Alicia (Christina Applegate), arrives, things get increasingly tense.",
+    "overview": "Wealthy executive Drew Latham has no close relationships and becomes nostalgic for his childhood home as Christmas approaches. When he visits the house and finds another family living there, he offers the residents a large sum of money to pretend they are his parents.",
     "genres": ["Comedy", "Romance"],
     "imdb_score": "5.5/10",
     "rt_score": "8%",
@@ -29864,7 +29864,7 @@
       },
       "Phill Lewis": {
         "id": 33490,
-        "character": "Levine the Lawyer",
+        "character": "Levine",
         "profile_path": "https://image.tmdb.org/t/p/original/8RIWwUZrIoDabtQjMJ5qx3ZOHjE.jpg"
       },
       "Tumbleweed": {
@@ -29879,7 +29879,7 @@
       },
       "Bridgette Ho": {
         "id": 1786653,
-        "character": "Five Year Old",
+        "character": "Five-Year-Old",
         "profile_path": "https://image.tmdb.org/t/p/original/8jHtvFpCOOqp2U2qwI3L3h10cUv.jpg"
       },
       "Hailey Noelle Johnson": {
@@ -32123,7 +32123,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin Jr."],
+    "director": ["Arthur Rankin Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
