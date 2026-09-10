@@ -6577,7 +6577,7 @@
     "imdb_id": "tt0075988",
     "vote_average": "6.9",
     "overview": "A poor otter family risks everything for the chance to win the cash prize of a talent contest for Christmas.",
-    "genres": ["Family", "Comedy", "Music"],
+    "genres": ["Family", "Comedy", "Music", "TV Movie"],
     "imdb_score": "8.2/10",
     "rt_score": "100%",
     "platforms": ["Amazon Prime Video", "Plex"],
@@ -21467,8 +21467,9 @@
     "vote_average": "7",
     "overview": "Years after her ship disappeared, a presumably dead woman returns home. To her shock, she finds her husband has remarried.",
     "genres": ["Comedy", "Romance"],
-    "imdb_score": "7.3/10",
+    "imdb_score": "7.2/10",
     "rt_score": "86%",
+    "meta_score": "63/100",
     "director": "Garson Kanin",
     "cast": {
       "Cary Grant": {
@@ -31570,7 +31571,7 @@
       "Marc-André Brisebois": {
         "id": 1731643,
         "character": "Kill Squad",
-        "profile_path": "https://image.tmdb.org/t/p/original/e8CpMgdyihz9Td7amQDqubPuzfN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/rSYMHWyFDvpkFcoXThDk22jZlWA.jpg"
       },
       "Dylan Rampulla": {
         "id": 1860398,
@@ -31749,7 +31750,7 @@
       "Sandra Bullock": {
         "id": 18277,
         "character": "Lucy Eleanor Moderatz",
-        "profile_path": "https://image.tmdb.org/t/p/original/5pyso6iXs4nGz55tCOU6AfmPspZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
       },
       "Bill Pullman": {
         "id": 8984,
