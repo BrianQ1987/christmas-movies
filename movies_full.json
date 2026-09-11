@@ -19460,7 +19460,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20428,7 +20428,7 @@
       "Lester Holt": {
         "id": 945907,
         "character": "Newscaster",
-        "profile_path": "https://image.tmdb.org/t/p/original/x8uipNVcxFKqJdKPuxJKH0ByknB.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/npdA5A3cXV2Mn2by8ZX61nwbJx0.jpg"
       },
       "Melinda Chilton": {
         "id": 1270150,
