@@ -419,7 +419,7 @@
       "Kevin Nealon": {
         "id": 58478,
         "character": "Tony Boer",
-        "profile_path": "https://image.tmdb.org/t/p/original/5eV3T45dXMzXaKy9A3wE2UueRvx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qM7LSgoQezyENsqGzxFTzwM5CQ4.jpg"
       },
       "Andrea Martin": {
         "id": 8263,
@@ -6513,7 +6513,7 @@
         "character": "Passerby (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
       },
-      "Craig 'Radio Man' Castaldo": {
+      "Craig Castaldo": {
         "id": 1116907,
         "character": "Radioman (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/AiaqiUZSaORGmfEW5N6XlWjhlTn.jpg"
@@ -8823,7 +8823,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Allison Vandermeersh",
-        "profile_path": "https://image.tmdb.org/t/p/original/bKbFmFQtn1N6Utzr9Sf0E23alaL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
       },
       "Daniel Sunjata": {
         "id": 10582,
@@ -16216,7 +16216,7 @@
       "Elton John": {
         "id": 11370,
         "character": "Self",
-        "profile_path": "https://image.tmdb.org/t/p/original/puLkSnUobtAvXHM8vQVy9ZjcWmG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/uZSRVvnUosJGnI6XZUVgM6BphU3.jpg"
       },
       "Joseph Gordon-Levitt": {
         "id": 24045,
@@ -17304,7 +17304,7 @@
       "Claire Danes": {
         "id": 6194,
         "character": "Beth March",
-        "profile_path": "https://image.tmdb.org/t/p/original/mb23NPDMRB7csC5xl4cgrdNkPXr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/emrFmSpC1RTrTeyAqPslOo5NwCx.jpg"
       },
       "Christian Bale": {
         "id": 3894,
@@ -17616,7 +17616,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Amy March",
-        "profile_path": "https://image.tmdb.org/t/p/original/ejgQXt1fAvPueAvacDsGwG00aA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
       },
       "Eliza Scanlen": {
         "id": 1669125,
@@ -24284,7 +24284,7 @@
       "Koko Iwasaki": {
         "id": 5812034,
         "character": "Dancer / Nutcracker",
-        "profile_path": "https://image.tmdb.org/t/p/original/5LsRWr78nnt1UmSVYXmiB8Ip63x.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qynCyBKCJUUcj4wo4PE2aQVvote.jpg"
       },
       "Inara George": {
         "id": 1228322,
@@ -32123,7 +32123,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
