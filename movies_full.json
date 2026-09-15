@@ -11071,11 +11071,6 @@
         "character": "Traveler (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/h1ITOpvJN3Tw4Sy60w2QTfYMvdd.jpg"
       },
-      "Drew Bayers": {
-        "id": 3190310,
-        "character": "Man in Airport (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/h1ITOpvJN3Tw4Sy60w2QTfYMvdd.jpg"
-      },
       "Brad Carr": {
         "id": 60849,
         "character": "Jakob Ethridge (uncredited)",
@@ -11100,11 +11095,6 @@
         "id": 1654713,
         "character": "Man on Tube (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/1mECMq7oh6oXpCvne26uyNZE3q4.jpg"
-      },
-      "Elizabeth Hara": {
-        "id": 3611937,
-        "character": "Girl in Restaurant (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/h1ITOpvJN3Tw4Sy60w2QTfYMvdd.jpg"
       },
       "Jake Head": {
         "id": 1525144,
@@ -11155,11 +11145,6 @@
         "id": 1422991,
         "character": "Lindsay Lohan's Friend (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/Aqz4EXrvi1XlTOwsnKSq790oQfu.jpg"
-      },
-      "Scott Slifer": {
-        "id": 3189694,
-        "character": "Passenger (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/h1ITOpvJN3Tw4Sy60w2QTfYMvdd.jpg"
       },
       "David Venafro": {
         "id": 1844483,
@@ -17616,7 +17601,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Amy March",
-        "profile_path": "https://image.tmdb.org/t/p/original/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/ejgQXt1fAvPueAvacDsGwG00aA.jpg"
       },
       "Eliza Scanlen": {
         "id": 1669125,
@@ -19460,7 +19445,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -22885,7 +22870,7 @@
       "Nathan Fielder": {
         "id": 1212667,
         "character": "Joshua",
-        "profile_path": "https://image.tmdb.org/t/p/original/eHJEoEck6eFEVaumhCMWpIHtIIr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/x0UOcjml8WnBfnb89QOh0iXM0w0.jpg"
       },
       "Heléne Yorke": {
         "id": 1465303,
@@ -31374,7 +31359,7 @@
       "Steve Jordan": {
         "id": 90388,
         "character": "Band",
-        "profile_path": "https://image.tmdb.org/t/p/original/xjWB75oHjqFQfWMKBQqhNALfyfd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"
       },
       "David Spinozza": {
         "id": 1773956,
@@ -32123,7 +32108,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin Jr."],
+    "director": ["Arthur Rankin Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
