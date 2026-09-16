@@ -2385,8 +2385,8 @@
     "imdb_score": "7.3/10",
     "rt_score": "94%",
     "meta_score": "94/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/kMT8p43W3BsXBe9mqCIPDNepser.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Todd Haynes",
     "cast": {
       "Cate Blanchett": {
@@ -4224,7 +4224,7 @@
       "Melinda Dillon": {
         "id": 4778,
         "character": "Mother",
-        "profile_path": "https://image.tmdb.org/t/p/original/3ZExGr8OpI6s9ON1FPbSdxQGmcp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/biM3R6qURBprG9U8tIvpOk8WjOw.jpg"
       },
       "Darren McGavin": {
         "id": 7333,
@@ -4772,7 +4772,7 @@
       "Amanda Seyfried": {
         "id": 71070,
         "character": "Ruby",
-        "profile_path": "https://image.tmdb.org/t/p/original/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/m8MfAy3mTDyh5VBNp1arrB2EQ7D.jpg"
       },
       "Alan Arkin": {
         "id": 1903,
@@ -12736,6 +12736,11 @@
         "id": 4568,
         "character": "Grandma (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/cL75FbJRKDdpvkOJDUgUYPZHKks.jpg"
+      },
+      "Jack Molloy Legault": {
+        "id": 4224139,
+        "character": "Ricky",
+        "profile_path": "https://image.tmdb.org/t/p/original/8v3GikSIVDXUQoDzlZ6jQJBhniU.jpg"
       }
     }
   },
@@ -19445,7 +19450,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -30077,7 +30082,7 @@
       "Luiza Nersisyan": {
         "id": 1611671,
         "character": "Yeva",
-        "profile_path": "https://image.tmdb.org/t/p/original/hINdUwn8y1Fyfr69lXIO9RHISBJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/nCyjgFAz4AmSRxjC7SAjxG3pvv4.jpg"
       },
       "Arsen Grigoryan": {
         "id": 1179870,
@@ -31068,7 +31073,7 @@
       "Melvil Poupaud": {
         "id": 26100,
         "character": "Ivan",
-        "profile_path": "https://image.tmdb.org/t/p/original/p6Woc7Am82KKnGVyxjtgQuGtTWt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/kp2jRKCymgFOPhCCQziXXH7JRGO.jpg"
       },
       "Emmanuelle Devos": {
         "id": 19117,
