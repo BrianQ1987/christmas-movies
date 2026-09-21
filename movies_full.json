@@ -4772,7 +4772,7 @@
       "Amanda Seyfried": {
         "id": 71070,
         "character": "Ruby",
-        "profile_path": "https://image.tmdb.org/t/p/original/qvfwAfUfKfX4DraCgfn0YriiLO0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
       },
       "Alan Arkin": {
         "id": 1903,
@@ -9688,7 +9688,7 @@
       "Vin Diesel": {
         "id": 12835,
         "character": "Groot (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/nZdVry7lnUkE24PnXakok9okvL4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/tEoUF0RJqHnskmBOJiDEQhyN7Ok.jpg"
       },
       "Bradley Cooper": {
         "id": 51329,
@@ -19450,7 +19450,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -21224,7 +21224,7 @@
     "released": "2008-12-17",
     "duration": 43,
     "imdb_id": "tt1292569",
-    "vote_average": "5.9",
+    "vote_average": "6",
     "overview": "When Gonzo forgets to mail three letters to Santa, he convinces Kermit and the gang to help him deliver the notes to the North Pole. Along the way, they discover that Christmas is the time to be with those you care about most, as they dash home to make a friends Christmas wish come true.",
     "genres": ["Family", "Comedy", "Adventure", "TV Movie"],
     "imdb_score": "6.3/10",
@@ -31048,7 +31048,7 @@
       "Catherine Deneuve": {
         "id": 50,
         "character": "Junon",
-        "profile_path": "https://image.tmdb.org/t/p/original/rG0FuNR4INt2RcziqFVH0Gslc9z.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/7NS1KuwxTIzyMcpNGKBGlSV0Hqo.jpg"
       },
       "Jean-Paul Roussillon": {
         "id": 24467,
@@ -32113,7 +32113,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
