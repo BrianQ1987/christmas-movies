@@ -13290,7 +13290,7 @@
       "Buster Keaton": {
         "id": 8635,
         "character": "Hickey",
-        "profile_path": "https://image.tmdb.org/t/p/original/kEybBFkO5AX83o3WKyNDfuvfVrn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/ejJz8YWn1Dr1PFn6E70NZ0oZ6o6.jpg"
       },
       "Marcia Van Dyke": {
         "id": 94113,
@@ -19450,7 +19450,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -23946,7 +23946,7 @@
     "released": "2025-12-03",
     "duration": 108,
     "imdb_id": "tt31998881",
-    "vote_average": "5.6",
+    "vote_average": "5.7",
     "overview": "Claire Clauster is the glue that holds her chaotic, lovable family together at the holidays. But this year, after planning a special outing for them, they make a crucial mistake and leave her home alone. Fed up and feeling under appreciated, she sets off on an impromptu adventure of her own. As her family scrambles to find her, Claire discovers the unexpected magic of a Christmas gone off-script.",
     "genres": "Comedy",
     "imdb_score": "5.3/10",
@@ -32113,7 +32113,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
@@ -32534,22 +32534,22 @@
       },
       "Alice Comer": {
         "id": 2843955,
-        "character": "Young Zoey (Age 8)",
+        "character": "Young Zoey Age 8",
         "profile_path": "https://image.tmdb.org/t/p/original/klUb66tBtHLUp65hmKMxe92Pplz.jpg"
       },
       "Hazel Bartlett-Sias": {
         "id": 3652048,
-        "character": "Young Zoey (Age 12)",
+        "character": "Young Zoey Age 12",
         "profile_path": "https://image.tmdb.org/t/p/original/9d2VIYTZ4oY1NrDG59WPI4JMF7h.jpg"
       },
       "Sacha Chandler": {
         "id": 3465295,
-        "character": "Young Zoey (Age 11)",
+        "character": "Young Zoey Age 11",
         "profile_path": "https://image.tmdb.org/t/p/original/wDuQ4pX2FZe3tYdR4urm1HgGyXy.jpg"
       },
       "Oscar Chark": {
         "id": 3641082,
-        "character": "Young David (age 15)",
+        "character": "Young David Age 15",
         "profile_path": "https://image.tmdb.org/t/p/original/a8R7VooyhBEokVxT7a3OxeyNgiI.jpg"
       },
       "Synthia Yusuf": {
