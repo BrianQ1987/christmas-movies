@@ -5610,8 +5610,8 @@
     "imdb_score": "5.1/10",
     "rt_score": "6%",
     "meta_score": "28/100",
-    "platforms": ["Disney Plus", "Channel 4"],
-    "logo_paths": ["/5eZ872CghnHFLB1j8grszbrx0dx.png", "/kMT8p43W3BsXBe9mqCIPDNepser.png"],
+    "platforms": "Disney Plus",
+    "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
     "director": "John Whitesell",
     "cast": {
       "Danny DeVito": {
@@ -6676,11 +6676,6 @@
         "character": "Ralph",
         "profile_path": "https://image.tmdb.org/t/p/original/quqA6H7UwuKc9h9kfKmAGou1247.jpg"
       },
-      "Chase Ramsey": {
-        "id": 3174923,
-        "character": "Terry Carver",
-        "profile_path": "https://image.tmdb.org/t/p/original/xUqxf7OmlUNW6axmvBeFxZEBPsd.jpg"
-      },
       "Bus Riley": {
         "id": 1184606,
         "character": "Chestnut Vendor",
@@ -6711,10 +6706,25 @@
         "character": "Sheriff Borden",
         "profile_path": "https://image.tmdb.org/t/p/original/S8T0ABox1qJYbl84GWkQNU7wvZ.jpg"
       },
+      "Omar Wilder": {
+        "id": 5875827,
+        "character": "Security Guard",
+        "profile_path": "https://image.tmdb.org/t/p/original/zgtkXLJagDMlW4iXTCojL5guDeu.jpg"
+      },
       "Blythe Howard": {
         "id": 2432756,
         "character": "Dr. Layla Monroe",
         "profile_path": "https://image.tmdb.org/t/p/original/bBaE8oyF8N1729PoE7SSVNQcbmN.jpg"
+      },
+      "Iris Caldwell": {
+        "id": 5875830,
+        "character": "Jennifer",
+        "profile_path": "https://image.tmdb.org/t/p/original/zgtkXLJagDMlW4iXTCojL5guDeu.jpg"
+      },
+      "Arthur Anderson": {
+        "id": 5268166,
+        "character": "Waiter",
+        "profile_path": "https://image.tmdb.org/t/p/original/kJO5yxkn8DT7GP9ma4tjjlgeASF.jpg"
       },
       "Allan Groves": {
         "id": 1390504,
@@ -6726,20 +6736,15 @@
         "character": "Louise",
         "profile_path": "https://image.tmdb.org/t/p/original/eXschtSdmGxvNdaXHkG8dn8RD0t.jpg"
       },
-      "Sila Agavale": {
-        "id": 277634,
-        "character": "Howard",
-        "profile_path": "https://image.tmdb.org/t/p/original/yGmr4BKKyMMJo10KOAnmXwZSZgm.jpg"
-      },
-      "Rebecca Flinn-White": {
-        "id": 1503148,
-        "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/3eZntd6Bf3OysJ6C4b2WyS7XJoC.jpg"
-      },
       "Jane Autumn Bonner": {
         "id": 3808102,
         "character": "Kid",
         "profile_path": "https://image.tmdb.org/t/p/original/zgtkXLJagDMlW4iXTCojL5guDeu.jpg"
+      },
+      "Sila Agavale": {
+        "id": 277634,
+        "character": "Howard",
+        "profile_path": "https://image.tmdb.org/t/p/original/yGmr4BKKyMMJo10KOAnmXwZSZgm.jpg"
       },
       "McKenzie Steele Foster": {
         "id": 3808103,
@@ -6766,25 +6771,15 @@
         "character": "Skylar",
         "profile_path": "https://image.tmdb.org/t/p/original/zgtkXLJagDMlW4iXTCojL5guDeu.jpg"
       },
+      "Chase Ramsey": {
+        "id": 3174923,
+        "character": "Terry Carver",
+        "profile_path": "https://image.tmdb.org/t/p/original/xUqxf7OmlUNW6axmvBeFxZEBPsd.jpg"
+      },
       "Dakota Lohan": {
         "id": 4522063,
         "character": "Belmont Guest (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/xOJ5jlH2yiGU7sUKxMT3vsRsSey.jpg"
-      },
-      "Omar Wilder": {
-        "id": 5875827,
-        "character": "Security Guard",
-        "profile_path": "https://image.tmdb.org/t/p/original/zgtkXLJagDMlW4iXTCojL5guDeu.jpg"
-      },
-      "Iris Caldwell": {
-        "id": 5875830,
-        "character": "Jennifer",
-        "profile_path": "https://image.tmdb.org/t/p/original/zgtkXLJagDMlW4iXTCojL5guDeu.jpg"
-      },
-      "Arthur Anderson": {
-        "id": 5268166,
-        "character": "Waiter",
-        "profile_path": "https://image.tmdb.org/t/p/original/kJO5yxkn8DT7GP9ma4tjjlgeASF.jpg"
       },
       "Rowan Cooper": {
         "id": 5877672,
@@ -19450,7 +19445,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
