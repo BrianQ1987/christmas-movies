@@ -8776,8 +8776,8 @@
     "imdb_score": "5.8/10",
     "rt_score": "27%",
     "meta_score": "34/100",
-    "platforms": "Netflix",
-    "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+    "platforms": ["Netflix", "Amazon Prime Video"],
+    "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"],
     "director": "Mark Waters",
     "cast": {
       "Matthew McConaughey": {
@@ -9134,17 +9134,17 @@
     "cast": {
       "Zach Galligan": {
         "id": 16170,
-        "character": "Billy Peltzer",
+        "character": "Billy",
         "profile_path": "https://image.tmdb.org/t/p/original/mIqahCZcPw63km6dFnm1B1coAiY.jpg"
       },
       "Phoebe Cates": {
         "id": 16171,
-        "character": "Kate Beringer",
+        "character": "Kate",
         "profile_path": "https://image.tmdb.org/t/p/original/nh2jiRCFa7TQdGB87k557LG0PtY.jpg"
       },
       "Hoyt Axton": {
         "id": 16166,
-        "character": "Randall Peltzer",
+        "character": "Rand Peltzer",
         "profile_path": "https://image.tmdb.org/t/p/original/ko67ZaIC0rd6uaSOM619RjapQvO.jpg"
       },
       "Frances Lee McCain": {
@@ -9154,12 +9154,12 @@
       },
       "Corey Feldman": {
         "id": 3034,
-        "character": "Pete Fountaine",
+        "character": "Pete",
         "profile_path": "https://image.tmdb.org/t/p/original/9n5xDsrBFY0AFESmXOJEzEj4ezx.jpg"
       },
       "Keye Luke": {
         "id": 16103,
-        "character": "Grandfather (Mr. Wing)",
+        "character": "Grandfather",
         "profile_path": "https://image.tmdb.org/t/p/original/fh9RufZ6VQjKGFVtXFr3wv2MYCd.jpg"
       },
       "John Louie": {
@@ -9169,7 +9169,7 @@
       },
       "Dick Miller": {
         "id": 102441,
-        "character": "Murray Futterman",
+        "character": "Mr. Futterman",
         "profile_path": "https://image.tmdb.org/t/p/original/zyQXh8BkLg0DDo23pxJN2dy6Bqj.jpg"
       },
       "Jackie Joseph": {
@@ -9179,12 +9179,12 @@
       },
       "Polly Holliday": {
         "id": 11715,
-        "character": "Ruby Deagle",
+        "character": "Mrs. Deagle",
         "profile_path": "https://image.tmdb.org/t/p/original/tBbYjz3zkxIze3q1cJeN8ITDSPS.jpg"
       },
       "Judge Reinhold": {
         "id": 777,
-        "character": "Gerald Hopkins",
+        "character": "Gerald",
         "profile_path": "https://image.tmdb.org/t/p/original/6R0vCxzSx1CaDAM9y9ZgmejUdiL.jpg"
       },
       "Edward Andrews": {
@@ -9194,7 +9194,7 @@
       },
       "Belinda Balaski": {
         "id": 16173,
-        "character": "Mrs. Joe Harris",
+        "character": "Mrs. Harris",
         "profile_path": "https://image.tmdb.org/t/p/original/cO2E0kNK1pfzyIFuxbV8Zwq7Glp.jpg"
       },
       "Scott Brady": {
@@ -9274,12 +9274,12 @@
       },
       "Joe Brooks": {
         "id": 1221260,
-        "character": "Dave Meyers (Santa)",
+        "character": "Santa",
         "profile_path": "https://image.tmdb.org/t/p/original/uDc0NltKErK24BLeJvspw4EasOo.jpg"
       },
       "Jim McKrell": {
         "id": 100614,
-        "character": "Lew Landers (WDHB-TV reporter)",
+        "character": "Lew Landers",
         "profile_path": "https://image.tmdb.org/t/p/original/fjy46X3ZITbYZprD2Tem7vvRp8n.jpg"
       },
       "Frank Welker": {
@@ -14186,7 +14186,7 @@
       "Donna Reed": {
         "id": 17752,
         "character": "Mary Hatch",
-        "profile_path": "https://image.tmdb.org/t/p/original/aCRMYYMs3zxLvmUgxBytuCgTElQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/gO2sb3qfGWn9beecguFErp0tlv9.jpg"
       },
       "Lionel Barrymore": {
         "id": 17753,
@@ -17601,7 +17601,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Amy March",
-        "profile_path": "https://image.tmdb.org/t/p/original/ejgQXt1fAvPueAvacDsGwG00aA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
       },
       "Eliza Scanlen": {
         "id": 1669125,
@@ -19445,7 +19445,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -32420,7 +32420,7 @@
       "Jane Levy": {
         "id": 530618,
         "character": "Zoey Clarke",
-        "profile_path": "https://image.tmdb.org/t/p/original/7eGX3HbChmEn8G8nGzB7nvthlfI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/iYyWPOOpZgAqZK6IddSaD4R9QW3.jpg"
       },
       "Skylar Astin": {
         "id": 73128,
