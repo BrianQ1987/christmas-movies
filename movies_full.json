@@ -2787,7 +2787,7 @@
     "vote_average": "5.3",
     "overview": "A family gathers on Christmas Eve for what could be the last holiday in their ancestral home. As the night wears on and tensions arise, one of the teenagers sneaks out with her friends to claim the wintry suburb for her own.",
     "genres": ["Drama", "Comedy"],
-    "imdb_score": "5.6/10",
+    "imdb_score": "5.5/10",
     "rt_score": "80%",
     "meta_score": "72/100",
     "platforms": "Plex",
@@ -3651,7 +3651,7 @@
       "Harry Rosenthal": {
         "id": 986013,
         "character": "Harry",
-        "profile_path": "https://image.tmdb.org/t/p/original/75cALt2tLH34s6E4Coqbpjc4TiZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/sxbBYi198Zgj4cix3VCL4s0wH4X.jpg"
       },
       "Georgia Caine": {
         "id": 1176930,
@@ -13248,7 +13248,7 @@
     "released": "1949-07-29",
     "duration": 102,
     "imdb_id": "tt0041507",
-    "vote_average": "6.8",
+    "vote_average": "6.7",
     "overview": "Two co-workers in a music shop dislike one another during business hours but unwittingly carry on an anonymous romance through the mail.",
     "genres": ["Comedy", "Music", "Romance"],
     "imdb_score": "7.1/10",
@@ -13783,7 +13783,7 @@
     "vote_average": "6",
     "overview": "The owner of a bank (Miss Bitterman) wants to own the Muppet Theatre so she can build a nightclub over it. After she tricks Pepe into giving her the only copy of the contract between her father and the Muppets, she changes it so the Muppets have very little time to pay a debt they owe. Meanwhile, the Muppets are trying to put on a Christmas show. After the Muppets are confronted by Bitterman, they make a lot of sacrifices to save up so they can keep the Theatre.",
     "genres": ["Comedy", "Family"],
-    "imdb_score": "6.3/10",
+    "imdb_score": "6.2/10",
     "rt_score": "82%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
@@ -18558,7 +18558,7 @@
       "Denise Richards": {
         "id": 9205,
         "character": "Carla, the Real Friendly One",
-        "profile_path": "https://image.tmdb.org/t/p/original/mKRJ10xsz9dgDlEHCfqD7vD7zh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/uGR4h8cfSa88ToUOrQMrrYWO6Ln.jpg"
       },
       "Richard Curtis": {
         "id": 7018,
@@ -32108,7 +32108,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin Jr."],
+    "director": ["Arthur Rankin Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
