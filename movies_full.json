@@ -18558,7 +18558,7 @@
       "Denise Richards": {
         "id": 9205,
         "character": "Carla, the Real Friendly One",
-        "profile_path": "https://image.tmdb.org/t/p/original/uGR4h8cfSa88ToUOrQMrrYWO6Ln.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/i1MDAhdjiqXWwEhr7ujnlk8ksdl.jpg"
       },
       "Richard Curtis": {
         "id": 7018,
@@ -19445,7 +19445,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -24319,7 +24319,7 @@
       "Laila Robins": {
         "id": 27260,
         "character": "Susan Page (archive footage)",
-        "profile_path": "https://image.tmdb.org/t/p/original/4gORMootLaabKe3M4RDU6x2gHdo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/ucHMLT7IUaWkd64ZPHtWjqxx8rq.jpg"
       }
     }
   },
@@ -25920,7 +25920,7 @@
     "cast": {
       "Barbara Stanwyck": {
         "id": 14974,
-        "character": "Lee Leander/Anna Rose Malone",
+        "character": "Lee Leander",
         "profile_path": "https://image.tmdb.org/t/p/original/xBfikc66lCnShogMZX1k9cV7H26.jpg"
       },
       "Fred MacMurray": {
@@ -25935,7 +25935,7 @@
       },
       "Elizabeth Patterson": {
         "id": 83237,
-        "character": "Aunt Emma \"Emmie\"",
+        "character": "Aunt Emma",
         "profile_path": "https://image.tmdb.org/t/p/original/rSLcM8DsZi1ydRn8Dk3vXE89nCG.jpg"
       },
       "Willard Robertson": {
@@ -25985,7 +25985,7 @@
       },
       "Georgia Caine": {
         "id": 1176930,
-        "character": "Lee's Mother, Mrs. Malone",
+        "character": "Mrs. Malone",
         "profile_path": "https://image.tmdb.org/t/p/original/AooGGbP6uyzvIKnC23UmcJrjlAc.jpg"
       },
       "Virginia Brissac": {
