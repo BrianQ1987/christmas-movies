@@ -4590,7 +4590,7 @@
     "released": "1986-12-06",
     "duration": 50,
     "imdb_id": "tt0099263",
-    "vote_average": "6.9",
+    "vote_average": "6.8",
     "overview": "It's Christmas Eve and the playroom is alive with excitement for the new toys that will arrive the next day. Balthazar, the old and wise bear, explains to the other toys that they must welcome the newcomers even though each of them may be replaced as one of the children's new favorite toys.",
     "genres": ["Family", "Comedy", "Fantasy", "Music", "TV Movie"],
     "imdb_score": "7.7/10",
@@ -4787,7 +4787,7 @@
       "Olivia Wilde": {
         "id": 59315,
         "character": "Eleanor Cooper",
-        "profile_path": "https://image.tmdb.org/t/p/original/wlhbH9ZIs7v4l5tbXLEVroZzdOO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/eODi1QKamyVa41eSK2SjU20VAZS.jpg"
       },
       "Marisa Tomei": {
         "id": 3141,
@@ -13219,7 +13219,7 @@
       "Violet McGraw": {
         "id": 2131391,
         "character": "Ella",
-        "profile_path": "https://image.tmdb.org/t/p/original/zxY8BRNRYUFikW2DOHxBK2yiQZb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dvErrHU0FVNP5GFkxJxZbNayC1x.jpg"
       },
       "Sachin Bhatt": {
         "id": 1139163,
@@ -16829,7 +16829,7 @@
       "James Arnold Taylor": {
         "id": 19506,
         "character": "Obi-Wan Kenobi (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/sSthBDGT8HBd2hXRNPymA6D0ov8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/A6J14W5kxsuEKXaRkiOXBIROO9t.jpg"
       },
       "Eric Bauza": {
         "id": 89599,
@@ -19445,7 +19445,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20767,7 +20767,7 @@
     "released": "1992-12-11",
     "duration": 86,
     "imdb_id": "tt0104940",
-    "vote_average": "7.5",
+    "vote_average": "7.4",
     "overview": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during nighttime visitations by the Ghosts of Christmas Past, Present and Future.",
     "genres": ["Music", "Comedy", "Family", "Fantasy", "Drama"],
     "imdb_score": "7.8/10",
@@ -28720,7 +28720,7 @@
       "Davida McKenzie": {
         "id": 2532124,
         "character": "Kitty",
-        "profile_path": "https://image.tmdb.org/t/p/original/6PdvjqoiKCyC0B12gZyQj109iw1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/2BqQHNNIXbUYSWbUk6UMrG7dwYu.jpg"
       },
       "Hardy Griffin Davis": {
         "id": 2550502,
@@ -31754,7 +31754,7 @@
       },
       "Jack Warden": {
         "id": 5251,
-        "character": "Saul",
+        "character": "Saul Tuttle",
         "profile_path": "https://image.tmdb.org/t/p/original/hSShXiYMfRpMByaB5euZ59qCKN.jpg"
       },
       "Glynis Johns": {
@@ -31769,12 +31769,12 @@
       },
       "Jason Bernard": {
         "id": 18192,
-        "character": "Jerry",
+        "character": "Jerry Wallace",
         "profile_path": "https://image.tmdb.org/t/p/original/jcJR0xbQgVGJeOWdPrHI3pgKNHI.jpg"
       },
       "Michael Rispoli": {
         "id": 18313,
-        "character": "Joe Jr.",
+        "character": "Joe Fusco Jr.",
         "profile_path": "https://image.tmdb.org/t/p/original/4rtCKJTtPq9cSHFQqZSbyCLLWCO.jpg"
       },
       "Ally Walker": {
