@@ -891,6 +891,8 @@
     "imdb_score": "7.1/10",
     "rt_score": "93%",
     "meta_score": "69/100",
+    "platforms": "Amazon Prime Video",
+    "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
     "director": "Sarah Smith",
     "cast": {
       "James McAvoy": {
@@ -19445,7 +19447,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -24004,7 +24006,7 @@
       "Havana Rose Liu": {
         "id": 2378813,
         "character": "Lizzie Wang-Wasserman",
-        "profile_path": "https://image.tmdb.org/t/p/original/lqdialbfdj5l4KYMSlL4aausMaV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xt5jIhVekKpwZDbVuHJb8H4A6oM.jpg"
       },
       "Eva Longoria": {
         "id": 52605,
