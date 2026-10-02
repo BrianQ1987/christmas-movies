@@ -5310,7 +5310,7 @@
     "released": "2018-12-24",
     "duration": 53,
     "imdb_id": "tt9217716",
-    "vote_average": "6.5",
+    "vote_average": "6.6",
     "overview": "To save his daughter's Christmas, Andrew goes on a road trip with Dev, his neighbour from hell, to buy an elusive Sparklehoof the Unicorn Princess.",
     "genres": ["Comedy", "TV Movie"],
     "imdb_score": "6.8/10",
@@ -19447,7 +19447,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -26864,7 +26864,7 @@
       "Kevin Pollak": {
         "id": 7166,
         "character": "Cupid",
-        "profile_path": "https://image.tmdb.org/t/p/original/jWhKIVtmc3vIoS2l1VsdNwMAMJB.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/ss4vL5itVF1I2AEC64k1vb79GEq.jpg"
       },
       "Jay Thomas": {
         "id": 21105,
@@ -27176,7 +27176,7 @@
       "Kevin Pollak": {
         "id": 7166,
         "character": "Cupid",
-        "profile_path": "https://image.tmdb.org/t/p/original/jWhKIVtmc3vIoS2l1VsdNwMAMJB.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/ss4vL5itVF1I2AEC64k1vb79GEq.jpg"
       },
       "Jay Thomas": {
         "id": 21105,
@@ -28697,7 +28697,7 @@
       "Lily-Rose Depp": {
         "id": 1459885,
         "character": "Sophie",
-        "profile_path": "https://image.tmdb.org/t/p/original/wPUopx2docyGsLaub7XtFPuwDX6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/fulxfCO2UjDTVX3lhy4mup4wXqM.jpg"
       },
       "Lucy Punch": {
         "id": 66446,
@@ -32110,7 +32110,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
