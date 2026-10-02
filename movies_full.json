@@ -7169,7 +7169,7 @@
       "Jordan Leftwich": {
         "id": 4404776,
         "character": "Ava",
-        "profile_path": "https://image.tmdb.org/t/p/original/vRVhxoG064iSTs4eLbK110gxnCP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/yHvEhCqnPXaPFsIjYlLxZpjJFeA.jpg"
       },
       "Theodore Sykes": {
         "id": 4405541,
@@ -10372,8 +10372,8 @@
     "imdb_score": "7.9/10",
     "rt_score": "97%",
     "meta_score": "82/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/kMT8p43W3BsXBe9mqCIPDNepser.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Alexander Payne",
     "cast": {
       "Paul Giamatti": {
@@ -19447,7 +19447,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -21686,8 +21686,8 @@
     "genres": ["Comedy", "Family"],
     "imdb_score": "6.5/10",
     "rt_score": "48%",
-    "platforms": "Netflix",
-    "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+    "platforms": ["BBC iPlayer", "Netflix"],
+    "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "/rK1KljqmbvO9HQa1PBFLILWah72.png"],
     "director": "Debbie Isitt",
     "cast": {
       "Martin Freeman": {
@@ -25910,7 +25910,7 @@
     "released": "1940-01-19",
     "duration": 94,
     "imdb_id": "tt0032981",
-    "vote_average": "7.4",
+    "vote_average": "7.3",
     "overview": "Unexpected love blossoms when an assistant district attorney agrees to take a recidivist shoplifter home so she doesn't have to spend Christmas alone in jail.",
     "genres": ["Comedy", "Romance", "Drama"],
     "imdb_score": "7.5/10",
@@ -26672,7 +26672,7 @@
       "Kenny Vadas": {
         "id": 1239446,
         "character": "E.L.F.S. Leader",
-        "profile_path": "https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/uF5OGThlZr11Ghu0sSmUKmjVC2u.jpg"
       },
       "Brian Reilly": {
         "id": 56644,
@@ -32110,7 +32110,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin Jr."],
+    "director": ["Arthur Rankin Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
