@@ -19447,7 +19447,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20525,7 +20525,7 @@
       "Steve Martin": {
         "id": 67773,
         "character": "Philip",
-        "profile_path": "https://image.tmdb.org/t/p/original/d0KthX8hVWU9BxTCG1QUO8FURRm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/yR0BJLn4FCysiIdwdXWLINu74Go.jpg"
       },
       "Madeline Kahn": {
         "id": 29803,
@@ -23784,7 +23784,7 @@
       "Sabrina Carpenter": {
         "id": 1152083,
         "character": "Self",
-        "profile_path": "https://image.tmdb.org/t/p/original/kAQVOilguwlXtYWQ1lzYumWS0c6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/h2JcSqZ220VXDqb6xKBVcRquGGN.jpg"
       },
       "Cara Delevingne": {
         "id": 1289968,
@@ -32110,7 +32110,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
