@@ -14051,7 +14051,7 @@
       "Katharine Isabelle": {
         "id": 27136,
         "character": "Gale Prescott",
-        "profile_path": "https://image.tmdb.org/t/p/original/c9db3Cq3BQhWXCmVthyGQBN1W95.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/hX6i25ieoEJEZ1jV81qob2Na0su.jpg"
       },
       "William B. Davis": {
         "id": 12643,
@@ -16408,8 +16408,8 @@
     "imdb_score": "6.5/10",
     "rt_score": "46%",
     "meta_score": "50/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Paul Feig",
     "cast": {
       "Emilia Clarke": {
