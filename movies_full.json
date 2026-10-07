@@ -1602,7 +1602,7 @@
     "released": "2023-11-16",
     "duration": 80,
     "imdb_id": "tt7038762",
-    "vote_average": "5.4",
+    "vote_average": "5.3",
     "overview": "After a twist of fate brings their families together for Christmas, Charlotte sets out to prove her old friend Jackie's life is too good to be true.",
     "genres": "Comedy",
     "imdb_score": "4.5/10",
@@ -5916,7 +5916,7 @@
       "Reginald VelJohnson": {
         "id": 7672,
         "character": "Al Powell",
-        "profile_path": "https://image.tmdb.org/t/p/original/78x1ceFIKI8DHfEEj9dg4JrGwPa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dZtIIOI0PpD3dmTVfUOWiQzOY28.jpg"
       },
       "Paul Gleason": {
         "id": 7675,
@@ -19437,7 +19437,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -20443,7 +20443,7 @@
       "Reginald VelJohnson": {
         "id": 7672,
         "character": "Holly's Dad",
-        "profile_path": "https://image.tmdb.org/t/p/original/78x1ceFIKI8DHfEEj9dg4JrGwPa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dZtIIOI0PpD3dmTVfUOWiQzOY28.jpg"
       },
       "Andy Gala": {
         "id": 1123993,
@@ -28590,7 +28590,7 @@
       "Joan Blair": {
         "id": 128873,
         "character": "Customer (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/dZ1aEzGYRiqJwPfjS6VL7wUkHmF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5NHgZGC9t7wO1V6Lo274FhuVTKt.jpg"
       },
       "Mary Carr": {
         "id": 141342,
@@ -32100,7 +32100,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
