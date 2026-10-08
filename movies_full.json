@@ -19,15 +19,15 @@
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Michael Dowse",
     "cast": {
-      "Neil Patrick Harris": {
-        "id": 41686,
-        "character": "Adult Jake Doyle / Narrator",
-        "profile_path": "https://image.tmdb.org/t/p/original/r2twLWLwDpKJ7JyhWsD1YsL7rJV.jpg"
-      },
       "Winslow Fegley": {
         "id": 2115854,
         "character": "Jake Doyle",
         "profile_path": "https://image.tmdb.org/t/p/original/fx72xnTrHYLsFA3CUlDbwojH8G7.jpg"
+      },
+      "Neil Patrick Harris": {
+        "id": 41686,
+        "character": "Adult Jake Doyle / Narrator",
+        "profile_path": "https://image.tmdb.org/t/p/original/r2twLWLwDpKJ7JyhWsD1YsL7rJV.jpg"
       },
       "Steve Zahn": {
         "id": 18324,
@@ -4774,7 +4774,7 @@
       "Amanda Seyfried": {
         "id": 71070,
         "character": "Ruby",
-        "profile_path": "https://image.tmdb.org/t/p/original/bld2pK9kZy1H4SLxEWWVCpENyXo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/wcHYErlynY8xWe6X7RmqEqpMBGl.jpg"
       },
       "Alan Arkin": {
         "id": 1903,
@@ -17573,7 +17573,7 @@
     "vote_average": "7.8",
     "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
     "genres": ["Drama", "Romance"],
-    "imdb_score": "7.8/10",
+    "imdb_score": "7.7/10",
     "rt_score": "95%",
     "meta_score": "91/100",
     "platforms": "Plex",
@@ -21097,7 +21097,7 @@
       "Patrick Pinney": {
         "id": 61968,
         "character": "Additional Muppet Performer (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/b0jgxFRdzjwXnmLA0udvjzKEQO2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/RHR9Tp3pZR1R58TCJzmcKtihGC.jpg"
       },
       "Phil Proctor": {
         "id": 61969,
