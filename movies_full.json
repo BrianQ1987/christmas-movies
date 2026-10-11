@@ -1911,7 +1911,7 @@
     "released": "1974-10-11",
     "duration": 98,
     "imdb_id": "tt0071222",
-    "vote_average": "6.9",
+    "vote_average": "7",
     "overview": "As the residents of the Pi Kappa Sigma sorority house prepare for the festive season, a stranger begins to harass them with a series of obscene phone calls.",
     "genres": ["Horror", "Mystery", "Crime"],
     "imdb_score": "7.1/10",
@@ -11142,6 +11142,11 @@
         "id": 82390,
         "character": "Girl in Bar (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/original/a6Z8cq2nZP7DSOMrDuqS2oF1Jo7.jpg"
+      },
+      "Lindsay Lohan": {
+        "id": 49265,
+        "character": "Lindsay Lohan",
+        "profile_path": "https://image.tmdb.org/t/p/original/hwgyUEM7UuKTVhFcFoorx72pn1j.jpg"
       }
     }
   },
@@ -19437,7 +19442,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -32100,7 +32105,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin Jr."],
+    "director": ["Arthur Rankin Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
