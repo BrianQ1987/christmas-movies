@@ -2290,8 +2290,8 @@
     "imdb_score": "3.5/10",
     "rt_score": "41%",
     "meta_score": "49/100",
-    "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Sophia Takal",
     "cast": {
       "Imogen Poots": {
@@ -11426,7 +11426,7 @@
     "released": "1942-07-10",
     "duration": 101,
     "imdb_id": "tt0034862",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "Lovely Linda Mason has crooner Jim Hardy head over heels, but suave stepper Ted Hanover wants her for his new dance partner after fickle Lila Dixon gives him the brush. Jim's supper club, Holiday Inn, is the setting for the chase by Hanover and his manager.",
     "genres": ["Comedy", "Drama", "Romance"],
     "imdb_score": "7.3/10",
@@ -17648,7 +17648,7 @@
       "Meryl Streep": {
         "id": 5064,
         "character": "Aunt March",
-        "profile_path": "https://image.tmdb.org/t/p/original/pSyM9cteYYWUBDalJzMPLH0SLgB.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg"
       },
       "Rafael Silva": {
         "id": 2503394,
@@ -23767,7 +23767,7 @@
     "released": "2024-12-05",
     "duration": 50,
     "imdb_id": "tt33427273",
-    "vote_average": "6.7",
+    "vote_average": "6.8",
     "overview": "Pop icon Sabrina Carpenter jingles all the bells in her first-ever variety music special full of holiday hits, unexpected duets and comedic cameos.",
     "genres": ["Music", "Comedy"],
     "imdb_score": "6.4/10",
@@ -32105,7 +32105,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
