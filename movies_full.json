@@ -5104,7 +5104,7 @@
       "Doug Cox": {
         "id": 52464,
         "character": "Neighbor #1",
-        "profile_path": "https://image.tmdb.org/t/p/original/kJamsLoou7qy51VbRivC7bkXBHM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/jRtn3rfEZ9GKjGGKK6uCsvQbGx2.jpg"
       },
       "Matt Walsh": {
         "id": 59841,
@@ -20764,7 +20764,7 @@
     "released": "1992-12-11",
     "duration": 86,
     "imdb_id": "tt0104940",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during nighttime visitations by the Ghosts of Christmas Past, Present and Future.",
     "genres": ["Music", "Comedy", "Family", "Fantasy", "Drama"],
     "imdb_score": "7.8/10",
@@ -32105,7 +32105,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin Jr."],
+    "director": ["Arthur Rankin Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
