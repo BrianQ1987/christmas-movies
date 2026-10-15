@@ -19442,7 +19442,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -29223,7 +29223,7 @@
       "Maven Morgan": {
         "id": 2639875,
         "character": "Present's Daughter",
-        "profile_path": "https://image.tmdb.org/t/p/original/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6HEkcczpzhwTJen881vbSODTpw8.jpg"
       },
       "Giovanni Daniel Pollina": {
         "id": 3797150,
