@@ -4774,7 +4774,7 @@
       "Amanda Seyfried": {
         "id": 71070,
         "character": "Ruby",
-        "profile_path": "https://image.tmdb.org/t/p/original/wcHYErlynY8xWe6X7RmqEqpMBGl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
       },
       "Alan Arkin": {
         "id": 1903,
@@ -10077,7 +10077,7 @@
       "Lena Dunham": {
         "id": 139135,
         "character": "Carson",
-        "profile_path": "https://image.tmdb.org/t/p/original/qII1QOuKOiGUT5OxDf7c90bakYA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/nRMeKctDpp5vgYCbrFXEmrAch6k.jpg"
       },
       "Joe Swanberg": {
         "id": 40863,
@@ -19442,7 +19442,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -29554,7 +29554,7 @@
     "imdb_id": "tt0090103",
     "vote_average": "6.5",
     "overview": "Gib, a beer-guzzling slob, and Alison, an uptight Ivy-Leaguer, are an unlikely duo stuck together on a cross-country trip during Christmas break. At first they get on each other's nerves but, as time passes, they find their divergent natures complement each other. Now they need to realize what they've already found before it's too late.",
-    "genres": ["Comedy", "Drama", "Romance"],
+    "genres": ["Comedy", "Romance"],
     "imdb_score": "7.0/10",
     "rt_score": "81%",
     "meta_score": "76/100",
