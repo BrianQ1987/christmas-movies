@@ -6806,8 +6806,8 @@
     "imdb_score": "6.3/10",
     "rt_score": "52%",
     "meta_score": "56/100",
-    "platforms": ["Netflix", "Disney Plus"],
-    "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "/5eZ872CghnHFLB1j8grszbrx0dx.png"],
+    "platforms": "Disney Plus",
+    "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
     "director": "Thomas Bezucha",
     "cast": {
       "Dermot Mulroney": {
@@ -7049,7 +7049,7 @@
       "Rivers Cuomo": {
         "id": 928545,
         "character": "Lake",
-        "profile_path": "https://image.tmdb.org/t/p/original/ogYxIfNT3RGo0i8xpiRaRGL0EY6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/6ssWWUHN54sPxxyAHgTBSswwmSZ.jpg"
       },
       "Brian Bell": {
         "id": 1161962,
@@ -7229,7 +7229,7 @@
       "Kiara Romero": {
         "id": 2982884,
         "character": "Girl at Party",
-        "profile_path": "https://image.tmdb.org/t/p/original/wvKVGOvL9qpHwFTecWv18eAwmoo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/p9LGO09tpl6aqy0z4BEPWaztFJ6.jpg"
       },
       "Stefan Sacks": {
         "id": 4404773,
@@ -16043,7 +16043,7 @@
       "Norm Macdonald": {
         "id": 77075,
         "character": "Mogens (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/pGOpdt9Xy9YO2nUEWgp8G89KC5r.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/e7zNBqe1DEWVzpxxn41KuyQAKn4.jpg"
       },
       "Will Sasso": {
         "id": 39125,
@@ -19442,7 +19442,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -32105,7 +32105,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin Jr."],
+    "director": ["Arthur Rankin Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
