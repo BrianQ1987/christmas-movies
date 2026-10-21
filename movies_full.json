@@ -7229,7 +7229,7 @@
       "Kiara Romero": {
         "id": 2982884,
         "character": "Girl at Party",
-        "profile_path": "https://image.tmdb.org/t/p/original/p9LGO09tpl6aqy0z4BEPWaztFJ6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/wvKVGOvL9qpHwFTecWv18eAwmoo.jpg"
       },
       "Stefan Sacks": {
         "id": 4404773,
@@ -15468,6 +15468,11 @@
         "id": 5334914,
         "character": "Rich Man at Gala",
         "profile_path": "https://image.tmdb.org/t/p/original/rVOQF2Ucekug1B80A9crVx7Jn90.jpg"
+      },
+      "Taylor Sullivan": {
+        "id": 5034088,
+        "character": "Spoiled Brat (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/dFKvB9qky9W8MfDX9VFMLXn9FaP.jpg"
       }
     }
   },
@@ -19442,7 +19447,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -30496,7 +30501,7 @@
       "Chiyako Shibahara": {
         "id": 1239119,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/original/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/lQ5YgwmaYjyB9Un7Ra8awIHTAnT.jpg"
       },
       "Mitsuru Ogata": {
         "id": 1243480,
@@ -32105,7 +32110,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
