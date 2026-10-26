@@ -112,7 +112,7 @@
       "Louise Nicol": {
         "id": 1225942,
         "character": "Miss Sherman",
-        "profile_path": "https://image.tmdb.org/t/p/original/p9D3RpVsSeuKi9KGLyCoYSHkh8Z.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5YwaISdOwp8Zu6O7kwBeUn8a7Pu.jpg"
       },
       "Erica Levene": {
         "id": 2668871,
@@ -4774,7 +4774,7 @@
       "Amanda Seyfried": {
         "id": 71070,
         "character": "Ruby",
-        "profile_path": "https://image.tmdb.org/t/p/original/qvfwAfUfKfX4DraCgfn0YriiLO0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/bld2pK9kZy1H4SLxEWWVCpENyXo.jpg"
       },
       "Alan Arkin": {
         "id": 1903,
@@ -19447,7 +19447,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers", "Toby Shelton"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann", "Toby Shelton"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -31382,7 +31382,7 @@
     "imdb_id": "tt12003946",
     "vote_average": "7.2",
     "overview": "When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn’t prepared for a surprise combatant: Santa Claus is on the grounds, and he’s about to show why this Nick is no saint.",
-    "genres": ["Action", "Comedy"],
+    "genres": ["Action", "Comedy", "Fantasy"],
     "imdb_score": "6.7/10",
     "rt_score": "74%",
     "meta_score": "55/100",
@@ -32080,7 +32080,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
