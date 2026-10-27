@@ -10683,10 +10683,10 @@
         "character": "Luc",
         "profile_path": "https://image.tmdb.org/t/p/original/4ellxKg5sQJJs0NEwLP0mzJG18E.jpg"
       },
-      "Nicola Peltz": {
+      "Nicola Peltz Beckham": {
         "id": 61186,
         "character": "Felicity",
-        "profile_path": "https://image.tmdb.org/t/p/original/oDizBpZEeV5c3fDp3Wts4TsFNrq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xSctMpDivZZ7AbYTRup8cGCW3H4.jpg"
       },
       "Dan Lauria": {
         "id": 29774,
@@ -19447,7 +19447,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond", "Toby Shelton"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers", "Toby Shelton"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -22337,7 +22337,7 @@
       "David Tennant": {
         "id": 20049,
         "character": "Donald / Roderick Peterson",
-        "profile_path": "https://image.tmdb.org/t/p/original/mGfrEMbxjUWjek1WDSq1j4TULIR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/syFdcmvI86Pn5YYfZLZlbkvCsj3.jpg"
       },
       "Marc Wootton": {
         "id": 92574,
@@ -28926,7 +28926,7 @@
       "Jennifer Robertson": {
         "id": 87571,
         "character": "Lisa",
-        "profile_path": "https://image.tmdb.org/t/p/original/poEzn35CILuG3dtCRrTocU2TC2d.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/rcW3yjiTterP25AB1K2oXnnlvqS.jpg"
       },
       "Barry Bostwick": {
         "id": 13473,
@@ -32080,7 +32080,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin Jr."],
+    "director": ["Arthur Rankin Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
