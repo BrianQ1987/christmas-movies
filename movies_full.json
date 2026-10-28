@@ -1711,7 +1711,7 @@
     "imdb_id": "tt0039190",
     "vote_average": "7.1",
     "overview": "An Episcopal Bishop, Henry Brougham, has been working for months on the plans for an elaborate new cathedral which he hopes will be paid for primarily by a wealthy, stubborn widow. He is losing sight of his family and of why he became a churchman in the first place. Enter Dudley, an angel sent to help him. Dudley does help everyone he meets, but not necessarily in the way they would have preferred. With the exception of Henry, everyone loves him, but Henry begins to believe that Dudley is there to replace him, both at work and in his family's affections, as Christmas approaches.",
-    "genres": ["Comedy", "Fantasy", "Drama", "Romance"],
+    "genres": ["Fantasy", "Drama"],
     "imdb_score": "7.6/10",
     "rt_score": "85%",
     "meta_score": "72/100",
@@ -4774,7 +4774,7 @@
       "Amanda Seyfried": {
         "id": 71070,
         "character": "Ruby",
-        "profile_path": "https://image.tmdb.org/t/p/original/qvfwAfUfKfX4DraCgfn0YriiLO0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
       },
       "Alan Arkin": {
         "id": 1903,
@@ -10384,7 +10384,7 @@
       "Dominic Sessa": {
         "id": 3918497,
         "character": "Angus Tully",
-        "profile_path": "https://image.tmdb.org/t/p/original/cTYdhJrye7oTREIkQaLAuLoJ8Rt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/tSRLahrkA3iHJmKjkh3R2ZBFIQN.jpg"
       },
       "Da'Vine Joy Randolph": {
         "id": 1180099,
@@ -14815,7 +14815,7 @@
       "Martin Mull": {
         "id": 80742,
         "character": "D.J.",
-        "profile_path": "https://image.tmdb.org/t/p/original/wthyliVHLrgvKUIRI1WXfEw9pjL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/bhZLI8pf9JE14VqaIBAsMBR7G8h.jpg"
       },
       "Jim Belushi": {
         "id": 26485,
@@ -19447,7 +19447,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers", "Toby Shelton"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann", "Toby Shelton"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -23976,7 +23976,7 @@
       "Dominic Sessa": {
         "id": 3918497,
         "character": "Sammy",
-        "profile_path": "https://image.tmdb.org/t/p/original/cTYdhJrye7oTREIkQaLAuLoJ8Rt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/tSRLahrkA3iHJmKjkh3R2ZBFIQN.jpg"
       },
       "Jason Schwartzman": {
         "id": 17881,
