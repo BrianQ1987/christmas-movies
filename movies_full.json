@@ -891,8 +891,8 @@
     "imdb_score": "7.1/10",
     "rt_score": "93%",
     "meta_score": "69/100",
-    "platforms": "Amazon Prime Video",
-    "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+    "platforms": ["Amazon Prime Video", "Channel 4"],
+    "logo_paths": ["/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "/kMT8p43W3BsXBe9mqCIPDNepser.png"],
     "director": "Sarah Smith",
     "cast": {
       "James McAvoy": {
@@ -4949,6 +4949,8 @@
     "imdb_score": "5.6/10",
     "rt_score": "5%",
     "meta_score": "22/100",
+    "platforms": "Channel 4",
+    "logo_paths": "/kMT8p43W3BsXBe9mqCIPDNepser.png",
     "director": "Joe Roth",
     "cast": {
       "Tim Allen": {
@@ -7686,7 +7688,7 @@
       "Skyler Gisondo": {
         "id": 61263,
         "character": "Connor McVie",
-        "profile_path": "https://image.tmdb.org/t/p/original/qsj3TrHFfkDGSEKHfxfMpBWAe7N.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/4oywya1Roukq6FJFuWjU5z61WUg.jpg"
       },
       "Steve Wiebe": {
         "id": 76112,
@@ -13114,7 +13116,7 @@
         "profile_path": "https://image.tmdb.org/t/p/original/iNjzleUvrnhN4PDuuJerF2SCFfn.jpg"
       },
       "Clayton Martinez": {
-        "id": 1015053,
+        "id": 2056078,
         "character": "Cook",
         "profile_path": "https://image.tmdb.org/t/p/original/1WZbbPApEivA421gCOluuzMMKCk.jpg"
       },
@@ -17580,7 +17582,7 @@
     "released": "2019-12-25",
     "duration": 135,
     "imdb_id": "tt3281548",
-    "vote_average": "7.8",
+    "vote_average": "7.9",
     "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
     "genres": ["Drama", "Romance"],
     "imdb_score": "7.7/10",
@@ -19447,7 +19449,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann", "Toby Shelton"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond", "Toby Shelton"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -22332,6 +22334,8 @@
     "genres": ["Comedy", "Family"],
     "imdb_score": "5.4/10",
     "rt_score": "33%",
+    "platforms": "BBC iPlayer",
+    "logo_paths": "/vi6XJCpJ9GpAPD3rDSRzMC812Z.png",
     "director": "Debbie Isitt",
     "cast": {
       "David Tennant": {
@@ -30531,8 +30535,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "87%",
     "meta_score": "69/100",
-    "platforms": ["Paramount Plus", "Plex"],
-    "logo_paths": ["/pkx3klJlwW5JdtaulvDx6hDNtch.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Paramount Plus", "ITVX", "Plex"],
+    "logo_paths": ["/pkx3klJlwW5JdtaulvDx6hDNtch.png", "/nIViE3wOPV5Jyv45T7hetHyG6iS.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "John Landis",
     "cast": {
       "Dan Aykroyd": {
@@ -32110,7 +32114,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
