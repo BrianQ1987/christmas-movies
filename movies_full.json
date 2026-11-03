@@ -2290,8 +2290,8 @@
     "imdb_score": "3.5/10",
     "rt_score": "41%",
     "meta_score": "49/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Disney Plus", "Plex"],
+    "logo_paths": ["/5eZ872CghnHFLB1j8grszbrx0dx.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Sophia Takal",
     "cast": {
       "Imogen Poots": {
@@ -9429,8 +9429,8 @@
     "imdb_score": "6.4/10",
     "rt_score": "60%",
     "meta_score": "51/100",
-    "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Amazon Prime Video", "Disney Plus", "Plex"],
+    "logo_paths": ["/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "/5eZ872CghnHFLB1j8grszbrx0dx.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Yarrow Cheney", "Scott Mosier"],
     "cast": {
       "Benedict Cumberbatch": {
@@ -12921,8 +12921,8 @@
     "imdb_score": "6.4/10",
     "rt_score": "50%",
     "meta_score": "46/100",
-    "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Amazon Prime Video", "Disney Plus", "Plex"],
+    "logo_paths": ["/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "/5eZ872CghnHFLB1j8grszbrx0dx.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Ron Howard",
     "cast": {
       "Jim Carrey": {
@@ -21688,8 +21688,8 @@
     "genres": ["Comedy", "Family"],
     "imdb_score": "6.5/10",
     "rt_score": "48%",
-    "platforms": ["BBC iPlayer", "Netflix"],
-    "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "/rK1KljqmbvO9HQa1PBFLILWah72.png"],
+    "platforms": ["BBC iPlayer", "Netflix", "Disney Plus"],
+    "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "/rK1KljqmbvO9HQa1PBFLILWah72.png", "/5eZ872CghnHFLB1j8grszbrx0dx.png"],
     "director": "Debbie Isitt",
     "cast": {
       "Martin Freeman": {
@@ -22334,8 +22334,8 @@
     "genres": ["Comedy", "Family"],
     "imdb_score": "5.4/10",
     "rt_score": "33%",
-    "platforms": "BBC iPlayer",
-    "logo_paths": "/vi6XJCpJ9GpAPD3rDSRzMC812Z.png",
+    "platforms": ["BBC iPlayer", "Disney Plus"],
+    "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "/5eZ872CghnHFLB1j8grszbrx0dx.png"],
     "director": "Debbie Isitt",
     "cast": {
       "David Tennant": {
@@ -22615,6 +22615,8 @@
     "genres": ["Comedy", "Family"],
     "imdb_score": "3.6/10",
     "rt_score": "16%",
+    "platforms": "Disney Plus",
+    "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
     "director": "Debbie Isitt",
     "cast": {
       "Martin Clunes": {
@@ -23040,7 +23042,7 @@
     "plex": false,
     "watched": [2023, 2024, 2025],
     "added": 2023,
-    "poster_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/original/5i7nglnXGpFJQN4FLw1RrmBthZ4.jpg",
     "title": "The Nightmare Before Christmas",
     "released": "1993-10-09",
     "duration": 76,
@@ -23093,12 +23095,12 @@
       "Edward Ivory": {
         "id": 1495928,
         "character": "Santa Claus (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5i7nglnXGpFJQN4FLw1RrmBthZ4.jpg"
       },
       "Susan McBride": {
         "id": 2011698,
         "character": "Big Witch / WWD. (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5i7nglnXGpFJQN4FLw1RrmBthZ4.jpg"
       },
       "Debi Durst": {
         "id": 1383860,
@@ -23123,7 +23125,7 @@
       "Sherwood Ball": {
         "id": 1720668,
         "character": "Mummy / Vampire (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5i7nglnXGpFJQN4FLw1RrmBthZ4.jpg"
       },
       "Carmen Twillie": {
         "id": 1222823,
@@ -23133,32 +23135,32 @@
       "Glenn Walters": {
         "id": 1720667,
         "character": "Wolfman (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5i7nglnXGpFJQN4FLw1RrmBthZ4.jpg"
       },
       "Mia Brown": {
         "id": 2011699,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5i7nglnXGpFJQN4FLw1RrmBthZ4.jpg"
       },
       "L. Peter Callender": {
         "id": 2011701,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5i7nglnXGpFJQN4FLw1RrmBthZ4.jpg"
       },
       "Ann Fraser": {
         "id": 2011702,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5i7nglnXGpFJQN4FLw1RrmBthZ4.jpg"
       },
       "Jennifer Levey": {
         "id": 2011703,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5i7nglnXGpFJQN4FLw1RrmBthZ4.jpg"
       },
       "Jesse McClurg": {
         "id": 1616341,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5i7nglnXGpFJQN4FLw1RrmBthZ4.jpg"
       },
       "John Morris": {
         "id": 1116442,
@@ -23168,7 +23170,7 @@
       "Robert Olague": {
         "id": 2011707,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5i7nglnXGpFJQN4FLw1RrmBthZ4.jpg"
       },
       "Bobbi Page": {
         "id": 1074140,
@@ -23178,12 +23180,12 @@
       "Elena Praskin": {
         "id": 1866645,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5i7nglnXGpFJQN4FLw1RrmBthZ4.jpg"
       },
       "Trampas Warman": {
         "id": 2011708,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5i7nglnXGpFJQN4FLw1RrmBthZ4.jpg"
       },
       "Judi Durand": {
         "id": 949895,
@@ -23193,7 +23195,7 @@
       "Doris Hess": {
         "id": 1596338,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5i7nglnXGpFJQN4FLw1RrmBthZ4.jpg"
       },
       "Daamen J. Krall": {
         "id": 96310,
@@ -23203,7 +23205,7 @@
       "Christina MacGregor": {
         "id": 1995388,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5i7nglnXGpFJQN4FLw1RrmBthZ4.jpg"
       },
       "David McCharen": {
         "id": 952996,
@@ -23213,12 +23215,12 @@
       "Gary Raff": {
         "id": 2011711,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5i7nglnXGpFJQN4FLw1RrmBthZ4.jpg"
       },
       "David J. Randolph": {
         "id": 954335,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/5i7nglnXGpFJQN4FLw1RrmBthZ4.jpg"
       },
       "Gary Schwartz": {
         "id": 184330,
@@ -27858,7 +27860,7 @@
       "Graham Armitage": {
         "id": 202288,
         "character": "Party Guest (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/eadjJGFdbZdhXSjtokmay7NjVHi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/kp2DD3CxcuAqELpdWgO8FciidFR.jpg"
       },
       "James Cossins": {
         "id": 33109,
