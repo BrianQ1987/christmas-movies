@@ -16572,7 +16572,7 @@
       "Anna Calder-Marshall": {
         "id": 43543,
         "character": "Dora",
-        "profile_path": "https://image.tmdb.org/t/p/original/3SirMyLWytJDRRpgEZh8A5QRGOX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/sqMiCiWSNxqdoSNauvUao2hGlD1.jpg"
       },
       "Leon Delroy Williams": {
         "id": 1695900,
@@ -22868,7 +22868,7 @@
       "Randall Park": {
         "id": 79082,
         "character": "Boss",
-        "profile_path": "https://image.tmdb.org/t/p/original/GpERQxWcT3TXLHpH8b6hIyUazK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/u1QpbjVIKegk79DJG9HFmg9Ljv4.jpg"
       },
       "Ilana Glazer": {
         "id": 1325716,
@@ -24777,7 +24777,7 @@
       "Josh Hutcherson": {
         "id": 27972,
         "character": "Hero Boy (motion capture)",
-        "profile_path": "https://image.tmdb.org/t/p/original/GqIyK5mCJXFUXW4FwLM3Zj7UtK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg"
       },
       "Daryl Sabara": {
         "id": 57675,
@@ -28284,7 +28284,7 @@
       "Lisa Mende": {
         "id": 95201,
         "character": "Doris Cross",
-        "profile_path": "https://image.tmdb.org/t/p/original/dbxUA52X7ZEftJyGupdxcqQ5pDw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Ryan Todd": {
         "id": 188368,
@@ -30506,18 +30506,143 @@
       },
       "Chiyako Shibahara": {
         "id": 1239119,
-        "character": "",
+        "character": "Additional Voices (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/lQ5YgwmaYjyB9Un7Ra8awIHTAnT.jpg"
       },
       "Mitsuru Ogata": {
         "id": 1243480,
-        "character": "",
+        "character": "Additional Voices (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/hU4oLTtbjMSHbDfByuhQx9jzaym.jpg"
       },
       "Hidenari Ugaki": {
         "id": 81865,
-        "character": "Additional voices",
+        "character": "Additional Voices (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/iYdRY5LY5B0M1UsEpCQb3x83DJr.jpg"
+      },
+      "Eriko Kawasaki": {
+        "id": 1243902,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/iI8nsbT0RqCvcv1sSXAGls99gSv.jpg"
+      },
+      "Akiko Takeguchi": {
+        "id": 1256014,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/1AvQtCsaKzFsqTKsEgqDlNhQrYx.jpg"
+      },
+      "Kazuaki Ito": {
+        "id": 1222059,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/5MUe0ogbl29zy48SlKiiVOOO6fJ.jpg"
+      },
+      "Nobuyuki Furuta": {
+        "id": 1073765,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/gmi9gmYc3nkR3spwq1hBOUFNpcW.jpg"
+      },
+      "Atsuko Yuya": {
+        "id": 101914,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/hociwUP9rYQfqXpAnYDrXqJLoBX.jpg"
+      },
+      "Toshitaka Shimizu": {
+        "id": 1252986,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg"
+      },
+      "Jin Horikawa": {
+        "id": 1241478,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/Amp9I4yf8lI2eItStkpJeLmxyRb.jpg"
+      },
+      "Youto Kazama": {
+        "id": 1221427,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/iPv6Ip2EOfCDogjnvSF1LyC5hUI.jpg"
+      },
+      "Masao Harada": {
+        "id": 1930357,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/wSWaLxS23b3edE7tDixJ2eELG01.jpg"
+      },
+      "Tsuguo Mogami": {
+        "id": 1096527,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/gy1ovkyhWBN9RdIEP7pB5rSNDpD.jpg"
+      },
+      "Yoshinori Sonobe": {
+        "id": 1251326,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/x5XFKTekVFYLnQ18bpyjY0OTG3O.jpg"
+      },
+      "Rin Sakurazawa": {
+        "id": 6603856,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg"
+      },
+      "Mayumi Ichikawa": {
+        "id": 3270063,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg"
+      },
+      "Hikaru Koga": {
+        "id": 4120140,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg"
+      },
+      "Hikaru Sugita": {
+        "id": 6603861,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg"
+      },
+      "Nishimura Ayaki": {
+        "id": 6603862,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg"
+      },
+      "高橋 亮": {
+        "id": 6603864,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg"
+      },
+      "三木 秀甫": {
+        "id": 6603866,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg"
+      },
+      "Akiko Kawase": {
+        "id": 935018,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/u5DRewwuRto5YwmmLWTVpACkyEQ.jpg"
+      },
+      "Luis Sartor": {
+        "id": 6603867,
+        "character": "Mario (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg"
+      },
+      "Myrta Dangelo": {
+        "id": 6603870,
+        "character": "Maria (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg"
+      },
+      "宮崎 晋永": {
+        "id": 6603871,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg"
+      },
+      "Inuko Inuyama": {
+        "id": 936287,
+        "character": "Kurumizawa (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/bA6BQgafhEyRFMh4EbZQJqvIVWY.jpg"
+      },
+      "矢原 加奈子": {
+        "id": 6603878,
+        "character": "Yamanouchi (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/sPC66btzQlzuRdPKiSDYZ5Hvxgc.jpg"
+      },
+      "Rie Shibata": {
+        "id": 1089940,
+        "character": "Cat Lady (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/original/jf4ITLxyDDwTTVHMWEyovbSC8ng.jpg"
       }
     }
   },
