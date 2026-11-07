@@ -15230,7 +15230,6 @@
     "overview": "Two down-on-their-luck hourly workers team up to rob a posh London department store on Christmas Eve. Will they steal each other's hearts along the way?",
     "genres": ["Romance", "Crime", "Comedy"],
     "imdb_score": "5.8/10",
-    "rt_score": "76%",
     "meta_score": "58/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
@@ -19279,7 +19278,6 @@
     "vote_average": "6",
     "overview": "Recently separated, Kate hopes to celebrate one last perfect family Christmas with her soon-to-be ex-husband Everett and their kids before their divorce is final and the house is sold. But her holiday plans are hilariously derailed when Everett unexpectedly brings his younger, successful new girlfriend.",
     "genres": ["Romance", "Comedy"],
-    "rt_score": "56%",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
     "director": "Steve Carr",
@@ -19449,7 +19447,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann", "Toby Shelton"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond", "Toby Shelton"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -23850,7 +23848,7 @@
       "Tyla": {
         "id": 4535189,
         "character": "Self",
-        "profile_path": "https://image.tmdb.org/t/p/original/jDJAaBsQCjH8XEel6AiBsA3qz8z.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/liUjahm0wKg6IfTS9fuxpE4JQ4I.jpg"
       },
       "Solomon Dorsey": {
         "id": 5104823,
@@ -23953,7 +23951,6 @@
     "overview": "Claire Clauster is the glue that holds her chaotic, lovable family together at the holidays. But this year, after planning a special outing for them, they make a crucial mistake and leave her home alone. Fed up and feeling under appreciated, she sets off on an impromptu adventure of her own. As her family scrambles to find her, Claire discovers the unexpected magic of a Christmas gone off-script.",
     "genres": "Comedy",
     "imdb_score": "5.3/10",
-    "rt_score": "36%",
     "meta_score": "38/100",
     "platforms": "Amazon Prime Video",
     "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
