@@ -10374,8 +10374,8 @@
     "imdb_score": "7.9/10",
     "rt_score": "97%",
     "meta_score": "82/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/kMT8p43W3BsXBe9mqCIPDNepser.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Alexander Payne",
     "cast": {
       "Paul Giamatti": {
@@ -10833,6 +10833,8 @@
     "imdb_score": "7.0/10",
     "rt_score": "51%",
     "meta_score": "52/100",
+    "platforms": "Amazon Prime Video",
+    "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
     "director": "Nancy Meyers",
     "cast": {
       "Cameron Diaz": {
@@ -13364,7 +13366,7 @@
       "James Gonzalez": {
         "id": 1468520,
         "character": "Supper Club Patron (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/5kPe0U01FrHaS1GsvBe9ZkWdg6d.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/zRJlJStX2M9L4Cn4pzFsrk4QX2e.jpg"
       },
       "Eula Guy": {
         "id": 139223,
@@ -14817,7 +14819,7 @@
       "Martin Mull": {
         "id": 80742,
         "character": "D.J.",
-        "profile_path": "https://image.tmdb.org/t/p/original/bhZLI8pf9JE14VqaIBAsMBR7G8h.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/wthyliVHLrgvKUIRI1WXfEw9pjL.jpg"
       },
       "Jim Belushi": {
         "id": 26485,
@@ -19447,7 +19449,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann", "Toby Shelton"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers", "Toby Shelton"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -21612,7 +21614,7 @@
       "Franco Corsaro": {
         "id": 157287,
         "character": "Waiter Bringing Wine (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/zOeDeZnjqYcvRnMBcfb7omgH15v.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/AlEewhCZj4cHJdzzFGRASxaitta.jpg"
       },
       "George Noisom": {
         "id": 1422117,
