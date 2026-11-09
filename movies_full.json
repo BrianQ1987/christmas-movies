@@ -13493,7 +13493,7 @@
     "poster_path": "https://image.tmdb.org/t/p/original/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg",
     "title": "It Happened on Fifth Avenue",
     "released": "1947-04-17",
-    "duration": 116,
+    "duration": 115,
     "imdb_id": "tt0039502",
     "vote_average": "7.1",
     "overview": "A New Yorker hobo moves into a mansion and along the way he gathers friends to live in the house with him. Before he knows it, he is living with the actual home owners.",
@@ -13781,7 +13781,7 @@
     "released": "2002-11-29",
     "duration": 88,
     "imdb_id": "tt0329737",
-    "vote_average": "6",
+    "vote_average": "6.1",
     "overview": "The owner of a bank (Miss Bitterman) wants to own the Muppet Theatre so she can build a nightclub over it. After she tricks Pepe into giving her the only copy of the contract between her father and the Muppets, she changes it so the Muppets have very little time to pay a debt they owe. Meanwhile, the Muppets are trying to put on a Christmas show. After the Muppets are confronted by Bitterman, they make a lot of sacrifices to save up so they can keep the Theatre.",
     "genres": ["Comedy", "Family"],
     "imdb_score": "6.2/10",
@@ -13837,27 +13837,27 @@
       },
       "Carson Daly": {
         "id": 1214979,
-        "character": "Self",
+        "character": "Carson Daly",
         "profile_path": "https://image.tmdb.org/t/p/original/loxq4ARBpzTPpkUpbZYFPGQ87eG.jpg"
       },
       "Kelly Ripa": {
         "id": 76096,
-        "character": "Self",
+        "character": "Kelly Ripa",
         "profile_path": "https://image.tmdb.org/t/p/original/rlD0Ob2zFTppU1XP0cdMGRgDeyb.jpg"
       },
       "Joe Rogan": {
         "id": 91609,
-        "character": "Self",
+        "character": "Joe Rogan",
         "profile_path": "https://image.tmdb.org/t/p/original/mWb6QIsGGHMdhN9yVGZXCHQIRzS.jpg"
       },
       "Molly Shannon": {
         "id": 28640,
-        "character": "Self",
+        "character": "Molly Shannon",
         "profile_path": "https://image.tmdb.org/t/p/original/5ZTbNpJtDRU4ZCH24nJvFRxaqAD.jpg"
       },
       "Robert Smigel": {
         "id": 53684,
-        "character": "Triumph, the Insult Comic Dog (voice)",
+        "character": "Triumph the Insult Comic Dog (voice)",
         "profile_path": "https://image.tmdb.org/t/p/original/xGlGVcLhiZ4a7GIGlLzGmZtbvUF.jpg"
       },
       "Zach Braff": {
@@ -13887,7 +13887,7 @@
       },
       "Bill Lawrence": {
         "id": 1216859,
-        "character": "Self",
+        "character": "Bill Lawrence",
         "profile_path": "https://image.tmdb.org/t/p/original/75mV8qLqPA9oMy23lTxmcoEGWAe.jpg"
       },
       "Mel Brooks": {
@@ -16066,7 +16066,7 @@
       "Mila Brener": {
         "id": 1319518,
         "character": "Ellingboe Girl 3 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/qju4Z0flOcENRf2eHyG6w0wk7pG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/zaJKdmV2ManCxnGyUFpCXJJH7Ak.jpg"
       },
       "Neda Margrethe Labba": {
         "id": 2468775,
@@ -19056,7 +19056,7 @@
     "released": "2024-11-05",
     "duration": 105,
     "imdb_id": "tt20502488",
-    "vote_average": "6.3",
+    "vote_average": "6.4",
     "overview": "On a quest to reconnect with the man of her dreams, Layla races across New York City to find a ticket to a sold-out Pentatonix Christmas Eve concert.",
     "genres": ["Romance", "Comedy"],
     "imdb_score": "5.7/10",
@@ -19449,7 +19449,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann", "Toby Shelton"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond", "Toby Shelton"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -30733,7 +30733,7 @@
       "Tom Davis": {
         "id": 58182,
         "character": "Baggage Handler #2",
-        "profile_path": "https://image.tmdb.org/t/p/original/8mBuLCOcpWnmYtZc4aqtvDXslv6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/lX6sYWO8uF2Vl9h0jj6uEAmcstA.jpg"
       },
       "Maurice Woods": {
         "id": 2496513,
@@ -31175,7 +31175,7 @@
       "Catherine Deneuve": {
         "id": 50,
         "character": "Junon",
-        "profile_path": "https://image.tmdb.org/t/p/original/7NS1KuwxTIzyMcpNGKBGlSV0Hqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/rG0FuNR4INt2RcziqFVH0Gslc9z.jpg"
       },
       "Jean-Paul Roussillon": {
         "id": 24467,
@@ -32240,7 +32240,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
