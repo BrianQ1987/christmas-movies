@@ -12923,8 +12923,8 @@
     "imdb_score": "6.4/10",
     "rt_score": "50%",
     "meta_score": "46/100",
-    "platforms": ["Amazon Prime Video", "Disney Plus", "Plex"],
-    "logo_paths": ["/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "/5eZ872CghnHFLB1j8grszbrx0dx.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Netflix", "Amazon Prime Video", "Disney Plus", "Plex"],
+    "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "/5eZ872CghnHFLB1j8grszbrx0dx.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Ron Howard",
     "cast": {
       "Jim Carrey": {
@@ -14782,8 +14782,8 @@
     "imdb_score": "5.8/10",
     "rt_score": "20%",
     "meta_score": "34/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+    "platforms": ["Amazon Prime Video", "Disney Plus"],
+    "logo_paths": ["/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "/5eZ872CghnHFLB1j8grszbrx0dx.png"],
     "director": "Brian Levant",
     "cast": {
       "Arnold Schwarzenegger": {
@@ -19056,7 +19056,7 @@
     "released": "2024-11-05",
     "duration": 105,
     "imdb_id": "tt20502488",
-    "vote_average": "6.4",
+    "vote_average": "6.3",
     "overview": "On a quest to reconnect with the man of her dreams, Layla races across New York City to find a ticket to a sold-out Pentatonix Christmas Eve concert.",
     "genres": ["Romance", "Comedy"],
     "imdb_score": "5.7/10",
@@ -19449,7 +19449,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann", "Toby Shelton"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond", "Toby Shelton"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -28910,6 +28910,11 @@
         "id": 3282111,
         "character": "Ruiz",
         "profile_path": "https://image.tmdb.org/t/p/original/asXofwINrUz7IBdTUk6wMILiJn8.jpg"
+      },
+      "Hugo Ramírez Ronquillo": {
+        "id": 6639181,
+        "character": "Mugged College Kid",
+        "profile_path": "https://image.tmdb.org/t/p/original/nJCP1ZNTPKlZ7S0Kv3gbmuraAT4.jpg"
       }
     }
   },
