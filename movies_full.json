@@ -5614,8 +5614,8 @@
     "imdb_score": "5.1/10",
     "rt_score": "6%",
     "meta_score": "28/100",
-    "platforms": ["Amazon Prime Video", "Disney Plus"],
-    "logo_paths": ["/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "/5eZ872CghnHFLB1j8grszbrx0dx.png"],
+    "platforms": ["Netflix", "Amazon Prime Video", "Disney Plus"],
+    "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "/5eZ872CghnHFLB1j8grszbrx0dx.png"],
     "director": "John Whitesell",
     "cast": {
       "Danny DeVito": {
@@ -8772,7 +8772,7 @@
     "poster_path": "https://image.tmdb.org/t/p/original/azzg0lv5vpQRoOrZfNVkJn04f1M.jpg",
     "title": "Ghosts of Girlfriends Past",
     "released": "2009-05-01",
-    "duration": 115,
+    "duration": 100,
     "imdb_id": "tt0821640",
     "vote_average": "6",
     "overview": "Celebrity photographer Connor Mead lives life in the fast lane, committed to lifelong bachelorhood and simultaneous relationships with multiple women. On the eve of his younger brother Paul's wedding, Connor's mockery of love proves a real buzz-kill for everyone - including his childhood crush, Jenny, the one woman who always seemed immune to his considerable charms. Later that night, he gets a wake-up call from the ghost of his late Uncle Wayne, the hard-partying, legendary ladies' man who was Connor's mentor. Uncle Wayne has an urgent message which he delivers through three ghosts who guide Connor on an eye-opening tour of his romantic past, present and future. Along the way, they attempt to discern whether he will ever be able to change his ways -- and if there is any hope of him finding true love.",
@@ -20302,7 +20302,7 @@
       "Jane Leeves": {
         "id": 52951,
         "character": "Alberta Leonard",
-        "profile_path": "https://image.tmdb.org/t/p/original/tx0ukHUVzpzWKOvdfwdhri7rXhE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/661x4Zl7zxmrdSGqW1pLuPrzQbX.jpg"
       },
       "Joss Ackland": {
         "id": 14324,
@@ -20327,7 +20327,7 @@
       "Mary McCormack": {
         "id": 1980,
         "character": "Myrna Foy",
-        "profile_path": "https://image.tmdb.org/t/p/original/e2brLtFCfgLdOp356bcEyRzQkoJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/kVVttyq0cuTvDE4l5wEBqgjCBnf.jpg"
       },
       "Rosanna Scotto": {
         "id": 1686558,
