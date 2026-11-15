@@ -6808,8 +6808,8 @@
     "imdb_score": "6.3/10",
     "rt_score": "52%",
     "meta_score": "56/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+    "platforms": ["Amazon Prime Video", "Disney Plus"],
+    "logo_paths": ["/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "/5eZ872CghnHFLB1j8grszbrx0dx.png"],
     "director": "Thomas Bezucha",
     "cast": {
       "Dermot Mulroney": {
@@ -20562,7 +20562,7 @@
       "Parker Posey": {
         "id": 7489,
         "character": "Rollerblader",
-        "profile_path": "https://image.tmdb.org/t/p/original/bQmkOotVC6146QK42xLpQ9Ym4Cw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/eWZbjpBmdW4nb2Fo3ekqABGqpzm.jpg"
       },
       "Jon Stewart": {
         "id": 12219,
