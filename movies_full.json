@@ -5913,7 +5913,7 @@
       "Bonnie Bedelia": {
         "id": 7673,
         "character": "Holly Gennaro McClane",
-        "profile_path": "https://image.tmdb.org/t/p/original/c8ou1b6MHAFYXv49LmKFBnHIozt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/cIouTc75H6VRTXkt3IH1agMScWh.jpg"
       },
       "Reginald VelJohnson": {
         "id": 7672,
@@ -9429,8 +9429,8 @@
     "imdb_score": "6.4/10",
     "rt_score": "60%",
     "meta_score": "51/100",
-    "platforms": ["Amazon Prime Video", "Disney Plus", "Plex"],
-    "logo_paths": ["/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "/5eZ872CghnHFLB1j8grszbrx0dx.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Netflix", "Amazon Prime Video", "Disney Plus", "Plex"],
+    "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "/5eZ872CghnHFLB1j8grszbrx0dx.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Yarrow Cheney", "Scott Mosier"],
     "cast": {
       "Benedict Cumberbatch": {
@@ -18133,7 +18133,7 @@
       "Jill Raymond": {
         "id": 1655197,
         "character": "Pat the Housekeeper",
-        "profile_path": "https://image.tmdb.org/t/p/original/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/uQgcqUlX0ByWsXfNuMwya1YGlcV.jpg"
       },
       "Tim Hatwell": {
         "id": 1935522,
@@ -19449,7 +19449,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers", "Toby Shelton"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond", "Toby Shelton"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -22615,8 +22615,8 @@
     "genres": ["Comedy", "Family"],
     "imdb_score": "3.6/10",
     "rt_score": "16%",
-    "platforms": "Disney Plus",
-    "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+    "platforms": ["BBC iPlayer", "Disney Plus"],
+    "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "/5eZ872CghnHFLB1j8grszbrx0dx.png"],
     "director": "Debbie Isitt",
     "cast": {
       "Martin Clunes": {
@@ -22711,8 +22711,8 @@
     "genres": ["Family", "Comedy"],
     "imdb_score": "4.2/10",
     "rt_score": "0%",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Debbie Isitt",
     "cast": {
       "Daniel Boys": {
@@ -23272,7 +23272,7 @@
       "Bonnie Bedelia": {
         "id": 7673,
         "character": "Ellie Foster",
-        "profile_path": "https://image.tmdb.org/t/p/original/c8ou1b6MHAFYXv49LmKFBnHIozt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/cIouTc75H6VRTXkt3IH1agMScWh.jpg"
       },
       "Essence Atkins": {
         "id": 154000,
@@ -32245,7 +32245,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
