@@ -20254,25 +20254,20 @@
     "logo_paths": ["/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "/5eZ872CghnHFLB1j8grszbrx0dx.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Les Mayfield",
     "cast": {
-      "Mara Wilson": {
-        "id": 11717,
-        "character": "Susan Walker",
-        "profile_path": "https://image.tmdb.org/t/p/original/305mjPnTI7ep8rDJ4i7H6XyvLqP.jpg"
-      },
       "Richard Attenborough": {
         "id": 4786,
         "character": "Kris Kringle",
         "profile_path": "https://image.tmdb.org/t/p/original/mJGvNS69xUqiNRybKzPl2Zuxe9Z.jpg"
       },
-      "Dylan McDermott": {
-        "id": 32597,
-        "character": "Bryan Bedford",
-        "profile_path": "https://image.tmdb.org/t/p/original/3i69RNLuL7KOD9pCmHQYruhcOdn.jpg"
-      },
       "Elizabeth Perkins": {
         "id": 20,
         "character": "Dorey Walker",
         "profile_path": "https://image.tmdb.org/t/p/original/t9Cfx8R8hxB1Od46s9CXJMwwNTA.jpg"
+      },
+      "Dylan McDermott": {
+        "id": 32597,
+        "character": "Bryan Bedford",
+        "profile_path": "https://image.tmdb.org/t/p/original/3i69RNLuL7KOD9pCmHQYruhcOdn.jpg"
       },
       "J.T. Walsh": {
         "id": 22131,
@@ -20284,40 +20279,35 @@
         "character": "Jack Duff",
         "profile_path": "https://image.tmdb.org/t/p/original/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg"
       },
-      "Robert Prosky": {
-        "id": 10360,
-        "character": "Judge Henry Harper",
-        "profile_path": "https://image.tmdb.org/t/p/original/yV95RE8UGyN8rZYF9W4fOGaAV6U.jpg"
-      },
-      "Jack McGee": {
-        "id": 10489,
-        "character": "Tony Falacchi",
-        "profile_path": "https://image.tmdb.org/t/p/original/4fmjQ4z0Y7UraH8Pk2qxABvwmGS.jpg"
-      },
-      "Jennifer Morrison": {
-        "id": 41421,
-        "character": "Denice",
-        "profile_path": "https://image.tmdb.org/t/p/original/i6dkHIME0BOPhbcPESHZND3vmtk.jpg"
-      },
       "Jane Leeves": {
         "id": 52951,
         "character": "Alberta Leonard",
         "profile_path": "https://image.tmdb.org/t/p/original/661x4Zl7zxmrdSGqW1pLuPrzQbX.jpg"
       },
-      "Joss Ackland": {
-        "id": 14324,
-        "character": "Victor Landbergh (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/k8GQrf54DLILcLBmnMq94xijA6z.jpg"
-      },
-      "Allison Janney": {
-        "id": 19,
-        "character": "Woman in Christmas Shop",
-        "profile_path": "https://image.tmdb.org/t/p/original/AnpevvFjyFPRL3vDGo7o1Woina1.jpg"
-      },
       "Simon Jones": {
         "id": 37891,
         "character": "Donald Shellhammer",
         "profile_path": "https://image.tmdb.org/t/p/original/lTTlSgTfbvI27hP4og8BZMUJWMh.jpg"
+      },
+      "William Windom": {
+        "id": 8499,
+        "character": "C.F. Cole",
+        "profile_path": "https://image.tmdb.org/t/p/original/jLKGf2gQR4cBDnUWFOsXY2y5Pui.jpg"
+      },
+      "Mara Wilson": {
+        "id": 11717,
+        "character": "Susan Walker",
+        "profile_path": "https://image.tmdb.org/t/p/original/305mjPnTI7ep8rDJ4i7H6XyvLqP.jpg"
+      },
+      "Robert Prosky": {
+        "id": 10360,
+        "character": "Judge Henry Harper",
+        "profile_path": "https://image.tmdb.org/t/p/original/yV95RE8UGyN8rZYF9W4fOGaAV6U.jpg"
+      },
+      "Joss Ackland": {
+        "id": 14324,
+        "character": "Victor Landbergh (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/k8GQrf54DLILcLBmnMq94xijA6z.jpg"
       },
       "Kathrine Narducci": {
         "id": 17920,
@@ -20329,30 +20319,55 @@
         "character": "Myrna Foy",
         "profile_path": "https://image.tmdb.org/t/p/original/kVVttyq0cuTvDE4l5wEBqgjCBnf.jpg"
       },
-      "Rosanna Scotto": {
-        "id": 1686558,
-        "character": "News Anchor",
-        "profile_path": "https://image.tmdb.org/t/p/original/jiDviqcQeGxwBiBg55b9VW93lqX.jpg"
-      },
-      "Michele Marsh": {
-        "id": 161806,
-        "character": "News Anchor",
+      "Alvin Greenman": {
+        "id": 1193327,
+        "character": "The Doorman",
         "profile_path": "https://image.tmdb.org/t/p/original/iUTPKkljdEjPlcPPYgbUz7APnHu.jpg"
       },
-      "Susie Park": {
-        "id": 1051811,
-        "character": "Newscaster",
-        "profile_path": "https://image.tmdb.org/t/p/original/mx82QjZXVqtbND3qeMETrL9XedZ.jpg"
+      "Allison Janney": {
+        "id": 19,
+        "character": "Woman in Christmas Shop",
+        "profile_path": "https://image.tmdb.org/t/p/original/AnpevvFjyFPRL3vDGo7o1Woina1.jpg"
       },
-      "Janet Kauss": {
-        "id": 2636237,
-        "character": "Newscaster",
+      "Greg Noonan": {
+        "id": 1802887,
+        "character": "Cmdr. Coulson",
+        "profile_path": "https://image.tmdb.org/t/p/original/kj9D9xcMB3PB06iIBrvQw0aVMEe.jpg"
+      },
+      "Byrne Piven": {
+        "id": 6947,
+        "character": "Dr. Hunter",
+        "profile_path": "https://image.tmdb.org/t/p/original/9N30a5ul9KofbabWDHgmqf3nZYP.jpg"
+      },
+      "Peter Gerety": {
+        "id": 1986,
+        "character": "Cop",
+        "profile_path": "https://image.tmdb.org/t/p/original/sE9fH3OxrmDflTSM3ac4ALzCjpa.jpg"
+      },
+      "Jack McGee": {
+        "id": 10489,
+        "character": "Tony Falacchi",
+        "profile_path": "https://image.tmdb.org/t/p/original/4fmjQ4z0Y7UraH8Pk2qxABvwmGS.jpg"
+      },
+      "Joe Pentangelo": {
+        "id": 1960491,
+        "character": "Bailiff",
+        "profile_path": "https://image.tmdb.org/t/p/original/cvxOaG6UnDMKHUTrmqVwsQqDeOy.jpg"
+      },
+      "Mark Damiano II": {
+        "id": 1532640,
+        "character": "Daniel",
         "profile_path": "https://image.tmdb.org/t/p/original/iUTPKkljdEjPlcPPYgbUz7APnHu.jpg"
       },
-      "Eliza Harris": {
-        "id": 2636238,
-        "character": "Iceskater (uncredited)",
+      "Casey Wurzbach": {
+        "id": 1645518,
+        "character": "Grandson",
         "profile_path": "https://image.tmdb.org/t/p/original/iUTPKkljdEjPlcPPYgbUz7APnHu.jpg"
+      },
+      "Jennifer Morrison": {
+        "id": 41421,
+        "character": "Denice",
+        "profile_path": "https://image.tmdb.org/t/p/original/i6dkHIME0BOPhbcPESHZND3vmtk.jpg"
       },
       "Peter Siragusa": {
         "id": 154693,
@@ -20384,6 +20399,11 @@
         "character": "Santa",
         "profile_path": "https://image.tmdb.org/t/p/original/iMvu8lPSr5nG2youh11S1RgrvTW.jpg"
       },
+      "Harve Kolzow": {
+        "id": 1612821,
+        "character": "Businessman",
+        "profile_path": "https://image.tmdb.org/t/p/original/iUTPKkljdEjPlcPPYgbUz7APnHu.jpg"
+      },
       "Bianca Rose Pucci": {
         "id": 3489590,
         "character": "Little Girl",
@@ -20394,9 +20414,24 @@
         "character": "Little Boy",
         "profile_path": "https://image.tmdb.org/t/p/original/iUTPKkljdEjPlcPPYgbUz7APnHu.jpg"
       },
+      "Hank Johnston": {
+        "id": 2488321,
+        "character": "Boy",
+        "profile_path": "https://image.tmdb.org/t/p/original/d0VHP2fXqiarcJsT96YYVRM50Ej.jpg"
+      },
       "Margo Buchanan": {
         "id": 3489592,
         "character": "Another Mother",
+        "profile_path": "https://image.tmdb.org/t/p/original/iUTPKkljdEjPlcPPYgbUz7APnHu.jpg"
+      },
+      "Bill Buell": {
+        "id": 76764,
+        "character": "Band Director",
+        "profile_path": "https://image.tmdb.org/t/p/original/8T8pAu23bHye22XLodDrCDxSWuv.jpg"
+      },
+      "Ron Beattie": {
+        "id": 3162385,
+        "character": "Priest",
         "profile_path": "https://image.tmdb.org/t/p/original/iUTPKkljdEjPlcPPYgbUz7APnHu.jpg"
       },
       "Alexandra Michelle Stewart": {
@@ -20409,6 +20444,16 @@
         "character": "Tricia",
         "profile_path": "https://image.tmdb.org/t/p/original/iUTPKkljdEjPlcPPYgbUz7APnHu.jpg"
       },
+      "Rosanna Scotto": {
+        "id": 1686558,
+        "character": "News Anchor",
+        "profile_path": "https://image.tmdb.org/t/p/original/jiDviqcQeGxwBiBg55b9VW93lqX.jpg"
+      },
+      "Michele Marsh": {
+        "id": 161806,
+        "character": "News Anchor",
+        "profile_path": "https://image.tmdb.org/t/p/original/iUTPKkljdEjPlcPPYgbUz7APnHu.jpg"
+      },
       "Joe Moskowitz": {
         "id": 3489596,
         "character": "News Anchor",
@@ -20418,6 +20463,21 @@
         "id": 945907,
         "character": "Newscaster",
         "profile_path": "https://image.tmdb.org/t/p/original/x8uipNVcxFKqJdKPuxJKH0ByknB.jpg"
+      },
+      "Susie Park": {
+        "id": 1051811,
+        "character": "Newscaster",
+        "profile_path": "https://image.tmdb.org/t/p/original/mx82QjZXVqtbND3qeMETrL9XedZ.jpg"
+      },
+      "Janet Kauss": {
+        "id": 2636237,
+        "character": "Newscaster",
+        "profile_path": "https://image.tmdb.org/t/p/original/iUTPKkljdEjPlcPPYgbUz7APnHu.jpg"
+      },
+      "Eliza Harris": {
+        "id": 2636238,
+        "character": "Iceskater (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/original/iUTPKkljdEjPlcPPYgbUz7APnHu.jpg"
       },
       "Melinda Chilton": {
         "id": 1270150,
@@ -24776,7 +24836,7 @@
       "Josh Hutcherson": {
         "id": 27972,
         "character": "Hero Boy (motion capture)",
-        "profile_path": "https://image.tmdb.org/t/p/original/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/ccmDQYGopMoIrLBdufCdcMG1EUs.jpg"
       },
       "Daryl Sabara": {
         "id": 57675,
@@ -27064,7 +27124,7 @@
       "Myles Jeffrey": {
         "id": 11157,
         "character": "Elf (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/3D8ezh66uMbJBuKbXKZmQibsrnX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/7zklGdvYBBnL5wxNnj8BAxvFckm.jpg"
       },
       "Patrick Dorn": {
         "id": 3870879,
@@ -28783,7 +28843,7 @@
     "added": 2023,
     "poster_path": "https://image.tmdb.org/t/p/original/nJCP1ZNTPKlZ7S0Kv3gbmuraAT4.jpg",
     "title": "Silent Night",
-    "released": "2023-11-30",
+    "released": "2023-11-29",
     "duration": 104,
     "imdb_id": "tt15799866",
     "vote_average": "6.1",
@@ -32245,7 +32305,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin Jr."],
+    "director": ["Arthur Rankin Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
