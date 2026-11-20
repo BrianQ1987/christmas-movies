@@ -4804,7 +4804,7 @@
       "June Squibb": {
         "id": 35515,
         "character": "Aunt Fishy",
-        "profile_path": "https://image.tmdb.org/t/p/original/a7vkoLhc8JGkdvDbHvpgKKHUPHH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/957mbkkXpezKmAKpf63WuYeEADJ.jpg"
       },
       "Alex Borstein": {
         "id": 24357,
@@ -10368,7 +10368,7 @@
     "released": "2023-10-27",
     "duration": 133,
     "imdb_id": "tt14849194",
-    "vote_average": "7.7",
+    "vote_average": "7.6",
     "overview": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.9/10",
@@ -13236,6 +13236,56 @@
         "id": 1219226,
         "character": "Grant",
         "profile_path": "https://image.tmdb.org/t/p/original/eOKxqa7tMNpehJarcLEgen0rwvA.jpg"
+      },
+      "Paxton Booth": {
+        "id": 1608758,
+        "character": "Freckles",
+        "profile_path": "https://image.tmdb.org/t/p/original/pyVTr8pvcQSH8cs9MlGIk6TPgn1.jpg"
+      },
+      "Charley Debenedetti": {
+        "id": 4427709,
+        "character": "Sled Master",
+        "profile_path": "https://image.tmdb.org/t/p/original/qCBfPgsvACaVS4wSBaddVkL22c9.jpg"
+      },
+      "Brooke Dillman": {
+        "id": 54718,
+        "character": "Trivia Master",
+        "profile_path": "https://image.tmdb.org/t/p/original/tmZM7jwbz8xMVGvp89T0TAhH1lL.jpg"
+      },
+      "Mark W. Gray": {
+        "id": 25295,
+        "character": "Santa Claus",
+        "profile_path": "https://image.tmdb.org/t/p/original/x2ZnAAinkw9iMJkKm6fDXTfx1LT.jpg"
+      },
+      "Vera Lugo": {
+        "id": 6685177,
+        "character": "Singer #4",
+        "profile_path": "https://image.tmdb.org/t/p/original/qCBfPgsvACaVS4wSBaddVkL22c9.jpg"
+      },
+      "Tim Mollen": {
+        "id": 3238770,
+        "character": "Mr. Cranky",
+        "profile_path": "https://image.tmdb.org/t/p/original/qCBfPgsvACaVS4wSBaddVkL22c9.jpg"
+      },
+      "Matthew Nguyen": {
+        "id": 6171137,
+        "character": "Yang",
+        "profile_path": "https://image.tmdb.org/t/p/original/qCBfPgsvACaVS4wSBaddVkL22c9.jpg"
+      },
+      "Shaun Paul Piccinino": {
+        "id": 146415,
+        "character": "Freckle's Dad",
+        "profile_path": "https://image.tmdb.org/t/p/original/qCBfPgsvACaVS4wSBaddVkL22c9.jpg"
+      },
+      "Meredith Pyle": {
+        "id": 3309465,
+        "character": "Meredith",
+        "profile_path": "https://image.tmdb.org/t/p/original/6NKJztwsowBialCvMNxsby6whnp.jpg"
+      },
+      "Missi Pyle": {
+        "id": 1294,
+        "character": "Missi Toe",
+        "profile_path": "https://image.tmdb.org/t/p/original/xkYdv349P1bEuVex9IIcAeRDJ9p.jpg"
       }
     }
   },
@@ -17621,7 +17671,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Laurie",
-        "profile_path": "https://image.tmdb.org/t/p/original/c3NJxKbnKkQsttxA2XVh4pwPpIt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Tracy Letts": {
         "id": 72638,
@@ -19449,7 +19499,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers", "Toby Shelton"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond", "Toby Shelton"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -22394,8 +22444,8 @@
     "genres": ["Comedy", "Family"],
     "imdb_score": "5.4/10",
     "rt_score": "33%",
-    "platforms": ["BBC iPlayer", "Disney Plus"],
-    "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "/5eZ872CghnHFLB1j8grszbrx0dx.png"],
+    "platforms": ["BBC iPlayer", "Amazon Prime Video", "Disney Plus"],
+    "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "/5eZ872CghnHFLB1j8grszbrx0dx.png"],
     "director": "Debbie Isitt",
     "cast": {
       "David Tennant": {
@@ -22675,8 +22725,8 @@
     "genres": ["Comedy", "Family"],
     "imdb_score": "3.6/10",
     "rt_score": "16%",
-    "platforms": ["BBC iPlayer", "Disney Plus"],
-    "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "/5eZ872CghnHFLB1j8grszbrx0dx.png"],
+    "platforms": ["BBC iPlayer", "Amazon Prime Video", "Disney Plus"],
+    "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "/5eZ872CghnHFLB1j8grszbrx0dx.png"],
     "director": "Debbie Isitt",
     "cast": {
       "Martin Clunes": {
@@ -22771,8 +22821,8 @@
     "genres": ["Family", "Comedy"],
     "imdb_score": "4.2/10",
     "rt_score": "0%",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["BBC iPlayer", "Amazon Prime Video", "Plex"],
+    "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Debbie Isitt",
     "cast": {
       "Daniel Boys": {
