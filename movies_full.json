@@ -89,7 +89,7 @@
         "character": "Connor Stump",
         "profile_path": "https://image.tmdb.org/t/p/original/tKoi2sMKhfqJa2jIfPZ7o10NEdi.jpg"
       },
-      "Katia Smith": {
+      "Katia Edith Wood": {
         "id": 3060787,
         "character": "Tiffany Keane",
         "profile_path": "https://image.tmdb.org/t/p/original/zImyZCCkzBOPzjdTITkGJqAKcZI.jpg"
@@ -5170,7 +5170,7 @@
     "released": "2022-11-17",
     "duration": 91,
     "imdb_id": "tt15824322",
-    "vote_average": "5.8",
+    "vote_average": "5.9",
     "overview": "Feeling career burnout, pop star Angelina escapes to grant a young fan's wish in small-town New York, where she not only finds the inspiration to revitalize her career but also a shot at true love.",
     "genres": ["Romance", "Comedy"],
     "imdb_score": "5.6/10",
@@ -11705,7 +11705,7 @@
       "Kieran Culkin": {
         "id": 18793,
         "character": "Fuller",
-        "profile_path": "https://image.tmdb.org/t/p/original/b5EC4nziLhBRX4GOcYx2BdS3FTt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xVJ2YLyOAKKUMM04V53zyolEyjc.jpg"
       },
       "Senta Moses": {
         "id": 141434,
@@ -12037,7 +12037,7 @@
       "Kieran Culkin": {
         "id": 18793,
         "character": "Fuller",
-        "profile_path": "https://image.tmdb.org/t/p/original/b5EC4nziLhBRX4GOcYx2BdS3FTt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/xVJ2YLyOAKKUMM04V53zyolEyjc.jpg"
       },
       "Jedidiah Cohen": {
         "id": 11522,
@@ -19449,7 +19449,7 @@
     "rt_score": "50%",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond", "Toby Shelton"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers", "Toby Shelton"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -27991,7 +27991,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Isabel Fezziwig (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/original/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/qlDG2yykWO4LOP2ZReP0o6euFrE.jpg"
       },
       "Johnny Flynn": {
         "id": 137108,
@@ -28970,11 +28970,6 @@
         "id": 3282111,
         "character": "Ruiz",
         "profile_path": "https://image.tmdb.org/t/p/original/asXofwINrUz7IBdTUk6wMILiJn8.jpg"
-      },
-      "Hugo Ramírez Ronquillo": {
-        "id": 6639181,
-        "character": "Mugged College Kid",
-        "profile_path": "https://image.tmdb.org/t/p/original/nJCP1ZNTPKlZ7S0Kv3gbmuraAT4.jpg"
       }
     }
   },
