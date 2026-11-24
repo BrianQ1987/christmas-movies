@@ -3501,7 +3501,7 @@
       "Sam Harris": {
         "id": 1216356,
         "character": "Man at Dance (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/oH1hM9wOZZflPZ5smKqWXvLXcyX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/zeDJ6ZHoNOiM4Eac9Mo93yRCW4R.jpg"
       },
       "Olaf Hytten": {
         "id": 32192,
@@ -4798,7 +4798,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Charlie Cooper",
-        "profile_path": "https://image.tmdb.org/t/p/original/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/c3NJxKbnKkQsttxA2XVh4pwPpIt.jpg"
       },
       "Blake Baumgartner": {
         "id": 1931911,
@@ -7255,7 +7255,7 @@
       "William Barletta": {
         "id": 4405592,
         "character": "Cymbals Willy",
-        "profile_path": "https://image.tmdb.org/t/p/original/g8Gwitm4CtZBSYhLeSY4Z3Xwwcg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/1moV0BMCWRHBWYJ8KTapa29aKRo.jpg"
       },
       "Bahar Barkzi": {
         "id": 2528050,
@@ -7929,8 +7929,8 @@
     "genres": ["Action", "Comedy", "Drama"],
     "imdb_score": "5.7/10",
     "meta_score": "42/100",
-    "platforms": ["Netflix", "Amazon Prime Video", "Plex"],
-    "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Netflix", "Amazon Prime Video", "ITVX", "Plex"],
+    "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "/nIViE3wOPV5Jyv45T7hetHyG6iS.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "David Dobkin",
     "cast": {
       "Vince Vaughn": {
@@ -8745,8 +8745,6 @@
     "genres": ["Romance", "Comedy", "Fantasy"],
     "imdb_score": "5.8/10",
     "meta_score": "34/100",
-    "platforms": "Amazon Prime Video",
-    "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
     "director": "Mark Waters",
     "cast": {
       "Matthew McConaughey": {
@@ -10691,7 +10689,7 @@
       "Kyra Grace": {
         "id": 2834420,
         "character": "Gemma",
-        "profile_path": "https://image.tmdb.org/t/p/original/oXCLSlCRWWHsSSwLJSVIC0DDWsE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/eLtGZI1MwN22FogQCs1ZhJS5YnR.jpg"
       },
       "Briana Starks": {
         "id": 1984466,
@@ -18921,7 +18919,7 @@
       "Sam Harris": {
         "id": 1216356,
         "character": "Mr. March (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/original/ekVeUvG81pidsv2LMtWf5yYcNbq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/original/zeDJ6ZHoNOiM4Eac9Mo93yRCW4R.jpg"
       },
       "Darryl Hickman": {
         "id": 81481,
